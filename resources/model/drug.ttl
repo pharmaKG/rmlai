@@ -1,0 +1,242 @@
+@prefix drug: 	<http://drug.uk/model/> .
+@prefix dct:    <http://purl.org/dc/terms/>.
+@prefix xsd:    <http://www.w3.org/2001/XMLSchema#>.
+@prefix foaf:   <http://xmlns.com/foaf/0.1/>.
+@prefix adms:   <http://www.w3.org/ns/adms#>.
+@prefix rdf:    <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs:   <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix owl:    <http://www.w3.org/2002/07/owl#>.
+@prefix skos:   <http://www.w3.org/2004/02/skos/core#>.
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+
+<http://drug.uk/model>
+	a owl:Ontology ;
+	owl:imports rdf: ;
+	owl:imports skos: ; 
+	owl:imports dct: ;
+	owl:imports adms: ;
+	owl:imports foaf: ;
+	owl:imports dc: ;
+	rdfs:label "Drug Ontology"@en ;
+	rdfs:comment "Drug Ontology"@en ;
+.
+
+# ------------------------------------------------------------
+# -------------    Definition of Classes  --------------------
+# ------------------------------------------------------------
+
+drug:Drug
+	a rdfs:Class;
+	a owl:Class;
+	rdfs:label "A Drug"@en;
+	rdfs:comment "This class represents a drug. Properties include skos:prefLabel, drug:usage, drug:sideEffect"@en;
+	rdfs:isDefinedBy drug: ;
+.
+
+drug:Usage
+	a rdfs:Class;
+	a owl:Class;
+	rdfs:label "A Usage"@en;
+	rdfs:comment "This class encompasses different usage details of a drug based on patient's condition like normal, pregnancy, breast feeding, hepatic impairment and renal impairment. Properties include drug:safetyLevel, dct:description, drug:patientCondition, drug:indication, and drug:dosage"@en ;
+	rdfs:isDefinedBy drug: ;
+.
+
+drug:Dosage
+	a rdfs:Class ;
+	a owl:Class ;
+	rdfs:label "Dosage"@en ;
+	rdfs:comment "This class encompasses dosage details of a drug. Properties include drug:route, drug:amount, drug:unit, drug:frequency, drug:duration, drug:group, drug:gender, drug:minAge, drug:maxAge, drug:ageUnit, drug:minWeight, drug:maxWeight, drug:weightUnit , and dct:description"@en ;
+	rdfs:isDefinedBy drug: ;
+.
+
+# -----------------------------------------------------------------------
+# ----------------   Definition of properties   -------------------------
+# -----------------------------------------------------------------------
+
+drug:usage
+	a rdf:Property ;
+	a owl:ObjectProperty ;
+	rdfs:comment "This property represents usage of a drug based on patient's condition."@en ;
+	rdfs:label "usage"@en ;
+	rdfs:isDefinedBy drug: ;
+	rdfs:domain drug:Drug ;
+	rdfs:range drug:Usage ;
+.
+
+drug:sideEffect
+	a rdf:Property ;
+	a owl:DatatypeProperty ;
+	rdfs:comment "This property represents side effect of a drug."@en ;
+	rdfs:label "sideEffect"@en ;
+	rdfs:isDefinedBy drug: ;
+	rdfs:domain drug:Drug ;
+	rdfs:range xsd:string ;
+.
+
+drug:safetyLevel
+	a rdf:Property ;
+	a owl:DatatypeProperty;
+	rdfs:comment "This property represents the safety level of a drug usage. It could be a controlled-list value. Possible values are safe, caution, unsafe."@en ;
+	rdfs:label "safetyLevel"@en ;
+	rdfs:isDefinedBy drug: ;
+	rdfs:domain drug:Usage ;
+	rdfs:range xsd:string ;
+.
+
+drug:patientCondition
+    a rdf:Property ;
+    a owl:DatatypeProperty ;
+    rdfs:comment "This property represents the condition of patient. It should be a controlled-list value. Possible values are Pregnancy, BreastFeeding, RenalImpairment, HepaticImpairment."@en ;
+    rdfs:label "patientCondition"@en ;
+    rdfs:isDefinedBy drug: ;
+    rdfs:domain drug:Usage ;
+    rdfs:range xsd:string ;
+.
+
+drug:indication
+	a rdf:Property ;
+	a owl:DatatypeProperty ;
+	rdfs:comment "This property represents the therapeutic indication of a drug."@en ;
+	rdfs:label "indication"@en ;
+	rdfs:isDefinedBy drug: ;
+	rdfs:domain drug:Usage ;
+	rdfs:range xsd:string ;
+.
+
+drug:dosage
+	a rdf:Property ;
+	a owl:ObjectProperty ;
+	rdfs:comment "This property represents the dosage of a drug based its usage."@en ;
+	rdfs:label "dosage"@en ;
+	rdfs:isDefinedBy drug: ;
+	rdfs:domain drug:Usage ;
+	rdfs:range drug:Dosage ;
+.
+
+drug:route
+	a rdf:Property ;
+	a owl:DatatypeProperty ;
+	rdfs:comment "This property represents route via which a drug should be administered. It could be a controlled-list value."@en ;
+	rdfs:label "route"@en ;
+	rdfs:isDefinedBy drug: ;
+	rdfs:domain drug:Dosage ;
+	rdfs:range xsd:string ;
+.
+
+drug:amount
+	a rdf:Property ;
+	a owl:DatatypeProperty ;
+	rdfs:comment "This property represents the dose amount of of a drug."@en ;
+	rdfs:label "amount"@en ;
+	rdfs:isDefinedBy drug: ;
+	rdfs:domain drug:Dosage ;
+	rdfs:range xsd:decimal ;
+.
+
+drug:unit
+	a rdf:Property ;
+	a owl:DatatypeProperty ;
+	rdfs:comment "This property represents unit of dose amount."@en ;
+	rdfs:label "unit"@en ;
+	rdfs:isDefinedBy drug: ;
+	rdfs:range xsd:string;
+.
+
+drug:frequency
+	a rdf:Property ;
+	a owl:DatatypeProperty ;
+	rdfs:comment "This property represents frequency value of the dosage."@en ;
+	rdfs:label "frequency"@en ;
+	rdfs:isDefinedBy drug: ;
+	rdfs:domain drug:Dosage ;
+	rdfs:range xsd:decimal ;
+.
+
+drug:duration
+	a rdf:Property ;
+	a owl:DatatypeProperty ;
+	rdfs:comment "This property represents frequency duration at which the dose of the drug must be used."@en ;
+	rdfs:label "duration"@en ;
+	rdfs:isDefinedBy drug: ;
+	rdfs:domain drug:Dosage ;
+	rdfs:range xsd:duration;
+.
+
+drug:group
+    a rdfs:Property ;
+    a owl:DatatypeProperty ;
+    rdfs:comment "The property represents generic patient group eligible for the dosage."@en ;
+    rdfs:label "group" ;
+    rdfs:isDefinedBy drug: ;
+    rdfs:domain drug:Dosage ;
+    rdfs:range xsd:string ;
+.
+
+drug:gender
+    a rdfs:Property ;
+    a owl:DatatypeProperty ;
+    rdfs:comment "The property represents gender of patient group eligible for the dosage."@en ;
+    rdfs:label "gender" ;
+    rdfs:isDefinedBy drug: ;
+    rdfs:domain drug:Dosage ;
+    rdfs:range xsd:string ;
+.
+
+drug:minAge
+    a rdfs:Property ;
+    a owl:DatatypeProperty ;
+    rdfs:comment "The property represents minimum age of the patient group eligible for the dosage."@en ;
+    rdfs:label "minAge" ;
+    rdfs:isDefinedBy drug: ;
+    rdfs:domain drug:Dosage ;
+    rdfs:range xsd:decimal ;
+.
+
+drug:maxAge
+    a rdfs:Property ;
+    a owl:DatatypeProperty ;
+    rdfs:comment "The property represents maximum age of the patient group eligible for the dosage."@en ;
+    rdfs:label "maxAge" ;
+    rdfs:isDefinedBy drug: ;
+    rdfs:domain drug:Dosage ;
+    rdfs:range xsd:decimal ;
+.
+
+drug:ageUnit
+	a rdf:Property ;
+	a owl:DatatypeProperty ;
+	rdfs:comment "This property represents Unit of age of the patient group eligible for the dosage."@en ;
+	rdfs:label "ageUnit"@en ;
+	rdfs:isDefinedBy drug: ;
+	rdfs:domain drug:Dosage ;
+	rdfs:range xsd:string;
+.
+
+drug:minWeight
+    a rdfs:Property ;
+    a owl:DatatypeProperty ;
+    rdfs:comment "The minimum weight of the patient group eligible for the dosage."@en ;
+    rdfs:label "minWeight" ;
+    rdfs:isDefinedBy drug: ;
+    rdfs:domain drug:Dosage ;
+    rdfs:range xsd:decimal ;
+.
+
+drug:maxWeight
+    a rdfs:Property ;
+    a owl:DatatypeProperty ;
+    rdfs:comment "The maximum weight of the patient group eligible for the dosage."@en ;
+    rdfs:label "maximumWeight" ;
+    rdfs:isDefinedBy drug: ;
+    rdfs:domain drug:Dosage ;
+    rdfs:range xsd:decimal ;
+.
+
+drug:weightUnit
+	a rdf:Property ;
+	a owl:DatatypeProperty ;
+	rdfs:comment "This property represents unit of weight of the patient group eligible for the dosage."@en ;
+	rdfs:label "weightUnit"@en ;
+	rdfs:domain drug:Dosage ;
+	rdfs:range xsd:string;
+.
