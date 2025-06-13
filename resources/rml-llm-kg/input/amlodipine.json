@@ -1,0 +1,59 @@
+{
+    "identifier": "amlodipine",
+    "title": "Amlodipine",
+    "breastFeeding": {
+        "generalInfo": [],
+        "specificInfo": "Manufacturer advises avoid—no information available.",
+        "id": "199b582b-caf3-40c2-b617-b53c0f850f2a",
+        "parentId": "7ade9ced-654e-4f06-bfb7-a18dea12dd4f"
+    },
+    "hepaticImpairment": {
+        "generalInfo": [
+            "In general, manufacturers advise caution (risk of increased exposure)."
+        ],
+        "specificInfo": "Dose adjustments\nManufacturer advises initiate at low dose and titrate slowly (limited information available).",
+        "id": "2e2a91cd-fdc1-4022-8225-4c608457710a",
+        "parentId": "7ade9ced-654e-4f06-bfb7-a18dea12dd4f"
+    },
+    "pregnancy": {
+        "generalInfo": [],
+        "specificInfo": "No information available—manufacturer advises avoid.",
+        "id": "288c768d-809b-4b9e-9f1f-0c2b590687a8",
+        "parentId": "7ade9ced-654e-4f06-bfb7-a18dea12dd4f"
+    },
+    "renalImpairment": {
+        "generalInfo": [],
+        "id": "c8904d2d-563f-448d-98e1-5eec6f8d2d40",
+        "parentId": "7ade9ced-654e-4f06-bfb7-a18dea12dd4f"
+    },
+    "sideEffects": {
+        "generalInfo": [
+            "Common or very common\nAbdominal pain; dizziness; drowsiness; flushing; headache; nausea; palpitations; peripheral oedema; skin reactions; tachycardia; vomiting\nUncommon\nAngioedema; depression; erectile dysfunction; gingival hyperplasia; myalgia; paraesthesia; syncope\nOverdose\nFeatures of calcium-channel blocker poisoning include nausea, vomiting, dizziness, agitation, confusion, and coma in severe poisoning. Metabolic acidosis and hyperglycaemia may occur. In overdose, the dihydropyridine calcium-channel blockers cause severe hypotension secondary to profound peripheral vasodilatation\n"
+        ],
+        "specificInfo": "Common or very common\nAsthenia; constipation; diarrhoea; dyspepsia; dyspnoea; gastrointestinal disorders; joint disorders; muscle cramps; oedema; vision disorders\nUncommon\nAlopecia; anxiety; arrhythmias; chest pain; cough; dry mouth; gynaecomastia; hyperhidrosis; hypotension; insomnia; malaise; mood altered; numbness; pain; rhinitis; taste altered; tinnitus; tremor; urinary disorders; weight changes\nRare or very rare\nConfusion; hepatic disorders; hyperglycaemia; leucopenia; muscle tone increased; myocardial infarction; pancreatitis; peripheral neuropathy; photosensitivity reaction; severe cutaneous adverse reactions (SCARs); thrombocytopenia; vasculitis\nFrequency not known\nExtrapyramidal symptoms; pulmonary oedema",
+        "id": "09c48a41-64f5-4ddb-adfd-21ff268ae798",
+        "parentId": "7ade9ced-654e-4f06-bfb7-a18dea12dd4f"
+    },
+    "therapeuticPlan": [
+        {
+            "indications": [
+                "Angina",
+                "Hypertension"
+            ],
+            "dosages": [
+                {
+                    "patientGroup": "adult",
+                    "detailedPatientGroup": "Adult",
+                    "doseStatement": "10 mg once daily.",
+                    "routeOfAdministration": "By mouth",
+                    "id": "e7dd9c10-b239-4c5c-9da5-d7c439bb3cd9",
+                    "parentId": "9f803e4b-be60-407e-ab23-9c8b9cf70b17"
+                }
+            ],
+            "id": "9f803e4b-be60-407e-ab23-9c8b9cf70b17",
+            "parentId": "7ade9ced-654e-4f06-bfb7-a18dea12dd4f"
+        }
+    ],
+    "id": "7ade9ced-654e-4f06-bfb7-a18dea12dd4f",
+    "parentId": null
+}
