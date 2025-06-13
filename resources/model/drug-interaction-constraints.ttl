@@ -1,0 +1,54 @@
+@prefix drug: <http://drug.uk/model/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#>.
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+
+drug:DrugInteractionShape
+    a sh:NodeShape ;
+    sh:targetClass drug:DrugInteraction ;
+    sh:property [
+        sh:path drug:interactingDrug ;
+        sh:name "Interacting Drug"@en ;
+        sh:description "The two interacting drugs."@en ;
+        sh:class drug:Drug ;
+        sh:minCount 2 ;
+        sh:maxCount 2 ;
+    ] ;
+    sh:property [
+        sh:path drug:interactionDetail ;
+        sh:name "interactionDetail"@en ;
+        sh:description "Encompasses interaction details of two drugs. Properties include drug:severity, drug:evidence and dct:description."@en ;
+        sh:class drug:InteractionDetail ;
+        sh:minCount 1 ;
+    ] ;
+.
+
+drug:InteractionDetailShape
+    a sh:NodeShape ;
+    sh:targetClass drug:InteractionDetail ;
+    sh:property [
+        sh:path drug:severity ;
+        sh:name "Severity"@en ;
+        sh:description "The severity of the interaction."@en ;
+        sh:datatype xsd:string ;
+        sh:maxCount 1 ;
+    ] ;
+    sh:property [
+        sh:path drug:evidence ;
+        sh:name "Evidence"@en ;
+        sh:description "The type of evidence available for the interaction."@en ;
+        sh:datatype xsd:string ;
+        sh:maxCount 1 ;
+    ] ;
+    sh:property [
+        sh:path dct:description ;
+        sh:name "Description"@en ;
+        sh:description "A textual description of the interaction."@en ;
+        sh:datatype xsd:string ;
+        sh:maxCount 1 ;
+    ] ;
+.
