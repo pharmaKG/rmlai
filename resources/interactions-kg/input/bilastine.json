@@ -1,0 +1,81 @@
+{
+    "interactions": [
+        {
+            "interactingDrugId": "bilastine",
+            "interactantDrugId": "grapefruit",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Grapefruit juice slightly decreases the exposure to Bilastine. Manufacturer advises Bilastine should be taken 1 hour before or 2 hours after Grapefruit.  ",
+                    "severity": "Moderate",
+                    "id": "e57739ac-ffdb-4802-b27b-bccc30cbe824",
+                    "parentId": "edcb07c0-111e-492b-8ed2-7fe782e18f31"
+                }
+            ],
+            "id": "edcb07c0-111e-492b-8ed2-7fe782e18f31",
+            "parentId": "a5730c3e-7ec7-4299-b675-0defe94715a8"
+        },
+        {
+            "interactingDrugId": "bilastine",
+            "interactantDrugId": "isocarboxazid",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Isocarboxazid is predicted to increase the risk of antimuscarinic adverse effects when given with Bilastine. Manufacturer advises avoid.  ",
+                    "severity": "Severe",
+                    "id": "e010cfb9-be21-4cdb-9136-0c4c11f0964e",
+                    "parentId": "cbfeca29-6c41-4515-ae49-ab1e1056003f"
+                }
+            ],
+            "id": "cbfeca29-6c41-4515-ae49-ab1e1056003f",
+            "parentId": "a5730c3e-7ec7-4299-b675-0defe94715a8"
+        },
+        {
+            "interactingDrugId": "bilastine",
+            "interactantDrugId": "phenelzine",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Phenelzine is predicted to increase the risk of antimuscarinic adverse effects when given with Bilastine. Manufacturer advises avoid.  ",
+                    "severity": "Severe",
+                    "id": "38755b4a-e267-4a66-93c5-0d6c5ac1a19a",
+                    "parentId": "17598e6c-af92-4fb7-843c-e2aa14235142"
+                }
+            ],
+            "id": "17598e6c-af92-4fb7-843c-e2aa14235142",
+            "parentId": "a5730c3e-7ec7-4299-b675-0defe94715a8"
+        },
+        {
+            "interactingDrugId": "bilastine",
+            "interactantDrugId": "rifampicin",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Rifampicin is predicted to decrease the exposure to Bilastine. Manufacturer makes no recommendation.  ",
+                    "severity": "Moderate",
+                    "id": "63ffb0b4-1f2c-453b-be2c-6647cbadbb1d",
+                    "parentId": "9e0882d9-984f-4d4d-861c-4a8ea49d9c35"
+                }
+            ],
+            "id": "9e0882d9-984f-4d4d-861c-4a8ea49d9c35",
+            "parentId": "a5730c3e-7ec7-4299-b675-0defe94715a8"
+        },
+        {
+            "interactingDrugId": "bilastine",
+            "interactantDrugId": "tranylcypromine",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Tranylcypromine is predicted to increase the risk of antimuscarinic adverse effects when given with Bilastine. Manufacturer advises avoid.  ",
+                    "severity": "Severe",
+                    "id": "adf5cbc2-fb7a-475e-929f-1b277e5b4b6e",
+                    "parentId": "f598c25c-20a0-4ae1-9079-33ee22acc2f3"
+                }
+            ],
+            "id": "f598c25c-20a0-4ae1-9079-33ee22acc2f3",
+            "parentId": "a5730c3e-7ec7-4299-b675-0defe94715a8"
+        }
+    ],
+    "id": "a5730c3e-7ec7-4299-b675-0defe94715a8",
+    "parentId": null
+}

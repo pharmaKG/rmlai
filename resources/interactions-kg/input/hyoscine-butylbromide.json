@@ -1,0 +1,298 @@
+{
+    "interactions": [
+        {
+            "interactingDrugId": "hyoscine-butylbromide",
+            "interactantDrugId": "baclofen",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Hyoscine and Baclofen can cause\u00a0antimuscarinic effects.",
+                    "severity": "Normal",
+                    "id": "eea56ee2-bf9c-424e-a8ed-a6622d29f417",
+                    "parentId": "fc5eff30-efdf-44cf-ac1d-5506237a8fe1"
+                }
+            ],
+            "id": "fc5eff30-efdf-44cf-ac1d-5506237a8fe1",
+            "parentId": "3d1e35ab-c7d6-4942-81b5-0b892708254d"
+        },
+        {
+            "interactingDrugId": "hyoscine-butylbromide",
+            "interactantDrugId": "clozapine",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Clozapine can cause constipation, as can Hyoscine ; concurrent use might increase the risk of developing intestinal obstruction. Manufacturer advises caution.  ",
+                    "severity": "Severe",
+                    "id": "05facae3-5941-4341-ad80-a6e97b4156f0",
+                    "parentId": "18606d64-dd2e-4138-b964-bce425862a5e"
+                },
+                {
+                    "evidence": null,
+                    "description": "Both Hyoscine and Clozapine can cause\u00a0antimuscarinic effects.",
+                    "severity": "Normal",
+                    "id": "7b2519f8-1dd5-455e-ad8f-67505191eb13",
+                    "parentId": "18606d64-dd2e-4138-b964-bce425862a5e"
+                }
+            ],
+            "id": "18606d64-dd2e-4138-b964-bce425862a5e",
+            "parentId": "3d1e35ab-c7d6-4942-81b5-0b892708254d"
+        },
+        {
+            "interactingDrugId": "hyoscine-butylbromide",
+            "interactantDrugId": "cyclizine",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Hyoscine and Cyclizine can cause\u00a0antimuscarinic effects.",
+                    "severity": "Normal",
+                    "id": "1a6b8cdf-b90f-472b-bd61-d24ecd8fd83d",
+                    "parentId": "093d4849-a49d-4633-a482-8ed831dd2552"
+                }
+            ],
+            "id": "093d4849-a49d-4633-a482-8ed831dd2552",
+            "parentId": "3d1e35ab-c7d6-4942-81b5-0b892708254d"
+        },
+        {
+            "interactingDrugId": "hyoscine-butylbromide",
+            "interactantDrugId": "darifenacin",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Hyoscine and Darifenacin can cause\u00a0antimuscarinic effects.",
+                    "severity": "Normal",
+                    "id": "cfd3a117-cba2-4393-b57d-e86198a4c37e",
+                    "parentId": "c516af6a-5c5a-49b7-911d-5b15a5c8bbf1"
+                }
+            ],
+            "id": "c516af6a-5c5a-49b7-911d-5b15a5c8bbf1",
+            "parentId": "3d1e35ab-c7d6-4942-81b5-0b892708254d"
+        },
+        {
+            "interactingDrugId": "hyoscine-butylbromide",
+            "interactantDrugId": "disopyramide",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Hyoscine and Disopyramide can cause\u00a0antimuscarinic effects.",
+                    "severity": "Normal",
+                    "id": "f139ffc9-b533-4b5f-a5c7-9cd1eaa6f0f7",
+                    "parentId": "f66a2abd-2663-4fb2-8988-04e0697cf33a"
+                }
+            ],
+            "id": "f66a2abd-2663-4fb2-8988-04e0697cf33a",
+            "parentId": "3d1e35ab-c7d6-4942-81b5-0b892708254d"
+        },
+        {
+            "interactingDrugId": "hyoscine-butylbromide",
+            "interactantDrugId": "doxepin",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Hyoscine and Doxepin can cause\u00a0antimuscarinic effects.",
+                    "severity": "Normal",
+                    "id": "a499a4e4-7a4a-4283-9963-17197f5eeb05",
+                    "parentId": "1243d5c7-b5a0-4023-8484-803c9d8a7107"
+                }
+            ],
+            "id": "1243d5c7-b5a0-4023-8484-803c9d8a7107",
+            "parentId": "3d1e35ab-c7d6-4942-81b5-0b892708254d"
+        },
+        {
+            "interactingDrugId": "hyoscine-butylbromide",
+            "interactantDrugId": "levomepromazine",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Hyoscine and Levomepromazine can cause\u00a0antimuscarinic effects.",
+                    "severity": "Normal",
+                    "id": "e1791d2d-f656-4d38-bb4a-18ac8ea5ce42",
+                    "parentId": "f1cc1152-6251-44a6-a27e-072f3745cf52"
+                }
+            ],
+            "id": "f1cc1152-6251-44a6-a27e-072f3745cf52",
+            "parentId": "3d1e35ab-c7d6-4942-81b5-0b892708254d"
+        },
+        {
+            "interactingDrugId": "hyoscine-butylbromide",
+            "interactantDrugId": "lofepramine",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Hyoscine and Lofepramine can cause\u00a0antimuscarinic effects.",
+                    "severity": "Normal",
+                    "id": "d0b8de06-8e2f-40df-a08e-7d38ce6c87b1",
+                    "parentId": "53325eb4-5016-4315-9d40-e2cf30e321e9"
+                }
+            ],
+            "id": "53325eb4-5016-4315-9d40-e2cf30e321e9",
+            "parentId": "3d1e35ab-c7d6-4942-81b5-0b892708254d"
+        },
+        {
+            "interactingDrugId": "hyoscine-butylbromide",
+            "interactantDrugId": "loxapine",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Hyoscine and Loxapine can cause\u00a0antimuscarinic effects.",
+                    "severity": "Normal",
+                    "id": "e30495c4-e627-4442-8a6f-88e4699c1918",
+                    "parentId": "39f9a274-a2db-4eaa-bc43-25e76b494e88"
+                }
+            ],
+            "id": "39f9a274-a2db-4eaa-bc43-25e76b494e88",
+            "parentId": "3d1e35ab-c7d6-4942-81b5-0b892708254d"
+        },
+        {
+            "interactingDrugId": "hyoscine-butylbromide",
+            "interactantDrugId": "nortriptyline",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Hyoscine and Nortriptyline can cause\u00a0antimuscarinic effects.",
+                    "severity": "Normal",
+                    "id": "79915a54-fbfe-460b-96a9-aadacfbe6604",
+                    "parentId": "9d701959-ef68-489c-bfc1-5ae0e69ec257"
+                }
+            ],
+            "id": "9d701959-ef68-489c-bfc1-5ae0e69ec257",
+            "parentId": "3d1e35ab-c7d6-4942-81b5-0b892708254d"
+        },
+        {
+            "interactingDrugId": "hyoscine-butylbromide",
+            "interactantDrugId": "pericyazine",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Hyoscine and Pericyazine can cause\u00a0antimuscarinic effects.",
+                    "severity": "Normal",
+                    "id": "f29a2097-372b-4ada-bee1-bc8c50d752fd",
+                    "parentId": "5ffe1f82-91b3-4afd-aa0d-9f22b247cd48"
+                }
+            ],
+            "id": "5ffe1f82-91b3-4afd-aa0d-9f22b247cd48",
+            "parentId": "3d1e35ab-c7d6-4942-81b5-0b892708254d"
+        },
+        {
+            "interactingDrugId": "hyoscine-butylbromide",
+            "interactantDrugId": "pimozide",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Hyoscine and Pimozide can cause\u00a0antimuscarinic effects.",
+                    "severity": "Normal",
+                    "id": "e5ea2a3b-4091-4beb-ba2d-5da9960a81c0",
+                    "parentId": "50b83c09-258b-43a9-954c-ee81b4cb2fe4"
+                }
+            ],
+            "id": "50b83c09-258b-43a9-954c-ee81b4cb2fe4",
+            "parentId": "3d1e35ab-c7d6-4942-81b5-0b892708254d"
+        },
+        {
+            "interactingDrugId": "hyoscine-butylbromide",
+            "interactantDrugId": "pridinol",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Hyoscine and Pridinol can cause\u00a0antimuscarinic effects.",
+                    "severity": "Normal",
+                    "id": "84680588-8d00-48f1-ac0b-f864860b0f4b",
+                    "parentId": "548a2741-6354-4017-b2be-1603f68f8e22"
+                }
+            ],
+            "id": "548a2741-6354-4017-b2be-1603f68f8e22",
+            "parentId": "3d1e35ab-c7d6-4942-81b5-0b892708254d"
+        },
+        {
+            "interactingDrugId": "hyoscine-butylbromide",
+            "interactantDrugId": "prochlorperazine",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Hyoscine and Prochlorperazine can cause\u00a0antimuscarinic effects.",
+                    "severity": "Normal",
+                    "id": "3b2eea9e-83d0-4b3b-902a-089dd54e4f7a",
+                    "parentId": "e5f7bd81-28fc-4868-b8b3-bd19b41609d8"
+                }
+            ],
+            "id": "e5f7bd81-28fc-4868-b8b3-bd19b41609d8",
+            "parentId": "3d1e35ab-c7d6-4942-81b5-0b892708254d"
+        },
+        {
+            "interactingDrugId": "hyoscine-butylbromide",
+            "interactantDrugId": "tiotropium",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Hyoscine and Tiotropium can cause\u00a0antimuscarinic effects.",
+                    "severity": "Normal",
+                    "id": "1dc92e42-8bd5-4643-a683-2c12671b1a53",
+                    "parentId": "2372b6f3-7b31-4f85-8556-8ed94efdc57b"
+                }
+            ],
+            "id": "2372b6f3-7b31-4f85-8556-8ed94efdc57b",
+            "parentId": "3d1e35ab-c7d6-4942-81b5-0b892708254d"
+        },
+        {
+            "interactingDrugId": "hyoscine-butylbromide",
+            "interactantDrugId": "trifluoperazine",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Hyoscine and Trifluoperazine can cause\u00a0antimuscarinic effects.",
+                    "severity": "Normal",
+                    "id": "d1f17210-192c-4af9-9ca7-7d9a4ed64f4b",
+                    "parentId": "bd41cfd4-d7c8-4578-84ee-69b50a16375e"
+                }
+            ],
+            "id": "bd41cfd4-d7c8-4578-84ee-69b50a16375e",
+            "parentId": "3d1e35ab-c7d6-4942-81b5-0b892708254d"
+        },
+        {
+            "interactingDrugId": "hyoscine-butylbromide",
+            "interactantDrugId": "trimipramine",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Hyoscine and Trimipramine can cause\u00a0antimuscarinic effects.",
+                    "severity": "Normal",
+                    "id": "615d7a3d-c9f0-4a8f-9b43-31dc4b99f9a9",
+                    "parentId": "6bbe9694-d845-4289-8f8a-7faf828cbde2"
+                }
+            ],
+            "id": "6bbe9694-d845-4289-8f8a-7faf828cbde2",
+            "parentId": "3d1e35ab-c7d6-4942-81b5-0b892708254d"
+        },
+        {
+            "interactingDrugId": "hyoscine-butylbromide",
+            "interactantDrugId": "tropicamide",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Hyoscine and Tropicamide can cause\u00a0antimuscarinic effects.",
+                    "severity": "Normal",
+                    "id": "a72144c6-96f2-4ca4-a7ca-bfe337b8284a",
+                    "parentId": "7779abd5-cd68-4dea-8606-94d4c13877f8"
+                }
+            ],
+            "id": "7779abd5-cd68-4dea-8606-94d4c13877f8",
+            "parentId": "3d1e35ab-c7d6-4942-81b5-0b892708254d"
+        },
+        {
+            "interactingDrugId": "hyoscine-butylbromide",
+            "interactantDrugId": "umeclidinium",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Hyoscine and Umeclidinium can cause\u00a0antimuscarinic effects.",
+                    "severity": "Normal",
+                    "id": "d5ecd7c3-07c7-45f4-b64e-f10a991fdb30",
+                    "parentId": "bf37d302-4f56-4dfa-aceb-081bd79d8482"
+                }
+            ],
+            "id": "bf37d302-4f56-4dfa-aceb-081bd79d8482",
+            "parentId": "3d1e35ab-c7d6-4942-81b5-0b892708254d"
+        }
+    ],
+    "id": "3d1e35ab-c7d6-4942-81b5-0b892708254d",
+    "parentId": null
+}

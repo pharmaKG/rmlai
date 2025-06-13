@@ -1,0 +1,2095 @@
+{
+    "interactions": [
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "adrenaline-epinephrine",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Betaxolol is predicted to increase the risk of hypertension and bradycardia when given with Adrenaline/epinephrine. Manufacturer advises caution.  ",
+                    "severity": "Severe",
+                    "id": "310ab5de-f757-4693-8c2c-be34e16aeec3",
+                    "parentId": "ea3da937-9d8c-413b-a198-5d100ee501f9"
+                }
+            ],
+            "id": "ea3da937-9d8c-413b-a198-5d100ee501f9",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "alcohol",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Alcohol can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "7329bf0b-590f-4971-81dd-954b8e2ac282",
+                    "parentId": "004c8c0c-1670-4c53-bf62-b92378e141f7"
+                }
+            ],
+            "id": "004c8c0c-1670-4c53-bf62-b92378e141f7",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "alectinib-specialist-drug",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Alectinib can increase the risk of bradycardia.",
+                    "severity": "Normal",
+                    "id": "24a44518-c43e-4151-b192-9ea1daf7c3c4",
+                    "parentId": "9b16aec3-7873-4ce3-9419-47c2cfafacd7"
+                }
+            ],
+            "id": "9b16aec3-7873-4ce3-9419-47c2cfafacd7",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "alfentanil",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Alfentanil can increase the risk of bradycardia.",
+                    "severity": "Normal",
+                    "id": "ed9e1f11-64b4-4e87-9407-9525602a6cd2",
+                    "parentId": "3f107546-521c-409a-a0a9-7423c99aa233"
+                }
+            ],
+            "id": "3f107546-521c-409a-a0a9-7423c99aa233",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "aliskiren",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Aliskiren can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "931d57c5-6bd7-401b-a4a8-9b3f9d5bb868",
+                    "parentId": "f7c27f20-5866-4bee-8cb9-d2d32c62e3bf"
+                }
+            ],
+            "id": "f7c27f20-5866-4bee-8cb9-d2d32c62e3bf",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "alprostadil",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Alprostadil can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "2c874d53-87f3-4793-8d28-976dc7e7befb",
+                    "parentId": "5f2fbd95-7bd1-4756-97ad-6e9d582aa5b4"
+                }
+            ],
+            "id": "5f2fbd95-7bd1-4756-97ad-6e9d582aa5b4",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "aminophylline",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Betaxolol is predicted to increase the risk of bronchospasm when given with Aminophylline. Manufacturer advises avoid.  ",
+                    "severity": "Severe",
+                    "id": "380d3ff1-d974-4bca-b512-0c884d672b6a",
+                    "parentId": "621619d9-5884-41c2-8c1f-b277a5598bc9"
+                }
+            ],
+            "id": "621619d9-5884-41c2-8c1f-b277a5598bc9",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "amlodipine",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Amlodipine can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "e4d1f5d1-8a4b-490c-9754-97cf700a93a8",
+                    "parentId": "e4b5c41e-7741-4d13-b261-b7bb989771b1"
+                }
+            ],
+            "id": "e4b5c41e-7741-4d13-b261-b7bb989771b1",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "apraclonidine",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Apraclonidine can increase the risk of bradycardia.",
+                    "severity": "Normal",
+                    "id": "341e2900-3b45-4b22-92a1-d750e647c09c",
+                    "parentId": "3bc3ffd2-ecc8-4444-b9f5-abb95c235d06"
+                },
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Apraclonidine can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "e2397265-5dc0-4bff-afbc-2f53a8e8ed75",
+                    "parentId": "3bc3ffd2-ecc8-4444-b9f5-abb95c235d06"
+                }
+            ],
+            "id": "3bc3ffd2-ecc8-4444-b9f5-abb95c235d06",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "aripiprazole",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Aripiprazole can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "09bfd092-442e-4605-b5dd-18dc744b4496",
+                    "parentId": "d46127dd-4a64-4a8f-984a-7b0575dbed87"
+                }
+            ],
+            "id": "d46127dd-4a64-4a8f-984a-7b0575dbed87",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "asenapine",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Asenapine can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "aacc7c8e-eb33-4c74-b719-e1fd53827d55",
+                    "parentId": "49bca074-e2ce-4761-86f7-33824209dd22"
+                }
+            ],
+            "id": "49bca074-e2ce-4761-86f7-33824209dd22",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "avanafil",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Avanafil can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "89b74712-683b-42ac-8d26-531223d2fe34",
+                    "parentId": "723a9a32-4b62-4d88-b3e0-c499f16cba7f"
+                }
+            ],
+            "id": "723a9a32-4b62-4d88-b3e0-c499f16cba7f",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "baclofen",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Baclofen can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "815a1a8f-40f0-42d4-86aa-0bb070c2b8ab",
+                    "parentId": "e33619d1-011a-44cd-b599-42afc73a72c6"
+                }
+            ],
+            "id": "e33619d1-011a-44cd-b599-42afc73a72c6",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "bendroflumethiazide",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Bendroflumethiazide can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "d1537ba1-2431-455c-bfa9-9d59f714ae8f",
+                    "parentId": "48a676cb-6cf7-4342-80fa-44919007dc0b"
+                }
+            ],
+            "id": "48a676cb-6cf7-4342-80fa-44919007dc0b",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "benperidol",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Benperidol can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "d0344260-6ea4-46a7-942e-a052ae230fe4",
+                    "parentId": "45f0e840-53a1-40ab-ab22-be880e9fb41e"
+                }
+            ],
+            "id": "45f0e840-53a1-40ab-ab22-be880e9fb41e",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "bortezomib-specialist-drug",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Bortezomib can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "2026fb93-7f94-4dad-8d63-c9da58b43e92",
+                    "parentId": "243ba168-51a8-493e-9b95-aa96d2c879c4"
+                }
+            ],
+            "id": "243ba168-51a8-493e-9b95-aa96d2c879c4",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "brigatinib-specialist-drug",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Brigatinib can increase the risk of bradycardia.",
+                    "severity": "Normal",
+                    "id": "f7f17a71-fa4e-41b1-90d4-8eb68aa0b9fb",
+                    "parentId": "74df30b3-a393-4f9f-88b0-1d9747cc01e2"
+                }
+            ],
+            "id": "74df30b3-a393-4f9f-88b0-1d9747cc01e2",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "bromocriptine",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Bromocriptine can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "520410f1-e1b5-436d-af96-ec6987479b20",
+                    "parentId": "a63f80cb-dfd6-43d0-b200-621f11001946"
+                }
+            ],
+            "id": "a63f80cb-dfd6-43d0-b200-621f11001946",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "bumetanide",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Bumetanide can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "9313772e-c6bb-452d-a94e-c615b0665685",
+                    "parentId": "f60f6d54-f53b-4a54-a352-a6d69e30ddcc"
+                }
+            ],
+            "id": "f60f6d54-f53b-4a54-a352-a6d69e30ddcc",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "cabergoline",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Cabergoline can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "3423d6dc-e5f8-4e4f-9aeb-b160e1aee4ed",
+                    "parentId": "8947ebd3-e7a5-480a-af5e-bd59d295f4b5"
+                }
+            ],
+            "id": "8947ebd3-e7a5-480a-af5e-bd59d295f4b5",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "canagliflozin",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Canagliflozin can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "57457d8d-9723-450e-b58c-3532f0d87641",
+                    "parentId": "faef2ca7-749d-4668-ad28-967f4546ce54"
+                }
+            ],
+            "id": "faef2ca7-749d-4668-ad28-967f4546ce54",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "captopril",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Captopril can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "0859cfbc-4449-4812-9436-c30adbb4265b",
+                    "parentId": "d46058b9-e1b2-4067-8a1c-0a07bf2d717e"
+                }
+            ],
+            "id": "d46058b9-e1b2-4067-8a1c-0a07bf2d717e",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "cariprazine",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Cariprazine can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "9434ffd5-f7f0-4e3e-9dbf-5be64864963f",
+                    "parentId": "bf06f280-bd5a-4020-97d8-edc99a94c570"
+                }
+            ],
+            "id": "bf06f280-bd5a-4020-97d8-edc99a94c570",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "carvedilol",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Carvedilol can increase the risk of bradycardia.",
+                    "severity": "Normal",
+                    "id": "a2321255-e8d8-4f7b-8ffb-87912bb0e051",
+                    "parentId": "b58f9d28-37be-4c85-97bb-92221f91e3a9"
+                },
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Carvedilol can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "2839a49b-fe77-4e95-847a-bfc8be10d100",
+                    "parentId": "b58f9d28-37be-4c85-97bb-92221f91e3a9"
+                }
+            ],
+            "id": "b58f9d28-37be-4c85-97bb-92221f91e3a9",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "ceritinib-specialist-drug",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Ceritinib can increase the risk of bradycardia.",
+                    "severity": "Normal",
+                    "id": "85734d7e-4ea9-4e35-adfc-40f7bc7c9dec",
+                    "parentId": "cc1f96b0-15c9-4f69-90bd-e147e9cb652c"
+                }
+            ],
+            "id": "cc1f96b0-15c9-4f69-90bd-e147e9cb652c",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "chlortalidone",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Chlortalidone can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "eae107c0-e8b1-4cf4-a294-a2b0a0dfdf1b",
+                    "parentId": "f316cf3f-30bf-45b0-8bbf-d8dcdbe9cc38"
+                }
+            ],
+            "id": "f316cf3f-30bf-45b0-8bbf-d8dcdbe9cc38",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "clozapine",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Clozapine can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "e4c9e71c-c644-4e92-a07e-58afd5541776",
+                    "parentId": "70546480-de16-42e0-8f40-431769c36775"
+                }
+            ],
+            "id": "70546480-de16-42e0-8f40-431769c36775",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "crizotinib-specialist-drug",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Crizotinib can increase the risk of bradycardia.",
+                    "severity": "Normal",
+                    "id": "6e56c14f-699e-41be-9379-79a052f574b3",
+                    "parentId": "6d0b4183-7307-4d42-975b-8a9695d99786"
+                }
+            ],
+            "id": "6d0b4183-7307-4d42-975b-8a9695d99786",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "dapagliflozin",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Dapagliflozin can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "5326bc27-4722-4a93-b78d-51debcfc14b8",
+                    "parentId": "aa0c4d44-258f-448e-b85d-4c254f53e4cf"
+                }
+            ],
+            "id": "aa0c4d44-258f-448e-b85d-4c254f53e4cf",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "desflurane",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Desflurane can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "ee35102a-1590-4e66-81ca-3931ecbe2817",
+                    "parentId": "e70518b5-e3d1-486c-956f-0b434276107f"
+                }
+            ],
+            "id": "e70518b5-e3d1-486c-956f-0b434276107f",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "diazoxide",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Diazoxide can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "9399f8ea-6145-4db7-a0be-0ab35e53f129",
+                    "parentId": "b84eae7e-0c15-4179-87db-e7766cdb2f4f"
+                }
+            ],
+            "id": "b84eae7e-0c15-4179-87db-e7766cdb2f4f",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "digoxin",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Digoxin can increase the risk of bradycardia.",
+                    "severity": "Normal",
+                    "id": "b765dd63-c861-4a9f-8157-95b5f1d24d7e",
+                    "parentId": "8258db03-2ae0-4455-bf5b-b9f4d371f84f"
+                }
+            ],
+            "id": "8258db03-2ae0-4455-bf5b-b9f4d371f84f",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "dipyridamole",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Dipyridamole can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "578fdea6-f265-4709-b170-5e31ece136b6",
+                    "parentId": "36f07078-3094-48d3-8542-ab1dfca7e113"
+                }
+            ],
+            "id": "36f07078-3094-48d3-8542-ab1dfca7e113",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "disopyramide",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Disopyramide is predicted to increase the risk of cardiovascular adverse effects when given with Betaxolol. Manufacturer advises use with caution or avoid.  ",
+                    "severity": "Severe",
+                    "id": "d3575ba7-7807-493d-98f3-2882cf32d37e",
+                    "parentId": "9e456b02-1e78-4464-8588-c79d5765e6b9"
+                }
+            ],
+            "id": "9e456b02-1e78-4464-8588-c79d5765e6b9",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "dobutamine",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Betaxolol increases the risk of hypertension and bradycardia when given with Dobutamine. Manufacturer advises caution.  ",
+                    "severity": "Moderate",
+                    "id": "2fdb9a90-6cf8-4ad7-a266-030ad1215ff6",
+                    "parentId": "4f21117d-2b25-405b-968b-e50f6e4fbc52"
+                }
+            ],
+            "id": "4f21117d-2b25-405b-968b-e50f6e4fbc52",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "doxazosin",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Doxazosin can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "4f27a944-d7ac-45b7-9a62-30c1979e2801",
+                    "parentId": "9d5e06c4-e405-42d0-9ee9-b7e824ddbf4d"
+                }
+            ],
+            "id": "9d5e06c4-e405-42d0-9ee9-b7e824ddbf4d",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "doxepin",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Doxepin can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "fce86498-99b1-41b1-9308-a7739e7eb1fb",
+                    "parentId": "b49e689b-e5fa-412d-86d6-73ff1df3f5f3"
+                }
+            ],
+            "id": "b49e689b-e5fa-412d-86d6-73ff1df3f5f3",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "dronedarone",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Dronedarone is predicted to increase the risk of cardiovascular adverse effects when given with Betaxolol. Manufacturer advises use with caution or avoid.  ",
+                    "severity": "Severe",
+                    "id": "1d2de348-6c0e-43a7-96fe-8212849ccb7f",
+                    "parentId": "04b0807f-ac1d-4899-8225-f9b4b33f17d5"
+                },
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Dronedarone can increase the risk of bradycardia.",
+                    "severity": "Normal",
+                    "id": "0e9521fc-07b8-4a69-b402-a35a537ce0a2",
+                    "parentId": "04b0807f-ac1d-4899-8225-f9b4b33f17d5"
+                }
+            ],
+            "id": "04b0807f-ac1d-4899-8225-f9b4b33f17d5",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "droperidol",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Droperidol can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "f095d46d-3b06-479d-bcba-8461e2e67e42",
+                    "parentId": "91e7a980-de97-4d4a-bcf1-4f823a5e5ed5"
+                }
+            ],
+            "id": "91e7a980-de97-4d4a-bcf1-4f823a5e5ed5",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "empagliflozin",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Empagliflozin can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "1d2245b6-8507-4278-8987-1396baa4dac5",
+                    "parentId": "c2438fa9-42ab-4045-a965-c0b9022c01bf"
+                }
+            ],
+            "id": "c2438fa9-42ab-4045-a965-c0b9022c01bf",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "eplerenone",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Eplerenone can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "66bdeda2-62bd-4078-bcb0-56e329583a54",
+                    "parentId": "792be66a-58a8-4e06-b121-7ab60f0829f0"
+                }
+            ],
+            "id": "792be66a-58a8-4e06-b121-7ab60f0829f0",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "epoprostenol",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Epoprostenol can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "091e9a21-ee88-4e2c-bb8a-8c51d33ea5fc",
+                    "parentId": "2f6cf751-ec9e-45a5-ba81-ab9d5eb2a630"
+                }
+            ],
+            "id": "2f6cf751-ec9e-45a5-ba81-ab9d5eb2a630",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "eprosartan",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Eprosartan can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "5abfb27e-506b-4bb7-90f7-8de25161ec11",
+                    "parentId": "2fa7869d-3209-437e-8938-dfe9ae0f03f1"
+                }
+            ],
+            "id": "2fa7869d-3209-437e-8938-dfe9ae0f03f1",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "ertugliflozin",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Ertugliflozin can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "0aa784c9-2db4-475a-9305-708cbaae93e9",
+                    "parentId": "67453e51-9705-4563-adc0-5b3389b9f578"
+                }
+            ],
+            "id": "67453e51-9705-4563-adc0-5b3389b9f578",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "esketamine",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Esketamine can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "85c969d8-038f-439f-90a6-481bde6d9c71",
+                    "parentId": "0ffc2726-10e6-45c8-970e-6ae790e77470"
+                }
+            ],
+            "id": "0ffc2726-10e6-45c8-970e-6ae790e77470",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "etomidate",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Etomidate can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "f4527dd8-ec8e-4b90-bf91-b060aab3c895",
+                    "parentId": "9c91ac32-156b-4749-9014-918d6c483529"
+                }
+            ],
+            "id": "9c91ac32-156b-4749-9014-918d6c483529",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "etrasimod",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Etrasimod can increase the risk of bradycardia.",
+                    "severity": "Normal",
+                    "id": "3ed16c20-96c8-4ea4-a55a-e23c93f8e3bd",
+                    "parentId": "f4392788-f501-4330-bb5f-142cd7f2c377"
+                }
+            ],
+            "id": "f4392788-f501-4330-bb5f-142cd7f2c377",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "felodipine",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Felodipine can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "c6928316-fc06-48d2-bdb9-01210a1b905b",
+                    "parentId": "70711ae3-ebef-40b7-aa46-6caf4e8369a0"
+                }
+            ],
+            "id": "70711ae3-ebef-40b7-aa46-6caf4e8369a0",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "fentanyl",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Fentanyl can increase the risk of bradycardia.",
+                    "severity": "Normal",
+                    "id": "c11c77f6-e320-43a7-a464-0772ac467d6b",
+                    "parentId": "26f85921-2599-4b82-b770-db2fb530d157"
+                }
+            ],
+            "id": "26f85921-2599-4b82-b770-db2fb530d157",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "finerenone",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Finerenone can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "33e944db-f0cf-4111-afc4-03f2f3570d6a",
+                    "parentId": "c36aa611-5415-40c0-a121-3406c23bb95a"
+                }
+            ],
+            "id": "c36aa611-5415-40c0-a121-3406c23bb95a",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "fingolimod",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Fingolimod can increase the risk of bradycardia.",
+                    "severity": "Normal",
+                    "id": "0229346b-22fe-49a0-b09d-f475303114a2",
+                    "parentId": "7b50aa41-10d3-46e0-84ea-012ae5069963"
+                }
+            ],
+            "id": "7b50aa41-10d3-46e0-84ea-012ae5069963",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "furosemide",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Furosemide can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "d39b9bdb-7f8f-4963-9efb-7a6cb6101125",
+                    "parentId": "ce960ffe-9f25-4afd-931c-11306ab352d8"
+                }
+            ],
+            "id": "ce960ffe-9f25-4afd-931c-11306ab352d8",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "galantamine",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Galantamine can increase the risk of bradycardia.",
+                    "severity": "Normal",
+                    "id": "7ae10301-9548-47a8-99a2-0c885fd2907b",
+                    "parentId": "b8c507df-00af-47b9-8df2-6c2e66d14462"
+                }
+            ],
+            "id": "b8c507df-00af-47b9-8df2-6c2e66d14462",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "glyceryl-trinitrate",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Glyceryl trinitrate can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "6bbb161d-2bb4-4dce-beb8-fb2b0c6273f7",
+                    "parentId": "f319dabd-423d-458b-b22c-e6374240ce20"
+                }
+            ],
+            "id": "f319dabd-423d-458b-b22c-e6374240ce20",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "guanfacine",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Guanfacine can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "d17c2b6f-9e54-4f75-804e-ab0553f2031c",
+                    "parentId": "99782501-aa74-4406-9ae4-0790de8187d6"
+                }
+            ],
+            "id": "99782501-aa74-4406-9ae4-0790de8187d6",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "hydrochlorothiazide",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Hydrochlorothiazide can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "421d44cf-2ede-4565-b2d3-6f772e4a850e",
+                    "parentId": "8d5b6ef1-64e0-4147-8796-8acd5e3fb391"
+                }
+            ],
+            "id": "8d5b6ef1-64e0-4147-8796-8acd5e3fb391",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "iloprost",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Iloprost can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "9a5265f5-53b6-4385-ae77-14cccbe52eeb",
+                    "parentId": "0a8bc536-4a57-421a-842e-24f89f173ae8"
+                }
+            ],
+            "id": "0a8bc536-4a57-421a-842e-24f89f173ae8",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "indapamide",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Indapamide can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "9683cbce-241b-4523-ab5a-72a18c0e1090",
+                    "parentId": "755fcaa3-1c66-4289-8705-86dd816a13dc"
+                }
+            ],
+            "id": "755fcaa3-1c66-4289-8705-86dd816a13dc",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "indoramin",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Indoramin can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "138ca097-0afe-4859-85dd-c6893e3e7395",
+                    "parentId": "82cdea78-6e64-45ae-8b00-cab462368fd2"
+                }
+            ],
+            "id": "82cdea78-6e64-45ae-8b00-cab462368fd2",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "irbesartan",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Irbesartan can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "08d9c3c3-ff53-4c7d-8a58-46fd4e5370c3",
+                    "parentId": "e1cc7af1-774c-46b7-ba17-2e3bea873ebc"
+                }
+            ],
+            "id": "e1cc7af1-774c-46b7-ba17-2e3bea873ebc",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "isocarboxazid",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Isocarboxazid can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "68e239a8-6b95-4372-9792-a8eb3beb4ac6",
+                    "parentId": "1c25ad00-cfd6-4ffc-abb7-b6cdc5343461"
+                }
+            ],
+            "id": "1c25ad00-cfd6-4ffc-abb7-b6cdc5343461",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "isoflurane",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Isoflurane can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "fd408fc3-4082-4c89-a4db-05c6f4854d75",
+                    "parentId": "20f74307-8ebd-462b-9372-a4a043d292b1"
+                }
+            ],
+            "id": "20f74307-8ebd-462b-9372-a4a043d292b1",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "isosorbide-dinitrate",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Isosorbide dinitrate can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "9611d41b-9ad7-41f0-9208-d21a40a509bb",
+                    "parentId": "3c07edd7-f1ec-45ce-9096-706c021aad4a"
+                }
+            ],
+            "id": "3c07edd7-f1ec-45ce-9096-706c021aad4a",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "isosorbide-mononitrate",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Isosorbide mononitrate can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "dfbc2399-29e0-4460-a789-f95d45d7eb84",
+                    "parentId": "dc0ab9a6-3301-4216-a2d8-16b6abe86b1b"
+                }
+            ],
+            "id": "dc0ab9a6-3301-4216-a2d8-16b6abe86b1b",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "ivabradine",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Ivabradine can increase the risk of bradycardia.",
+                    "severity": "Normal",
+                    "id": "b40db194-7a8c-460f-8cf6-fbb7fad11c69",
+                    "parentId": "43f94de4-a69a-45e7-97ac-23a04f86cbec"
+                }
+            ],
+            "id": "43f94de4-a69a-45e7-97ac-23a04f86cbec",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "ketamine",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Ketamine can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "7e3ba8b3-48a2-474f-8681-c1da5c1a712d",
+                    "parentId": "560dd76f-3128-496c-bb17-459edbce39ed"
+                }
+            ],
+            "id": "560dd76f-3128-496c-bb17-459edbce39ed",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "lacidipine",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Lacidipine can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "86f980a7-d0ec-4a0b-b053-e4bff29722b8",
+                    "parentId": "b474d8f0-a214-42eb-b39e-33ee3da0e8ca"
+                }
+            ],
+            "id": "b474d8f0-a214-42eb-b39e-33ee3da0e8ca",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "lanreotide",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Betaxolol is predicted to increase the risk of bradycardia when given with Lanreotide. Manufacturer advises caution.  ",
+                    "severity": "Moderate",
+                    "id": "a6235544-a4ae-4aa9-b8d9-e79dfde2f5b5",
+                    "parentId": "bf53cc65-a255-4d95-93bf-884c0b19e644"
+                }
+            ],
+            "id": "bf53cc65-a255-4d95-93bf-884c0b19e644",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "levomepromazine",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Levomepromazine can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "525f494a-f61e-4dd4-b87c-c869be3b5751",
+                    "parentId": "cfcc0c3d-9aae-43f0-a5ab-bc1357f33f20"
+                }
+            ],
+            "id": "cfcc0c3d-9aae-43f0-a5ab-bc1357f33f20",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "lisinopril",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Lisinopril can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "9234fd58-6319-4ecd-8506-92076b4a0a4e",
+                    "parentId": "7fbeeb93-9379-4423-8faa-ddc9bc29f2b2"
+                }
+            ],
+            "id": "7fbeeb93-9379-4423-8faa-ddc9bc29f2b2",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "lofepramine",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Lofepramine can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "9e536a0f-4764-4dc2-bf89-ade01dd453c0",
+                    "parentId": "0778fa0c-3170-48b4-b295-f3446c66ab16"
+                }
+            ],
+            "id": "0778fa0c-3170-48b4-b295-f3446c66ab16",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "loxapine",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Loxapine can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "07957598-276f-4bb8-a523-3b24bc8cfd26",
+                    "parentId": "aac5c4a3-b601-405c-867a-165f4c32251b"
+                }
+            ],
+            "id": "aac5c4a3-b601-405c-867a-165f4c32251b",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "mavacamten",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Mavacamten can cause negative inotropic effects, as can Betaxolol. Manufacturer advises monitor.  ",
+                    "severity": "Severe",
+                    "id": "fe2a8068-85c1-4c64-9cf5-a460c6180b17",
+                    "parentId": "6740ac67-a4b3-4d6a-98fc-c1dc1f80d60e"
+                }
+            ],
+            "id": "6740ac67-a4b3-4d6a-98fc-c1dc1f80d60e",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "mefloquine",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Mefloquine is predicted to increase the risk of bradycardia when given with Betaxolol. Manufacturer makes no recommendation.  ",
+                    "severity": "Severe",
+                    "id": "2513a2b8-b21a-458d-8f37-03f302994d7e",
+                    "parentId": "1401c7c2-44f2-4087-8bca-c29b9c651ef4"
+                }
+            ],
+            "id": "1401c7c2-44f2-4087-8bca-c29b9c651ef4",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "methoxyflurane",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Methoxyflurane can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "1d826ab4-7c00-4bb4-9b8f-4c420256208d",
+                    "parentId": "bf865a1c-6685-40ec-ad03-ee7fdaf319a0"
+                }
+            ],
+            "id": "bf865a1c-6685-40ec-ad03-ee7fdaf319a0",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "methyldopa",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Methyldopa can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "44595b30-1af8-4b78-88f2-cdabceb713f1",
+                    "parentId": "b8672c51-f6a6-4bcb-9a48-1ed89abe7df8"
+                }
+            ],
+            "id": "b8672c51-f6a6-4bcb-9a48-1ed89abe7df8",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "metolazone",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Metolazone can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "699fe9cf-ca12-44a8-b085-a5f063262e8e",
+                    "parentId": "be7f3787-1346-4062-8285-ffeb7355383a"
+                }
+            ],
+            "id": "be7f3787-1346-4062-8285-ffeb7355383a",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "mexiletine",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Mexiletine potentially increases the risk of cardiovascular adverse effects when given with Betaxolol. Manufacturer advises avoid or monitor.  ",
+                    "severity": "Severe",
+                    "id": "0d79c8f1-e052-4162-b064-6944357e3b72",
+                    "parentId": "caf810fd-d1bd-43e8-b327-32305831eba1"
+                }
+            ],
+            "id": "caf810fd-d1bd-43e8-b327-32305831eba1",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "minoxidil",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Minoxidil can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "caf8021a-2457-4506-b737-e2a7aa2610d2",
+                    "parentId": "bf96554f-7acf-4ee1-9635-8c03d801140f"
+                }
+            ],
+            "id": "bf96554f-7acf-4ee1-9635-8c03d801140f",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "moxonidine",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Moxonidine can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "d8b768a9-2c05-4e8b-934f-a5f6f906ec97",
+                    "parentId": "23b110d9-60cb-4f2b-a220-0c10684cc1f0"
+                }
+            ],
+            "id": "23b110d9-60cb-4f2b-a220-0c10684cc1f0",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "nadolol",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Nadolol can increase the risk of bradycardia.",
+                    "severity": "Normal",
+                    "id": "e33c52d6-0d65-4fb5-a26c-a4a999193a48",
+                    "parentId": "b7e9413f-2615-4bd3-acf8-d96ad561667e"
+                },
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Nadolol can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "48596e2f-a84c-40d2-9708-d7921c19c861",
+                    "parentId": "b7e9413f-2615-4bd3-acf8-d96ad561667e"
+                }
+            ],
+            "id": "b7e9413f-2615-4bd3-acf8-d96ad561667e",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "neostigmine",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Neostigmine can increase the risk of bradycardia.",
+                    "severity": "Normal",
+                    "id": "20ee268c-fb6f-41f7-accb-2f5e663c06fa",
+                    "parentId": "e576fd5f-d852-432f-abd5-d46a6e14d813"
+                }
+            ],
+            "id": "e576fd5f-d852-432f-abd5-d46a6e14d813",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "nicorandil",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Nicorandil can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "8da52231-46d1-4cb8-94e9-f95994cca48a",
+                    "parentId": "06eb1245-3835-43e1-9867-263ec7f15420"
+                }
+            ],
+            "id": "06eb1245-3835-43e1-9867-263ec7f15420",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "nifedipine",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Nifedipine can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "49046a71-a01a-4280-98c8-967074cfed0a",
+                    "parentId": "93ecde3b-6a3d-4a4d-a842-02a69132752c"
+                }
+            ],
+            "id": "93ecde3b-6a3d-4a4d-a842-02a69132752c",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "nimodipine",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Nimodipine can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "5eaa2b98-c060-484a-a7c2-e58a5bf9e11b",
+                    "parentId": "893f956d-9ea3-4121-87cc-fa0d88b1bcc6"
+                }
+            ],
+            "id": "893f956d-9ea3-4121-87cc-fa0d88b1bcc6",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "nitrous-oxide",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Nitrous oxide can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "8556e0f6-7239-41ac-8fd9-72016e734238",
+                    "parentId": "d83b895f-c6f8-48a0-9ccc-4c36776be243"
+                }
+            ],
+            "id": "d83b895f-c6f8-48a0-9ccc-4c36776be243",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "noradrenaline-norepinephrine",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Betaxolol is predicted to increase the risk of hypertension and bradycardia when given with Noradrenaline/norepinephrine. Manufacturer advises caution.  ",
+                    "severity": "Severe",
+                    "id": "3688df55-f656-4d02-964b-ee6c560c341b",
+                    "parentId": "d00025aa-5afb-4b1c-b6cd-d9edc679b1da"
+                }
+            ],
+            "id": "d00025aa-5afb-4b1c-b6cd-d9edc679b1da",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "nortriptyline",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Nortriptyline can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "ef05ec9a-752b-4133-83b2-69b3ebe336c6",
+                    "parentId": "d8fb22fb-b3e2-463b-8103-83a7e7e89fc7"
+                }
+            ],
+            "id": "d8fb22fb-b3e2-463b-8103-83a7e7e89fc7",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "omega-3-acid-ethyl-esters",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Omega-3-acid ethyl esters might enhance the blood pressure-lowering effects of Betaxolol. Manufacturer makes no recommendation.  ",
+                    "severity": "Moderate",
+                    "id": "efbe4ae4-1f04-4801-8123-5eca12d3c601",
+                    "parentId": "5d676d8f-853c-4233-81e5-d473963e718a"
+                }
+            ],
+            "id": "5d676d8f-853c-4233-81e5-d473963e718a",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "ozanimod",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Ozanimod can increase the risk of bradycardia.",
+                    "severity": "Normal",
+                    "id": "3db2a244-c439-4bd5-aafa-6c1fdd6ad264",
+                    "parentId": "2c822f0c-6327-46b2-b4b8-760af2857242"
+                }
+            ],
+            "id": "2c822f0c-6327-46b2-b4b8-760af2857242",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "paliperidone",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Paliperidone can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "e322157e-48b3-4e84-94ab-b70264d071b3",
+                    "parentId": "3145442d-b75a-45c8-9478-196036da4c2b"
+                }
+            ],
+            "id": "3145442d-b75a-45c8-9478-196036da4c2b",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "pasireotide",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Pasireotide can increase the risk of bradycardia.",
+                    "severity": "Normal",
+                    "id": "ea10cc4b-aff0-4c78-bcf7-ce3c9b0c50cf",
+                    "parentId": "c9c75080-72f6-4e41-906e-9acf9ba4d262"
+                }
+            ],
+            "id": "c9c75080-72f6-4e41-906e-9acf9ba4d262",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "pericyazine",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Pericyazine can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "22592d5d-13c8-41eb-87c3-da3e022f9fba",
+                    "parentId": "98cf8750-1cd7-43d4-999c-56f7f9fb43e4"
+                }
+            ],
+            "id": "98cf8750-1cd7-43d4-999c-56f7f9fb43e4",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "phenelzine",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Phenelzine can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "87a2fcbd-e08a-4504-8447-f558e27bf478",
+                    "parentId": "b2fe2302-af02-451c-a373-9e2c3f344df6"
+                }
+            ],
+            "id": "b2fe2302-af02-451c-a373-9e2c3f344df6",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "pimozide",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Pimozide can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "ef4005aa-303a-4dee-9a82-b8e7bf1c9851",
+                    "parentId": "91578f32-8822-4e29-a17e-68ceb11667a9"
+                }
+            ],
+            "id": "91578f32-8822-4e29-a17e-68ceb11667a9",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "pindolol",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Pindolol can increase the risk of bradycardia.",
+                    "severity": "Normal",
+                    "id": "28622254-e550-4b78-8807-549aaf70e82c",
+                    "parentId": "6c447a6f-56bb-44b6-a516-8d31c5a7666a"
+                },
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Pindolol can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "6ee5ee55-000d-4724-8c4f-d59b02e3bb5d",
+                    "parentId": "6c447a6f-56bb-44b6-a516-8d31c5a7666a"
+                }
+            ],
+            "id": "6c447a6f-56bb-44b6-a516-8d31c5a7666a",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "ponesimod",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Ponesimod can increase the risk of bradycardia.",
+                    "severity": "Normal",
+                    "id": "10c4d3de-7936-4d9f-b95c-66d9abae5361",
+                    "parentId": "41466821-61ea-4c34-8235-a26d20e18a06"
+                }
+            ],
+            "id": "41466821-61ea-4c34-8235-a26d20e18a06",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "pramipexole",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Pramipexole can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "b19762b7-7b56-472f-a582-c674937d9126",
+                    "parentId": "fb22ea26-d117-462c-9621-f27292af5f24"
+                }
+            ],
+            "id": "fb22ea26-d117-462c-9621-f27292af5f24",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "prazosin",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Prazosin can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "722abc08-a008-4fa9-9225-04a9b1eb43b1",
+                    "parentId": "944a8e98-f3e5-42e0-8397-b78363a8c916"
+                }
+            ],
+            "id": "944a8e98-f3e5-42e0-8397-b78363a8c916",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "prochlorperazine",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Prochlorperazine can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "362c9676-709c-4618-91f3-310e048da811",
+                    "parentId": "b3341209-845f-4c96-b893-a0955f17301f"
+                }
+            ],
+            "id": "b3341209-845f-4c96-b893-a0955f17301f",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "propofol",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Propofol can increase the risk of bradycardia.",
+                    "severity": "Normal",
+                    "id": "4842a670-ff43-4b87-8bb2-e9823785cc8a",
+                    "parentId": "d6e79adc-1e08-4dcd-b422-c0bc581bb619"
+                },
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Propofol can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "4cca8e08-dc14-4b86-beaf-c8f3cd5618bc",
+                    "parentId": "d6e79adc-1e08-4dcd-b422-c0bc581bb619"
+                }
+            ],
+            "id": "d6e79adc-1e08-4dcd-b422-c0bc581bb619",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "quetiapine",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Quetiapine can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "6eced84a-aee0-41f7-a48c-4ab036c10640",
+                    "parentId": "5a985014-d001-4f41-beab-4caae2727d59"
+                }
+            ],
+            "id": "5a985014-d001-4f41-beab-4caae2727d59",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "quinagolide",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Quinagolide can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "e04a7cea-b3a6-40e8-b772-ebba18cbbc3c",
+                    "parentId": "0c23bc18-c79f-43a5-af6b-ab382db9db62"
+                }
+            ],
+            "id": "0c23bc18-c79f-43a5-af6b-ab382db9db62",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "quinapril",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Quinapril can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "335bccc9-0dd0-47e9-93fd-0d6973dce8ff",
+                    "parentId": "f3d0e823-0e79-41f3-8881-e19af37d8020"
+                }
+            ],
+            "id": "f3d0e823-0e79-41f3-8881-e19af37d8020",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "ramipril",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Ramipril can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "84dc8574-d16a-4a6b-a3ce-efd88ccd0065",
+                    "parentId": "3b302cc5-9ed6-434f-9318-6a7e4fde8def"
+                }
+            ],
+            "id": "3b302cc5-9ed6-434f-9318-6a7e4fde8def",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "remifentanil",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Remifentanil can increase the risk of bradycardia.",
+                    "severity": "Normal",
+                    "id": "b6e01e2f-ac33-4782-aa4f-0464999e1607",
+                    "parentId": "7a2fbb34-21d1-40bc-829f-061e564c76a9"
+                }
+            ],
+            "id": "7a2fbb34-21d1-40bc-829f-061e564c76a9",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "riociguat",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Riociguat can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "945081b0-0a85-4a4b-a751-ce28a0a68bc5",
+                    "parentId": "9c72cd4d-cd89-4992-9e52-5fdf2190fb84"
+                }
+            ],
+            "id": "9c72cd4d-cd89-4992-9e52-5fdf2190fb84",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "risperidone",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Risperidone can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "5300e691-34b7-4d17-b7a7-dae7047ecb86",
+                    "parentId": "199f853e-8a94-4c75-ae9a-54ccfcdaec39"
+                }
+            ],
+            "id": "199f853e-8a94-4c75-ae9a-54ccfcdaec39",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "rivastigmine",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Rivastigmine can increase the risk of bradycardia.",
+                    "severity": "Normal",
+                    "id": "22c53d99-d5e6-42a9-afbe-16674dd833c2",
+                    "parentId": "725eeaa5-104d-45df-b2c6-daae377026f5"
+                }
+            ],
+            "id": "725eeaa5-104d-45df-b2c6-daae377026f5",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "ropinirole",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Ropinirole can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "eb4a29b5-f7fb-4480-89dc-b4571d470aa1",
+                    "parentId": "d94bd8dd-85af-4d64-9e4c-51edf2b131ee"
+                }
+            ],
+            "id": "d94bd8dd-85af-4d64-9e4c-51edf2b131ee",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "rotigotine",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Rotigotine can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "b4339e2a-2a22-4d7f-a28d-9368e9e054be",
+                    "parentId": "0dac9096-ba5b-4a02-8a2f-298befb011f3"
+                }
+            ],
+            "id": "0dac9096-ba5b-4a02-8a2f-298befb011f3",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "sevoflurane",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Sevoflurane can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "fcc51899-3622-467d-be67-6601ef798712",
+                    "parentId": "f0762035-e8b7-4853-9f2f-9d28deebd135"
+                }
+            ],
+            "id": "f0762035-e8b7-4853-9f2f-9d28deebd135",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "sildenafil",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Sildenafil can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "e95529b4-f8d3-4b25-bbd0-a4d963926f79",
+                    "parentId": "2a8f5822-4ebc-4756-96bb-643e0b903bb1"
+                }
+            ],
+            "id": "2a8f5822-4ebc-4756-96bb-643e0b903bb1",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "siponimod",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Siponimod can increase the risk of bradycardia.",
+                    "severity": "Normal",
+                    "id": "12e39d41-5987-4a75-82a9-bc5b37d97bfd",
+                    "parentId": "0c4b6895-1f8d-4669-96da-f8cd42414d52"
+                }
+            ],
+            "id": "0c4b6895-1f8d-4669-96da-f8cd42414d52",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "sodium-oxybate",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Sodium oxybate can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "fc7e85fa-db6f-476d-bc70-e81e2d3a2e0b",
+                    "parentId": "eab7f9d3-8e1c-4aad-bc35-671adfe05d45"
+                }
+            ],
+            "id": "eab7f9d3-8e1c-4aad-bc35-671adfe05d45",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "spironolactone",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Spironolactone can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "1123bf91-c738-4cc4-bc2e-183d99290689",
+                    "parentId": "6dd2f751-6a69-4a3f-9d17-a0c6a8f5d907"
+                }
+            ],
+            "id": "6dd2f751-6a69-4a3f-9d17-a0c6a8f5d907",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "sufentanil",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Sufentanil can increase the risk of bradycardia.",
+                    "severity": "Normal",
+                    "id": "39db8955-182a-495f-863c-f08a44c84427",
+                    "parentId": "f9314ceb-b820-46ec-9278-b693dbdbbb14"
+                }
+            ],
+            "id": "f9314ceb-b820-46ec-9278-b693dbdbbb14",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "sulpiride",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Sulpiride can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "1d668730-0bbe-4bd7-85ee-f0f06202f52c",
+                    "parentId": "a89d01e1-708d-4915-bfee-fa2ba28b1e68"
+                }
+            ],
+            "id": "a89d01e1-708d-4915-bfee-fa2ba28b1e68",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "tadalafil",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Tadalafil can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "299ea7df-d59e-4630-9a5b-5c928f443385",
+                    "parentId": "3028f9e9-8f20-404a-905c-77d089d25f2c"
+                }
+            ],
+            "id": "3028f9e9-8f20-404a-905c-77d089d25f2c",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "telmisartan",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Telmisartan can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "09cdc41c-624d-48a4-b4ce-003cc5e44c28",
+                    "parentId": "ed7e193c-eca4-4082-b876-996aa998661e"
+                }
+            ],
+            "id": "ed7e193c-eca4-4082-b876-996aa998661e",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "terazosin",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Terazosin can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "ad14f34c-6d41-4e3e-9f66-794823009d79",
+                    "parentId": "a8e7988f-15ba-4fbd-aeac-a68de6ce2e28"
+                }
+            ],
+            "id": "a8e7988f-15ba-4fbd-aeac-a68de6ce2e28",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "thalidomide-specialist-drug",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Thalidomide can increase the risk of bradycardia.",
+                    "severity": "Normal",
+                    "id": "4ecdbad5-1dab-4ce8-afcd-baa17218b1ea",
+                    "parentId": "34d6955d-35c8-427a-9041-e12454cfbb6e"
+                }
+            ],
+            "id": "34d6955d-35c8-427a-9041-e12454cfbb6e",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "theophylline",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Betaxolol is predicted to increase the risk of bronchospasm when given with Theophylline. Manufacturer advises avoid.  ",
+                    "severity": "Severe",
+                    "id": "890c0441-51cb-4d6a-8388-56002c3ce434",
+                    "parentId": "c26f9f3c-20ff-4b0d-9275-5aa1406276de"
+                }
+            ],
+            "id": "c26f9f3c-20ff-4b0d-9275-5aa1406276de",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "ticagrelor",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Ticagrelor can increase the risk of bradycardia.",
+                    "severity": "Normal",
+                    "id": "42c0c422-f9da-4c4f-b831-1af876cdd3f7",
+                    "parentId": "982ef2e1-720c-48fd-884b-acbc7c2dc9f4"
+                }
+            ],
+            "id": "982ef2e1-720c-48fd-884b-acbc7c2dc9f4",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "tizanidine",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Tizanidine can increase the risk of bradycardia.",
+                    "severity": "Normal",
+                    "id": "9f28256a-acf1-4d2e-b93c-ffc80d384e04",
+                    "parentId": "0ff18635-074b-4231-8d1f-2ec9a6cbc708"
+                },
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Tizanidine can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "3015c3ab-9873-47a9-ba11-970fc99e1cfa",
+                    "parentId": "0ff18635-074b-4231-8d1f-2ec9a6cbc708"
+                }
+            ],
+            "id": "0ff18635-074b-4231-8d1f-2ec9a6cbc708",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "torasemide",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Torasemide can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "13ec8a62-280f-4768-935d-17bf9355955d",
+                    "parentId": "9c2854c4-b2bd-43e5-84c4-38982917221a"
+                }
+            ],
+            "id": "9c2854c4-b2bd-43e5-84c4-38982917221a",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "trandolapril",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Trandolapril can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "81d8d91b-01d7-446c-8c13-0d3b8fbfdbb4",
+                    "parentId": "054a5ab9-1f75-47c0-ae20-4334dd05b2d3"
+                }
+            ],
+            "id": "054a5ab9-1f75-47c0-ae20-4334dd05b2d3",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "tranylcypromine",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Tranylcypromine can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "82e3092a-b40f-4476-855e-4c6615d9c6ba",
+                    "parentId": "7c512802-6806-4829-ae24-577a0e8c4024"
+                }
+            ],
+            "id": "7c512802-6806-4829-ae24-577a0e8c4024",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "treprostinil",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Treprostinil can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "b8672cb6-94f3-4def-b51f-286f726b9407",
+                    "parentId": "d6209d85-acd0-4982-be4a-f8520c966e76"
+                }
+            ],
+            "id": "d6209d85-acd0-4982-be4a-f8520c966e76",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "trifluoperazine",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Trifluoperazine can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "f4a9d4b9-fdb6-43c3-8c28-3fd5eb4a495f",
+                    "parentId": "eb9c29f4-d561-457e-85ac-cef1f674f31f"
+                }
+            ],
+            "id": "eb9c29f4-d561-457e-85ac-cef1f674f31f",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "trimipramine",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Trimipramine can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "ac17dd9d-0698-4a2e-b014-e12a76a1e0db",
+                    "parentId": "ce7169b0-5570-47ef-9041-c7c9a424ff95"
+                }
+            ],
+            "id": "ce7169b0-5570-47ef-9041-c7c9a424ff95",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "valsartan",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Valsartan can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "de8d7074-60f9-4fb1-b96f-f71ee1700a21",
+                    "parentId": "23bf19c7-0360-4a8d-b22b-85af60aa527e"
+                }
+            ],
+            "id": "23bf19c7-0360-4a8d-b22b-85af60aa527e",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "vardenafil",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Vardenafil can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "ab214fc6-d5a2-4439-b453-0e8ec2c4cd2d",
+                    "parentId": "bb4cf095-d2c7-404d-a931-7c14896d4623"
+                }
+            ],
+            "id": "bb4cf095-d2c7-404d-a931-7c14896d4623",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "vericiguat",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Vericiguat can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "a5cfdf44-671e-4e51-8627-071b58931f9c",
+                    "parentId": "31faad03-16b1-4075-a1f6-1191ced79be3"
+                }
+            ],
+            "id": "31faad03-16b1-4075-a1f6-1191ced79be3",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "vernakalant",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Vernakalant can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "e4b4978b-0772-4811-a5fb-2784308fa235",
+                    "parentId": "6772e7d3-84a0-47fb-9b01-e5d9a79f77f5"
+                }
+            ],
+            "id": "6772e7d3-84a0-47fb-9b01-e5d9a79f77f5",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        },
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "xipamide",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Betaxolol and Xipamide can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "11665a02-b29b-44b7-896b-a85ffcc121aa",
+                    "parentId": "25d24e67-d3a7-4272-bda4-43c79223dd55"
+                }
+            ],
+            "id": "25d24e67-d3a7-4272-bda4-43c79223dd55",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        }
+    ],
+    "id": "b0115b28-8d38-49ea-a091-a7b2c76c6733",
+    "parentId": null
+}

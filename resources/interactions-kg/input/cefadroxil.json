@@ -1,0 +1,816 @@
+{
+    "interactions": [
+        {
+            "interactingDrugId": "cefadroxil",
+            "interactantDrugId": "aceclofenac",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Cefadroxil and Aceclofenac can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "9d02744c-717b-4bc0-ac45-808edae4f091",
+                    "parentId": "ee68f6d9-59a0-40c7-89e6-a0880e379f69"
+                }
+            ],
+            "id": "ee68f6d9-59a0-40c7-89e6-a0880e379f69",
+            "parentId": "e24cc24d-1eac-421e-88fe-de06d59d6bd4"
+        },
+        {
+            "interactingDrugId": "cefadroxil",
+            "interactantDrugId": "aciclovir",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Cefadroxil and Aciclovir can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "739c227f-d1f3-40ae-9a1a-2ca4288d82a2",
+                    "parentId": "64603501-690e-4c18-b4f9-62eba7ca81ff"
+                }
+            ],
+            "id": "64603501-690e-4c18-b4f9-62eba7ca81ff",
+            "parentId": "e24cc24d-1eac-421e-88fe-de06d59d6bd4"
+        },
+        {
+            "interactingDrugId": "cefadroxil",
+            "interactantDrugId": "amikacin",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Cefadroxil and Amikacin can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "49f2a836-cae4-446c-8118-9fa60d33424a",
+                    "parentId": "4cb9d6e3-67bc-4b57-9b9c-97843c29fa57"
+                }
+            ],
+            "id": "4cb9d6e3-67bc-4b57-9b9c-97843c29fa57",
+            "parentId": "e24cc24d-1eac-421e-88fe-de06d59d6bd4"
+        },
+        {
+            "interactingDrugId": "cefadroxil",
+            "interactantDrugId": "amphotericin-b",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Cefadroxil and Amphotericin B can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "08ca80cd-16ae-4755-b923-b3003e8244eb",
+                    "parentId": "f6a7b246-e5c0-4936-9f04-e6984e20561d"
+                }
+            ],
+            "id": "f6a7b246-e5c0-4936-9f04-e6984e20561d",
+            "parentId": "e24cc24d-1eac-421e-88fe-de06d59d6bd4"
+        },
+        {
+            "interactingDrugId": "cefadroxil",
+            "interactantDrugId": "aspirin",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Cefadroxil and Aspirin can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "e1630566-9331-4070-b378-73294f097768",
+                    "parentId": "28a3159d-0c52-4a81-aeff-9eec500d43cc"
+                }
+            ],
+            "id": "28a3159d-0c52-4a81-aeff-9eec500d43cc",
+            "parentId": "e24cc24d-1eac-421e-88fe-de06d59d6bd4"
+        },
+        {
+            "interactingDrugId": "cefadroxil",
+            "interactantDrugId": "captopril",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Cefadroxil and Captopril can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "39e561e3-e9b8-4ade-95a3-3816900ad180",
+                    "parentId": "373f39b4-b08a-47c4-8567-fec4ed3e4a86"
+                }
+            ],
+            "id": "373f39b4-b08a-47c4-8567-fec4ed3e4a86",
+            "parentId": "e24cc24d-1eac-421e-88fe-de06d59d6bd4"
+        },
+        {
+            "interactingDrugId": "cefadroxil",
+            "interactantDrugId": "carboplatin-specialist-drug",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Cefadroxil and Carboplatin can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "065b1ba3-34a8-4020-ac58-1e0429eef340",
+                    "parentId": "fcbbfc97-0858-4882-96e8-0525e9a4eef3"
+                }
+            ],
+            "id": "fcbbfc97-0858-4882-96e8-0525e9a4eef3",
+            "parentId": "e24cc24d-1eac-421e-88fe-de06d59d6bd4"
+        },
+        {
+            "interactingDrugId": "cefadroxil",
+            "interactantDrugId": "celecoxib",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Cefadroxil and Celecoxib can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "9f3db738-5229-4e80-8851-37c1faa06882",
+                    "parentId": "156e2802-eaac-497d-9562-365737e2ccda"
+                }
+            ],
+            "id": "156e2802-eaac-497d-9562-365737e2ccda",
+            "parentId": "e24cc24d-1eac-421e-88fe-de06d59d6bd4"
+        },
+        {
+            "interactingDrugId": "cefadroxil",
+            "interactantDrugId": "ciclosporin",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Cefadroxil and Ciclosporin can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "b88b8389-cb8a-4f3d-8906-d14c88d54adb",
+                    "parentId": "74bb9577-82db-4826-a7b9-575bfcd6cc41"
+                }
+            ],
+            "id": "74bb9577-82db-4826-a7b9-575bfcd6cc41",
+            "parentId": "e24cc24d-1eac-421e-88fe-de06d59d6bd4"
+        },
+        {
+            "interactingDrugId": "cefadroxil",
+            "interactantDrugId": "cidofovir",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Cefadroxil and Cidofovir can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "ae14a823-99d4-40e4-b413-f588c42d4527",
+                    "parentId": "5b7fe6a3-8111-4ede-948a-c90e0950928c"
+                }
+            ],
+            "id": "5b7fe6a3-8111-4ede-948a-c90e0950928c",
+            "parentId": "e24cc24d-1eac-421e-88fe-de06d59d6bd4"
+        },
+        {
+            "interactingDrugId": "cefadroxil",
+            "interactantDrugId": "cisplatin-specialist-drug",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Cefadroxil and Cisplatin can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "b9d67861-df53-4f78-94d7-069ca7dbac49",
+                    "parentId": "387ac6e7-75dd-4f10-becb-b9ad6b33d837"
+                }
+            ],
+            "id": "387ac6e7-75dd-4f10-becb-b9ad6b33d837",
+            "parentId": "e24cc24d-1eac-421e-88fe-de06d59d6bd4"
+        },
+        {
+            "interactingDrugId": "cefadroxil",
+            "interactantDrugId": "deferasirox",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Cefadroxil and Deferasirox can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "d2617368-e89e-4fb9-bb1e-36d7be9fc069",
+                    "parentId": "0fef989f-f314-4a3c-b9be-cb8f9cc54732"
+                }
+            ],
+            "id": "0fef989f-f314-4a3c-b9be-cb8f9cc54732",
+            "parentId": "e24cc24d-1eac-421e-88fe-de06d59d6bd4"
+        },
+        {
+            "interactingDrugId": "cefadroxil",
+            "interactantDrugId": "dexketoprofen",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Cefadroxil and Dexketoprofen can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "7b968c1c-7dfa-44f0-9578-421d475adfa3",
+                    "parentId": "01331c3c-a8ba-4c78-8c08-ca6893d21b72"
+                }
+            ],
+            "id": "01331c3c-a8ba-4c78-8c08-ca6893d21b72",
+            "parentId": "e24cc24d-1eac-421e-88fe-de06d59d6bd4"
+        },
+        {
+            "interactingDrugId": "cefadroxil",
+            "interactantDrugId": "etodolac",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Cefadroxil and Etodolac can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "64aa6546-cbbd-470a-bdd3-42c10f1594bf",
+                    "parentId": "a59375cd-911b-428a-96fb-f758c3213843"
+                }
+            ],
+            "id": "a59375cd-911b-428a-96fb-f758c3213843",
+            "parentId": "e24cc24d-1eac-421e-88fe-de06d59d6bd4"
+        },
+        {
+            "interactingDrugId": "cefadroxil",
+            "interactantDrugId": "etoricoxib",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Cefadroxil and Etoricoxib can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "58ec7d74-2b62-43fa-a2b1-8f1cbe13be9b",
+                    "parentId": "7ab8f286-2fa9-49c9-9e02-434382257e90"
+                }
+            ],
+            "id": "7ab8f286-2fa9-49c9-9e02-434382257e90",
+            "parentId": "e24cc24d-1eac-421e-88fe-de06d59d6bd4"
+        },
+        {
+            "interactingDrugId": "cefadroxil",
+            "interactantDrugId": "flurbiprofen",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Cefadroxil and Flurbiprofen can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "7ef530e0-d82d-4f17-beaf-77741b51549b",
+                    "parentId": "f108afd8-9db8-44c4-a277-9becd4bd90c0"
+                }
+            ],
+            "id": "f108afd8-9db8-44c4-a277-9becd4bd90c0",
+            "parentId": "e24cc24d-1eac-421e-88fe-de06d59d6bd4"
+        },
+        {
+            "interactingDrugId": "cefadroxil",
+            "interactantDrugId": "ganciclovir",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Cefadroxil and Ganciclovir can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "ee35c637-ced3-49b5-ab98-55eb464ae573",
+                    "parentId": "bb7bf28d-ea8b-470f-b4e3-dbaa76a00e88"
+                }
+            ],
+            "id": "bb7bf28d-ea8b-470f-b4e3-dbaa76a00e88",
+            "parentId": "e24cc24d-1eac-421e-88fe-de06d59d6bd4"
+        },
+        {
+            "interactingDrugId": "cefadroxil",
+            "interactantDrugId": "gentamicin",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Cefadroxil and Gentamicin can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "119bd745-51d5-4da9-86cd-ddf39dba1aa8",
+                    "parentId": "7fde10e6-8c37-4b5e-9cb8-4f3a8def27d2"
+                }
+            ],
+            "id": "7fde10e6-8c37-4b5e-9cb8-4f3a8def27d2",
+            "parentId": "e24cc24d-1eac-421e-88fe-de06d59d6bd4"
+        },
+        {
+            "interactingDrugId": "cefadroxil",
+            "interactantDrugId": "ibuprofen",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Cefadroxil and Ibuprofen can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "6c0890fa-1e72-4731-bfd0-f45900b0b838",
+                    "parentId": "0009c92d-3850-4ff7-b286-4e49e5806eed"
+                }
+            ],
+            "id": "0009c92d-3850-4ff7-b286-4e49e5806eed",
+            "parentId": "e24cc24d-1eac-421e-88fe-de06d59d6bd4"
+        },
+        {
+            "interactingDrugId": "cefadroxil",
+            "interactantDrugId": "ifosfamide-specialist-drug",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Cefadroxil and Ifosfamide can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "d585b715-4e14-4c63-b468-9a2410e6ce3c",
+                    "parentId": "02604858-098d-4a80-8a1d-e96e6a1b3a55"
+                }
+            ],
+            "id": "02604858-098d-4a80-8a1d-e96e6a1b3a55",
+            "parentId": "e24cc24d-1eac-421e-88fe-de06d59d6bd4"
+        },
+        {
+            "interactingDrugId": "cefadroxil",
+            "interactantDrugId": "indometacin",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Cefadroxil and Indometacin can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "b6f1828a-16cd-4802-9a36-634684716701",
+                    "parentId": "59d44899-e378-4705-aeba-3a5bdcbbd08a"
+                }
+            ],
+            "id": "59d44899-e378-4705-aeba-3a5bdcbbd08a",
+            "parentId": "e24cc24d-1eac-421e-88fe-de06d59d6bd4"
+        },
+        {
+            "interactingDrugId": "cefadroxil",
+            "interactantDrugId": "inotersen",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Cefadroxil and Inotersen can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "2be69ae7-aacd-40eb-b447-76c2d5dac001",
+                    "parentId": "84b26933-be72-4f60-a3c5-628ac1b323bf"
+                }
+            ],
+            "id": "84b26933-be72-4f60-a3c5-628ac1b323bf",
+            "parentId": "e24cc24d-1eac-421e-88fe-de06d59d6bd4"
+        },
+        {
+            "interactingDrugId": "cefadroxil",
+            "interactantDrugId": "ketoprofen",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Cefadroxil and Ketoprofen can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "9415b528-c5e3-4163-ad3c-6db338d7ec1b",
+                    "parentId": "916fdeac-7272-4493-8a63-bd3003254791"
+                }
+            ],
+            "id": "916fdeac-7272-4493-8a63-bd3003254791",
+            "parentId": "e24cc24d-1eac-421e-88fe-de06d59d6bd4"
+        },
+        {
+            "interactingDrugId": "cefadroxil",
+            "interactantDrugId": "lisinopril",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Cefadroxil and Lisinopril can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "dc25c575-0e37-47f6-9c4b-bff5762e893d",
+                    "parentId": "25af4d32-efc7-4730-b342-5e26e5de2ddb"
+                }
+            ],
+            "id": "25af4d32-efc7-4730-b342-5e26e5de2ddb",
+            "parentId": "e24cc24d-1eac-421e-88fe-de06d59d6bd4"
+        },
+        {
+            "interactingDrugId": "cefadroxil",
+            "interactantDrugId": "mefenamic-acid",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Cefadroxil and Mefenamic acid can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "4fa71ed7-250c-4849-80f3-52904a5f3141",
+                    "parentId": "b6ae438f-9fd1-4a07-b31f-4ecc65ef7813"
+                }
+            ],
+            "id": "b6ae438f-9fd1-4a07-b31f-4ecc65ef7813",
+            "parentId": "e24cc24d-1eac-421e-88fe-de06d59d6bd4"
+        },
+        {
+            "interactingDrugId": "cefadroxil",
+            "interactantDrugId": "meloxicam",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Cefadroxil and Meloxicam can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "b260cddf-fdb7-4d32-a7d7-5e51a979f655",
+                    "parentId": "b87a6026-5b8e-4a1b-9ff5-c825fc0fd457"
+                }
+            ],
+            "id": "b87a6026-5b8e-4a1b-9ff5-c825fc0fd457",
+            "parentId": "e24cc24d-1eac-421e-88fe-de06d59d6bd4"
+        },
+        {
+            "interactingDrugId": "cefadroxil",
+            "interactantDrugId": "mesalazine",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Cefadroxil and Mesalazine can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "04092224-4691-4fea-9a38-115f264558cb",
+                    "parentId": "043e5e7b-b529-4617-bbec-8f66c59b9f4d"
+                }
+            ],
+            "id": "043e5e7b-b529-4617-bbec-8f66c59b9f4d",
+            "parentId": "e24cc24d-1eac-421e-88fe-de06d59d6bd4"
+        },
+        {
+            "interactingDrugId": "cefadroxil",
+            "interactantDrugId": "methotrexate",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Cefadroxil and Methotrexate can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "f969d57d-267c-4794-81a2-bff7588ff1ef",
+                    "parentId": "2e8b1608-4ffe-495b-b5bd-aa097887ab31"
+                }
+            ],
+            "id": "2e8b1608-4ffe-495b-b5bd-aa097887ab31",
+            "parentId": "e24cc24d-1eac-421e-88fe-de06d59d6bd4"
+        },
+        {
+            "interactingDrugId": "cefadroxil",
+            "interactantDrugId": "nabumetone",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Cefadroxil and Nabumetone can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "1c87c1fa-7d35-4dad-a276-6f75616de655",
+                    "parentId": "7073f242-3e7f-4204-b7b7-fdd6ed33cdf0"
+                }
+            ],
+            "id": "7073f242-3e7f-4204-b7b7-fdd6ed33cdf0",
+            "parentId": "e24cc24d-1eac-421e-88fe-de06d59d6bd4"
+        },
+        {
+            "interactingDrugId": "cefadroxil",
+            "interactantDrugId": "naproxen",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Cefadroxil and Naproxen can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "4398514f-6fef-46f0-bad5-098a2f60a788",
+                    "parentId": "79c37648-70ad-4083-b2e4-86f66a755d93"
+                }
+            ],
+            "id": "79c37648-70ad-4083-b2e4-86f66a755d93",
+            "parentId": "e24cc24d-1eac-421e-88fe-de06d59d6bd4"
+        },
+        {
+            "interactingDrugId": "cefadroxil",
+            "interactantDrugId": "netilmicin",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Cefadroxil and Netilmicin can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "f2147367-9f38-4446-b8a6-bc44a322955b",
+                    "parentId": "dee252d2-29aa-4950-b372-58d5e6fa0ab1"
+                }
+            ],
+            "id": "dee252d2-29aa-4950-b372-58d5e6fa0ab1",
+            "parentId": "e24cc24d-1eac-421e-88fe-de06d59d6bd4"
+        },
+        {
+            "interactingDrugId": "cefadroxil",
+            "interactantDrugId": "oxaliplatin-specialist-drug",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Cefadroxil and Oxaliplatin can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "54c13095-7abc-4b41-b043-eedcf7e5216e",
+                    "parentId": "7eb8da08-8b7a-4221-9202-75b30a1745af"
+                }
+            ],
+            "id": "7eb8da08-8b7a-4221-9202-75b30a1745af",
+            "parentId": "e24cc24d-1eac-421e-88fe-de06d59d6bd4"
+        },
+        {
+            "interactingDrugId": "cefadroxil",
+            "interactantDrugId": "parecoxib",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Cefadroxil and Parecoxib can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "7ca8c385-77bd-436f-9e3d-517685c9736f",
+                    "parentId": "afdfdfc6-3324-467d-aeae-5b589b4c0c88"
+                }
+            ],
+            "id": "afdfdfc6-3324-467d-aeae-5b589b4c0c88",
+            "parentId": "e24cc24d-1eac-421e-88fe-de06d59d6bd4"
+        },
+        {
+            "interactingDrugId": "cefadroxil",
+            "interactantDrugId": "pemetrexed-specialist-drug",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Cefadroxil and Pemetrexed can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "bc560839-ba39-47ae-a33e-9b2c3cc08f3f",
+                    "parentId": "57b71d1f-7aff-492a-a284-c49b542bc7d3"
+                }
+            ],
+            "id": "57b71d1f-7aff-492a-a284-c49b542bc7d3",
+            "parentId": "e24cc24d-1eac-421e-88fe-de06d59d6bd4"
+        },
+        {
+            "interactingDrugId": "cefadroxil",
+            "interactantDrugId": "piroxicam",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Cefadroxil and Piroxicam can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "54313aa5-f80b-4cb4-9d8a-ed64b89571df",
+                    "parentId": "d0014b4c-2e5c-42f4-8070-4e0fbc0e990e"
+                }
+            ],
+            "id": "d0014b4c-2e5c-42f4-8070-4e0fbc0e990e",
+            "parentId": "e24cc24d-1eac-421e-88fe-de06d59d6bd4"
+        },
+        {
+            "interactingDrugId": "cefadroxil",
+            "interactantDrugId": "quinapril",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Cefadroxil and Quinapril can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "c2bdb064-1d7e-450c-a9f5-c1ca81f3be53",
+                    "parentId": "d1a5b80e-e150-4536-bd47-11bae332aa83"
+                }
+            ],
+            "id": "d1a5b80e-e150-4536-bd47-11bae332aa83",
+            "parentId": "e24cc24d-1eac-421e-88fe-de06d59d6bd4"
+        },
+        {
+            "interactingDrugId": "cefadroxil",
+            "interactantDrugId": "ramipril",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Cefadroxil and Ramipril can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "5612d48d-80b3-4119-a499-94a44020d2fb",
+                    "parentId": "169405a2-5c60-4b3a-a52b-7f44c63d3259"
+                }
+            ],
+            "id": "169405a2-5c60-4b3a-a52b-7f44c63d3259",
+            "parentId": "e24cc24d-1eac-421e-88fe-de06d59d6bd4"
+        },
+        {
+            "interactingDrugId": "cefadroxil",
+            "interactantDrugId": "rifampicin",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Cefadroxil and Rifampicin can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "d2719230-25e2-4f87-bf4f-61f7f3dbb791",
+                    "parentId": "0d38786a-1b57-43ef-84b6-1da95bee0a97"
+                }
+            ],
+            "id": "0d38786a-1b57-43ef-84b6-1da95bee0a97",
+            "parentId": "e24cc24d-1eac-421e-88fe-de06d59d6bd4"
+        },
+        {
+            "interactingDrugId": "cefadroxil",
+            "interactantDrugId": "streptomycin",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Cefadroxil and Streptomycin can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "4271e785-69af-48c5-a43c-088777cc8afa",
+                    "parentId": "cff61a04-06e7-419f-9a60-d79d816a2e2a"
+                }
+            ],
+            "id": "cff61a04-06e7-419f-9a60-d79d816a2e2a",
+            "parentId": "e24cc24d-1eac-421e-88fe-de06d59d6bd4"
+        },
+        {
+            "interactingDrugId": "cefadroxil",
+            "interactantDrugId": "streptozocin-specialist-drug",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Cefadroxil and Streptozocin can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "65b1e086-e371-4bed-b948-1a15a0ee0df6",
+                    "parentId": "e628351e-6533-4f3d-832f-9be4e2a940d4"
+                }
+            ],
+            "id": "e628351e-6533-4f3d-832f-9be4e2a940d4",
+            "parentId": "e24cc24d-1eac-421e-88fe-de06d59d6bd4"
+        },
+        {
+            "interactingDrugId": "cefadroxil",
+            "interactantDrugId": "sulfasalazine",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Cefadroxil and Sulfasalazine can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "89a8305a-d359-4cec-b1a1-d5d8512bbd82",
+                    "parentId": "70565063-bcf4-47ab-8669-f38de8989107"
+                }
+            ],
+            "id": "70565063-bcf4-47ab-8669-f38de8989107",
+            "parentId": "e24cc24d-1eac-421e-88fe-de06d59d6bd4"
+        },
+        {
+            "interactingDrugId": "cefadroxil",
+            "interactantDrugId": "sulindac",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Cefadroxil and Sulindac can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "6bfbfd6b-27c2-460e-bf00-21f992359698",
+                    "parentId": "e1fd52ec-349d-4dd6-8573-fa6f230ba7f8"
+                }
+            ],
+            "id": "e1fd52ec-349d-4dd6-8573-fa6f230ba7f8",
+            "parentId": "e24cc24d-1eac-421e-88fe-de06d59d6bd4"
+        },
+        {
+            "interactingDrugId": "cefadroxil",
+            "interactantDrugId": "tacrolimus",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Cefadroxil and Tacrolimus can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "c01c76b2-90a6-4c45-acfe-108a289adf86",
+                    "parentId": "ef1a5639-1fea-444a-8178-f1b26e16529b"
+                }
+            ],
+            "id": "ef1a5639-1fea-444a-8178-f1b26e16529b",
+            "parentId": "e24cc24d-1eac-421e-88fe-de06d59d6bd4"
+        },
+        {
+            "interactingDrugId": "cefadroxil",
+            "interactantDrugId": "tenofovir-disoproxil",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Cefadroxil and Tenofovir disoproxil can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "1889c422-6744-4855-b2b4-adfb9c2e1bbb",
+                    "parentId": "c100d44a-8f6a-404b-afd8-1395c7853ad7"
+                }
+            ],
+            "id": "c100d44a-8f6a-404b-afd8-1395c7853ad7",
+            "parentId": "e24cc24d-1eac-421e-88fe-de06d59d6bd4"
+        },
+        {
+            "interactingDrugId": "cefadroxil",
+            "interactantDrugId": "tenoxicam",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Cefadroxil and Tenoxicam can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "ad3e5c2d-a1f2-45fe-b21a-b505f453d7ee",
+                    "parentId": "5a5561d1-19c4-45ad-a234-85b74d5695af"
+                }
+            ],
+            "id": "5a5561d1-19c4-45ad-a234-85b74d5695af",
+            "parentId": "e24cc24d-1eac-421e-88fe-de06d59d6bd4"
+        },
+        {
+            "interactingDrugId": "cefadroxil",
+            "interactantDrugId": "tiaprofenic-acid",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Cefadroxil and Tiaprofenic acid can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "cacab337-d404-4fae-ba06-89acfd2344ad",
+                    "parentId": "fc67416c-b419-45e3-8fb0-e0fd37a41c3d"
+                }
+            ],
+            "id": "fc67416c-b419-45e3-8fb0-e0fd37a41c3d",
+            "parentId": "e24cc24d-1eac-421e-88fe-de06d59d6bd4"
+        },
+        {
+            "interactingDrugId": "cefadroxil",
+            "interactantDrugId": "tobramycin",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Cefadroxil and Tobramycin can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "aa1cb35a-6438-407a-958b-6d34e4844842",
+                    "parentId": "614b8fc4-7dff-43ed-92a1-7f08562f3ccc"
+                }
+            ],
+            "id": "614b8fc4-7dff-43ed-92a1-7f08562f3ccc",
+            "parentId": "e24cc24d-1eac-421e-88fe-de06d59d6bd4"
+        },
+        {
+            "interactingDrugId": "cefadroxil",
+            "interactantDrugId": "tolfenamic-acid",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Cefadroxil and Tolfenamic acid can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "77b96818-9292-4862-b7be-5c4bf4e32c1a",
+                    "parentId": "2c865695-6b55-4e16-a743-e89bcb481464"
+                }
+            ],
+            "id": "2c865695-6b55-4e16-a743-e89bcb481464",
+            "parentId": "e24cc24d-1eac-421e-88fe-de06d59d6bd4"
+        },
+        {
+            "interactingDrugId": "cefadroxil",
+            "interactantDrugId": "trandolapril",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Cefadroxil and Trandolapril can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "559dd12f-60dd-4919-b18b-faf71e421e4a",
+                    "parentId": "a5c5f2ac-7188-4350-88a6-bf541fdb3111"
+                }
+            ],
+            "id": "a5c5f2ac-7188-4350-88a6-bf541fdb3111",
+            "parentId": "e24cc24d-1eac-421e-88fe-de06d59d6bd4"
+        },
+        {
+            "interactingDrugId": "cefadroxil",
+            "interactantDrugId": "trimethoprim",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Cefadroxil and Trimethoprim can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "b31c285c-3ed4-4cb3-995b-6807f619f98e",
+                    "parentId": "4ab39f09-0531-48eb-8648-0e4b81ce88f8"
+                }
+            ],
+            "id": "4ab39f09-0531-48eb-8648-0e4b81ce88f8",
+            "parentId": "e24cc24d-1eac-421e-88fe-de06d59d6bd4"
+        },
+        {
+            "interactingDrugId": "cefadroxil",
+            "interactantDrugId": "valaciclovir",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Cefadroxil and Valaciclovir can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "54902ab5-8999-487a-a639-276747ea250b",
+                    "parentId": "5a0c802d-e842-468a-ac9c-541c3e871b0a"
+                }
+            ],
+            "id": "5a0c802d-e842-468a-ac9c-541c3e871b0a",
+            "parentId": "e24cc24d-1eac-421e-88fe-de06d59d6bd4"
+        },
+        {
+            "interactingDrugId": "cefadroxil",
+            "interactantDrugId": "valganciclovir",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Cefadroxil and Valganciclovir can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "cb3957bf-24f1-48e5-8dd0-b71bdb5040fd",
+                    "parentId": "286b9233-de81-4b40-9364-b11e61b204d4"
+                }
+            ],
+            "id": "286b9233-de81-4b40-9364-b11e61b204d4",
+            "parentId": "e24cc24d-1eac-421e-88fe-de06d59d6bd4"
+        },
+        {
+            "interactingDrugId": "cefadroxil",
+            "interactantDrugId": "vancomycin",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Cefadroxil and Vancomycin can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "d281dc45-5855-4dca-97fc-e450f3c72989",
+                    "parentId": "591a8970-ba72-4f32-8e9b-6c720a4ff174"
+                }
+            ],
+            "id": "591a8970-ba72-4f32-8e9b-6c720a4ff174",
+            "parentId": "e24cc24d-1eac-421e-88fe-de06d59d6bd4"
+        },
+        {
+            "interactingDrugId": "cefadroxil",
+            "interactantDrugId": "voclosporin",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Cefadroxil and Voclosporin can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "2d047921-104b-4e40-be2d-be6fef07ffe0",
+                    "parentId": "eab43347-42b0-4305-bffd-eac6cb21b819"
+                }
+            ],
+            "id": "eab43347-42b0-4305-bffd-eac6cb21b819",
+            "parentId": "e24cc24d-1eac-421e-88fe-de06d59d6bd4"
+        }
+    ],
+    "id": "e24cc24d-1eac-421e-88fe-de06d59d6bd4",
+    "parentId": null
+}

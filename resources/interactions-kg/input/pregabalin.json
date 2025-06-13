@@ -1,0 +1,1401 @@
+{
+    "interactions": [
+        {
+            "interactingDrugId": "pregabalin",
+            "interactantDrugId": "agomelatine",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Pregabalin and Agomelatine have effects on the CNS and can cause sedation, which might affect the ability to perform skilled tasks (see 'Drugs and Driving' in Guidance on Prescribing). In some cases, use of two or more drugs that have effects on the CNS might also increase the risk of CNS depressant effects (which could range from sedation to unconsciousness, coma, respiratory depression, and/or cardiovascular depression).",
+                    "severity": "Normal",
+                    "id": "ab71eef1-99f9-491a-a286-a37fae3ee1bb",
+                    "parentId": "d6a18491-d8f8-4d7f-98c2-2e4b630d1a1c"
+                }
+            ],
+            "id": "d6a18491-d8f8-4d7f-98c2-2e4b630d1a1c",
+            "parentId": "cf11a308-3173-41e0-8ffa-e2d03949b4d1"
+        },
+        {
+            "interactingDrugId": "pregabalin",
+            "interactantDrugId": "alcohol",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Pregabalin and Alcohol have effects on the CNS and can cause sedation, which might affect the ability to perform skilled tasks (see 'Drugs and Driving' in Guidance on Prescribing). In some cases, use of two or more drugs that have effects on the CNS might also increase the risk of CNS depressant effects (which could range from sedation to unconsciousness, coma, respiratory depression, and/or cardiovascular depression).",
+                    "severity": "Normal",
+                    "id": "703cf891-f5b8-41bb-808c-718bc8af1571",
+                    "parentId": "a330774b-2f96-4717-a555-b19c6be9ad0a"
+                }
+            ],
+            "id": "a330774b-2f96-4717-a555-b19c6be9ad0a",
+            "parentId": "cf11a308-3173-41e0-8ffa-e2d03949b4d1"
+        },
+        {
+            "interactingDrugId": "pregabalin",
+            "interactantDrugId": "alfentanil",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Pregabalin and Alfentanil have effects on the CNS and can cause sedation, which might affect the ability to perform skilled tasks (see 'Drugs and Driving' in Guidance on Prescribing). In some cases, use of two or more drugs that have effects on the CNS might also increase the risk of CNS depressant effects (which could range from sedation to unconsciousness, coma, respiratory depression, and/or cardiovascular depression).",
+                    "severity": "Normal",
+                    "id": "b6a06777-6437-4652-af41-3ad949c656c2",
+                    "parentId": "b1ab15b3-2a4a-42ca-8d4b-586621694159"
+                }
+            ],
+            "id": "b1ab15b3-2a4a-42ca-8d4b-586621694159",
+            "parentId": "cf11a308-3173-41e0-8ffa-e2d03949b4d1"
+        },
+        {
+            "interactingDrugId": "pregabalin",
+            "interactantDrugId": "alprazolam",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Pregabalin and Alprazolam have effects on the CNS and can cause sedation, which might affect the ability to perform skilled tasks (see 'Drugs and Driving' in Guidance on Prescribing). In some cases, use of two or more drugs that have effects on the CNS might also increase the risk of CNS depressant effects (which could range from sedation to unconsciousness, coma, respiratory depression, and/or cardiovascular depression).",
+                    "severity": "Normal",
+                    "id": "c4bbf684-f792-450b-9e00-896a27caeb4b",
+                    "parentId": "f147c8aa-3c78-4128-a38d-abefaab1a277"
+                }
+            ],
+            "id": "f147c8aa-3c78-4128-a38d-abefaab1a277",
+            "parentId": "cf11a308-3173-41e0-8ffa-e2d03949b4d1"
+        },
+        {
+            "interactingDrugId": "pregabalin",
+            "interactantDrugId": "amisulpride",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Pregabalin and Amisulpride have effects on the CNS and can cause sedation, which might affect the ability to perform skilled tasks (see 'Drugs and Driving' in Guidance on Prescribing). In some cases, use of two or more drugs that have effects on the CNS might also increase the risk of CNS depressant effects (which could range from sedation to unconsciousness, coma, respiratory depression, and/or cardiovascular depression).",
+                    "severity": "Normal",
+                    "id": "82ed7a2b-98ec-4567-8f8e-9bb8ba8b474f",
+                    "parentId": "58c43d2e-ba70-4a99-b6b4-cd5c294a1265"
+                }
+            ],
+            "id": "58c43d2e-ba70-4a99-b6b4-cd5c294a1265",
+            "parentId": "cf11a308-3173-41e0-8ffa-e2d03949b4d1"
+        },
+        {
+            "interactingDrugId": "pregabalin",
+            "interactantDrugId": "apraclonidine",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Pregabalin and Apraclonidine have effects on the CNS and can cause sedation, which might affect the ability to perform skilled tasks (see 'Drugs and Driving' in Guidance on Prescribing). In some cases, use of two or more drugs that have effects on the CNS might also increase the risk of CNS depressant effects (which could range from sedation to unconsciousness, coma, respiratory depression, and/or cardiovascular depression).",
+                    "severity": "Normal",
+                    "id": "63e1fd84-756c-4b3b-b9a9-51ea1787c0ea",
+                    "parentId": "d9fe5424-c072-4928-807f-22a6b29ee15d"
+                }
+            ],
+            "id": "d9fe5424-c072-4928-807f-22a6b29ee15d",
+            "parentId": "cf11a308-3173-41e0-8ffa-e2d03949b4d1"
+        },
+        {
+            "interactingDrugId": "pregabalin",
+            "interactantDrugId": "aripiprazole",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Pregabalin and Aripiprazole have effects on the CNS and can cause sedation, which might affect the ability to perform skilled tasks (see 'Drugs and Driving' in Guidance on Prescribing). In some cases, use of two or more drugs that have effects on the CNS might also increase the risk of CNS depressant effects (which could range from sedation to unconsciousness, coma, respiratory depression, and/or cardiovascular depression).",
+                    "severity": "Normal",
+                    "id": "45076325-5f29-430e-b4d4-e884ce62f62b",
+                    "parentId": "97a81fa7-29d2-4610-a9c9-9079eb5466fc"
+                }
+            ],
+            "id": "97a81fa7-29d2-4610-a9c9-9079eb5466fc",
+            "parentId": "cf11a308-3173-41e0-8ffa-e2d03949b4d1"
+        },
+        {
+            "interactingDrugId": "pregabalin",
+            "interactantDrugId": "asenapine",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Pregabalin and Asenapine have effects on the CNS and can cause sedation, which might affect the ability to perform skilled tasks (see 'Drugs and Driving' in Guidance on Prescribing). In some cases, use of two or more drugs that have effects on the CNS might also increase the risk of CNS depressant effects (which could range from sedation to unconsciousness, coma, respiratory depression, and/or cardiovascular depression).",
+                    "severity": "Normal",
+                    "id": "5ad8309f-cf4c-4849-8956-793f16ca6871",
+                    "parentId": "1077476e-dfad-41e8-977b-e11b6fbf11a5"
+                }
+            ],
+            "id": "1077476e-dfad-41e8-977b-e11b6fbf11a5",
+            "parentId": "cf11a308-3173-41e0-8ffa-e2d03949b4d1"
+        },
+        {
+            "interactingDrugId": "pregabalin",
+            "interactantDrugId": "baclofen",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Pregabalin and Baclofen have effects on the CNS and can cause sedation, which might affect the ability to perform skilled tasks (see 'Drugs and Driving' in Guidance on Prescribing). In some cases, use of two or more drugs that have effects on the CNS might also increase the risk of CNS depressant effects (which could range from sedation to unconsciousness, coma, respiratory depression, and/or cardiovascular depression).",
+                    "severity": "Normal",
+                    "id": "ef3518d4-52e9-4107-815b-9ec2d4d2961a",
+                    "parentId": "aa1676db-ac95-4014-ba1b-b28d36cc6164"
+                }
+            ],
+            "id": "aa1676db-ac95-4014-ba1b-b28d36cc6164",
+            "parentId": "cf11a308-3173-41e0-8ffa-e2d03949b4d1"
+        },
+        {
+            "interactingDrugId": "pregabalin",
+            "interactantDrugId": "benperidol",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Pregabalin and Benperidol have effects on the CNS and can cause sedation, which might affect the ability to perform skilled tasks (see 'Drugs and Driving' in Guidance on Prescribing). In some cases, use of two or more drugs that have effects on the CNS might also increase the risk of CNS depressant effects (which could range from sedation to unconsciousness, coma, respiratory depression, and/or cardiovascular depression).",
+                    "severity": "Normal",
+                    "id": "d71433b5-a8ee-48c2-bd6d-83b683a88920",
+                    "parentId": "30e0157e-ce94-429f-af06-ac1d2b1a2c55"
+                }
+            ],
+            "id": "30e0157e-ce94-429f-af06-ac1d2b1a2c55",
+            "parentId": "cf11a308-3173-41e0-8ffa-e2d03949b4d1"
+        },
+        {
+            "interactingDrugId": "pregabalin",
+            "interactantDrugId": "bromocriptine",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Pregabalin and Bromocriptine have effects on the CNS and can cause sedation, which might affect the ability to perform skilled tasks (see 'Drugs and Driving' in Guidance on Prescribing). In some cases, use of two or more drugs that have effects on the CNS might also increase the risk of CNS depressant effects (which could range from sedation to unconsciousness, coma, respiratory depression, and/or cardiovascular depression).",
+                    "severity": "Normal",
+                    "id": "4b8c1c4f-c0df-4b33-a171-cb85e9cf6e7f",
+                    "parentId": "cbdfe962-6589-48e5-8a1e-598a427fbc84"
+                }
+            ],
+            "id": "cbdfe962-6589-48e5-8a1e-598a427fbc84",
+            "parentId": "cf11a308-3173-41e0-8ffa-e2d03949b4d1"
+        },
+        {
+            "interactingDrugId": "pregabalin",
+            "interactantDrugId": "buprenorphine",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Pregabalin and Buprenorphine have effects on the CNS and can cause sedation, which might affect the ability to perform skilled tasks (see 'Drugs and Driving' in Guidance on Prescribing). In some cases, use of two or more drugs that have effects on the CNS might also increase the risk of CNS depressant effects (which could range from sedation to unconsciousness, coma, respiratory depression, and/or cardiovascular depression).",
+                    "severity": "Normal",
+                    "id": "d646f243-ef45-4a15-a423-3bbf7a18cad6",
+                    "parentId": "4fd3d0cb-ec69-409d-9aaa-290cd5d58f17"
+                }
+            ],
+            "id": "4fd3d0cb-ec69-409d-9aaa-290cd5d58f17",
+            "parentId": "cf11a308-3173-41e0-8ffa-e2d03949b4d1"
+        },
+        {
+            "interactingDrugId": "pregabalin",
+            "interactantDrugId": "cabergoline",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Pregabalin and Cabergoline have effects on the CNS and can cause sedation, which might affect the ability to perform skilled tasks (see 'Drugs and Driving' in Guidance on Prescribing). In some cases, use of two or more drugs that have effects on the CNS might also increase the risk of CNS depressant effects (which could range from sedation to unconsciousness, coma, respiratory depression, and/or cardiovascular depression).",
+                    "severity": "Normal",
+                    "id": "47152dc1-7ce1-446f-a36e-925d9affac71",
+                    "parentId": "caf27a4f-634c-40b9-8db9-f068545f343b"
+                }
+            ],
+            "id": "caf27a4f-634c-40b9-8db9-f068545f343b",
+            "parentId": "cf11a308-3173-41e0-8ffa-e2d03949b4d1"
+        },
+        {
+            "interactingDrugId": "pregabalin",
+            "interactantDrugId": "cannabidiol",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Pregabalin and Cannabidiol have effects on the CNS and can cause sedation, which might affect the ability to perform skilled tasks (see 'Drugs and Driving' in Guidance on Prescribing). In some cases, use of two or more drugs that have effects on the CNS might also increase the risk of CNS depressant effects (which could range from sedation to unconsciousness, coma, respiratory depression, and/or cardiovascular depression).",
+                    "severity": "Normal",
+                    "id": "a9d8b0a6-1178-4713-9ef9-8ef175f2baf7",
+                    "parentId": "f28b3d58-0f26-41c6-afd5-a9f776546227"
+                }
+            ],
+            "id": "f28b3d58-0f26-41c6-afd5-a9f776546227",
+            "parentId": "cf11a308-3173-41e0-8ffa-e2d03949b4d1"
+        },
+        {
+            "interactingDrugId": "pregabalin",
+            "interactantDrugId": "cariprazine",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Pregabalin and Cariprazine have effects on the CNS and can cause sedation, which might affect the ability to perform skilled tasks (see 'Drugs and Driving' in Guidance on Prescribing). In some cases, use of two or more drugs that have effects on the CNS might also increase the risk of CNS depressant effects (which could range from sedation to unconsciousness, coma, respiratory depression, and/or cardiovascular depression).",
+                    "severity": "Normal",
+                    "id": "f11237f4-c23e-408f-b0e7-30b479eb3c70",
+                    "parentId": "20d544fc-3df1-4880-a15a-a46ba6496f51"
+                }
+            ],
+            "id": "20d544fc-3df1-4880-a15a-a46ba6496f51",
+            "parentId": "cf11a308-3173-41e0-8ffa-e2d03949b4d1"
+        },
+        {
+            "interactingDrugId": "pregabalin",
+            "interactantDrugId": "cenobamate",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Pregabalin and Cenobamate have effects on the CNS and can cause sedation, which might affect the ability to perform skilled tasks (see 'Drugs and Driving' in Guidance on Prescribing). In some cases, use of two or more drugs that have effects on the CNS might also increase the risk of CNS depressant effects (which could range from sedation to unconsciousness, coma, respiratory depression, and/or cardiovascular depression).",
+                    "severity": "Normal",
+                    "id": "482cbfaf-ea2e-4ea4-959d-876f8d4a1bcb",
+                    "parentId": "c09716bb-d253-44b3-87fc-aab824d00d56"
+                }
+            ],
+            "id": "c09716bb-d253-44b3-87fc-aab824d00d56",
+            "parentId": "cf11a308-3173-41e0-8ffa-e2d03949b4d1"
+        },
+        {
+            "interactingDrugId": "pregabalin",
+            "interactantDrugId": "chloral-hydrate",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Pregabalin and Chloral hydrate have effects on the CNS and can cause sedation, which might affect the ability to perform skilled tasks (see 'Drugs and Driving' in Guidance on Prescribing). In some cases, use of two or more drugs that have effects on the CNS might also increase the risk of CNS depressant effects (which could range from sedation to unconsciousness, coma, respiratory depression, and/or cardiovascular depression).",
+                    "severity": "Normal",
+                    "id": "5a1f4aeb-6e56-473c-975c-28782c9c9fe5",
+                    "parentId": "8058a921-38db-4538-811b-266911c93568"
+                }
+            ],
+            "id": "8058a921-38db-4538-811b-266911c93568",
+            "parentId": "cf11a308-3173-41e0-8ffa-e2d03949b4d1"
+        },
+        {
+            "interactingDrugId": "pregabalin",
+            "interactantDrugId": "cinnarizine",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Pregabalin and Cinnarizine have effects on the CNS and can cause sedation, which might affect the ability to perform skilled tasks (see 'Drugs and Driving' in Guidance on Prescribing). In some cases, use of two or more drugs that have effects on the CNS might also increase the risk of CNS depressant effects (which could range from sedation to unconsciousness, coma, respiratory depression, and/or cardiovascular depression).",
+                    "severity": "Normal",
+                    "id": "d5f63bb8-19f4-4839-b74a-9750b8c867fa",
+                    "parentId": "3294cd43-b16c-4a8b-adff-832d08f392d8"
+                }
+            ],
+            "id": "3294cd43-b16c-4a8b-adff-832d08f392d8",
+            "parentId": "cf11a308-3173-41e0-8ffa-e2d03949b4d1"
+        },
+        {
+            "interactingDrugId": "pregabalin",
+            "interactantDrugId": "citalopram",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Pregabalin and Citalopram have effects on the CNS and can cause sedation, which might affect the ability to perform skilled tasks (see 'Drugs and Driving' in Guidance on Prescribing). In some cases, use of two or more drugs that have effects on the CNS might also increase the risk of CNS depressant effects (which could range from sedation to unconsciousness, coma, respiratory depression, and/or cardiovascular depression).",
+                    "severity": "Normal",
+                    "id": "aef42b9a-be97-4e78-af14-bdfa2d73f776",
+                    "parentId": "0a1a454f-b81a-49b9-a2a1-b61f0470a846"
+                }
+            ],
+            "id": "0a1a454f-b81a-49b9-a2a1-b61f0470a846",
+            "parentId": "cf11a308-3173-41e0-8ffa-e2d03949b4d1"
+        },
+        {
+            "interactingDrugId": "pregabalin",
+            "interactantDrugId": "clobazam",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Pregabalin and Clobazam have effects on the CNS and can cause sedation, which might affect the ability to perform skilled tasks (see 'Drugs and Driving' in Guidance on Prescribing). In some cases, use of two or more drugs that have effects on the CNS might also increase the risk of CNS depressant effects (which could range from sedation to unconsciousness, coma, respiratory depression, and/or cardiovascular depression).",
+                    "severity": "Normal",
+                    "id": "78f9c3e8-45a8-4752-83fc-930bdb1a1187",
+                    "parentId": "5b91ee65-d214-48e1-8ba0-b0a8a21c1271"
+                }
+            ],
+            "id": "5b91ee65-d214-48e1-8ba0-b0a8a21c1271",
+            "parentId": "cf11a308-3173-41e0-8ffa-e2d03949b4d1"
+        },
+        {
+            "interactingDrugId": "pregabalin",
+            "interactantDrugId": "clomethiazole",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Pregabalin and Clomethiazole have effects on the CNS and can cause sedation, which might affect the ability to perform skilled tasks (see 'Drugs and Driving' in Guidance on Prescribing). In some cases, use of two or more drugs that have effects on the CNS might also increase the risk of CNS depressant effects (which could range from sedation to unconsciousness, coma, respiratory depression, and/or cardiovascular depression).",
+                    "severity": "Normal",
+                    "id": "67903f87-32c6-415b-a209-fc0f9f35647c",
+                    "parentId": "f7dbb5df-c7ae-43c3-962b-fbc7935d8b5d"
+                }
+            ],
+            "id": "f7dbb5df-c7ae-43c3-962b-fbc7935d8b5d",
+            "parentId": "cf11a308-3173-41e0-8ffa-e2d03949b4d1"
+        },
+        {
+            "interactingDrugId": "pregabalin",
+            "interactantDrugId": "clonazepam",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Pregabalin and Clonazepam have effects on the CNS and can cause sedation, which might affect the ability to perform skilled tasks (see 'Drugs and Driving' in Guidance on Prescribing). In some cases, use of two or more drugs that have effects on the CNS might also increase the risk of CNS depressant effects (which could range from sedation to unconsciousness, coma, respiratory depression, and/or cardiovascular depression).",
+                    "severity": "Normal",
+                    "id": "6b4fb390-b0af-48f5-86f9-1657e83a3754",
+                    "parentId": "3705b49a-ce2c-4b50-aa39-b3eb36e5f34a"
+                }
+            ],
+            "id": "3705b49a-ce2c-4b50-aa39-b3eb36e5f34a",
+            "parentId": "cf11a308-3173-41e0-8ffa-e2d03949b4d1"
+        },
+        {
+            "interactingDrugId": "pregabalin",
+            "interactantDrugId": "clozapine",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Pregabalin and Clozapine have effects on the CNS and can cause sedation, which might affect the ability to perform skilled tasks (see 'Drugs and Driving' in Guidance on Prescribing). In some cases, use of two or more drugs that have effects on the CNS might also increase the risk of CNS depressant effects (which could range from sedation to unconsciousness, coma, respiratory depression, and/or cardiovascular depression).",
+                    "severity": "Normal",
+                    "id": "515edacb-665e-4e4b-820f-4f5378be2210",
+                    "parentId": "e8b0d163-c70e-44e2-a14b-e6958dd22ede"
+                }
+            ],
+            "id": "e8b0d163-c70e-44e2-a14b-e6958dd22ede",
+            "parentId": "cf11a308-3173-41e0-8ffa-e2d03949b4d1"
+        },
+        {
+            "interactingDrugId": "pregabalin",
+            "interactantDrugId": "cyclizine",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Pregabalin and Cyclizine have effects on the CNS and can cause sedation, which might affect the ability to perform skilled tasks (see 'Drugs and Driving' in Guidance on Prescribing). In some cases, use of two or more drugs that have effects on the CNS might also increase the risk of CNS depressant effects (which could range from sedation to unconsciousness, coma, respiratory depression, and/or cardiovascular depression).",
+                    "severity": "Normal",
+                    "id": "35422ca3-fc68-4047-b994-eed4943cad01",
+                    "parentId": "badee430-8f06-4e9c-85c3-fb67d890cca4"
+                }
+            ],
+            "id": "badee430-8f06-4e9c-85c3-fb67d890cca4",
+            "parentId": "cf11a308-3173-41e0-8ffa-e2d03949b4d1"
+        },
+        {
+            "interactingDrugId": "pregabalin",
+            "interactantDrugId": "dapoxetine",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Pregabalin and Dapoxetine have effects on the CNS and can cause sedation, which might affect the ability to perform skilled tasks (see 'Drugs and Driving' in Guidance on Prescribing). In some cases, use of two or more drugs that have effects on the CNS might also increase the risk of CNS depressant effects (which could range from sedation to unconsciousness, coma, respiratory depression, and/or cardiovascular depression).",
+                    "severity": "Normal",
+                    "id": "a519ee21-3f69-4f09-855b-5029125e3256",
+                    "parentId": "d49bc677-5731-4de6-a56d-371267768ee4"
+                }
+            ],
+            "id": "d49bc677-5731-4de6-a56d-371267768ee4",
+            "parentId": "cf11a308-3173-41e0-8ffa-e2d03949b4d1"
+        },
+        {
+            "interactingDrugId": "pregabalin",
+            "interactantDrugId": "daridorexant",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Pregabalin and Daridorexant have effects on the CNS and can cause sedation, which might affect the ability to perform skilled tasks (see 'Drugs and Driving' in Guidance on Prescribing). In some cases, use of two or more drugs that have effects on the CNS might also increase the risk of CNS depressant effects (which could range from sedation to unconsciousness, coma, respiratory depression, and/or cardiovascular depression).",
+                    "severity": "Normal",
+                    "id": "f3aeb2d5-e912-4d7d-a3e4-cec904e294b1",
+                    "parentId": "321c426d-62b2-40d6-b8f8-91aa9b6c1b3e"
+                }
+            ],
+            "id": "321c426d-62b2-40d6-b8f8-91aa9b6c1b3e",
+            "parentId": "cf11a308-3173-41e0-8ffa-e2d03949b4d1"
+        },
+        {
+            "interactingDrugId": "pregabalin",
+            "interactantDrugId": "desflurane",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Pregabalin and Desflurane have effects on the CNS and can cause sedation, which might affect the ability to perform skilled tasks (see 'Drugs and Driving' in Guidance on Prescribing). In some cases, use of two or more drugs that have effects on the CNS might also increase the risk of CNS depressant effects (which could range from sedation to unconsciousness, coma, respiratory depression, and/or cardiovascular depression).",
+                    "severity": "Normal",
+                    "id": "a520593b-6ddd-487b-b820-4b07897b7df0",
+                    "parentId": "b7ac9c13-47a6-4989-869f-40f3a5465285"
+                }
+            ],
+            "id": "b7ac9c13-47a6-4989-869f-40f3a5465285",
+            "parentId": "cf11a308-3173-41e0-8ffa-e2d03949b4d1"
+        },
+        {
+            "interactingDrugId": "pregabalin",
+            "interactantDrugId": "dexmedetomidine",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Pregabalin and Dexmedetomidine have effects on the CNS and can cause sedation, which might affect the ability to perform skilled tasks (see 'Drugs and Driving' in Guidance on Prescribing). In some cases, use of two or more drugs that have effects on the CNS might also increase the risk of CNS depressant effects (which could range from sedation to unconsciousness, coma, respiratory depression, and/or cardiovascular depression).",
+                    "severity": "Normal",
+                    "id": "ad18482b-6543-449c-8b01-7af4b346fbfe",
+                    "parentId": "23bde065-b2ba-47df-8a94-928a3bae8d00"
+                }
+            ],
+            "id": "23bde065-b2ba-47df-8a94-928a3bae8d00",
+            "parentId": "cf11a308-3173-41e0-8ffa-e2d03949b4d1"
+        },
+        {
+            "interactingDrugId": "pregabalin",
+            "interactantDrugId": "diazepam",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Pregabalin and Diazepam have effects on the CNS and can cause sedation, which might affect the ability to perform skilled tasks (see 'Drugs and Driving' in Guidance on Prescribing). In some cases, use of two or more drugs that have effects on the CNS might also increase the risk of CNS depressant effects (which could range from sedation to unconsciousness, coma, respiratory depression, and/or cardiovascular depression).",
+                    "severity": "Normal",
+                    "id": "d28cc57e-58d8-4483-a69e-afb2ba450882",
+                    "parentId": "ff5ed75c-41a5-4659-b350-ec7962f5150a"
+                }
+            ],
+            "id": "ff5ed75c-41a5-4659-b350-ec7962f5150a",
+            "parentId": "cf11a308-3173-41e0-8ffa-e2d03949b4d1"
+        },
+        {
+            "interactingDrugId": "pregabalin",
+            "interactantDrugId": "difelikefalin",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Pregabalin and Difelikefalin have effects on the CNS and can cause sedation, which might affect the ability to perform skilled tasks (see 'Drugs and Driving' in Guidance on Prescribing). In some cases, use of two or more drugs that have effects on the CNS might also increase the risk of CNS depressant effects (which could range from sedation to unconsciousness, coma, respiratory depression, and/or cardiovascular depression).",
+                    "severity": "Normal",
+                    "id": "70d8a477-e46d-47e4-b7d7-ad36539ee22d",
+                    "parentId": "7ed7c54e-9341-465f-bb4e-b96025867d8a"
+                }
+            ],
+            "id": "7ed7c54e-9341-465f-bb4e-b96025867d8a",
+            "parentId": "cf11a308-3173-41e0-8ffa-e2d03949b4d1"
+        },
+        {
+            "interactingDrugId": "pregabalin",
+            "interactantDrugId": "doxepin",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Pregabalin and Doxepin have effects on the CNS and can cause sedation, which might affect the ability to perform skilled tasks (see 'Drugs and Driving' in Guidance on Prescribing). In some cases, use of two or more drugs that have effects on the CNS might also increase the risk of CNS depressant effects (which could range from sedation to unconsciousness, coma, respiratory depression, and/or cardiovascular depression).",
+                    "severity": "Normal",
+                    "id": "0fbf5456-44e9-4b93-91de-0132411fef86",
+                    "parentId": "5d904d9d-8fbf-416f-a772-7112fa38ae3d"
+                }
+            ],
+            "id": "5d904d9d-8fbf-416f-a772-7112fa38ae3d",
+            "parentId": "cf11a308-3173-41e0-8ffa-e2d03949b4d1"
+        },
+        {
+            "interactingDrugId": "pregabalin",
+            "interactantDrugId": "droperidol",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Pregabalin and Droperidol have effects on the CNS and can cause sedation, which might affect the ability to perform skilled tasks (see 'Drugs and Driving' in Guidance on Prescribing). In some cases, use of two or more drugs that have effects on the CNS might also increase the risk of CNS depressant effects (which could range from sedation to unconsciousness, coma, respiratory depression, and/or cardiovascular depression).",
+                    "severity": "Normal",
+                    "id": "9d710c44-6bc4-4179-8014-0034c21538de",
+                    "parentId": "fb2be3bd-8a9f-4798-90ff-0460cf96d4cc"
+                }
+            ],
+            "id": "fb2be3bd-8a9f-4798-90ff-0460cf96d4cc",
+            "parentId": "cf11a308-3173-41e0-8ffa-e2d03949b4d1"
+        },
+        {
+            "interactingDrugId": "pregabalin",
+            "interactantDrugId": "duloxetine",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Pregabalin and Duloxetine have effects on the CNS and can cause sedation, which might affect the ability to perform skilled tasks (see 'Drugs and Driving' in Guidance on Prescribing). In some cases, use of two or more drugs that have effects on the CNS might also increase the risk of CNS depressant effects (which could range from sedation to unconsciousness, coma, respiratory depression, and/or cardiovascular depression).",
+                    "severity": "Normal",
+                    "id": "1640ef35-1a39-451f-b5b1-f08efa66e99e",
+                    "parentId": "a602395c-e319-4fd5-9380-c623158e3cd8"
+                }
+            ],
+            "id": "a602395c-e319-4fd5-9380-c623158e3cd8",
+            "parentId": "cf11a308-3173-41e0-8ffa-e2d03949b4d1"
+        },
+        {
+            "interactingDrugId": "pregabalin",
+            "interactantDrugId": "escitalopram",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Pregabalin and Escitalopram have effects on the CNS and can cause sedation, which might affect the ability to perform skilled tasks (see 'Drugs and Driving' in Guidance on Prescribing). In some cases, use of two or more drugs that have effects on the CNS might also increase the risk of CNS depressant effects (which could range from sedation to unconsciousness, coma, respiratory depression, and/or cardiovascular depression).",
+                    "severity": "Normal",
+                    "id": "3ccbd64c-0373-447a-890b-80414a84e638",
+                    "parentId": "c992a0b2-3828-4f4e-a6cb-ed78520e60e4"
+                }
+            ],
+            "id": "c992a0b2-3828-4f4e-a6cb-ed78520e60e4",
+            "parentId": "cf11a308-3173-41e0-8ffa-e2d03949b4d1"
+        },
+        {
+            "interactingDrugId": "pregabalin",
+            "interactantDrugId": "esketamine",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Pregabalin and Esketamine have effects on the CNS and can cause sedation, which might affect the ability to perform skilled tasks (see 'Drugs and Driving' in Guidance on Prescribing). In some cases, use of two or more drugs that have effects on the CNS might also increase the risk of CNS depressant effects (which could range from sedation to unconsciousness, coma, respiratory depression, and/or cardiovascular depression).",
+                    "severity": "Normal",
+                    "id": "67c58c62-16e7-404a-83e7-f6727ea7dc0f",
+                    "parentId": "2a7df880-fbb9-4434-972b-c9cbdd72dbbe"
+                }
+            ],
+            "id": "2a7df880-fbb9-4434-972b-c9cbdd72dbbe",
+            "parentId": "cf11a308-3173-41e0-8ffa-e2d03949b4d1"
+        },
+        {
+            "interactingDrugId": "pregabalin",
+            "interactantDrugId": "eszopiclone",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Pregabalin and Eszopiclone have effects on the CNS and can cause sedation, which might affect the ability to perform skilled tasks (see 'Drugs and Driving' in Guidance on Prescribing). In some cases, use of two or more drugs that have effects on the CNS might also increase the risk of CNS depressant effects (which could range from sedation to unconsciousness, coma, respiratory depression, and/or cardiovascular depression).",
+                    "severity": "Normal",
+                    "id": "c3684f77-89b7-4218-ad16-5f42f3f6dfca",
+                    "parentId": "15e42516-82d4-4efb-86bb-cf50706e89d5"
+                }
+            ],
+            "id": "15e42516-82d4-4efb-86bb-cf50706e89d5",
+            "parentId": "cf11a308-3173-41e0-8ffa-e2d03949b4d1"
+        },
+        {
+            "interactingDrugId": "pregabalin",
+            "interactantDrugId": "etomidate",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Pregabalin and Etomidate have effects on the CNS and can cause sedation, which might affect the ability to perform skilled tasks (see 'Drugs and Driving' in Guidance on Prescribing). In some cases, use of two or more drugs that have effects on the CNS might also increase the risk of CNS depressant effects (which could range from sedation to unconsciousness, coma, respiratory depression, and/or cardiovascular depression).",
+                    "severity": "Normal",
+                    "id": "97e514a9-7dba-4c52-bb01-46a4c4904b95",
+                    "parentId": "bf1a3cd0-730e-49d5-8e63-1b2849d3b40e"
+                }
+            ],
+            "id": "bf1a3cd0-730e-49d5-8e63-1b2849d3b40e",
+            "parentId": "cf11a308-3173-41e0-8ffa-e2d03949b4d1"
+        },
+        {
+            "interactingDrugId": "pregabalin",
+            "interactantDrugId": "fentanyl",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Pregabalin and Fentanyl have effects on the CNS and can cause sedation, which might affect the ability to perform skilled tasks (see 'Drugs and Driving' in Guidance on Prescribing). In some cases, use of two or more drugs that have effects on the CNS might also increase the risk of CNS depressant effects (which could range from sedation to unconsciousness, coma, respiratory depression, and/or cardiovascular depression).",
+                    "severity": "Normal",
+                    "id": "b76cbbf9-33e7-4219-908e-6549c42c8118",
+                    "parentId": "7cd65258-1c5c-4422-b2f0-08da4d5cd4f6"
+                }
+            ],
+            "id": "7cd65258-1c5c-4422-b2f0-08da4d5cd4f6",
+            "parentId": "cf11a308-3173-41e0-8ffa-e2d03949b4d1"
+        },
+        {
+            "interactingDrugId": "pregabalin",
+            "interactantDrugId": "fluoxetine",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Pregabalin and Fluoxetine have effects on the CNS and can cause sedation, which might affect the ability to perform skilled tasks (see 'Drugs and Driving' in Guidance on Prescribing). In some cases, use of two or more drugs that have effects on the CNS might also increase the risk of CNS depressant effects (which could range from sedation to unconsciousness, coma, respiratory depression, and/or cardiovascular depression).",
+                    "severity": "Normal",
+                    "id": "dae8f26e-ce00-48d2-bf5c-1674b30b68ec",
+                    "parentId": "1f6560b5-33be-49ac-85d7-e911382a2a42"
+                }
+            ],
+            "id": "1f6560b5-33be-49ac-85d7-e911382a2a42",
+            "parentId": "cf11a308-3173-41e0-8ffa-e2d03949b4d1"
+        },
+        {
+            "interactingDrugId": "pregabalin",
+            "interactantDrugId": "flurazepam",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Pregabalin and Flurazepam have effects on the CNS and can cause sedation, which might affect the ability to perform skilled tasks (see 'Drugs and Driving' in Guidance on Prescribing). In some cases, use of two or more drugs that have effects on the CNS might also increase the risk of CNS depressant effects (which could range from sedation to unconsciousness, coma, respiratory depression, and/or cardiovascular depression).",
+                    "severity": "Normal",
+                    "id": "b2156b5b-4463-4948-86a3-b9babd4e409e",
+                    "parentId": "d67a11da-1236-4013-9254-34f449737ff9"
+                }
+            ],
+            "id": "d67a11da-1236-4013-9254-34f449737ff9",
+            "parentId": "cf11a308-3173-41e0-8ffa-e2d03949b4d1"
+        },
+        {
+            "interactingDrugId": "pregabalin",
+            "interactantDrugId": "guanfacine",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Pregabalin and Guanfacine have effects on the CNS and can cause sedation, which might affect the ability to perform skilled tasks (see 'Drugs and Driving' in Guidance on Prescribing). In some cases, use of two or more drugs that have effects on the CNS might also increase the risk of CNS depressant effects (which could range from sedation to unconsciousness, coma, respiratory depression, and/or cardiovascular depression).",
+                    "severity": "Normal",
+                    "id": "73660467-fbcf-4330-81b7-5553d6edfc93",
+                    "parentId": "3a35dce6-6e40-4d93-a70f-8e75c869bcf8"
+                }
+            ],
+            "id": "3a35dce6-6e40-4d93-a70f-8e75c869bcf8",
+            "parentId": "cf11a308-3173-41e0-8ffa-e2d03949b4d1"
+        },
+        {
+            "interactingDrugId": "pregabalin",
+            "interactantDrugId": "isoflurane",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Pregabalin and Isoflurane have effects on the CNS and can cause sedation, which might affect the ability to perform skilled tasks (see 'Drugs and Driving' in Guidance on Prescribing). In some cases, use of two or more drugs that have effects on the CNS might also increase the risk of CNS depressant effects (which could range from sedation to unconsciousness, coma, respiratory depression, and/or cardiovascular depression).",
+                    "severity": "Normal",
+                    "id": "80e5bedd-15a0-4b95-8d3f-a06c684a7d18",
+                    "parentId": "61d8d2c2-6765-4651-9d75-7d1515d9ed3e"
+                }
+            ],
+            "id": "61d8d2c2-6765-4651-9d75-7d1515d9ed3e",
+            "parentId": "cf11a308-3173-41e0-8ffa-e2d03949b4d1"
+        },
+        {
+            "interactingDrugId": "pregabalin",
+            "interactantDrugId": "ketamine",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Pregabalin and Ketamine have effects on the CNS and can cause sedation, which might affect the ability to perform skilled tasks (see 'Drugs and Driving' in Guidance on Prescribing). In some cases, use of two or more drugs that have effects on the CNS might also increase the risk of CNS depressant effects (which could range from sedation to unconsciousness, coma, respiratory depression, and/or cardiovascular depression).",
+                    "severity": "Normal",
+                    "id": "7fea9e25-449d-42c4-9823-fefcddf5188d",
+                    "parentId": "85fb23ab-1258-4b65-990a-17167353b64c"
+                }
+            ],
+            "id": "85fb23ab-1258-4b65-990a-17167353b64c",
+            "parentId": "cf11a308-3173-41e0-8ffa-e2d03949b4d1"
+        },
+        {
+            "interactingDrugId": "pregabalin",
+            "interactantDrugId": "ketotifen",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Pregabalin and Ketotifen have effects on the CNS and can cause sedation, which might affect the ability to perform skilled tasks (see 'Drugs and Driving' in Guidance on Prescribing). In some cases, use of two or more drugs that have effects on the CNS might also increase the risk of CNS depressant effects (which could range from sedation to unconsciousness, coma, respiratory depression, and/or cardiovascular depression).",
+                    "severity": "Normal",
+                    "id": "512aa32c-e8ab-4a3e-9bf9-6bc0c1bcbebf",
+                    "parentId": "63a0222d-4e7d-4e26-9210-5876004b76d1"
+                }
+            ],
+            "id": "63a0222d-4e7d-4e26-9210-5876004b76d1",
+            "parentId": "cf11a308-3173-41e0-8ffa-e2d03949b4d1"
+        },
+        {
+            "interactingDrugId": "pregabalin",
+            "interactantDrugId": "levomepromazine",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Pregabalin and Levomepromazine have effects on the CNS and can cause sedation, which might affect the ability to perform skilled tasks (see 'Drugs and Driving' in Guidance on Prescribing). In some cases, use of two or more drugs that have effects on the CNS might also increase the risk of CNS depressant effects (which could range from sedation to unconsciousness, coma, respiratory depression, and/or cardiovascular depression).",
+                    "severity": "Normal",
+                    "id": "495b0349-41ab-4578-be64-a09572883948",
+                    "parentId": "201d875e-ebbb-4aee-b200-d8c1de6f9ef5"
+                }
+            ],
+            "id": "201d875e-ebbb-4aee-b200-d8c1de6f9ef5",
+            "parentId": "cf11a308-3173-41e0-8ffa-e2d03949b4d1"
+        },
+        {
+            "interactingDrugId": "pregabalin",
+            "interactantDrugId": "lofepramine",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Pregabalin and Lofepramine have effects on the CNS and can cause sedation, which might affect the ability to perform skilled tasks (see 'Drugs and Driving' in Guidance on Prescribing). In some cases, use of two or more drugs that have effects on the CNS might also increase the risk of CNS depressant effects (which could range from sedation to unconsciousness, coma, respiratory depression, and/or cardiovascular depression).",
+                    "severity": "Normal",
+                    "id": "c5d49e85-eedd-40f1-8f0e-7c0ff9641f6f",
+                    "parentId": "c06fbe72-b8ed-4fab-b1a8-d782f47079af"
+                }
+            ],
+            "id": "c06fbe72-b8ed-4fab-b1a8-d782f47079af",
+            "parentId": "cf11a308-3173-41e0-8ffa-e2d03949b4d1"
+        },
+        {
+            "interactingDrugId": "pregabalin",
+            "interactantDrugId": "loprazolam",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Pregabalin and Loprazolam have effects on the CNS and can cause sedation, which might affect the ability to perform skilled tasks (see 'Drugs and Driving' in Guidance on Prescribing). In some cases, use of two or more drugs that have effects on the CNS might also increase the risk of CNS depressant effects (which could range from sedation to unconsciousness, coma, respiratory depression, and/or cardiovascular depression).",
+                    "severity": "Normal",
+                    "id": "8a713dc1-6eed-4f90-b6ec-0f7bfeaf9b2c",
+                    "parentId": "18599b5f-4297-4a3d-9aab-985e985695bb"
+                }
+            ],
+            "id": "18599b5f-4297-4a3d-9aab-985e985695bb",
+            "parentId": "cf11a308-3173-41e0-8ffa-e2d03949b4d1"
+        },
+        {
+            "interactingDrugId": "pregabalin",
+            "interactantDrugId": "lorazepam",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Pregabalin and Lorazepam have effects on the CNS and can cause sedation, which might affect the ability to perform skilled tasks (see 'Drugs and Driving' in Guidance on Prescribing). In some cases, use of two or more drugs that have effects on the CNS might also increase the risk of CNS depressant effects (which could range from sedation to unconsciousness, coma, respiratory depression, and/or cardiovascular depression).",
+                    "severity": "Normal",
+                    "id": "2c6f8423-0aa0-4679-b3b7-dde9e52efc0e",
+                    "parentId": "1a8d03ec-8599-4218-9f3e-0bbb3c27d19e"
+                }
+            ],
+            "id": "1a8d03ec-8599-4218-9f3e-0bbb3c27d19e",
+            "parentId": "cf11a308-3173-41e0-8ffa-e2d03949b4d1"
+        },
+        {
+            "interactingDrugId": "pregabalin",
+            "interactantDrugId": "lormetazepam",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Pregabalin and Lormetazepam have effects on the CNS and can cause sedation, which might affect the ability to perform skilled tasks (see 'Drugs and Driving' in Guidance on Prescribing). In some cases, use of two or more drugs that have effects on the CNS might also increase the risk of CNS depressant effects (which could range from sedation to unconsciousness, coma, respiratory depression, and/or cardiovascular depression).",
+                    "severity": "Normal",
+                    "id": "8e7dea11-38f7-430a-993c-8e187f0a8010",
+                    "parentId": "2d442e6f-f145-448a-8d4e-7638eaf64eed"
+                }
+            ],
+            "id": "2d442e6f-f145-448a-8d4e-7638eaf64eed",
+            "parentId": "cf11a308-3173-41e0-8ffa-e2d03949b4d1"
+        },
+        {
+            "interactingDrugId": "pregabalin",
+            "interactantDrugId": "loxapine",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Pregabalin and Loxapine have effects on the CNS and can cause sedation, which might affect the ability to perform skilled tasks (see 'Drugs and Driving' in Guidance on Prescribing). In some cases, use of two or more drugs that have effects on the CNS might also increase the risk of CNS depressant effects (which could range from sedation to unconsciousness, coma, respiratory depression, and/or cardiovascular depression).",
+                    "severity": "Normal",
+                    "id": "fda74b3b-6a04-46f0-94af-2aa6da728e7e",
+                    "parentId": "38bc9e9a-40ec-44a8-a0c8-dfe24f9fced1"
+                }
+            ],
+            "id": "38bc9e9a-40ec-44a8-a0c8-dfe24f9fced1",
+            "parentId": "cf11a308-3173-41e0-8ffa-e2d03949b4d1"
+        },
+        {
+            "interactingDrugId": "pregabalin",
+            "interactantDrugId": "melatonin",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Pregabalin and Melatonin have effects on the CNS and can cause sedation, which might affect the ability to perform skilled tasks (see 'Drugs and Driving' in Guidance on Prescribing). In some cases, use of two or more drugs that have effects on the CNS might also increase the risk of CNS depressant effects (which could range from sedation to unconsciousness, coma, respiratory depression, and/or cardiovascular depression).",
+                    "severity": "Normal",
+                    "id": "7577a70f-ff19-4bb1-a38b-5a38f10fcb26",
+                    "parentId": "a673a1d3-d816-4143-8f1a-dbfeba731533"
+                }
+            ],
+            "id": "a673a1d3-d816-4143-8f1a-dbfeba731533",
+            "parentId": "cf11a308-3173-41e0-8ffa-e2d03949b4d1"
+        },
+        {
+            "interactingDrugId": "pregabalin",
+            "interactantDrugId": "meptazinol",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Pregabalin and Meptazinol have effects on the CNS and can cause sedation, which might affect the ability to perform skilled tasks (see 'Drugs and Driving' in Guidance on Prescribing). In some cases, use of two or more drugs that have effects on the CNS might also increase the risk of CNS depressant effects (which could range from sedation to unconsciousness, coma, respiratory depression, and/or cardiovascular depression).",
+                    "severity": "Normal",
+                    "id": "9eee9798-b457-4b71-9f7d-6ba1d6887fd1",
+                    "parentId": "bd3be446-f771-41c8-9c61-f2a9d79e0e15"
+                }
+            ],
+            "id": "bd3be446-f771-41c8-9c61-f2a9d79e0e15",
+            "parentId": "cf11a308-3173-41e0-8ffa-e2d03949b4d1"
+        },
+        {
+            "interactingDrugId": "pregabalin",
+            "interactantDrugId": "methocarbamol",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Pregabalin and Methocarbamol have effects on the CNS and can cause sedation, which might affect the ability to perform skilled tasks (see 'Drugs and Driving' in Guidance on Prescribing). In some cases, use of two or more drugs that have effects on the CNS might also increase the risk of CNS depressant effects (which could range from sedation to unconsciousness, coma, respiratory depression, and/or cardiovascular depression).",
+                    "severity": "Normal",
+                    "id": "445ee617-a9a3-4df5-a19a-6fefbffc2086",
+                    "parentId": "665d4441-6497-4762-87aa-5ef8581372b4"
+                }
+            ],
+            "id": "665d4441-6497-4762-87aa-5ef8581372b4",
+            "parentId": "cf11a308-3173-41e0-8ffa-e2d03949b4d1"
+        },
+        {
+            "interactingDrugId": "pregabalin",
+            "interactantDrugId": "methoxyflurane",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Pregabalin and Methoxyflurane have effects on the CNS and can cause sedation, which might affect the ability to perform skilled tasks (see 'Drugs and Driving' in Guidance on Prescribing). In some cases, use of two or more drugs that have effects on the CNS might also increase the risk of CNS depressant effects (which could range from sedation to unconsciousness, coma, respiratory depression, and/or cardiovascular depression).",
+                    "severity": "Normal",
+                    "id": "9b80b5ff-fa48-42b7-8699-c93b8f14aa04",
+                    "parentId": "ba2e5674-31bb-44b1-93d9-912a445f04d2"
+                }
+            ],
+            "id": "ba2e5674-31bb-44b1-93d9-912a445f04d2",
+            "parentId": "cf11a308-3173-41e0-8ffa-e2d03949b4d1"
+        },
+        {
+            "interactingDrugId": "pregabalin",
+            "interactantDrugId": "midazolam",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Pregabalin and Midazolam have effects on the CNS and can cause sedation, which might affect the ability to perform skilled tasks (see 'Drugs and Driving' in Guidance on Prescribing). In some cases, use of two or more drugs that have effects on the CNS might also increase the risk of CNS depressant effects (which could range from sedation to unconsciousness, coma, respiratory depression, and/or cardiovascular depression).",
+                    "severity": "Normal",
+                    "id": "dfd6f456-ffb6-4aa0-a2d3-a045d35a6185",
+                    "parentId": "62579641-dc88-4f7b-8563-d72d1cac84c0"
+                }
+            ],
+            "id": "62579641-dc88-4f7b-8563-d72d1cac84c0",
+            "parentId": "cf11a308-3173-41e0-8ffa-e2d03949b4d1"
+        },
+        {
+            "interactingDrugId": "pregabalin",
+            "interactantDrugId": "mirtazapine",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Pregabalin and Mirtazapine have effects on the CNS and can cause sedation, which might affect the ability to perform skilled tasks (see 'Drugs and Driving' in Guidance on Prescribing). In some cases, use of two or more drugs that have effects on the CNS might also increase the risk of CNS depressant effects (which could range from sedation to unconsciousness, coma, respiratory depression, and/or cardiovascular depression).",
+                    "severity": "Normal",
+                    "id": "e4be963b-db0b-44a1-94b8-2c09aed30247",
+                    "parentId": "36ec93bd-8468-4d39-af8c-5fb52674a614"
+                }
+            ],
+            "id": "36ec93bd-8468-4d39-af8c-5fb52674a614",
+            "parentId": "cf11a308-3173-41e0-8ffa-e2d03949b4d1"
+        },
+        {
+            "interactingDrugId": "pregabalin",
+            "interactantDrugId": "morphine",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Pregabalin and Morphine have effects on the CNS and can cause sedation, which might affect the ability to perform skilled tasks (see 'Drugs and Driving' in Guidance on Prescribing). In some cases, use of two or more drugs that have effects on the CNS might also increase the risk of CNS depressant effects (which could range from sedation to unconsciousness, coma, respiratory depression, and/or cardiovascular depression).",
+                    "severity": "Normal",
+                    "id": "e8ab56cf-b40e-4074-8deb-fa4748cf0365",
+                    "parentId": "5546cd61-58f3-4808-908c-7036cffc4055"
+                }
+            ],
+            "id": "5546cd61-58f3-4808-908c-7036cffc4055",
+            "parentId": "cf11a308-3173-41e0-8ffa-e2d03949b4d1"
+        },
+        {
+            "interactingDrugId": "pregabalin",
+            "interactantDrugId": "moxonidine",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Pregabalin and Moxonidine have effects on the CNS and can cause sedation, which might affect the ability to perform skilled tasks (see 'Drugs and Driving' in Guidance on Prescribing). In some cases, use of two or more drugs that have effects on the CNS might also increase the risk of CNS depressant effects (which could range from sedation to unconsciousness, coma, respiratory depression, and/or cardiovascular depression).",
+                    "severity": "Normal",
+                    "id": "ab6a0719-ee12-47cd-b993-e0c4d449d7e4",
+                    "parentId": "222326ff-6839-4108-8582-de2f37d370c8"
+                }
+            ],
+            "id": "222326ff-6839-4108-8582-de2f37d370c8",
+            "parentId": "cf11a308-3173-41e0-8ffa-e2d03949b4d1"
+        },
+        {
+            "interactingDrugId": "pregabalin",
+            "interactantDrugId": "nabilone",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Pregabalin and Nabilone have effects on the CNS and can cause sedation, which might affect the ability to perform skilled tasks (see 'Drugs and Driving' in Guidance on Prescribing). In some cases, use of two or more drugs that have effects on the CNS might also increase the risk of CNS depressant effects (which could range from sedation to unconsciousness, coma, respiratory depression, and/or cardiovascular depression).",
+                    "severity": "Normal",
+                    "id": "1067dd9f-49dd-4982-bc8e-993f073aae83",
+                    "parentId": "1256f9f6-63fb-409e-b1ee-21eb85dae53d"
+                }
+            ],
+            "id": "1256f9f6-63fb-409e-b1ee-21eb85dae53d",
+            "parentId": "cf11a308-3173-41e0-8ffa-e2d03949b4d1"
+        },
+        {
+            "interactingDrugId": "pregabalin",
+            "interactantDrugId": "nitrazepam",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Pregabalin and Nitrazepam have effects on the CNS and can cause sedation, which might affect the ability to perform skilled tasks (see 'Drugs and Driving' in Guidance on Prescribing). In some cases, use of two or more drugs that have effects on the CNS might also increase the risk of CNS depressant effects (which could range from sedation to unconsciousness, coma, respiratory depression, and/or cardiovascular depression).",
+                    "severity": "Normal",
+                    "id": "568674f5-fc03-47a6-8537-4eeb1c0c8f87",
+                    "parentId": "8e61b331-37b1-4ff3-a989-50e0dc7ea7c5"
+                }
+            ],
+            "id": "8e61b331-37b1-4ff3-a989-50e0dc7ea7c5",
+            "parentId": "cf11a308-3173-41e0-8ffa-e2d03949b4d1"
+        },
+        {
+            "interactingDrugId": "pregabalin",
+            "interactantDrugId": "nitrous-oxide",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Pregabalin and Nitrous oxide have effects on the CNS and can cause sedation, which might affect the ability to perform skilled tasks (see 'Drugs and Driving' in Guidance on Prescribing). In some cases, use of two or more drugs that have effects on the CNS might also increase the risk of CNS depressant effects (which could range from sedation to unconsciousness, coma, respiratory depression, and/or cardiovascular depression).",
+                    "severity": "Normal",
+                    "id": "2f019776-d939-4b27-a729-3e7a951fef22",
+                    "parentId": "c5afa8c8-6bed-4e00-8674-c82eb1e16bc4"
+                }
+            ],
+            "id": "c5afa8c8-6bed-4e00-8674-c82eb1e16bc4",
+            "parentId": "cf11a308-3173-41e0-8ffa-e2d03949b4d1"
+        },
+        {
+            "interactingDrugId": "pregabalin",
+            "interactantDrugId": "nortriptyline",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Pregabalin and Nortriptyline have effects on the CNS and can cause sedation, which might affect the ability to perform skilled tasks (see 'Drugs and Driving' in Guidance on Prescribing). In some cases, use of two or more drugs that have effects on the CNS might also increase the risk of CNS depressant effects (which could range from sedation to unconsciousness, coma, respiratory depression, and/or cardiovascular depression).",
+                    "severity": "Normal",
+                    "id": "e262be68-38c4-45d6-be05-5cf5d69f2e2f",
+                    "parentId": "53f4f9b6-405f-45bd-9762-065915541c08"
+                }
+            ],
+            "id": "53f4f9b6-405f-45bd-9762-065915541c08",
+            "parentId": "cf11a308-3173-41e0-8ffa-e2d03949b4d1"
+        },
+        {
+            "interactingDrugId": "pregabalin",
+            "interactantDrugId": "oxazepam",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Pregabalin and Oxazepam have effects on the CNS and can cause sedation, which might affect the ability to perform skilled tasks (see 'Drugs and Driving' in Guidance on Prescribing). In some cases, use of two or more drugs that have effects on the CNS might also increase the risk of CNS depressant effects (which could range from sedation to unconsciousness, coma, respiratory depression, and/or cardiovascular depression).",
+                    "severity": "Normal",
+                    "id": "29d7bba4-ef15-4618-ae63-d58bcefa17d7",
+                    "parentId": "0c0c1d50-0463-44a4-9ce6-b846646ccd32"
+                }
+            ],
+            "id": "0c0c1d50-0463-44a4-9ce6-b846646ccd32",
+            "parentId": "cf11a308-3173-41e0-8ffa-e2d03949b4d1"
+        },
+        {
+            "interactingDrugId": "pregabalin",
+            "interactantDrugId": "paliperidone",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Pregabalin and Paliperidone have effects on the CNS and can cause sedation, which might affect the ability to perform skilled tasks (see 'Drugs and Driving' in Guidance on Prescribing). In some cases, use of two or more drugs that have effects on the CNS might also increase the risk of CNS depressant effects (which could range from sedation to unconsciousness, coma, respiratory depression, and/or cardiovascular depression).",
+                    "severity": "Normal",
+                    "id": "11f19cb6-3882-4652-b40d-2338997ba6b9",
+                    "parentId": "2b7ac425-faae-44e2-afaa-7dd6e0461bfb"
+                }
+            ],
+            "id": "2b7ac425-faae-44e2-afaa-7dd6e0461bfb",
+            "parentId": "cf11a308-3173-41e0-8ffa-e2d03949b4d1"
+        },
+        {
+            "interactingDrugId": "pregabalin",
+            "interactantDrugId": "paroxetine",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Pregabalin and Paroxetine have effects on the CNS and can cause sedation, which might affect the ability to perform skilled tasks (see 'Drugs and Driving' in Guidance on Prescribing). In some cases, use of two or more drugs that have effects on the CNS might also increase the risk of CNS depressant effects (which could range from sedation to unconsciousness, coma, respiratory depression, and/or cardiovascular depression).",
+                    "severity": "Normal",
+                    "id": "5b3dcf2e-333f-442b-a6ca-f53e4da779cb",
+                    "parentId": "83f06a48-ada4-49c5-9cb4-b59d30bf6a59"
+                }
+            ],
+            "id": "83f06a48-ada4-49c5-9cb4-b59d30bf6a59",
+            "parentId": "cf11a308-3173-41e0-8ffa-e2d03949b4d1"
+        },
+        {
+            "interactingDrugId": "pregabalin",
+            "interactantDrugId": "pentazocine",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Pregabalin and Pentazocine have effects on the CNS and can cause sedation, which might affect the ability to perform skilled tasks (see 'Drugs and Driving' in Guidance on Prescribing). In some cases, use of two or more drugs that have effects on the CNS might also increase the risk of CNS depressant effects (which could range from sedation to unconsciousness, coma, respiratory depression, and/or cardiovascular depression).",
+                    "severity": "Normal",
+                    "id": "03684c65-f02d-4558-907f-3eb00785f122",
+                    "parentId": "c1688456-554f-4206-94b3-2531d6c9509e"
+                }
+            ],
+            "id": "c1688456-554f-4206-94b3-2531d6c9509e",
+            "parentId": "cf11a308-3173-41e0-8ffa-e2d03949b4d1"
+        },
+        {
+            "interactingDrugId": "pregabalin",
+            "interactantDrugId": "pericyazine",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Pregabalin and Pericyazine have effects on the CNS and can cause sedation, which might affect the ability to perform skilled tasks (see 'Drugs and Driving' in Guidance on Prescribing). In some cases, use of two or more drugs that have effects on the CNS might also increase the risk of CNS depressant effects (which could range from sedation to unconsciousness, coma, respiratory depression, and/or cardiovascular depression).",
+                    "severity": "Normal",
+                    "id": "ee714ae9-33a2-4f26-b183-b21ba646d851",
+                    "parentId": "ebde6745-84da-426f-bab0-df4d89c16948"
+                }
+            ],
+            "id": "ebde6745-84da-426f-bab0-df4d89c16948",
+            "parentId": "cf11a308-3173-41e0-8ffa-e2d03949b4d1"
+        },
+        {
+            "interactingDrugId": "pregabalin",
+            "interactantDrugId": "pimozide",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Pregabalin and Pimozide have effects on the CNS and can cause sedation, which might affect the ability to perform skilled tasks (see 'Drugs and Driving' in Guidance on Prescribing). In some cases, use of two or more drugs that have effects on the CNS might also increase the risk of CNS depressant effects (which could range from sedation to unconsciousness, coma, respiratory depression, and/or cardiovascular depression).",
+                    "severity": "Normal",
+                    "id": "a9ba5fdd-c829-48f5-b9f5-bd0afa36c0be",
+                    "parentId": "0b5cea6b-d2e7-445d-9b46-874039818115"
+                }
+            ],
+            "id": "0b5cea6b-d2e7-445d-9b46-874039818115",
+            "parentId": "cf11a308-3173-41e0-8ffa-e2d03949b4d1"
+        },
+        {
+            "interactingDrugId": "pregabalin",
+            "interactantDrugId": "pizotifen",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Pregabalin and Pizotifen have effects on the CNS and can cause sedation, which might affect the ability to perform skilled tasks (see 'Drugs and Driving' in Guidance on Prescribing). In some cases, use of two or more drugs that have effects on the CNS might also increase the risk of CNS depressant effects (which could range from sedation to unconsciousness, coma, respiratory depression, and/or cardiovascular depression).",
+                    "severity": "Normal",
+                    "id": "3bfe8c4e-5c44-4f50-8838-9cca906a3413",
+                    "parentId": "74f61c7b-b809-440a-a3a8-c6fe49f77dd0"
+                }
+            ],
+            "id": "74f61c7b-b809-440a-a3a8-c6fe49f77dd0",
+            "parentId": "cf11a308-3173-41e0-8ffa-e2d03949b4d1"
+        },
+        {
+            "interactingDrugId": "pregabalin",
+            "interactantDrugId": "pramipexole",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Pregabalin and Pramipexole have effects on the CNS and can cause sedation, which might affect the ability to perform skilled tasks (see 'Drugs and Driving' in Guidance on Prescribing). In some cases, use of two or more drugs that have effects on the CNS might also increase the risk of CNS depressant effects (which could range from sedation to unconsciousness, coma, respiratory depression, and/or cardiovascular depression).",
+                    "severity": "Normal",
+                    "id": "8cb9344b-5955-43b9-a22c-7a7e26370c00",
+                    "parentId": "c6d94728-dd4d-481f-af72-6bca5faa8e53"
+                }
+            ],
+            "id": "c6d94728-dd4d-481f-af72-6bca5faa8e53",
+            "parentId": "cf11a308-3173-41e0-8ffa-e2d03949b4d1"
+        },
+        {
+            "interactingDrugId": "pregabalin",
+            "interactantDrugId": "prochlorperazine",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Pregabalin and Prochlorperazine have effects on the CNS and can cause sedation, which might affect the ability to perform skilled tasks (see 'Drugs and Driving' in Guidance on Prescribing). In some cases, use of two or more drugs that have effects on the CNS might also increase the risk of CNS depressant effects (which could range from sedation to unconsciousness, coma, respiratory depression, and/or cardiovascular depression).",
+                    "severity": "Normal",
+                    "id": "72f91aee-ad9d-4db6-a097-cefa838afd92",
+                    "parentId": "836c2f1b-402a-4a85-8502-147c07a341b5"
+                }
+            ],
+            "id": "836c2f1b-402a-4a85-8502-147c07a341b5",
+            "parentId": "cf11a308-3173-41e0-8ffa-e2d03949b4d1"
+        },
+        {
+            "interactingDrugId": "pregabalin",
+            "interactantDrugId": "propofol",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Pregabalin and Propofol have effects on the CNS and can cause sedation, which might affect the ability to perform skilled tasks (see 'Drugs and Driving' in Guidance on Prescribing). In some cases, use of two or more drugs that have effects on the CNS might also increase the risk of CNS depressant effects (which could range from sedation to unconsciousness, coma, respiratory depression, and/or cardiovascular depression).",
+                    "severity": "Normal",
+                    "id": "162ca473-46cb-4ee0-bc35-4dc16028fd4f",
+                    "parentId": "e8fc8552-0e7a-4f7b-81b7-7b9d6a32b7d0"
+                }
+            ],
+            "id": "e8fc8552-0e7a-4f7b-81b7-7b9d6a32b7d0",
+            "parentId": "cf11a308-3173-41e0-8ffa-e2d03949b4d1"
+        },
+        {
+            "interactingDrugId": "pregabalin",
+            "interactantDrugId": "quetiapine",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Pregabalin and Quetiapine have effects on the CNS and can cause sedation, which might affect the ability to perform skilled tasks (see 'Drugs and Driving' in Guidance on Prescribing). In some cases, use of two or more drugs that have effects on the CNS might also increase the risk of CNS depressant effects (which could range from sedation to unconsciousness, coma, respiratory depression, and/or cardiovascular depression).",
+                    "severity": "Normal",
+                    "id": "3588ec29-5a77-413f-9aca-f53c92e0469e",
+                    "parentId": "edd114ba-c394-4578-9b96-e32119f86398"
+                }
+            ],
+            "id": "edd114ba-c394-4578-9b96-e32119f86398",
+            "parentId": "cf11a308-3173-41e0-8ffa-e2d03949b4d1"
+        },
+        {
+            "interactingDrugId": "pregabalin",
+            "interactantDrugId": "quinagolide",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Pregabalin and Quinagolide have effects on the CNS and can cause sedation, which might affect the ability to perform skilled tasks (see 'Drugs and Driving' in Guidance on Prescribing). In some cases, use of two or more drugs that have effects on the CNS might also increase the risk of CNS depressant effects (which could range from sedation to unconsciousness, coma, respiratory depression, and/or cardiovascular depression).",
+                    "severity": "Normal",
+                    "id": "ee03088f-b653-4727-84d4-5c73d0214909",
+                    "parentId": "eb75f7ee-4eaa-431d-9c62-d2bd41a934f2"
+                }
+            ],
+            "id": "eb75f7ee-4eaa-431d-9c62-d2bd41a934f2",
+            "parentId": "cf11a308-3173-41e0-8ffa-e2d03949b4d1"
+        },
+        {
+            "interactingDrugId": "pregabalin",
+            "interactantDrugId": "remifentanil",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Pregabalin and Remifentanil have effects on the CNS and can cause sedation, which might affect the ability to perform skilled tasks (see 'Drugs and Driving' in Guidance on Prescribing). In some cases, use of two or more drugs that have effects on the CNS might also increase the risk of CNS depressant effects (which could range from sedation to unconsciousness, coma, respiratory depression, and/or cardiovascular depression).",
+                    "severity": "Normal",
+                    "id": "86b834e6-0108-4773-aa25-3580e41eec08",
+                    "parentId": "cc2d433d-df34-4fbc-bfd9-446103d7c757"
+                }
+            ],
+            "id": "cc2d433d-df34-4fbc-bfd9-446103d7c757",
+            "parentId": "cf11a308-3173-41e0-8ffa-e2d03949b4d1"
+        },
+        {
+            "interactingDrugId": "pregabalin",
+            "interactantDrugId": "remimazolam",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Pregabalin and Remimazolam have effects on the CNS and can cause sedation, which might affect the ability to perform skilled tasks (see 'Drugs and Driving' in Guidance on Prescribing). In some cases, use of two or more drugs that have effects on the CNS might also increase the risk of CNS depressant effects (which could range from sedation to unconsciousness, coma, respiratory depression, and/or cardiovascular depression).",
+                    "severity": "Normal",
+                    "id": "f5d4472f-c1d8-4e0b-9948-256aa1d90a1f",
+                    "parentId": "17100791-2e78-4e65-a078-09d11d6de668"
+                }
+            ],
+            "id": "17100791-2e78-4e65-a078-09d11d6de668",
+            "parentId": "cf11a308-3173-41e0-8ffa-e2d03949b4d1"
+        },
+        {
+            "interactingDrugId": "pregabalin",
+            "interactantDrugId": "risperidone",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Pregabalin and Risperidone have effects on the CNS and can cause sedation, which might affect the ability to perform skilled tasks (see 'Drugs and Driving' in Guidance on Prescribing). In some cases, use of two or more drugs that have effects on the CNS might also increase the risk of CNS depressant effects (which could range from sedation to unconsciousness, coma, respiratory depression, and/or cardiovascular depression).",
+                    "severity": "Normal",
+                    "id": "782158b9-640a-44fd-8145-95f312e71834",
+                    "parentId": "5fff1337-7ba7-4b39-aa2c-71330a4fa5df"
+                }
+            ],
+            "id": "5fff1337-7ba7-4b39-aa2c-71330a4fa5df",
+            "parentId": "cf11a308-3173-41e0-8ffa-e2d03949b4d1"
+        },
+        {
+            "interactingDrugId": "pregabalin",
+            "interactantDrugId": "ropinirole",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Pregabalin and Ropinirole have effects on the CNS and can cause sedation, which might affect the ability to perform skilled tasks (see 'Drugs and Driving' in Guidance on Prescribing). In some cases, use of two or more drugs that have effects on the CNS might also increase the risk of CNS depressant effects (which could range from sedation to unconsciousness, coma, respiratory depression, and/or cardiovascular depression).",
+                    "severity": "Normal",
+                    "id": "71a096ec-da74-48f8-b87e-7e2293102de0",
+                    "parentId": "8fe2fb94-61b5-4d24-ba01-d5fb21852ad8"
+                }
+            ],
+            "id": "8fe2fb94-61b5-4d24-ba01-d5fb21852ad8",
+            "parentId": "cf11a308-3173-41e0-8ffa-e2d03949b4d1"
+        },
+        {
+            "interactingDrugId": "pregabalin",
+            "interactantDrugId": "rotigotine",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Pregabalin and Rotigotine have effects on the CNS and can cause sedation, which might affect the ability to perform skilled tasks (see 'Drugs and Driving' in Guidance on Prescribing). In some cases, use of two or more drugs that have effects on the CNS might also increase the risk of CNS depressant effects (which could range from sedation to unconsciousness, coma, respiratory depression, and/or cardiovascular depression).",
+                    "severity": "Normal",
+                    "id": "5bca7224-b1b8-47fe-b179-f0716f5ad9b5",
+                    "parentId": "763a7421-08df-43ba-8c74-0479c93a1aba"
+                }
+            ],
+            "id": "763a7421-08df-43ba-8c74-0479c93a1aba",
+            "parentId": "cf11a308-3173-41e0-8ffa-e2d03949b4d1"
+        },
+        {
+            "interactingDrugId": "pregabalin",
+            "interactantDrugId": "sertraline",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Pregabalin and Sertraline have effects on the CNS and can cause sedation, which might affect the ability to perform skilled tasks (see 'Drugs and Driving' in Guidance on Prescribing). In some cases, use of two or more drugs that have effects on the CNS might also increase the risk of CNS depressant effects (which could range from sedation to unconsciousness, coma, respiratory depression, and/or cardiovascular depression).",
+                    "severity": "Normal",
+                    "id": "2745a6c0-5145-40d9-8438-6815a63217cf",
+                    "parentId": "93d3f4a6-404b-4dc3-aea9-f613bb8f4044"
+                }
+            ],
+            "id": "93d3f4a6-404b-4dc3-aea9-f613bb8f4044",
+            "parentId": "cf11a308-3173-41e0-8ffa-e2d03949b4d1"
+        },
+        {
+            "interactingDrugId": "pregabalin",
+            "interactantDrugId": "sevoflurane",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Pregabalin and Sevoflurane have effects on the CNS and can cause sedation, which might affect the ability to perform skilled tasks (see 'Drugs and Driving' in Guidance on Prescribing). In some cases, use of two or more drugs that have effects on the CNS might also increase the risk of CNS depressant effects (which could range from sedation to unconsciousness, coma, respiratory depression, and/or cardiovascular depression).",
+                    "severity": "Normal",
+                    "id": "0a2cb897-9b41-4ac7-8403-f1f4760fe321",
+                    "parentId": "71109f51-80f4-492c-bd1f-d10a4b483b58"
+                }
+            ],
+            "id": "71109f51-80f4-492c-bd1f-d10a4b483b58",
+            "parentId": "cf11a308-3173-41e0-8ffa-e2d03949b4d1"
+        },
+        {
+            "interactingDrugId": "pregabalin",
+            "interactantDrugId": "sodium-oxybate",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Pregabalin and Sodium oxybate have effects on the CNS and can cause sedation, which might affect the ability to perform skilled tasks (see 'Drugs and Driving' in Guidance on Prescribing). In some cases, use of two or more drugs that have effects on the CNS might also increase the risk of CNS depressant effects (which could range from sedation to unconsciousness, coma, respiratory depression, and/or cardiovascular depression).",
+                    "severity": "Normal",
+                    "id": "0efae3b9-54ab-4c80-a709-bb337dd5f3a7",
+                    "parentId": "62cd1099-96b5-431b-b182-d03879e7df46"
+                }
+            ],
+            "id": "62cd1099-96b5-431b-b182-d03879e7df46",
+            "parentId": "cf11a308-3173-41e0-8ffa-e2d03949b4d1"
+        },
+        {
+            "interactingDrugId": "pregabalin",
+            "interactantDrugId": "sufentanil",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Pregabalin and Sufentanil have effects on the CNS and can cause sedation, which might affect the ability to perform skilled tasks (see 'Drugs and Driving' in Guidance on Prescribing). In some cases, use of two or more drugs that have effects on the CNS might also increase the risk of CNS depressant effects (which could range from sedation to unconsciousness, coma, respiratory depression, and/or cardiovascular depression).",
+                    "severity": "Normal",
+                    "id": "8fb05ee9-d0e0-43af-be75-ba59f7187e89",
+                    "parentId": "696cd534-8049-4b5b-bcbc-12f20b951585"
+                }
+            ],
+            "id": "696cd534-8049-4b5b-bcbc-12f20b951585",
+            "parentId": "cf11a308-3173-41e0-8ffa-e2d03949b4d1"
+        },
+        {
+            "interactingDrugId": "pregabalin",
+            "interactantDrugId": "sulpiride",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Pregabalin and Sulpiride have effects on the CNS and can cause sedation, which might affect the ability to perform skilled tasks (see 'Drugs and Driving' in Guidance on Prescribing). In some cases, use of two or more drugs that have effects on the CNS might also increase the risk of CNS depressant effects (which could range from sedation to unconsciousness, coma, respiratory depression, and/or cardiovascular depression).",
+                    "severity": "Normal",
+                    "id": "e98b81bb-4454-45df-bba6-7b5e0473723d",
+                    "parentId": "cdfcfd9b-2ce1-461d-bfc5-8bd1585be676"
+                }
+            ],
+            "id": "cdfcfd9b-2ce1-461d-bfc5-8bd1585be676",
+            "parentId": "cf11a308-3173-41e0-8ffa-e2d03949b4d1"
+        },
+        {
+            "interactingDrugId": "pregabalin",
+            "interactantDrugId": "tapentadol",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Pregabalin and Tapentadol have effects on the CNS and can cause sedation, which might affect the ability to perform skilled tasks (see 'Drugs and Driving' in Guidance on Prescribing). In some cases, use of two or more drugs that have effects on the CNS might also increase the risk of CNS depressant effects (which could range from sedation to unconsciousness, coma, respiratory depression, and/or cardiovascular depression).",
+                    "severity": "Normal",
+                    "id": "2bb0a96e-db77-4d98-b9f4-1ee03c307c0c",
+                    "parentId": "770ade24-7682-41e9-b357-80fdc8e5e1ea"
+                }
+            ],
+            "id": "770ade24-7682-41e9-b357-80fdc8e5e1ea",
+            "parentId": "cf11a308-3173-41e0-8ffa-e2d03949b4d1"
+        },
+        {
+            "interactingDrugId": "pregabalin",
+            "interactantDrugId": "temazepam",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Pregabalin and Temazepam have effects on the CNS and can cause sedation, which might affect the ability to perform skilled tasks (see 'Drugs and Driving' in Guidance on Prescribing). In some cases, use of two or more drugs that have effects on the CNS might also increase the risk of CNS depressant effects (which could range from sedation to unconsciousness, coma, respiratory depression, and/or cardiovascular depression).",
+                    "severity": "Normal",
+                    "id": "f6dc7155-2551-4581-bcad-d8348c820ca4",
+                    "parentId": "5abc62fc-6166-4377-a09e-085ed661a59a"
+                }
+            ],
+            "id": "5abc62fc-6166-4377-a09e-085ed661a59a",
+            "parentId": "cf11a308-3173-41e0-8ffa-e2d03949b4d1"
+        },
+        {
+            "interactingDrugId": "pregabalin",
+            "interactantDrugId": "tetrabenazine",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Pregabalin and Tetrabenazine have effects on the CNS and can cause sedation, which might affect the ability to perform skilled tasks (see 'Drugs and Driving' in Guidance on Prescribing). In some cases, use of two or more drugs that have effects on the CNS might also increase the risk of CNS depressant effects (which could range from sedation to unconsciousness, coma, respiratory depression, and/or cardiovascular depression).",
+                    "severity": "Normal",
+                    "id": "34ea2087-67b8-48b5-8ca3-a406332ae38e",
+                    "parentId": "2830a36d-52cf-4e2c-b1d1-5e5941452ba7"
+                }
+            ],
+            "id": "2830a36d-52cf-4e2c-b1d1-5e5941452ba7",
+            "parentId": "cf11a308-3173-41e0-8ffa-e2d03949b4d1"
+        },
+        {
+            "interactingDrugId": "pregabalin",
+            "interactantDrugId": "thalidomide-specialist-drug",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Pregabalin and Thalidomide have effects on the CNS and can cause sedation, which might affect the ability to perform skilled tasks (see 'Drugs and Driving' in Guidance on Prescribing). In some cases, use of two or more drugs that have effects on the CNS might also increase the risk of CNS depressant effects (which could range from sedation to unconsciousness, coma, respiratory depression, and/or cardiovascular depression).",
+                    "severity": "Normal",
+                    "id": "79aa9d50-1e8f-4a2d-8536-a9899a67cf67",
+                    "parentId": "69da781c-7c92-4cb0-8bb9-88766aa60adf"
+                }
+            ],
+            "id": "69da781c-7c92-4cb0-8bb9-88766aa60adf",
+            "parentId": "cf11a308-3173-41e0-8ffa-e2d03949b4d1"
+        },
+        {
+            "interactingDrugId": "pregabalin",
+            "interactantDrugId": "tizanidine",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Pregabalin and Tizanidine have effects on the CNS and can cause sedation, which might affect the ability to perform skilled tasks (see 'Drugs and Driving' in Guidance on Prescribing). In some cases, use of two or more drugs that have effects on the CNS might also increase the risk of CNS depressant effects (which could range from sedation to unconsciousness, coma, respiratory depression, and/or cardiovascular depression).",
+                    "severity": "Normal",
+                    "id": "e46c10f3-3e93-4ff4-9428-46e2aa1656e3",
+                    "parentId": "ac4cdde3-2aee-401f-973f-6d5514966ff8"
+                }
+            ],
+            "id": "ac4cdde3-2aee-401f-973f-6d5514966ff8",
+            "parentId": "cf11a308-3173-41e0-8ffa-e2d03949b4d1"
+        },
+        {
+            "interactingDrugId": "pregabalin",
+            "interactantDrugId": "trifluoperazine",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Pregabalin and Trifluoperazine have effects on the CNS and can cause sedation, which might affect the ability to perform skilled tasks (see 'Drugs and Driving' in Guidance on Prescribing). In some cases, use of two or more drugs that have effects on the CNS might also increase the risk of CNS depressant effects (which could range from sedation to unconsciousness, coma, respiratory depression, and/or cardiovascular depression).",
+                    "severity": "Normal",
+                    "id": "06e07db1-eb8f-4eb6-8514-5b2d6312ad0b",
+                    "parentId": "8d71193d-e3b0-440d-9a60-ff4a8a6cafaf"
+                }
+            ],
+            "id": "8d71193d-e3b0-440d-9a60-ff4a8a6cafaf",
+            "parentId": "cf11a308-3173-41e0-8ffa-e2d03949b4d1"
+        },
+        {
+            "interactingDrugId": "pregabalin",
+            "interactantDrugId": "trimipramine",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Pregabalin and Trimipramine have effects on the CNS and can cause sedation, which might affect the ability to perform skilled tasks (see 'Drugs and Driving' in Guidance on Prescribing). In some cases, use of two or more drugs that have effects on the CNS might also increase the risk of CNS depressant effects (which could range from sedation to unconsciousness, coma, respiratory depression, and/or cardiovascular depression).",
+                    "severity": "Normal",
+                    "id": "17991be2-5e78-4002-80b0-c9a4f215d415",
+                    "parentId": "89065607-a6b1-4e1c-8c9d-05a7b6f91ef9"
+                }
+            ],
+            "id": "89065607-a6b1-4e1c-8c9d-05a7b6f91ef9",
+            "parentId": "cf11a308-3173-41e0-8ffa-e2d03949b4d1"
+        },
+        {
+            "interactingDrugId": "pregabalin",
+            "interactantDrugId": "venlafaxine",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Pregabalin and Venlafaxine have effects on the CNS and can cause sedation, which might affect the ability to perform skilled tasks (see 'Drugs and Driving' in Guidance on Prescribing). In some cases, use of two or more drugs that have effects on the CNS might also increase the risk of CNS depressant effects (which could range from sedation to unconsciousness, coma, respiratory depression, and/or cardiovascular depression).",
+                    "severity": "Normal",
+                    "id": "50dd2897-c834-46ff-a81e-5f55728cb7e6",
+                    "parentId": "d25a0f61-47bc-4ed9-b284-3116043e677a"
+                }
+            ],
+            "id": "d25a0f61-47bc-4ed9-b284-3116043e677a",
+            "parentId": "cf11a308-3173-41e0-8ffa-e2d03949b4d1"
+        },
+        {
+            "interactingDrugId": "pregabalin",
+            "interactantDrugId": "zopiclone",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Pregabalin and Zopiclone have effects on the CNS and can cause sedation, which might affect the ability to perform skilled tasks (see 'Drugs and Driving' in Guidance on Prescribing). In some cases, use of two or more drugs that have effects on the CNS might also increase the risk of CNS depressant effects (which could range from sedation to unconsciousness, coma, respiratory depression, and/or cardiovascular depression).",
+                    "severity": "Normal",
+                    "id": "524e5c40-52e6-47c0-8262-a4e7e09b15b1",
+                    "parentId": "e628fdaa-273c-4da0-a3bb-c5429f64e17c"
+                }
+            ],
+            "id": "e628fdaa-273c-4da0-a3bb-c5429f64e17c",
+            "parentId": "cf11a308-3173-41e0-8ffa-e2d03949b4d1"
+        }
+    ],
+    "id": "cf11a308-3173-41e0-8ffa-e2d03949b4d1",
+    "parentId": null
+}

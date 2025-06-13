@@ -1,0 +1,988 @@
+{
+    "interactions": [
+        {
+            "interactingDrugId": "paracetamol",
+            "interactantDrugId": "acenocoumarol",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Paracetamol increases the anticoagulant effect of Acenocoumarol. Manufacturer advises monitor INR.  ",
+                    "severity": "Moderate",
+                    "id": "59f8d2bf-975a-4edd-8662-7b1cf83b14d1",
+                    "parentId": "027b9302-b1df-4cf8-96db-a18cefa671c4"
+                }
+            ],
+            "id": "027b9302-b1df-4cf8-96db-a18cefa671c4",
+            "parentId": "7aabeaab-bce3-47d0-bcb9-1a4f7ffc7436"
+        },
+        {
+            "interactingDrugId": "paracetamol",
+            "interactantDrugId": "acitretin",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Paracetamol and Acitretin can increase the risk of hepatotoxicity.",
+                    "severity": "Normal",
+                    "id": "83539cb8-47e7-4ba9-8b55-b3494bd8f0e7",
+                    "parentId": "dd107158-1c0c-47ef-a2d4-d56237c260fa"
+                }
+            ],
+            "id": "dd107158-1c0c-47ef-a2d4-d56237c260fa",
+            "parentId": "7aabeaab-bce3-47d0-bcb9-1a4f7ffc7436"
+        },
+        {
+            "interactingDrugId": "paracetamol",
+            "interactantDrugId": "alcohol",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Alcohol (in those who drink heavily) causes severe liver damage when given with Paracetamol. Manufacturer makes no recommendation.  ",
+                    "severity": "Severe",
+                    "id": "56dad1df-6bd7-47c5-8b82-a4c0df4fa451",
+                    "parentId": "5cfc8426-8e97-4c3d-8762-280be8a494f0"
+                },
+                {
+                    "evidence": "Theoretical",
+                    "description": "Alcohol -induced liver disease increases the risk of hepatotoxicity in those taking Paracetamol. Manufacturer makes no recommendation.  ",
+                    "severity": "Severe",
+                    "id": "7f68a778-dbcc-4cad-94e6-59fbb66f81d7",
+                    "parentId": "5cfc8426-8e97-4c3d-8762-280be8a494f0"
+                }
+            ],
+            "id": "5cfc8426-8e97-4c3d-8762-280be8a494f0",
+            "parentId": "7aabeaab-bce3-47d0-bcb9-1a4f7ffc7436"
+        },
+        {
+            "interactingDrugId": "paracetamol",
+            "interactantDrugId": "alectinib-specialist-drug",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Paracetamol and Alectinib can increase the risk of hepatotoxicity.",
+                    "severity": "Normal",
+                    "id": "9e503d50-cdfc-44a1-b4f4-e43279b7ee38",
+                    "parentId": "4d5b643f-84de-4608-afd0-f58778201d4a"
+                }
+            ],
+            "id": "4d5b643f-84de-4608-afd0-f58778201d4a",
+            "parentId": "7aabeaab-bce3-47d0-bcb9-1a4f7ffc7436"
+        },
+        {
+            "interactingDrugId": "paracetamol",
+            "interactantDrugId": "anidulafungin",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Paracetamol and Anidulafungin can increase the risk of hepatotoxicity.",
+                    "severity": "Normal",
+                    "id": "98047f8a-3336-441c-bac4-dba20b0e085a",
+                    "parentId": "61fd18e3-b326-4765-b643-78ce608b35c9"
+                }
+            ],
+            "id": "61fd18e3-b326-4765-b643-78ce608b35c9",
+            "parentId": "7aabeaab-bce3-47d0-bcb9-1a4f7ffc7436"
+        },
+        {
+            "interactingDrugId": "paracetamol",
+            "interactantDrugId": "asparaginase-specialist-drug",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Paracetamol and Asparaginase can increase the risk of hepatotoxicity.",
+                    "severity": "Normal",
+                    "id": "55dcc027-6a99-40b9-a318-0e01b0410b8f",
+                    "parentId": "809350b7-fef1-46c7-a53f-0936764b8e51"
+                }
+            ],
+            "id": "809350b7-fef1-46c7-a53f-0936764b8e51",
+            "parentId": "7aabeaab-bce3-47d0-bcb9-1a4f7ffc7436"
+        },
+        {
+            "interactingDrugId": "paracetamol",
+            "interactantDrugId": "atorvastatin",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Paracetamol and Atorvastatin can increase the risk of hepatotoxicity.",
+                    "severity": "Normal",
+                    "id": "0691f447-d64a-48dd-87a5-f637a4402d13",
+                    "parentId": "32d26a8a-cc47-41e1-9f94-c91da7f27651"
+                }
+            ],
+            "id": "32d26a8a-cc47-41e1-9f94-c91da7f27651",
+            "parentId": "7aabeaab-bce3-47d0-bcb9-1a4f7ffc7436"
+        },
+        {
+            "interactingDrugId": "paracetamol",
+            "interactantDrugId": "bexarotene-specialist-drug",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Paracetamol and Bexarotene can increase the risk of hepatotoxicity.",
+                    "severity": "Normal",
+                    "id": "e8569730-8f13-4866-b42d-67465872ccf1",
+                    "parentId": "47f108a0-75c3-48ac-b2d7-dbbca717b7ba"
+                }
+            ],
+            "id": "47f108a0-75c3-48ac-b2d7-dbbca717b7ba",
+            "parentId": "7aabeaab-bce3-47d0-bcb9-1a4f7ffc7436"
+        },
+        {
+            "interactingDrugId": "paracetamol",
+            "interactantDrugId": "busulfan-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Paracetamol is predicted to decrease the clearance of Busulfan. Manufacturer advises caution.  ",
+                    "severity": "Moderate",
+                    "id": "730b51f3-a22a-489a-aaa6-84187f08f390",
+                    "parentId": "948de54c-e015-4aed-8298-6539a530dbd4"
+                }
+            ],
+            "id": "948de54c-e015-4aed-8298-6539a530dbd4",
+            "parentId": "7aabeaab-bce3-47d0-bcb9-1a4f7ffc7436"
+        },
+        {
+            "interactingDrugId": "paracetamol",
+            "interactantDrugId": "capecitabine-specialist-drug",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Paracetamol and Capecitabine can increase the risk of hepatotoxicity.",
+                    "severity": "Normal",
+                    "id": "188c67eb-5232-4410-b2ac-24c53c1e2086",
+                    "parentId": "a629e8c8-9f05-4c29-987c-351327d861ed"
+                }
+            ],
+            "id": "a629e8c8-9f05-4c29-987c-351327d861ed",
+            "parentId": "7aabeaab-bce3-47d0-bcb9-1a4f7ffc7436"
+        },
+        {
+            "interactingDrugId": "paracetamol",
+            "interactantDrugId": "carbamazepine",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Carbamazepine decreases the exposure to Paracetamol. Manufacturer makes no recommendation.  ",
+                    "severity": "Moderate",
+                    "id": "f5b21e4d-28a1-4695-84ec-b38523d73d5d",
+                    "parentId": "1f1c8656-a3bf-43d9-91ca-25d9da83ae51"
+                }
+            ],
+            "id": "1f1c8656-a3bf-43d9-91ca-25d9da83ae51",
+            "parentId": "7aabeaab-bce3-47d0-bcb9-1a4f7ffc7436"
+        },
+        {
+            "interactingDrugId": "paracetamol",
+            "interactantDrugId": "carmustine-specialist-drug",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Paracetamol and Carmustine can increase the risk of hepatotoxicity.",
+                    "severity": "Normal",
+                    "id": "f9e1a7a9-4539-4bff-963d-c62f331d097f",
+                    "parentId": "c3123c9c-32b8-40c8-a3b4-ba372e0353e0"
+                }
+            ],
+            "id": "c3123c9c-32b8-40c8-a3b4-ba372e0353e0",
+            "parentId": "7aabeaab-bce3-47d0-bcb9-1a4f7ffc7436"
+        },
+        {
+            "interactingDrugId": "paracetamol",
+            "interactantDrugId": "caspofungin",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Paracetamol and Caspofungin can increase the risk of hepatotoxicity.",
+                    "severity": "Normal",
+                    "id": "757c2f19-5571-4f6e-ae27-0b4ba334f9be",
+                    "parentId": "75f369ee-265b-4c38-afe3-61e0f579fd9d"
+                }
+            ],
+            "id": "75f369ee-265b-4c38-afe3-61e0f579fd9d",
+            "parentId": "7aabeaab-bce3-47d0-bcb9-1a4f7ffc7436"
+        },
+        {
+            "interactingDrugId": "paracetamol",
+            "interactantDrugId": "clofarabine-specialist-drug",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Paracetamol and Clofarabine can increase the risk of hepatotoxicity.",
+                    "severity": "Normal",
+                    "id": "29126581-955e-49d1-964f-16cd4b9c4da6",
+                    "parentId": "cb237bf7-8b4b-4858-9804-fda5298f61a3"
+                }
+            ],
+            "id": "cb237bf7-8b4b-4858-9804-fda5298f61a3",
+            "parentId": "7aabeaab-bce3-47d0-bcb9-1a4f7ffc7436"
+        },
+        {
+            "interactingDrugId": "paracetamol",
+            "interactantDrugId": "crisantaspase-specialist-drug",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Paracetamol and Crisantaspase can increase the risk of hepatotoxicity.",
+                    "severity": "Normal",
+                    "id": "5e94ce6d-3037-44af-85ac-6f92ec9c1a7c",
+                    "parentId": "5d0402f7-b9c3-490c-b73f-86807c60cf25"
+                }
+            ],
+            "id": "5d0402f7-b9c3-490c-b73f-86807c60cf25",
+            "parentId": "7aabeaab-bce3-47d0-bcb9-1a4f7ffc7436"
+        },
+        {
+            "interactingDrugId": "paracetamol",
+            "interactantDrugId": "cytarabine-specialist-drug",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Paracetamol and Cytarabine can increase the risk of hepatotoxicity.",
+                    "severity": "Normal",
+                    "id": "c363a86f-4c99-4238-aff4-2064f4d7b837",
+                    "parentId": "8c3cc57f-9fb1-4c08-9b2d-85bdfaaffd00"
+                }
+            ],
+            "id": "8c3cc57f-9fb1-4c08-9b2d-85bdfaaffd00",
+            "parentId": "7aabeaab-bce3-47d0-bcb9-1a4f7ffc7436"
+        },
+        {
+            "interactingDrugId": "paracetamol",
+            "interactantDrugId": "decitabine-specialist-drug",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Paracetamol and Decitabine can increase the risk of hepatotoxicity.",
+                    "severity": "Normal",
+                    "id": "75667f21-f0d9-4a44-adbe-8dd7db9e200b",
+                    "parentId": "67b09c2f-7244-4421-849d-7003ff2c0263"
+                }
+            ],
+            "id": "67b09c2f-7244-4421-849d-7003ff2c0263",
+            "parentId": "7aabeaab-bce3-47d0-bcb9-1a4f7ffc7436"
+        },
+        {
+            "interactingDrugId": "paracetamol",
+            "interactantDrugId": "doxycycline",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Paracetamol and Doxycycline can increase the risk of hepatotoxicity.",
+                    "severity": "Normal",
+                    "id": "b387199d-a164-437e-8af0-1613dcedb79a",
+                    "parentId": "06f08861-39d5-4ff7-9c53-e3c724fb6c64"
+                }
+            ],
+            "id": "06f08861-39d5-4ff7-9c53-e3c724fb6c64",
+            "parentId": "7aabeaab-bce3-47d0-bcb9-1a4f7ffc7436"
+        },
+        {
+            "interactingDrugId": "paracetamol",
+            "interactantDrugId": "eravacycline",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Paracetamol and Eravacycline can increase the risk of hepatotoxicity.",
+                    "severity": "Normal",
+                    "id": "d6970856-d203-4921-bc40-b182e0fccc61",
+                    "parentId": "b503e8b5-0dd4-4488-b18d-18bc0fa93f08"
+                }
+            ],
+            "id": "b503e8b5-0dd4-4488-b18d-18bc0fa93f08",
+            "parentId": "7aabeaab-bce3-47d0-bcb9-1a4f7ffc7436"
+        },
+        {
+            "interactingDrugId": "paracetamol",
+            "interactantDrugId": "flucloxacillin",
+            "details": [
+                {
+                    "evidence": "Anecdotal",
+                    "description": "Paracetamol has been reported to cause high anion gap metabolic acidosis when given with Flucloxacillin. Manufacturer advises caution.  ",
+                    "severity": "Severe",
+                    "id": "85550ade-d84d-492f-b416-6bbb3943ee39",
+                    "parentId": "1025c7f8-06d8-4a5b-87cc-677cb5006c4f"
+                }
+            ],
+            "id": "1025c7f8-06d8-4a5b-87cc-677cb5006c4f",
+            "parentId": "7aabeaab-bce3-47d0-bcb9-1a4f7ffc7436"
+        },
+        {
+            "interactingDrugId": "paracetamol",
+            "interactantDrugId": "fluconazole",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Paracetamol and Fluconazole can increase the risk of hepatotoxicity.",
+                    "severity": "Normal",
+                    "id": "e8953352-73b4-4405-934b-326975da01b3",
+                    "parentId": "95701a5f-972a-411b-8afe-420200229f6e"
+                }
+            ],
+            "id": "95701a5f-972a-411b-8afe-420200229f6e",
+            "parentId": "7aabeaab-bce3-47d0-bcb9-1a4f7ffc7436"
+        },
+        {
+            "interactingDrugId": "paracetamol",
+            "interactantDrugId": "fluorouracil",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Paracetamol and Fluorouracil can increase the risk of hepatotoxicity.",
+                    "severity": "Normal",
+                    "id": "c8d46a59-5eda-441c-920e-e7bac22ec9fe",
+                    "parentId": "af9c09d8-3a1e-4371-8e20-3fc2e47bfe19"
+                }
+            ],
+            "id": "af9c09d8-3a1e-4371-8e20-3fc2e47bfe19",
+            "parentId": "7aabeaab-bce3-47d0-bcb9-1a4f7ffc7436"
+        },
+        {
+            "interactingDrugId": "paracetamol",
+            "interactantDrugId": "flutamide",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Paracetamol and Flutamide can increase the risk of hepatotoxicity.",
+                    "severity": "Normal",
+                    "id": "b6c6e7c8-4de3-4457-a501-a3f3fc10548e",
+                    "parentId": "e9bcfbc4-3c51-4174-84fb-261efe521167"
+                }
+            ],
+            "id": "e9bcfbc4-3c51-4174-84fb-261efe521167",
+            "parentId": "7aabeaab-bce3-47d0-bcb9-1a4f7ffc7436"
+        },
+        {
+            "interactingDrugId": "paracetamol",
+            "interactantDrugId": "fluvastatin",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Paracetamol and Fluvastatin can increase the risk of hepatotoxicity.",
+                    "severity": "Normal",
+                    "id": "ee4aae55-38c4-4ee6-add9-e9fa0e2c3202",
+                    "parentId": "1ced7d45-4e30-4590-80fb-5310ed2df1fc"
+                }
+            ],
+            "id": "1ced7d45-4e30-4590-80fb-5310ed2df1fc",
+            "parentId": "7aabeaab-bce3-47d0-bcb9-1a4f7ffc7436"
+        },
+        {
+            "interactingDrugId": "paracetamol",
+            "interactantDrugId": "gemcitabine-specialist-drug",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Paracetamol and Gemcitabine can increase the risk of hepatotoxicity.",
+                    "severity": "Normal",
+                    "id": "4e95efab-486d-4873-8a0b-2ef5ed565d59",
+                    "parentId": "a6a5601e-8021-4f54-9a0b-4341bc045a0a"
+                }
+            ],
+            "id": "a6a5601e-8021-4f54-9a0b-4341bc045a0a",
+            "parentId": "7aabeaab-bce3-47d0-bcb9-1a4f7ffc7436"
+        },
+        {
+            "interactingDrugId": "paracetamol",
+            "interactantDrugId": "imatinib-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Anecdotal",
+                    "description": "Imatinib increases the risk of hepatotoxicity when given with Paracetamol. Manufacturer advises caution.  ",
+                    "severity": "Severe",
+                    "id": "8631078c-3f0c-41ab-a874-00651285a4ef",
+                    "parentId": "486a45db-f280-47ae-8f65-33ed5776ec0d"
+                }
+            ],
+            "id": "486a45db-f280-47ae-8f65-33ed5776ec0d",
+            "parentId": "7aabeaab-bce3-47d0-bcb9-1a4f7ffc7436"
+        },
+        {
+            "interactingDrugId": "paracetamol",
+            "interactantDrugId": "isoniazid",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Paracetamol and Isoniazid can increase the risk of hepatotoxicity.",
+                    "severity": "Normal",
+                    "id": "bb9e441a-4a51-4547-b797-1c62920f6db2",
+                    "parentId": "ff700ad1-ef82-4a47-b7d8-7356b623c9cb"
+                }
+            ],
+            "id": "ff700ad1-ef82-4a47-b7d8-7356b623c9cb",
+            "parentId": "7aabeaab-bce3-47d0-bcb9-1a4f7ffc7436"
+        },
+        {
+            "interactingDrugId": "paracetamol",
+            "interactantDrugId": "isotretinoin",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Paracetamol and Isotretinoin can increase the risk of hepatotoxicity.",
+                    "severity": "Normal",
+                    "id": "bdda5134-acf9-4858-bcb8-a9cc11e1a7ce",
+                    "parentId": "6d425ef0-9b24-4e35-9613-f245ea94835b"
+                }
+            ],
+            "id": "6d425ef0-9b24-4e35-9613-f245ea94835b",
+            "parentId": "7aabeaab-bce3-47d0-bcb9-1a4f7ffc7436"
+        },
+        {
+            "interactingDrugId": "paracetamol",
+            "interactantDrugId": "itraconazole",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Paracetamol and Itraconazole can increase the risk of hepatotoxicity.",
+                    "severity": "Normal",
+                    "id": "a3774a51-5184-451e-8861-2c2b8e76ea2b",
+                    "parentId": "8d91d588-c39a-4616-a9c8-e2dcd0f5f44c"
+                }
+            ],
+            "id": "8d91d588-c39a-4616-a9c8-e2dcd0f5f44c",
+            "parentId": "7aabeaab-bce3-47d0-bcb9-1a4f7ffc7436"
+        },
+        {
+            "interactingDrugId": "paracetamol",
+            "interactantDrugId": "lenalidomide-specialist-drug",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Paracetamol and Lenalidomide can increase the risk of hepatotoxicity.",
+                    "severity": "Normal",
+                    "id": "846e3357-8859-4370-9b88-dca393079dac",
+                    "parentId": "de21ee99-e06a-48a5-ac76-0d8c14d2631d"
+                }
+            ],
+            "id": "de21ee99-e06a-48a5-ac76-0d8c14d2631d",
+            "parentId": "7aabeaab-bce3-47d0-bcb9-1a4f7ffc7436"
+        },
+        {
+            "interactingDrugId": "paracetamol",
+            "interactantDrugId": "lomitapide",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Paracetamol and Lomitapide can increase the risk of hepatotoxicity.",
+                    "severity": "Normal",
+                    "id": "224877fa-b034-4469-96b2-6328077ec9e9",
+                    "parentId": "e65a822e-1aac-4d2c-876f-4714356d70e2"
+                }
+            ],
+            "id": "e65a822e-1aac-4d2c-876f-4714356d70e2",
+            "parentId": "7aabeaab-bce3-47d0-bcb9-1a4f7ffc7436"
+        },
+        {
+            "interactingDrugId": "paracetamol",
+            "interactantDrugId": "lymecycline",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Paracetamol and Lymecycline can increase the risk of hepatotoxicity.",
+                    "severity": "Normal",
+                    "id": "38bf5007-ed97-4e22-8ce5-9e7370215533",
+                    "parentId": "81074b0c-ac46-4057-a70b-bb1a89323a8a"
+                }
+            ],
+            "id": "81074b0c-ac46-4057-a70b-bb1a89323a8a",
+            "parentId": "7aabeaab-bce3-47d0-bcb9-1a4f7ffc7436"
+        },
+        {
+            "interactingDrugId": "paracetamol",
+            "interactantDrugId": "mercaptopurine",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Paracetamol and Mercaptopurine can increase the risk of hepatotoxicity.",
+                    "severity": "Normal",
+                    "id": "f56250d0-a5df-43d8-97a6-b3bd10993626",
+                    "parentId": "1e143502-ceca-4679-820d-f8b6b64899cc"
+                }
+            ],
+            "id": "1e143502-ceca-4679-820d-f8b6b64899cc",
+            "parentId": "7aabeaab-bce3-47d0-bcb9-1a4f7ffc7436"
+        },
+        {
+            "interactingDrugId": "paracetamol",
+            "interactantDrugId": "methotrexate",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Paracetamol and Methotrexate can increase the risk of hepatotoxicity.",
+                    "severity": "Normal",
+                    "id": "fd6bed53-2ae6-42a1-b087-241e1e69c78c",
+                    "parentId": "ac56ded5-8d7d-4531-a38c-8087d0686f8d"
+                }
+            ],
+            "id": "ac56ded5-8d7d-4531-a38c-8087d0686f8d",
+            "parentId": "7aabeaab-bce3-47d0-bcb9-1a4f7ffc7436"
+        },
+        {
+            "interactingDrugId": "paracetamol",
+            "interactantDrugId": "micafungin",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Paracetamol and Micafungin can increase the risk of hepatotoxicity.",
+                    "severity": "Normal",
+                    "id": "91930050-ff05-4f22-b552-e967019b9c8c",
+                    "parentId": "07d55fd2-a5c8-49ca-8053-27bb52fd9588"
+                }
+            ],
+            "id": "07d55fd2-a5c8-49ca-8053-27bb52fd9588",
+            "parentId": "7aabeaab-bce3-47d0-bcb9-1a4f7ffc7436"
+        },
+        {
+            "interactingDrugId": "paracetamol",
+            "interactantDrugId": "minocycline",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Paracetamol and Minocycline can increase the risk of hepatotoxicity.",
+                    "severity": "Normal",
+                    "id": "c7fad24c-4bf7-40f0-b7ed-2d8d7c0f9157",
+                    "parentId": "67c4c44b-5ed3-446d-be9b-f50e431b2c45"
+                }
+            ],
+            "id": "67c4c44b-5ed3-446d-be9b-f50e431b2c45",
+            "parentId": "7aabeaab-bce3-47d0-bcb9-1a4f7ffc7436"
+        },
+        {
+            "interactingDrugId": "paracetamol",
+            "interactantDrugId": "nelarabine-specialist-drug",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Paracetamol and Nelarabine can increase the risk of hepatotoxicity.",
+                    "severity": "Normal",
+                    "id": "22f3133d-d7a7-4223-9f23-b8f59006938d",
+                    "parentId": "568e5140-bc07-47af-ad99-72b13177b77d"
+                }
+            ],
+            "id": "568e5140-bc07-47af-ad99-72b13177b77d",
+            "parentId": "7aabeaab-bce3-47d0-bcb9-1a4f7ffc7436"
+        },
+        {
+            "interactingDrugId": "paracetamol",
+            "interactantDrugId": "neratinib-specialist-drug",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Paracetamol and Neratinib can increase the risk of hepatotoxicity.",
+                    "severity": "Normal",
+                    "id": "8ea3c3a5-8971-4b0e-81cf-0368c11f2668",
+                    "parentId": "802c82e9-6c96-4cd5-9853-da79e18cf881"
+                }
+            ],
+            "id": "802c82e9-6c96-4cd5-9853-da79e18cf881",
+            "parentId": "7aabeaab-bce3-47d0-bcb9-1a4f7ffc7436"
+        },
+        {
+            "interactingDrugId": "paracetamol",
+            "interactantDrugId": "nevirapine",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Paracetamol and Nevirapine can increase the risk of hepatotoxicity.",
+                    "severity": "Normal",
+                    "id": "9a01eaa6-7578-45cf-94ed-816d546771b7",
+                    "parentId": "92f946de-45fa-42d8-ab74-bba2c2e81291"
+                }
+            ],
+            "id": "92f946de-45fa-42d8-ab74-bba2c2e81291",
+            "parentId": "7aabeaab-bce3-47d0-bcb9-1a4f7ffc7436"
+        },
+        {
+            "interactingDrugId": "paracetamol",
+            "interactantDrugId": "nicotinic-acid",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Paracetamol and Nicotinic acid can increase the risk of hepatotoxicity.",
+                    "severity": "Normal",
+                    "id": "0d1b9cb4-35a4-473c-bbf1-437391684eec",
+                    "parentId": "11953900-2b05-4b5f-8906-65ef6c0dbd83"
+                }
+            ],
+            "id": "11953900-2b05-4b5f-8906-65ef6c0dbd83",
+            "parentId": "7aabeaab-bce3-47d0-bcb9-1a4f7ffc7436"
+        },
+        {
+            "interactingDrugId": "paracetamol",
+            "interactantDrugId": "oxymetholone",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Paracetamol and Oxymetholone can increase the risk of hepatotoxicity.",
+                    "severity": "Normal",
+                    "id": "9102cc12-bd7e-4599-8a7e-208e66adfbbd",
+                    "parentId": "1581bba1-1012-4049-9cb5-2d856e0da435"
+                }
+            ],
+            "id": "1581bba1-1012-4049-9cb5-2d856e0da435",
+            "parentId": "7aabeaab-bce3-47d0-bcb9-1a4f7ffc7436"
+        },
+        {
+            "interactingDrugId": "paracetamol",
+            "interactantDrugId": "oxytetracycline",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Paracetamol and Oxytetracycline can increase the risk of hepatotoxicity.",
+                    "severity": "Normal",
+                    "id": "ddf07359-e15a-44e4-8c13-d690e18b338b",
+                    "parentId": "f5ef6196-f258-44bc-b6ab-5c34a46c9d56"
+                }
+            ],
+            "id": "f5ef6196-f258-44bc-b6ab-5c34a46c9d56",
+            "parentId": "7aabeaab-bce3-47d0-bcb9-1a4f7ffc7436"
+        },
+        {
+            "interactingDrugId": "paracetamol",
+            "interactantDrugId": "pegaspargase-specialist-drug",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Paracetamol and Pegaspargase can increase the risk of hepatotoxicity.",
+                    "severity": "Normal",
+                    "id": "2eb81d93-4822-4fe6-b6d6-1f377f3c5b9c",
+                    "parentId": "5c9b10ca-98bc-417c-af44-e594b1ef6663"
+                }
+            ],
+            "id": "5c9b10ca-98bc-417c-af44-e594b1ef6663",
+            "parentId": "7aabeaab-bce3-47d0-bcb9-1a4f7ffc7436"
+        },
+        {
+            "interactingDrugId": "paracetamol",
+            "interactantDrugId": "pemetrexed-specialist-drug",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Paracetamol and Pemetrexed can increase the risk of hepatotoxicity.",
+                    "severity": "Normal",
+                    "id": "52ea575f-9998-43a3-84a6-0da52203b371",
+                    "parentId": "c3b65276-08fe-43bf-b7e8-89d84faba369"
+                }
+            ],
+            "id": "c3b65276-08fe-43bf-b7e8-89d84faba369",
+            "parentId": "7aabeaab-bce3-47d0-bcb9-1a4f7ffc7436"
+        },
+        {
+            "interactingDrugId": "paracetamol",
+            "interactantDrugId": "phenindione",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Paracetamol is predicted to increase the anticoagulant effect of Phenindione. Manufacturer makes no recommendation.  ",
+                    "severity": "Severe",
+                    "id": "af4c550e-0fb7-412a-bd75-fe389c87767d",
+                    "parentId": "ae437630-faba-4579-8a21-c374a28093ab"
+                }
+            ],
+            "id": "ae437630-faba-4579-8a21-c374a28093ab",
+            "parentId": "7aabeaab-bce3-47d0-bcb9-1a4f7ffc7436"
+        },
+        {
+            "interactingDrugId": "paracetamol",
+            "interactantDrugId": "phenobarbital",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Phenobarbital decreases the exposure to Paracetamol. Manufacturer makes no recommendation.  ",
+                    "severity": "Moderate",
+                    "id": "6230c5dc-7852-4db6-bb43-e05c99ce0aaa",
+                    "parentId": "7742920c-2e59-41cb-9279-f7e49262ee5f"
+                }
+            ],
+            "id": "7742920c-2e59-41cb-9279-f7e49262ee5f",
+            "parentId": "7aabeaab-bce3-47d0-bcb9-1a4f7ffc7436"
+        },
+        {
+            "interactingDrugId": "paracetamol",
+            "interactantDrugId": "phenytoin",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Phenytoin decreases the exposure to Paracetamol. Manufacturer makes no recommendation.  ",
+                    "severity": "Moderate",
+                    "id": "beced27c-d195-4c32-8771-3d8b21065f12",
+                    "parentId": "1121b040-5f10-4f04-99f9-a18c2fc055a4"
+                }
+            ],
+            "id": "1121b040-5f10-4f04-99f9-a18c2fc055a4",
+            "parentId": "7aabeaab-bce3-47d0-bcb9-1a4f7ffc7436"
+        },
+        {
+            "interactingDrugId": "paracetamol",
+            "interactantDrugId": "pitolisant",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Pitolisant is predicted to decrease the exposure to Paracetamol. Manufacturer advises caution.  ",
+                    "severity": "Mild",
+                    "id": "110584d1-8b42-447e-aef0-756ea38ac94b",
+                    "parentId": "0e77cb12-f990-4715-8315-7fd7720ad21c"
+                }
+            ],
+            "id": "0e77cb12-f990-4715-8315-7fd7720ad21c",
+            "parentId": "7aabeaab-bce3-47d0-bcb9-1a4f7ffc7436"
+        },
+        {
+            "interactingDrugId": "paracetamol",
+            "interactantDrugId": "pomalidomide-specialist-drug",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Paracetamol and Pomalidomide can increase the risk of hepatotoxicity.",
+                    "severity": "Normal",
+                    "id": "ea36de75-4959-420b-b4b0-44980e0f9646",
+                    "parentId": "583986ac-200b-4a46-a6e7-f19521dcb156"
+                }
+            ],
+            "id": "583986ac-200b-4a46-a6e7-f19521dcb156",
+            "parentId": "7aabeaab-bce3-47d0-bcb9-1a4f7ffc7436"
+        },
+        {
+            "interactingDrugId": "paracetamol",
+            "interactantDrugId": "primidone",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Primidone decreases the exposure to Paracetamol. Manufacturer makes no recommendation.  ",
+                    "severity": "Moderate",
+                    "id": "98ae497e-20a2-491e-977d-fdae12604348",
+                    "parentId": "d7c32886-19ef-4e3f-a90c-2de6af994990"
+                }
+            ],
+            "id": "d7c32886-19ef-4e3f-a90c-2de6af994990",
+            "parentId": "7aabeaab-bce3-47d0-bcb9-1a4f7ffc7436"
+        },
+        {
+            "interactingDrugId": "paracetamol",
+            "interactantDrugId": "pyrazinamide",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Paracetamol and Pyrazinamide can increase the risk of hepatotoxicity.",
+                    "severity": "Normal",
+                    "id": "905b74db-c5d3-4725-9634-ef41213b75e1",
+                    "parentId": "2f0cd36c-39c0-4e6c-8137-998f31227d86"
+                }
+            ],
+            "id": "2f0cd36c-39c0-4e6c-8137-998f31227d86",
+            "parentId": "7aabeaab-bce3-47d0-bcb9-1a4f7ffc7436"
+        },
+        {
+            "interactingDrugId": "paracetamol",
+            "interactantDrugId": "rifampicin",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Rifampicin decreases the exposure to Paracetamol. Manufacturer makes no recommendation.  ",
+                    "severity": "Moderate",
+                    "id": "02c48f66-b8a7-456e-87e2-c14b59b8539b",
+                    "parentId": "67cafdac-664f-41d5-878a-5afda9e47762"
+                }
+            ],
+            "id": "67cafdac-664f-41d5-878a-5afda9e47762",
+            "parentId": "7aabeaab-bce3-47d0-bcb9-1a4f7ffc7436"
+        },
+        {
+            "interactingDrugId": "paracetamol",
+            "interactantDrugId": "ritonavir",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Paracetamol and Ritonavir can increase the risk of hepatotoxicity.",
+                    "severity": "Normal",
+                    "id": "3843cc18-1900-4c98-a49f-5fd90529dac1",
+                    "parentId": "0d437b7c-a5f1-4e88-94af-64cae7635713"
+                }
+            ],
+            "id": "0d437b7c-a5f1-4e88-94af-64cae7635713",
+            "parentId": "7aabeaab-bce3-47d0-bcb9-1a4f7ffc7436"
+        },
+        {
+            "interactingDrugId": "paracetamol",
+            "interactantDrugId": "rosuvastatin",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Paracetamol and Rosuvastatin can increase the risk of hepatotoxicity.",
+                    "severity": "Normal",
+                    "id": "199babda-23f4-491e-ab08-c0a836a5451b",
+                    "parentId": "6630323e-3858-49a6-8799-10345e263fce"
+                }
+            ],
+            "id": "6630323e-3858-49a6-8799-10345e263fce",
+            "parentId": "7aabeaab-bce3-47d0-bcb9-1a4f7ffc7436"
+        },
+        {
+            "interactingDrugId": "paracetamol",
+            "interactantDrugId": "simvastatin",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Paracetamol and Simvastatin can increase the risk of hepatotoxicity.",
+                    "severity": "Normal",
+                    "id": "c746bf16-740e-4b93-9728-0bf0dcd79815",
+                    "parentId": "2c6038fc-a10d-46e7-9f03-d4014124c331"
+                }
+            ],
+            "id": "2c6038fc-a10d-46e7-9f03-d4014124c331",
+            "parentId": "7aabeaab-bce3-47d0-bcb9-1a4f7ffc7436"
+        },
+        {
+            "interactingDrugId": "paracetamol",
+            "interactantDrugId": "sotorasib-specialist-drug",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Paracetamol and Sotorasib can increase the risk of hepatotoxicity.",
+                    "severity": "Normal",
+                    "id": "bf9e0db9-e463-49a9-ab19-e4f7823a4368",
+                    "parentId": "a180f6f4-fec1-4f80-b6c0-c9055ea9b1f3"
+                }
+            ],
+            "id": "a180f6f4-fec1-4f80-b6c0-c9055ea9b1f3",
+            "parentId": "7aabeaab-bce3-47d0-bcb9-1a4f7ffc7436"
+        },
+        {
+            "interactingDrugId": "paracetamol",
+            "interactantDrugId": "streptozocin-specialist-drug",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Paracetamol and Streptozocin can increase the risk of hepatotoxicity.",
+                    "severity": "Normal",
+                    "id": "5e68a36f-1df2-4b4e-b393-79ba2240a40d",
+                    "parentId": "7e69499b-2d8c-4e2e-8937-e5289eca427a"
+                }
+            ],
+            "id": "7e69499b-2d8c-4e2e-8937-e5289eca427a",
+            "parentId": "7aabeaab-bce3-47d0-bcb9-1a4f7ffc7436"
+        },
+        {
+            "interactingDrugId": "paracetamol",
+            "interactantDrugId": "tetracycline",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Paracetamol and Tetracycline can increase the risk of hepatotoxicity.",
+                    "severity": "Normal",
+                    "id": "02e4f686-1d85-42c3-92ce-63ae109abef3",
+                    "parentId": "697ea883-5b09-47fc-8407-ead2e13fc6c0"
+                }
+            ],
+            "id": "697ea883-5b09-47fc-8407-ead2e13fc6c0",
+            "parentId": "7aabeaab-bce3-47d0-bcb9-1a4f7ffc7436"
+        },
+        {
+            "interactingDrugId": "paracetamol",
+            "interactantDrugId": "thalidomide-specialist-drug",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Paracetamol and Thalidomide can increase the risk of hepatotoxicity.",
+                    "severity": "Normal",
+                    "id": "feabaa01-4cee-4c75-9069-8b145d55ba55",
+                    "parentId": "4517c607-04d9-48b3-a140-df13e8931769"
+                }
+            ],
+            "id": "4517c607-04d9-48b3-a140-df13e8931769",
+            "parentId": "7aabeaab-bce3-47d0-bcb9-1a4f7ffc7436"
+        },
+        {
+            "interactingDrugId": "paracetamol",
+            "interactantDrugId": "tigecycline",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Paracetamol and Tigecycline can increase the risk of hepatotoxicity.",
+                    "severity": "Normal",
+                    "id": "e583dc0f-4e56-4fa8-84f1-a17cc1e8b94d",
+                    "parentId": "5e51748a-4792-4ef3-b853-9027ce6a9f4f"
+                }
+            ],
+            "id": "5e51748a-4792-4ef3-b853-9027ce6a9f4f",
+            "parentId": "7aabeaab-bce3-47d0-bcb9-1a4f7ffc7436"
+        },
+        {
+            "interactingDrugId": "paracetamol",
+            "interactantDrugId": "tioguanine-specialist-drug",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Paracetamol and Tioguanine can increase the risk of hepatotoxicity.",
+                    "severity": "Normal",
+                    "id": "2b9bf19c-dd45-4fe8-8a1f-41b91ee8d85f",
+                    "parentId": "0613dedf-9249-44e0-9633-43a4a6a2a77a"
+                }
+            ],
+            "id": "0613dedf-9249-44e0-9633-43a4a6a2a77a",
+            "parentId": "7aabeaab-bce3-47d0-bcb9-1a4f7ffc7436"
+        },
+        {
+            "interactingDrugId": "paracetamol",
+            "interactantDrugId": "trabectedin-specialist-drug",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Paracetamol and Trabectedin can increase the risk of hepatotoxicity.",
+                    "severity": "Normal",
+                    "id": "32dd8faa-bd3a-4410-a1e9-f63da296e7a5",
+                    "parentId": "2be25f9c-4934-4b89-86bb-d876575e875c"
+                }
+            ],
+            "id": "2be25f9c-4934-4b89-86bb-d876575e875c",
+            "parentId": "7aabeaab-bce3-47d0-bcb9-1a4f7ffc7436"
+        },
+        {
+            "interactingDrugId": "paracetamol",
+            "interactantDrugId": "vitamin-a",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Paracetamol and Vitamin A can increase the risk of hepatotoxicity.",
+                    "severity": "Normal",
+                    "id": "694d5a66-09b0-4d6c-b001-4d8aa2b086af",
+                    "parentId": "f5b56deb-a1bc-41b5-8cc8-d2853bd96a87"
+                }
+            ],
+            "id": "f5b56deb-a1bc-41b5-8cc8-d2853bd96a87",
+            "parentId": "7aabeaab-bce3-47d0-bcb9-1a4f7ffc7436"
+        },
+        {
+            "interactingDrugId": "paracetamol",
+            "interactantDrugId": "voriconazole",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Paracetamol and Voriconazole can increase the risk of hepatotoxicity.",
+                    "severity": "Normal",
+                    "id": "1810ecf1-5f0c-40c0-90ba-089451b622f1",
+                    "parentId": "6147f6b4-723c-4bf9-85d6-433897cd01a2"
+                }
+            ],
+            "id": "6147f6b4-723c-4bf9-85d6-433897cd01a2",
+            "parentId": "7aabeaab-bce3-47d0-bcb9-1a4f7ffc7436"
+        },
+        {
+            "interactingDrugId": "paracetamol",
+            "interactantDrugId": "zidovudine",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Paracetamol and Zidovudine can increase the risk of hepatotoxicity.",
+                    "severity": "Normal",
+                    "id": "e729300a-c00e-48ee-8a89-34a86007dd6d",
+                    "parentId": "e0f5e7f7-9a6a-4ca5-b50a-b9f0801f0ae2"
+                }
+            ],
+            "id": "e0f5e7f7-9a6a-4ca5-b50a-b9f0801f0ae2",
+            "parentId": "7aabeaab-bce3-47d0-bcb9-1a4f7ffc7436"
+        }
+    ],
+    "id": "7aabeaab-bce3-47d0-bcb9-1a4f7ffc7436",
+    "parentId": null
+}
