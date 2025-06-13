@@ -1,0 +1,126 @@
+<http://drug.uk/dosage/06c9f4e9-f655-4063-8d39-5c5aa55edabf> <http://drug.uk/model/amount> "200.0"^^<http://www.w3.org/2001/XMLSchema#decimal> .
+<http://drug.uk/dosage/06c9f4e9-f655-4063-8d39-5c5aa55edabf> <http://drug.uk/model/duration> "P1D"^^<http://www.w3.org/2001/XMLSchema#duration> .
+<http://drug.uk/dosage/06c9f4e9-f655-4063-8d39-5c5aa55edabf> <http://drug.uk/model/frequency> "3.0"^^<http://www.w3.org/2001/XMLSchema#decimal> .
+<http://drug.uk/dosage/06c9f4e9-f655-4063-8d39-5c5aa55edabf> <http://drug.uk/model/group> "adult" .
+<http://drug.uk/dosage/06c9f4e9-f655-4063-8d39-5c5aa55edabf> <http://drug.uk/model/patientGroupDescription> "Adult" .
+<http://drug.uk/dosage/06c9f4e9-f655-4063-8d39-5c5aa55edabf> <http://drug.uk/model/route> "By mouth" .
+<http://drug.uk/dosage/06c9f4e9-f655-4063-8d39-5c5aa55edabf> <http://drug.uk/model/unit> "mg" .
+<http://drug.uk/dosage/06c9f4e9-f655-4063-8d39-5c5aa55edabf> <http://purl.org/dc/terms/description> "up to 600 mg daily in 3 divided doses." .
+<http://drug.uk/dosage/06c9f4e9-f655-4063-8d39-5c5aa55edabf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Dosage> .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "Abdominal distension" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "QT interval prolongation" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "Stevens-Johnson syndrome" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "aggression" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "altered smell sensation" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "anxiety" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "appetite abnormal" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "arrhythmias" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "ascites" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "asthenia" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "atrioventricular block" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "breast abnormalities" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "cervical spasm" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "chest tightness" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "chills" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "concentration impaired" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "confusion" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "consciousness impaired" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "constipation" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "cough" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "depression" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "diarrhoea" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "dizziness" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "drowsiness" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "drug use disorders" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "dry eye" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "dry mouth" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "dysgraphia" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "dysphagia" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "dyspnoea" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "encephalopathy" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "epistaxis" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "eye discomfort" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "eye disorders" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "eye inflammation" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "feeling abnormal" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "fever" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "gait abnormal" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "gastrointestinal disorders" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "gynaecomastia" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "hallucination" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "headache" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "hepatic disorders" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "hyperacusia" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "hypertension" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "hypoglycaemia" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "hypotension" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "increased risk of infection" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "joint disorders" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "malaise" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "memory loss" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "menstrual cycle irregularities" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "mood altered" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "movement disorders" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "muscle complaints" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "nasal complaints" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "nausea" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "neutropenia" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "oedema" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "oral disorders" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "pain" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "pancreatitis" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "peripheral coldness" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "psychiatric disorders" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "pulmonary oedema" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "reflexes decreased" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "renal impairment" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "respiratory depression" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "rhabdomyolysis" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "sensation abnormal" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "sexual dysfunction" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "skin reactions" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "sleep disorders" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "snoring" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "speech impairment" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "suicidal behaviours" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "sweat changes" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "syncope" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "taste loss" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "thirst" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "throat tightness" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "urinary disorders" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "vasodilation" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "vertigo" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "vision disorders" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "vomiting" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "weight changes" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "withdrawal syndrome" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffectDescription> " Common or very common\nAbdominal distension; appetite abnormal; asthenia; cervical spasm; concentration impaired; confusion; constipation; diarrhoea; dizziness; drowsiness; dry mouth; feeling abnormal; gait abnormal; gastrointestinal disorders; headache; increased risk of infection; joint disorders; memory loss; mood altered; movement disorders; muscle complaints; nausea; oedema; pain; sensation abnormal; sexual dysfunction; sleep disorders; speech impairment; vertigo; vision disorders; vomiting; weight changes\nUncommon\nAggression; anxiety; arrhythmias; atrioventricular block; breast abnormalities; chest tightness; chills; consciousness impaired; cough; depression; dry eye; dyspnoea; epistaxis; eye discomfort; eye disorders; eye inflammation; fever; hallucination; hyperacusia; hypertension; hypoglycaemia; hypotension; malaise; menstrual cycle irregularities; nasal complaints; neutropenia; oral disorders; peripheral coldness; psychiatric disorders; reflexes decreased; skin reactions; snoring; sweat changes; syncope; taste loss; thirst; urinary disorders; vasodilation\nRare or very rare\nAltered smell sensation; ascites; dysgraphia; dysphagia; gynaecomastia; hepatic disorders; pancreatitis; pulmonary oedema; QT interval prolongation; renal impairment; rhabdomyolysis; Stevens-Johnson syndrome; suicidal behaviours; throat tightness\nFrequency not known\nDrug use disorders; encephalopathy; respiratory depression; withdrawal syndrome" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/usage> <http://drug.uk/usage/breast-feeding/3b2f9ce1-fb74-446a-b430-8fabf49badf1> .
+<http://drug.uk/pregabalin> <http://drug.uk/model/usage> <http://drug.uk/usage/hepatic-impairment/ac6c8ee8-b274-4beb-b11a-3c6f224f459a> .
+<http://drug.uk/pregabalin> <http://drug.uk/model/usage> <http://drug.uk/usage/normal/de14920a-eb04-4c7c-a81b-e6f7ae845c62> .
+<http://drug.uk/pregabalin> <http://drug.uk/model/usage> <http://drug.uk/usage/pregnancy/7f221110-c6a1-4737-a1e1-e472b468b71c> .
+<http://drug.uk/pregabalin> <http://drug.uk/model/usage> <http://drug.uk/usage/renal-impairment/b4420d23-456c-4d1e-8f48-353d8c8d1074> .
+<http://drug.uk/pregabalin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/pregabalin> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pregabalin" .
+<http://drug.uk/usage/breast-feeding/3b2f9ce1-fb74-446a-b430-8fabf49badf1> <http://drug.uk/model/patientCondition> "BreastFeeding" .
+<http://drug.uk/usage/breast-feeding/3b2f9ce1-fb74-446a-b430-8fabf49badf1> <http://purl.org/dc/terms/description> " null" .
+<http://drug.uk/usage/breast-feeding/3b2f9ce1-fb74-446a-b430-8fabf49badf1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/hepatic-impairment/ac6c8ee8-b274-4beb-b11a-3c6f224f459a> <http://drug.uk/model/patientCondition> "HepaticImpairment" .
+<http://drug.uk/usage/hepatic-impairment/ac6c8ee8-b274-4beb-b11a-3c6f224f459a> <http://purl.org/dc/terms/description> " null" .
+<http://drug.uk/usage/hepatic-impairment/ac6c8ee8-b274-4beb-b11a-3c6f224f459a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/normal/de14920a-eb04-4c7c-a81b-e6f7ae845c62> <http://drug.uk/model/dosage> <http://drug.uk/dosage/06c9f4e9-f655-4063-8d39-5c5aa55edabf> .
+<http://drug.uk/usage/normal/de14920a-eb04-4c7c-a81b-e6f7ae845c62> <http://drug.uk/model/indication> "Adjunctive therapy for focal seizures with or without secondary generalisation" .
+<http://drug.uk/usage/normal/de14920a-eb04-4c7c-a81b-e6f7ae845c62> <http://drug.uk/model/indication> "Generalised anxiety disorder" .
+<http://drug.uk/usage/normal/de14920a-eb04-4c7c-a81b-e6f7ae845c62> <http://drug.uk/model/indication> "Peripheral and central neuropathic pain" .
+<http://drug.uk/usage/normal/de14920a-eb04-4c7c-a81b-e6f7ae845c62> <http://drug.uk/model/patientCondition> "Normal" .
+<http://drug.uk/usage/normal/de14920a-eb04-4c7c-a81b-e6f7ae845c62> <http://drug.uk/model/safetyLevel> "safe" .
+<http://drug.uk/usage/normal/de14920a-eb04-4c7c-a81b-e6f7ae845c62> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/pregnancy/7f221110-c6a1-4737-a1e1-e472b468b71c> <http://drug.uk/model/patientCondition> "Pregnancy" .
+<http://drug.uk/usage/pregnancy/7f221110-c6a1-4737-a1e1-e472b468b71c> <http://purl.org/dc/terms/description> " Avoid unless benefit clearly outweighs potential risk—use in the first trimester of pregnancy is associated with a slightly increased risk of major birth defects in the unborn child." .
+<http://drug.uk/usage/pregnancy/7f221110-c6a1-4737-a1e1-e472b468b71c> <http://drug.uk/model/safetyLevel> "caution" .
+<http://drug.uk/usage/pregnancy/7f221110-c6a1-4737-a1e1-e472b468b71c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/renal-impairment/b4420d23-456c-4d1e-8f48-353d8c8d1074> <http://drug.uk/model/patientCondition> "RenalImpairment" .
+<http://drug.uk/usage/renal-impairment/b4420d23-456c-4d1e-8f48-353d8c8d1074> <http://purl.org/dc/terms/description> " Dose adjustments\nInitially 75 mg daily and maximum 300 mg daily in 2–3 divided doses if creatinine clearance 30–60 mL/minute.\nInitially 25–50 mg daily and maximum 150 mg daily in 1–2 divided doses if creatinine clearance 15–30 mL/minute.\nInitially 25 mg once daily and maximum 75 mg once daily if creatinine clearance less than 15 mL/minute." .
+<http://drug.uk/usage/renal-impairment/b4420d23-456c-4d1e-8f48-353d8c8d1074> <http://drug.uk/model/safetyLevel> "caution" .
+<http://drug.uk/usage/renal-impairment/b4420d23-456c-4d1e-8f48-353d8c8d1074> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .

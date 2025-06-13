@@ -1,0 +1,59 @@
+<http://drug.uk/abaloparatide> <http://drug.uk/model/sideEffect> "Arrhythmias" .
+<http://drug.uk/abaloparatide> <http://drug.uk/model/sideEffect> "arthralgia" .
+<http://drug.uk/abaloparatide> <http://drug.uk/model/sideEffect> "asthenia" .
+<http://drug.uk/abaloparatide> <http://drug.uk/model/sideEffect> "constipation" .
+<http://drug.uk/abaloparatide> <http://drug.uk/model/sideEffect> "diarrhoea" .
+<http://drug.uk/abaloparatide> <http://drug.uk/model/sideEffect> "dizziness" .
+<http://drug.uk/abaloparatide> <http://drug.uk/model/sideEffect> "gastrointestinal discomfort" .
+<http://drug.uk/abaloparatide> <http://drug.uk/model/sideEffect> "headache" .
+<http://drug.uk/abaloparatide> <http://drug.uk/model/sideEffect> "hypercalcaemia" .
+<http://drug.uk/abaloparatide> <http://drug.uk/model/sideEffect> "hypercalciuria" .
+<http://drug.uk/abaloparatide> <http://drug.uk/model/sideEffect> "hypertension" .
+<http://drug.uk/abaloparatide> <http://drug.uk/model/sideEffect> "hyperuricaemia" .
+<http://drug.uk/abaloparatide> <http://drug.uk/model/sideEffect> "insomnia" .
+<http://drug.uk/abaloparatide> <http://drug.uk/model/sideEffect> "malaise" .
+<http://drug.uk/abaloparatide> <http://drug.uk/model/sideEffect> "muscle spasms" .
+<http://drug.uk/abaloparatide> <http://drug.uk/model/sideEffect> "nausea" .
+<http://drug.uk/abaloparatide> <http://drug.uk/model/sideEffect> "nephrolithiasis" .
+<http://drug.uk/abaloparatide> <http://drug.uk/model/sideEffect> "pain" .
+<http://drug.uk/abaloparatide> <http://drug.uk/model/sideEffect> "palpitations" .
+<http://drug.uk/abaloparatide> <http://drug.uk/model/sideEffect> "postural hypotension" .
+<http://drug.uk/abaloparatide> <http://drug.uk/model/sideEffect> "skin reactions" .
+<http://drug.uk/abaloparatide> <http://drug.uk/model/sideEffect> "vomiting" .
+<http://drug.uk/abaloparatide> <http://drug.uk/model/sideEffectDescription> " Common or very common\nArrhythmias; arthralgia; asthenia; constipation; diarrhoea; dizziness; gastrointestinal discomfort; headache; hypercalcaemia; hypercalciuria; hypertension; hyperuricaemia; insomnia; malaise; muscle spasms; nausea; nephrolithiasis; pain; palpitations; skin reactions; vomiting\nUncommon\nPostural hypotension" .
+<http://drug.uk/abaloparatide> <http://drug.uk/model/usage> <http://drug.uk/usage/breast-feeding/a81c3250-9979-48dd-aa9c-72519d56f3a4> .
+<http://drug.uk/abaloparatide> <http://drug.uk/model/usage> <http://drug.uk/usage/hepatic-impairment/c7aec1b7-e74a-42c5-b9a0-7a6399a986be> .
+<http://drug.uk/abaloparatide> <http://drug.uk/model/usage> <http://drug.uk/usage/normal/a5f30c66-a2e8-4b0f-95ea-1ba8165e4d3a> .
+<http://drug.uk/abaloparatide> <http://drug.uk/model/usage> <http://drug.uk/usage/pregnancy/a43d16b8-30b1-46e3-9613-c3fda8b03ed0> .
+<http://drug.uk/abaloparatide> <http://drug.uk/model/usage> <http://drug.uk/usage/renal-impairment/4248c897-2383-45ac-800f-23d2f31faff5> .
+<http://drug.uk/abaloparatide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/abaloparatide> <http://www.w3.org/2004/02/skos/core#prefLabel> "Abaloparatide" .
+<http://drug.uk/dosage/7e5860dc-27bf-4d90-aa93-6a9e27e19ae9> <http://drug.uk/model/amount> "80.0"^^<http://www.w3.org/2001/XMLSchema#decimal> .
+<http://drug.uk/dosage/7e5860dc-27bf-4d90-aa93-6a9e27e19ae9> <http://drug.uk/model/duration> "P1D"^^<http://www.w3.org/2001/XMLSchema#duration> .
+<http://drug.uk/dosage/7e5860dc-27bf-4d90-aa93-6a9e27e19ae9> <http://drug.uk/model/frequency> "1.0"^^<http://www.w3.org/2001/XMLSchema#decimal> .
+<http://drug.uk/dosage/7e5860dc-27bf-4d90-aa93-6a9e27e19ae9> <http://drug.uk/model/gender> "female" .
+<http://drug.uk/dosage/7e5860dc-27bf-4d90-aa93-6a9e27e19ae9> <http://drug.uk/model/group> "adult" .
+<http://drug.uk/dosage/7e5860dc-27bf-4d90-aa93-6a9e27e19ae9> <http://drug.uk/model/patientGroupDescription> "Adult (female)" .
+<http://drug.uk/dosage/7e5860dc-27bf-4d90-aa93-6a9e27e19ae9> <http://drug.uk/model/route> "By subcutaneous injection" .
+<http://drug.uk/dosage/7e5860dc-27bf-4d90-aa93-6a9e27e19ae9> <http://drug.uk/model/unit> "micrograms" .
+<http://drug.uk/dosage/7e5860dc-27bf-4d90-aa93-6a9e27e19ae9> <http://purl.org/dc/terms/description> "80 micrograms once daily for maximum duration of treatment 18 months." .
+<http://drug.uk/dosage/7e5860dc-27bf-4d90-aa93-6a9e27e19ae9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Dosage> .
+<http://drug.uk/usage/breast-feeding/a81c3250-9979-48dd-aa9c-72519d56f3a4> <http://drug.uk/model/patientCondition> "BreastFeeding" .
+<http://drug.uk/usage/breast-feeding/a81c3250-9979-48dd-aa9c-72519d56f3a4> <http://purl.org/dc/terms/description> " Avoid (no information available)." .
+<http://drug.uk/usage/breast-feeding/a81c3250-9979-48dd-aa9c-72519d56f3a4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/hepatic-impairment/c7aec1b7-e74a-42c5-b9a0-7a6399a986be> <http://drug.uk/model/patientCondition> "HepaticImpairment" .
+<http://drug.uk/usage/hepatic-impairment/c7aec1b7-e74a-42c5-b9a0-7a6399a986be> <http://purl.org/dc/terms/description> " null" .
+<http://drug.uk/usage/hepatic-impairment/c7aec1b7-e74a-42c5-b9a0-7a6399a986be> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/normal/a5f30c66-a2e8-4b0f-95ea-1ba8165e4d3a> <http://drug.uk/model/dosage> <http://drug.uk/dosage/7e5860dc-27bf-4d90-aa93-6a9e27e19ae9> .
+<http://drug.uk/usage/normal/a5f30c66-a2e8-4b0f-95ea-1ba8165e4d3a> <http://drug.uk/model/indication> "Osteoporosis in postmenopausal women at increased risk of fractures" .
+<http://drug.uk/usage/normal/a5f30c66-a2e8-4b0f-95ea-1ba8165e4d3a> <http://drug.uk/model/patientCondition> "Normal" .
+<http://drug.uk/usage/normal/a5f30c66-a2e8-4b0f-95ea-1ba8165e4d3a> <http://drug.uk/model/safetyLevel> "safe" .
+<http://drug.uk/usage/normal/a5f30c66-a2e8-4b0f-95ea-1ba8165e4d3a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/pregnancy/a43d16b8-30b1-46e3-9613-c3fda8b03ed0> <http://drug.uk/model/patientCondition> "Pregnancy" .
+<http://drug.uk/usage/pregnancy/a43d16b8-30b1-46e3-9613-c3fda8b03ed0> <http://purl.org/dc/terms/description> " Avoid (no information available)." .
+<http://drug.uk/usage/pregnancy/a43d16b8-30b1-46e3-9613-c3fda8b03ed0> <http://drug.uk/model/safetyLevel> "unsafe" .
+<http://drug.uk/usage/pregnancy/a43d16b8-30b1-46e3-9613-c3fda8b03ed0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/renal-impairment/4248c897-2383-45ac-800f-23d2f31faff5> <http://drug.uk/model/patientCondition> "RenalImpairment" .
+<http://drug.uk/usage/renal-impairment/4248c897-2383-45ac-800f-23d2f31faff5> <http://purl.org/dc/terms/description> " Avoid in severe impairment (increased risk of exposure)." .
+<http://drug.uk/usage/renal-impairment/4248c897-2383-45ac-800f-23d2f31faff5> <http://drug.uk/model/safetyLevel> "caution" .
+<http://drug.uk/usage/renal-impairment/4248c897-2383-45ac-800f-23d2f31faff5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .

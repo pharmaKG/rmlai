@@ -1,0 +1,60 @@
+<http://drug.uk/dosage/cc2f4dd0-2c93-46f3-9997-ef823f267e6b> <http://drug.uk/model/amount> "100.0"^^<http://www.w3.org/2001/XMLSchema#decimal> .
+<http://drug.uk/dosage/cc2f4dd0-2c93-46f3-9997-ef823f267e6b> <http://drug.uk/model/duration> "P1D"^^<http://www.w3.org/2001/XMLSchema#duration> .
+<http://drug.uk/dosage/cc2f4dd0-2c93-46f3-9997-ef823f267e6b> <http://drug.uk/model/frequency> "1.0"^^<http://www.w3.org/2001/XMLSchema#decimal> .
+<http://drug.uk/dosage/cc2f4dd0-2c93-46f3-9997-ef823f267e6b> <http://drug.uk/model/group> "adult" .
+<http://drug.uk/dosage/cc2f4dd0-2c93-46f3-9997-ef823f267e6b> <http://drug.uk/model/patientGroupDescription> "Adult" .
+<http://drug.uk/dosage/cc2f4dd0-2c93-46f3-9997-ef823f267e6b> <http://drug.uk/model/route> "By intramuscular injection" .
+<http://drug.uk/dosage/cc2f4dd0-2c93-46f3-9997-ef823f267e6b> <http://drug.uk/model/route> "By slow intravenous injection" .
+<http://drug.uk/dosage/cc2f4dd0-2c93-46f3-9997-ef823f267e6b> <http://drug.uk/model/unit> "mg" .
+<http://drug.uk/dosage/cc2f4dd0-2c93-46f3-9997-ef823f267e6b> <http://purl.org/dc/terms/description> "maximum 100 mg per day." .
+<http://drug.uk/dosage/cc2f4dd0-2c93-46f3-9997-ef823f267e6b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Dosage> .
+<http://drug.uk/hyoscine-butylbromide> <http://drug.uk/model/sideEffect> "Anaphylactic reaction" .
+<http://drug.uk/hyoscine-butylbromide> <http://drug.uk/model/sideEffect> "Angioedema" .
+<http://drug.uk/hyoscine-butylbromide> <http://drug.uk/model/sideEffect> "Constipation" .
+<http://drug.uk/hyoscine-butylbromide> <http://drug.uk/model/sideEffect> "Dyspnoea" .
+<http://drug.uk/hyoscine-butylbromide> <http://drug.uk/model/sideEffect> "confusion" .
+<http://drug.uk/hyoscine-butylbromide> <http://drug.uk/model/sideEffect> "dizziness" .
+<http://drug.uk/hyoscine-butylbromide> <http://drug.uk/model/sideEffect> "drowsiness" .
+<http://drug.uk/hyoscine-butylbromide> <http://drug.uk/model/sideEffect> "dry mouth" .
+<http://drug.uk/hyoscine-butylbromide> <http://drug.uk/model/sideEffect> "dyspepsia" .
+<http://drug.uk/hyoscine-butylbromide> <http://drug.uk/model/sideEffect> "feeling hot" .
+<http://drug.uk/hyoscine-butylbromide> <http://drug.uk/model/sideEffect> "flushing" .
+<http://drug.uk/hyoscine-butylbromide> <http://drug.uk/model/sideEffect> "headache" .
+<http://drug.uk/hyoscine-butylbromide> <http://drug.uk/model/sideEffect> "hypotension" .
+<http://drug.uk/hyoscine-butylbromide> <http://drug.uk/model/sideEffect> "mydriasis" .
+<http://drug.uk/hyoscine-butylbromide> <http://drug.uk/model/sideEffect> "nausea" .
+<http://drug.uk/hyoscine-butylbromide> <http://drug.uk/model/sideEffect> "palpitations" .
+<http://drug.uk/hyoscine-butylbromide> <http://drug.uk/model/sideEffect> "skin reactions" .
+<http://drug.uk/hyoscine-butylbromide> <http://drug.uk/model/sideEffect> "sweat changes" .
+<http://drug.uk/hyoscine-butylbromide> <http://drug.uk/model/sideEffect> "tachycardia" .
+<http://drug.uk/hyoscine-butylbromide> <http://drug.uk/model/sideEffect> "urinary disorders" .
+<http://drug.uk/hyoscine-butylbromide> <http://drug.uk/model/sideEffect> "vision disorders" .
+<http://drug.uk/hyoscine-butylbromide> <http://drug.uk/model/sideEffect> "vomiting" .
+<http://drug.uk/hyoscine-butylbromide> <http://drug.uk/model/sideEffectDescription> "Common or very common\nConstipation; dizziness; drowsiness; dry mouth; dyspepsia; flushing; headache; nausea; palpitations; skin reactions; tachycardia; urinary disorders; vision disorders; vomiting\nRare or very rare\nAngioedema; confusion (more common in elderly)\n General side-effects:\nFrequency not known\nDyspnoea\nSpecific side-effects:\nFrequency not known\nWith parenteral use\nAnaphylactic reaction; feeling hot; hypotension; mydriasis; sweat changes" .
+<http://drug.uk/hyoscine-butylbromide> <http://drug.uk/model/usage> <http://drug.uk/usage/breast-feeding/16596876-1ee2-4afe-9257-377d0f16bf28> .
+<http://drug.uk/hyoscine-butylbromide> <http://drug.uk/model/usage> <http://drug.uk/usage/hepatic-impairment/87633b73-ef38-4ba7-9a84-e77552ac0b3f> .
+<http://drug.uk/hyoscine-butylbromide> <http://drug.uk/model/usage> <http://drug.uk/usage/normal/a49aa859-44e0-4c01-969c-22b9a144baf0> .
+<http://drug.uk/hyoscine-butylbromide> <http://drug.uk/model/usage> <http://drug.uk/usage/pregnancy/42b14e7f-cdeb-4606-8cab-d8a56015c04d> .
+<http://drug.uk/hyoscine-butylbromide> <http://drug.uk/model/usage> <http://drug.uk/usage/renal-impairment/7ff05ce0-65df-496d-8dcb-c2bd8420f992> .
+<http://drug.uk/hyoscine-butylbromide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/hyoscine-butylbromide> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hyoscine butylbromide" .
+<http://drug.uk/usage/breast-feeding/16596876-1ee2-4afe-9257-377d0f16bf28> <http://drug.uk/model/patientCondition> "BreastFeeding" .
+<http://drug.uk/usage/breast-feeding/16596876-1ee2-4afe-9257-377d0f16bf28> <http://purl.org/dc/terms/description> " Amount too small to be harmful." .
+<http://drug.uk/usage/breast-feeding/16596876-1ee2-4afe-9257-377d0f16bf28> <http://drug.uk/model/safetyLevel> "safe" .
+<http://drug.uk/usage/breast-feeding/16596876-1ee2-4afe-9257-377d0f16bf28> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/hepatic-impairment/87633b73-ef38-4ba7-9a84-e77552ac0b3f> <http://drug.uk/model/patientCondition> "HepaticImpairment" .
+<http://drug.uk/usage/hepatic-impairment/87633b73-ef38-4ba7-9a84-e77552ac0b3f> <http://purl.org/dc/terms/description> " null" .
+<http://drug.uk/usage/hepatic-impairment/87633b73-ef38-4ba7-9a84-e77552ac0b3f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/normal/a49aa859-44e0-4c01-969c-22b9a144baf0> <http://drug.uk/model/dosage> <http://drug.uk/dosage/cc2f4dd0-2c93-46f3-9997-ef823f267e6b> .
+<http://drug.uk/usage/normal/a49aa859-44e0-4c01-969c-22b9a144baf0> <http://drug.uk/model/indication> "Acute spasm" .
+<http://drug.uk/usage/normal/a49aa859-44e0-4c01-969c-22b9a144baf0> <http://drug.uk/model/indication> "Spasm in diagnostic procedures" .
+<http://drug.uk/usage/normal/a49aa859-44e0-4c01-969c-22b9a144baf0> <http://drug.uk/model/patientCondition> "Normal" .
+<http://drug.uk/usage/normal/a49aa859-44e0-4c01-969c-22b9a144baf0> <http://drug.uk/model/safetyLevel> "safe" .
+<http://drug.uk/usage/normal/a49aa859-44e0-4c01-969c-22b9a144baf0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/pregnancy/42b14e7f-cdeb-4606-8cab-d8a56015c04d> <http://drug.uk/model/patientCondition> "Pregnancy" .
+<http://drug.uk/usage/pregnancy/42b14e7f-cdeb-4606-8cab-d8a56015c04d> <http://purl.org/dc/terms/description> " Manufacturer advises avoid." .
+<http://drug.uk/usage/pregnancy/42b14e7f-cdeb-4606-8cab-d8a56015c04d> <http://drug.uk/model/safetyLevel> "unsafe" .
+<http://drug.uk/usage/pregnancy/42b14e7f-cdeb-4606-8cab-d8a56015c04d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/renal-impairment/7ff05ce0-65df-496d-8dcb-c2bd8420f992> <http://drug.uk/model/patientCondition> "RenalImpairment" .
+<http://drug.uk/usage/renal-impairment/7ff05ce0-65df-496d-8dcb-c2bd8420f992> <http://purl.org/dc/terms/description> " null" .
+<http://drug.uk/usage/renal-impairment/7ff05ce0-65df-496d-8dcb-c2bd8420f992> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .

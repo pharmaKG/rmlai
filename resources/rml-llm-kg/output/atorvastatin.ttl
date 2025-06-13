@@ -1,0 +1,88 @@
+<http://drug.uk/atorvastatin> <http://drug.uk/model/sideEffect> "Arthralgia" .
+<http://drug.uk/atorvastatin> <http://drug.uk/model/sideEffect> "alopecia" .
+<http://drug.uk/atorvastatin> <http://drug.uk/model/sideEffect> "angioedema" .
+<http://drug.uk/atorvastatin> <http://drug.uk/model/sideEffect> "appetite decreased" .
+<http://drug.uk/atorvastatin> <http://drug.uk/model/sideEffect> "asthenia" .
+<http://drug.uk/atorvastatin> <http://drug.uk/model/sideEffect> "burping" .
+<http://drug.uk/atorvastatin> <http://drug.uk/model/sideEffect> "chest pain" .
+<http://drug.uk/atorvastatin> <http://drug.uk/model/sideEffect> "constipation" .
+<http://drug.uk/atorvastatin> <http://drug.uk/model/sideEffect> "depression" .
+<http://drug.uk/atorvastatin> <http://drug.uk/model/sideEffect> "diabetes mellitus" .
+<http://drug.uk/atorvastatin> <http://drug.uk/model/sideEffect> "diarrhoea" .
+<http://drug.uk/atorvastatin> <http://drug.uk/model/sideEffect> "dizziness" .
+<http://drug.uk/atorvastatin> <http://drug.uk/model/sideEffect> "epistaxis" .
+<http://drug.uk/atorvastatin> <http://drug.uk/model/sideEffect> "fever" .
+<http://drug.uk/atorvastatin> <http://drug.uk/model/sideEffect> "flatulence" .
+<http://drug.uk/atorvastatin> <http://drug.uk/model/sideEffect> "gastrointestinal discomfort" .
+<http://drug.uk/atorvastatin> <http://drug.uk/model/sideEffect> "gynaecomastia" .
+<http://drug.uk/atorvastatin> <http://drug.uk/model/sideEffect> "headache" .
+<http://drug.uk/atorvastatin> <http://drug.uk/model/sideEffect> "hearing loss" .
+<http://drug.uk/atorvastatin> <http://drug.uk/model/sideEffect> "hepatic disorders" .
+<http://drug.uk/atorvastatin> <http://drug.uk/model/sideEffect> "hyperglycaemia" .
+<http://drug.uk/atorvastatin> <http://drug.uk/model/sideEffect> "hypersensitivity" .
+<http://drug.uk/atorvastatin> <http://drug.uk/model/sideEffect> "hypoglycaemia" .
+<http://drug.uk/atorvastatin> <http://drug.uk/model/sideEffect> "interstitial lung disease" .
+<http://drug.uk/atorvastatin> <http://drug.uk/model/sideEffect> "joint swelling" .
+<http://drug.uk/atorvastatin> <http://drug.uk/model/sideEffect> "laryngeal pain" .
+<http://drug.uk/atorvastatin> <http://drug.uk/model/sideEffect> "lupus-like syndrome" .
+<http://drug.uk/atorvastatin> <http://drug.uk/model/sideEffect> "malaise" .
+<http://drug.uk/atorvastatin> <http://drug.uk/model/sideEffect> "memory loss" .
+<http://drug.uk/atorvastatin> <http://drug.uk/model/sideEffect> "muscle complaints" .
+<http://drug.uk/atorvastatin> <http://drug.uk/model/sideEffect> "myopathy" .
+<http://drug.uk/atorvastatin> <http://drug.uk/model/sideEffect> "nasopharyngitis" .
+<http://drug.uk/atorvastatin> <http://drug.uk/model/sideEffect> "nausea" .
+<http://drug.uk/atorvastatin> <http://drug.uk/model/sideEffect> "neuromuscular dysfunction" .
+<http://drug.uk/atorvastatin> <http://drug.uk/model/sideEffect> "numbness" .
+<http://drug.uk/atorvastatin> <http://drug.uk/model/sideEffect> "pain" .
+<http://drug.uk/atorvastatin> <http://drug.uk/model/sideEffect> "pancreatitis" .
+<http://drug.uk/atorvastatin> <http://drug.uk/model/sideEffect> "paraesthesia" .
+<http://drug.uk/atorvastatin> <http://drug.uk/model/sideEffect> "peripheral neuropathy" .
+<http://drug.uk/atorvastatin> <http://drug.uk/model/sideEffect> "peripheral oedema" .
+<http://drug.uk/atorvastatin> <http://drug.uk/model/sideEffect> "severe cutaneous adverse reactions" .
+<http://drug.uk/atorvastatin> <http://drug.uk/model/sideEffect> "sexual dysfunction" .
+<http://drug.uk/atorvastatin> <http://drug.uk/model/sideEffect> "skin reactions" .
+<http://drug.uk/atorvastatin> <http://drug.uk/model/sideEffect> "sleep disorders" .
+<http://drug.uk/atorvastatin> <http://drug.uk/model/sideEffect> "taste altered" .
+<http://drug.uk/atorvastatin> <http://drug.uk/model/sideEffect> "tendon disorders" .
+<http://drug.uk/atorvastatin> <http://drug.uk/model/sideEffect> "thrombocytopenia" .
+<http://drug.uk/atorvastatin> <http://drug.uk/model/sideEffect> "tinnitus" .
+<http://drug.uk/atorvastatin> <http://drug.uk/model/sideEffect> "vision disorders" .
+<http://drug.uk/atorvastatin> <http://drug.uk/model/sideEffect> "vomiting" .
+<http://drug.uk/atorvastatin> <http://drug.uk/model/sideEffect> "weight increased" .
+<http://drug.uk/atorvastatin> <http://drug.uk/model/sideEffectDescription> "Common or very common\nArthralgia; asthenia; constipation; diarrhoea; dizziness; flatulence; gastrointestinal discomfort; headache; muscle complaints; nausea; sleep disorders; thrombocytopenia\nUncommon\nAlopecia; hepatic disorders; memory loss; pancreatitis; paraesthesia; sexual dysfunction; skin reactions; vomiting\nRare or very rare\nLupus-like syndrome; myopathy; peripheral neuropathy; tendon disorders\nFrequency not known\nDepression; diabetes mellitus (in those at risk); interstitial lung disease; neuromuscular dysfunction\nSide-effects, further information\nMuscle effects\nAlthough myalgia has been reported commonly in patients receiving statins, muscle toxicity truly attributable to statin use is rare. The risk of myopathy, myositis, and rhabdomyolysis associated with statin use is also rare. If muscle pain, weakness, or cramps occur during treatment, creatine kinase concentrations should be measured; if the concentration is more than 5 times the ULN (in the absence of strenuous exercise), treatment should be discontinued. If muscular symptoms are severe and cause daily discomfort, treatment discontinuation should be considered, even if creatine kinase concentrations are less than 5 times the ULN. If symptoms resolve and creatine kinase concentrations return to normal, the statin can be reintroduced, or introduction of an alternative statin can be considered, at the lowest dose and the patient monitored closely.\nDiabetes\nStatins should not be discontinued if there is an increase in the blood-glucose concentration as the benefits continue to outweigh the risks.\nInterstitial lung disease\nIf patients develop symptoms such as dyspnoea, cough, and weight loss, they should seek medical attention.\n Common or very common\nEpistaxis; hyperglycaemia; hypersensitivity; joint swelling; laryngeal pain; nasopharyngitis; pain\nUncommon\nAppetite decreased; burping; chest pain; fever; hypoglycaemia; malaise; numbness; peripheral oedema; taste altered; tinnitus; vision disorders; weight increased\nRare or very rare\nAngioedema; gynaecomastia; hearing loss; severe cutaneous adverse reactions (SCARs)" .
+<http://drug.uk/atorvastatin> <http://drug.uk/model/usage> <http://drug.uk/usage/breast-feeding/708c0e14-2d7d-4337-bbc1-9d817004dfb0> .
+<http://drug.uk/atorvastatin> <http://drug.uk/model/usage> <http://drug.uk/usage/hepatic-impairment/8eacc1e4-00a3-4b3e-8a53-2e8db85121d0> .
+<http://drug.uk/atorvastatin> <http://drug.uk/model/usage> <http://drug.uk/usage/normal/52d4a243-0b54-4e0b-848e-655ff708fd65> .
+<http://drug.uk/atorvastatin> <http://drug.uk/model/usage> <http://drug.uk/usage/pregnancy/7a62de41-0e97-413b-bf3d-a079fe20614a> .
+<http://drug.uk/atorvastatin> <http://drug.uk/model/usage> <http://drug.uk/usage/renal-impairment/a427cd7b-c1aa-457c-8f70-6d8f98cbf940> .
+<http://drug.uk/atorvastatin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/atorvastatin> <http://www.w3.org/2004/02/skos/core#prefLabel> "Atorvastatin" .
+<http://drug.uk/dosage/2c463e78-9d5a-4808-a4e0-625becf383d1> <http://drug.uk/model/amount> "80.0"^^<http://www.w3.org/2001/XMLSchema#decimal> .
+<http://drug.uk/dosage/2c463e78-9d5a-4808-a4e0-625becf383d1> <http://drug.uk/model/duration> "P1D"^^<http://www.w3.org/2001/XMLSchema#duration> .
+<http://drug.uk/dosage/2c463e78-9d5a-4808-a4e0-625becf383d1> <http://drug.uk/model/frequency> "1.0"^^<http://www.w3.org/2001/XMLSchema#decimal> .
+<http://drug.uk/dosage/2c463e78-9d5a-4808-a4e0-625becf383d1> <http://drug.uk/model/group> "adult" .
+<http://drug.uk/dosage/2c463e78-9d5a-4808-a4e0-625becf383d1> <http://drug.uk/model/patientGroupDescription> "Adult" .
+<http://drug.uk/dosage/2c463e78-9d5a-4808-a4e0-625becf383d1> <http://drug.uk/model/route> "By mouth" .
+<http://drug.uk/dosage/2c463e78-9d5a-4808-a4e0-625becf383d1> <http://drug.uk/model/unit> "mg" .
+<http://drug.uk/dosage/2c463e78-9d5a-4808-a4e0-625becf383d1> <http://purl.org/dc/terms/description> "80 mg once daily." .
+<http://drug.uk/dosage/2c463e78-9d5a-4808-a4e0-625becf383d1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Dosage> .
+<http://drug.uk/usage/breast-feeding/708c0e14-2d7d-4337-bbc1-9d817004dfb0> <http://drug.uk/model/patientCondition> "BreastFeeding" .
+<http://drug.uk/usage/breast-feeding/708c0e14-2d7d-4337-bbc1-9d817004dfb0> <http://purl.org/dc/terms/description> " Manufacturer advises avoid—no information available." .
+<http://drug.uk/usage/breast-feeding/708c0e14-2d7d-4337-bbc1-9d817004dfb0> <http://drug.uk/model/safetyLevel> "unsafe" .
+<http://drug.uk/usage/breast-feeding/708c0e14-2d7d-4337-bbc1-9d817004dfb0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/hepatic-impairment/8eacc1e4-00a3-4b3e-8a53-2e8db85121d0> <http://drug.uk/model/patientCondition> "HepaticImpairment" .
+<http://drug.uk/usage/hepatic-impairment/8eacc1e4-00a3-4b3e-8a53-2e8db85121d0> <http://purl.org/dc/terms/description> "In general, manufacturers advise caution (risk of increased exposure); avoid in active disease or unexplained persistent elevations in serum transaminases. null" .
+<http://drug.uk/usage/hepatic-impairment/8eacc1e4-00a3-4b3e-8a53-2e8db85121d0> <http://drug.uk/model/safetyLevel> "caution" .
+<http://drug.uk/usage/hepatic-impairment/8eacc1e4-00a3-4b3e-8a53-2e8db85121d0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/normal/52d4a243-0b54-4e0b-848e-655ff708fd65> <http://drug.uk/model/dosage> <http://drug.uk/dosage/2c463e78-9d5a-4808-a4e0-625becf383d1> .
+<http://drug.uk/usage/normal/52d4a243-0b54-4e0b-848e-655ff708fd65> <http://drug.uk/model/indication> "Secondary prevention of cardiovascular events" .
+<http://drug.uk/usage/normal/52d4a243-0b54-4e0b-848e-655ff708fd65> <http://drug.uk/model/patientCondition> "Normal" .
+<http://drug.uk/usage/normal/52d4a243-0b54-4e0b-848e-655ff708fd65> <http://drug.uk/model/safetyLevel> "safe" .
+<http://drug.uk/usage/normal/52d4a243-0b54-4e0b-848e-655ff708fd65> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/pregnancy/7a62de41-0e97-413b-bf3d-a079fe20614a> <http://drug.uk/model/patientCondition> "Pregnancy" .
+<http://drug.uk/usage/pregnancy/7a62de41-0e97-413b-bf3d-a079fe20614a> <http://purl.org/dc/terms/description> "Statins should be avoided in pregnancy (discontinue 3 months before attempting to conceive) as congenital anomalies have been reported and the decreased synthesis of cholesterol possibly affects fetal development. null" .
+<http://drug.uk/usage/pregnancy/7a62de41-0e97-413b-bf3d-a079fe20614a> <http://drug.uk/model/safetyLevel> "unsafe" .
+<http://drug.uk/usage/pregnancy/7a62de41-0e97-413b-bf3d-a079fe20614a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/renal-impairment/a427cd7b-c1aa-457c-8f70-6d8f98cbf940> <http://drug.uk/model/patientCondition> "RenalImpairment" .
+<http://drug.uk/usage/renal-impairment/a427cd7b-c1aa-457c-8f70-6d8f98cbf940> <http://purl.org/dc/terms/description> " Dose adjustments\nIn chronic kidney disease, for primary and secondary prevention of cardiovascular events [unlicensed starting dose in primary prevention; unlicensed in secondary prevention], initially 20 mg once daily, increased if necessary (on specialist advice if eGFR < 30 mL/minute/1.73 m^2\n); max. 80 mg once daily." .
+<http://drug.uk/usage/renal-impairment/a427cd7b-c1aa-457c-8f70-6d8f98cbf940> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .

@@ -1,0 +1,86 @@
+<http://drug.uk/alendronic-acid> <http://drug.uk/model/sideEffect> "Alopecia" .
+<http://drug.uk/alendronic-acid> <http://drug.uk/model/sideEffect> "Anaphylactic reaction" .
+<http://drug.uk/alendronic-acid> <http://drug.uk/model/sideEffect> "Atypical femur fracture" .
+<http://drug.uk/alendronic-acid> <http://drug.uk/model/sideEffect> "Femoral stress fracture" .
+<http://drug.uk/alendronic-acid> <http://drug.uk/model/sideEffect> "Gastrointestinal disorders" .
+<http://drug.uk/alendronic-acid> <http://drug.uk/model/sideEffect> "Haemorrhage" .
+<http://drug.uk/alendronic-acid> <http://drug.uk/model/sideEffect> "Stevens-Johnson syndrome" .
+<http://drug.uk/alendronic-acid> <http://drug.uk/model/sideEffect> "anaemia" .
+<http://drug.uk/alendronic-acid> <http://drug.uk/model/sideEffect> "angioedema" .
+<http://drug.uk/alendronic-acid> <http://drug.uk/model/sideEffect> "appetite decreased" .
+<http://drug.uk/alendronic-acid> <http://drug.uk/model/sideEffect> "arthralgia" .
+<http://drug.uk/alendronic-acid> <http://drug.uk/model/sideEffect> "asthenia" .
+<http://drug.uk/alendronic-acid> <http://drug.uk/model/sideEffect> "bronchospasm" .
+<http://drug.uk/alendronic-acid> <http://drug.uk/model/sideEffect> "chills" .
+<http://drug.uk/alendronic-acid> <http://drug.uk/model/sideEffect> "constipation" .
+<http://drug.uk/alendronic-acid> <http://drug.uk/model/sideEffect> "diarrhoea" .
+<http://drug.uk/alendronic-acid> <http://drug.uk/model/sideEffect> "dizziness" .
+<http://drug.uk/alendronic-acid> <http://drug.uk/model/sideEffect> "dysphagia" .
+<http://drug.uk/alendronic-acid> <http://drug.uk/model/sideEffect> "electrolyte imbalance" .
+<http://drug.uk/alendronic-acid> <http://drug.uk/model/sideEffect> "eye inflammation" .
+<http://drug.uk/alendronic-acid> <http://drug.uk/model/sideEffect> "fever" .
+<http://drug.uk/alendronic-acid> <http://drug.uk/model/sideEffect> "gastritis" .
+<http://drug.uk/alendronic-acid> <http://drug.uk/model/sideEffect> "gastrointestinal discomfort" .
+<http://drug.uk/alendronic-acid> <http://drug.uk/model/sideEffect> "headache" .
+<http://drug.uk/alendronic-acid> <http://drug.uk/model/sideEffect> "heartburn" .
+<http://drug.uk/alendronic-acid> <http://drug.uk/model/sideEffect> "influenza like illness" .
+<http://drug.uk/alendronic-acid> <http://drug.uk/model/sideEffect> "joint swelling" .
+<http://drug.uk/alendronic-acid> <http://drug.uk/model/sideEffect> "malaise" .
+<http://drug.uk/alendronic-acid> <http://drug.uk/model/sideEffect> "myalgia" .
+<http://drug.uk/alendronic-acid> <http://drug.uk/model/sideEffect> "nausea" .
+<http://drug.uk/alendronic-acid> <http://drug.uk/model/sideEffect> "oesophageal erosion" .
+<http://drug.uk/alendronic-acid> <http://drug.uk/model/sideEffect> "oesophageal stenosis (discontinue)" .
+<http://drug.uk/alendronic-acid> <http://drug.uk/model/sideEffect> "oesophageal stricture" .
+<http://drug.uk/alendronic-acid> <http://drug.uk/model/sideEffect> "oesophageal ulcer (discontinue)" .
+<http://drug.uk/alendronic-acid> <http://drug.uk/model/sideEffect> "oesophagitis (discontinue)" .
+<http://drug.uk/alendronic-acid> <http://drug.uk/model/sideEffect> "oropharyngeal ulceration" .
+<http://drug.uk/alendronic-acid> <http://drug.uk/model/sideEffect> "osteonecrosis" .
+<http://drug.uk/alendronic-acid> <http://drug.uk/model/sideEffect> "pain" .
+<http://drug.uk/alendronic-acid> <http://drug.uk/model/sideEffect> "pain on swallowing" .
+<http://drug.uk/alendronic-acid> <http://drug.uk/model/sideEffect> "peripheral oedema" .
+<http://drug.uk/alendronic-acid> <http://drug.uk/model/sideEffect> "photosensitivity reaction" .
+<http://drug.uk/alendronic-acid> <http://drug.uk/model/sideEffect> "renal impairment" .
+<http://drug.uk/alendronic-acid> <http://drug.uk/model/sideEffect> "retrosternal pain" .
+<http://drug.uk/alendronic-acid> <http://drug.uk/model/sideEffect> "severe cutaneous adverse reactions (SCARs)" .
+<http://drug.uk/alendronic-acid> <http://drug.uk/model/sideEffect> "skin reactions" .
+<http://drug.uk/alendronic-acid> <http://drug.uk/model/sideEffect> "taste altered" .
+<http://drug.uk/alendronic-acid> <http://drug.uk/model/sideEffect> "vertigo" .
+<http://drug.uk/alendronic-acid> <http://drug.uk/model/sideEffect> "vomiting" .
+<http://drug.uk/alendronic-acid> <http://drug.uk/model/sideEffectDescription> "Common or very common\nAlopecia; anaemia; appetite decreased; arthralgia; asthenia; chills; constipation; diarrhoea; dizziness; dysphagia; electrolyte imbalance; eye inflammation; fever; gastritis; gastrointestinal discomfort; headache; influenza like illness; malaise; myalgia; nausea; oesophageal ulcer (discontinue); oesophagitis (discontinue); pain; peripheral oedema; renal impairment; skin reactions; taste altered; vomiting\nUncommon\nAnaphylactic reaction; angioedema; bronchospasm; oesophageal stenosis (discontinue); osteonecrosis\nRare or very rare\nAtypical femur fracture; Stevens-Johnson syndrome\n Common or very common\nGastrointestinal disorders; joint swelling; vertigo\nUncommon\nHaemorrhage\nRare or very rare\nFemoral stress fracture; oropharyngeal ulceration; photosensitivity reaction; severe cutaneous adverse reactions (SCARs)\nSide-effects, further information\nSevere oesophageal reactions (oesophagitis, oesophageal ulcers, oesophageal stricture and oesophageal erosions) have been reported; patients should be   advised to stop taking the tablets and to seek medical attention if they develop symptoms of oesophageal irritation such as dysphagia, new or   worsening heartburn, pain on swallowing or retrosternal pain." .
+<http://drug.uk/alendronic-acid> <http://drug.uk/model/usage> <http://drug.uk/usage/breast-feeding/66de1cf8-7181-4be2-adc9-c4b246643168> .
+<http://drug.uk/alendronic-acid> <http://drug.uk/model/usage> <http://drug.uk/usage/hepatic-impairment/1538443b-c3ca-45bd-b296-a0bc6029b9fc> .
+<http://drug.uk/alendronic-acid> <http://drug.uk/model/usage> <http://drug.uk/usage/normal/53e65fe4-f36b-46d5-898f-275afd38a8b2> .
+<http://drug.uk/alendronic-acid> <http://drug.uk/model/usage> <http://drug.uk/usage/pregnancy/36f1ef98-2fde-46ff-9ceb-1029182d7ad6> .
+<http://drug.uk/alendronic-acid> <http://drug.uk/model/usage> <http://drug.uk/usage/renal-impairment/50660691-c330-4568-a606-efe24ae1fe2a> .
+<http://drug.uk/alendronic-acid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/alendronic-acid> <http://www.w3.org/2004/02/skos/core#prefLabel> "Alendronic acid" .
+<http://drug.uk/dosage/f865e8d0-8e39-4f23-8c57-3aca4fcf63f4> <http://drug.uk/model/amount> "10.0"^^<http://www.w3.org/2001/XMLSchema#decimal> .
+<http://drug.uk/dosage/f865e8d0-8e39-4f23-8c57-3aca4fcf63f4> <http://drug.uk/model/duration> "P1D"^^<http://www.w3.org/2001/XMLSchema#duration> .
+<http://drug.uk/dosage/f865e8d0-8e39-4f23-8c57-3aca4fcf63f4> <http://drug.uk/model/frequency> "1.0"^^<http://www.w3.org/2001/XMLSchema#decimal> .
+<http://drug.uk/dosage/f865e8d0-8e39-4f23-8c57-3aca4fcf63f4> <http://drug.uk/model/gender> "female" .
+<http://drug.uk/dosage/f865e8d0-8e39-4f23-8c57-3aca4fcf63f4> <http://drug.uk/model/group> "adult" .
+<http://drug.uk/dosage/f865e8d0-8e39-4f23-8c57-3aca4fcf63f4> <http://drug.uk/model/patientGroupDescription> "Adult (female)" .
+<http://drug.uk/dosage/f865e8d0-8e39-4f23-8c57-3aca4fcf63f4> <http://drug.uk/model/route> "By mouth" .
+<http://drug.uk/dosage/f865e8d0-8e39-4f23-8c57-3aca4fcf63f4> <http://drug.uk/model/unit> "mg" .
+<http://drug.uk/dosage/f865e8d0-8e39-4f23-8c57-3aca4fcf63f4> <http://purl.org/dc/terms/description> "10 mg once daily." .
+<http://drug.uk/dosage/f865e8d0-8e39-4f23-8c57-3aca4fcf63f4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Dosage> .
+<http://drug.uk/usage/breast-feeding/66de1cf8-7181-4be2-adc9-c4b246643168> <http://drug.uk/model/patientCondition> "BreastFeeding" .
+<http://drug.uk/usage/breast-feeding/66de1cf8-7181-4be2-adc9-c4b246643168> <http://purl.org/dc/terms/description> " Manufacturer advises avoid—no information available." .
+<http://drug.uk/usage/breast-feeding/66de1cf8-7181-4be2-adc9-c4b246643168> <http://drug.uk/model/safetyLevel> "unsafe" .
+<http://drug.uk/usage/breast-feeding/66de1cf8-7181-4be2-adc9-c4b246643168> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/hepatic-impairment/1538443b-c3ca-45bd-b296-a0bc6029b9fc> <http://drug.uk/model/patientCondition> "HepaticImpairment" .
+<http://drug.uk/usage/hepatic-impairment/1538443b-c3ca-45bd-b296-a0bc6029b9fc> <http://purl.org/dc/terms/description> " null" .
+<http://drug.uk/usage/hepatic-impairment/1538443b-c3ca-45bd-b296-a0bc6029b9fc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/normal/53e65fe4-f36b-46d5-898f-275afd38a8b2> <http://drug.uk/model/dosage> <http://drug.uk/dosage/f865e8d0-8e39-4f23-8c57-3aca4fcf63f4> .
+<http://drug.uk/usage/normal/53e65fe4-f36b-46d5-898f-275afd38a8b2> <http://drug.uk/model/indication> "Treatment of postmenopausal osteoporosis" .
+<http://drug.uk/usage/normal/53e65fe4-f36b-46d5-898f-275afd38a8b2> <http://drug.uk/model/patientCondition> "Normal" .
+<http://drug.uk/usage/normal/53e65fe4-f36b-46d5-898f-275afd38a8b2> <http://drug.uk/model/safetyLevel> "safe" .
+<http://drug.uk/usage/normal/53e65fe4-f36b-46d5-898f-275afd38a8b2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/pregnancy/36f1ef98-2fde-46ff-9ceb-1029182d7ad6> <http://drug.uk/model/patientCondition> "Pregnancy" .
+<http://drug.uk/usage/pregnancy/36f1ef98-2fde-46ff-9ceb-1029182d7ad6> <http://purl.org/dc/terms/description> " Avoid." .
+<http://drug.uk/usage/pregnancy/36f1ef98-2fde-46ff-9ceb-1029182d7ad6> <http://drug.uk/model/safetyLevel> "unsafe" .
+<http://drug.uk/usage/pregnancy/36f1ef98-2fde-46ff-9ceb-1029182d7ad6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/renal-impairment/50660691-c330-4568-a606-efe24ae1fe2a> <http://drug.uk/model/patientCondition> "RenalImpairment" .
+<http://drug.uk/usage/renal-impairment/50660691-c330-4568-a606-efe24ae1fe2a> <http://purl.org/dc/terms/description> " Avoid if creatinine clearance less than 35 umL/minute." .
+<http://drug.uk/usage/renal-impairment/50660691-c330-4568-a606-efe24ae1fe2a> <http://drug.uk/model/safetyLevel> "caution" .
+<http://drug.uk/usage/renal-impairment/50660691-c330-4568-a606-efe24ae1fe2a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .

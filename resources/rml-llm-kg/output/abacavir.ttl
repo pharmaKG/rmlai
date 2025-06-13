@@ -1,0 +1,76 @@
+<http://drug.uk/abacavir> <http://drug.uk/model/sideEffect> "Abdominal pain" .
+<http://drug.uk/abacavir> <http://drug.uk/model/sideEffect> "acute respiratory distress syndrome" .
+<http://drug.uk/abacavir> <http://drug.uk/model/sideEffect> "anaemia (may require transfusion)" .
+<http://drug.uk/abacavir> <http://drug.uk/model/sideEffect> "anaphylaxis" .
+<http://drug.uk/abacavir> <http://drug.uk/model/sideEffect> "angioedema" .
+<http://drug.uk/abacavir> <http://drug.uk/model/sideEffect> "appetite decreased" .
+<http://drug.uk/abacavir> <http://drug.uk/model/sideEffect> "arthralgia" .
+<http://drug.uk/abacavir> <http://drug.uk/model/sideEffect> "asthenia" .
+<http://drug.uk/abacavir> <http://drug.uk/model/sideEffect> "conjunctivitis" .
+<http://drug.uk/abacavir> <http://drug.uk/model/sideEffect> "cough" .
+<http://drug.uk/abacavir> <http://drug.uk/model/sideEffect> "diarrhoea" .
+<http://drug.uk/abacavir> <http://drug.uk/model/sideEffect> "dizziness" .
+<http://drug.uk/abacavir> <http://drug.uk/model/sideEffect> "dyspnoea" .
+<http://drug.uk/abacavir> <http://drug.uk/model/sideEffect> "fever" .
+<http://drug.uk/abacavir> <http://drug.uk/model/sideEffect> "flatulence" .
+<http://drug.uk/abacavir> <http://drug.uk/model/sideEffect> "headache" .
+<http://drug.uk/abacavir> <http://drug.uk/model/sideEffect> "hypersensitivity" .
+<http://drug.uk/abacavir> <http://drug.uk/model/sideEffect> "hypotension" .
+<http://drug.uk/abacavir> <http://drug.uk/model/sideEffect> "immune reconstitution inflammatory syndrome" .
+<http://drug.uk/abacavir> <http://drug.uk/model/sideEffect> "insomnia" .
+<http://drug.uk/abacavir> <http://drug.uk/model/sideEffect> "lactic acidosis" .
+<http://drug.uk/abacavir> <http://drug.uk/model/sideEffect> "lethargy" .
+<http://drug.uk/abacavir> <http://drug.uk/model/sideEffect> "lymphadenopathy" .
+<http://drug.uk/abacavir> <http://drug.uk/model/sideEffect> "lymphocytopenia" .
+<http://drug.uk/abacavir> <http://drug.uk/model/sideEffect> "malaise" .
+<http://drug.uk/abacavir> <http://drug.uk/model/sideEffect> "mouth ulceration" .
+<http://drug.uk/abacavir> <http://drug.uk/model/sideEffect> "myalgia" .
+<http://drug.uk/abacavir> <http://drug.uk/model/sideEffect> "nausea" .
+<http://drug.uk/abacavir> <http://drug.uk/model/sideEffect> "neutropenia" .
+<http://drug.uk/abacavir> <http://drug.uk/model/sideEffect> "oedema" .
+<http://drug.uk/abacavir> <http://drug.uk/model/sideEffect> "osteonecrosis" .
+<http://drug.uk/abacavir> <http://drug.uk/model/sideEffect> "pancreatitis" .
+<http://drug.uk/abacavir> <http://drug.uk/model/sideEffect> "paraesthesia" .
+<http://drug.uk/abacavir> <http://drug.uk/model/sideEffect> "renal failure" .
+<http://drug.uk/abacavir> <http://drug.uk/model/sideEffect> "severe cutaneous adverse reactions (SCARs)" .
+<http://drug.uk/abacavir> <http://drug.uk/model/sideEffect> "skin reactions" .
+<http://drug.uk/abacavir> <http://drug.uk/model/sideEffect> "sore throat" .
+<http://drug.uk/abacavir> <http://drug.uk/model/sideEffect> "vomiting" .
+<http://drug.uk/abacavir> <http://drug.uk/model/sideEffect> "weight increased" .
+<http://drug.uk/abacavir> <http://drug.uk/model/sideEffectDescription> "Common or very common\nAbdominal pain; anaemia (may require transfusion); asthenia; diarrhoea; dizziness; fever; flatulence; headache; insomnia; nausea; neutropenia; skin reactions; vomiting\nUncommon\nAngioedema; pancreatitis\nRare or very rare\nLactic acidosis\nFrequency not known\nImmune reconstitution inflammatory syndrome; osteonecrosis; weight increased\nSide-effects, further information\nOsteonecrosis has been reported in patients with advanced HIV disease or following long-term exposure to combination antiretroviral therapy.\n Common or very common\nAppetite decreased; lethargy\nRare or very rare\nSevere cutaneous adverse reactions (SCARs)\nFrequency not known\nHypersensitivity\nSide-effects, further information\nLife-threatening hypersensitivity reactions have been reported- characterised by fever or rash and possibly nausea, vomiting, diarrhoea, abdominal pain, dyspnoea, cough, lethargy, malaise, headache, and myalgia; less frequently mouth ulceration, oedema, hypotension, sore throat, acute respiratory distress syndrome, anaphylaxis, paraesthesia, arthralgia, conjunctivitis, lymphadenopathy, lymphocytopenia and renal failure; rarely myolysis. Laboratory abnormalities may include raised liver function tests and creatine kinase; symptoms usually appear in the first 6 weeks, but may occur at any time. Discontinue immediately if any symptom of hypersensitivity develops and do not rechallenge (risk of more severe hypersensitivity reaction)." .
+<http://drug.uk/abacavir> <http://drug.uk/model/usage> <http://drug.uk/usage/breast-feeding/00bc3da4-4d6b-402e-b4e7-0e9d83b6ebc5> .
+<http://drug.uk/abacavir> <http://drug.uk/model/usage> <http://drug.uk/usage/hepatic-impairment/3ec13278-6e69-4b48-9ec8-dc67e1211b0a> .
+<http://drug.uk/abacavir> <http://drug.uk/model/usage> <http://drug.uk/usage/normal/53ce5d72-af38-4503-9f7e-4b0e096fded8> .
+<http://drug.uk/abacavir> <http://drug.uk/model/usage> <http://drug.uk/usage/pregnancy/af72aad3-572e-4715-91da-6cb9bf609d99> .
+<http://drug.uk/abacavir> <http://drug.uk/model/usage> <http://drug.uk/usage/renal-impairment/b2c4218b-d973-4840-81af-ce4cd876c75c> .
+<http://drug.uk/abacavir> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/abacavir> <http://www.w3.org/2004/02/skos/core#prefLabel> "Abacavir" .
+<http://drug.uk/dosage/7aa33cd8-ef37-4702-bf4f-7bf7412c9886> <http://drug.uk/model/amount> "600.0"^^<http://www.w3.org/2001/XMLSchema#decimal> .
+<http://drug.uk/dosage/7aa33cd8-ef37-4702-bf4f-7bf7412c9886> <http://drug.uk/model/duration> "P1D"^^<http://www.w3.org/2001/XMLSchema#duration> .
+<http://drug.uk/dosage/7aa33cd8-ef37-4702-bf4f-7bf7412c9886> <http://drug.uk/model/frequency> "1.0"^^<http://www.w3.org/2001/XMLSchema#decimal> .
+<http://drug.uk/dosage/7aa33cd8-ef37-4702-bf4f-7bf7412c9886> <http://drug.uk/model/group> "adult" .
+<http://drug.uk/dosage/7aa33cd8-ef37-4702-bf4f-7bf7412c9886> <http://drug.uk/model/patientGroupDescription> "Adult" .
+<http://drug.uk/dosage/7aa33cd8-ef37-4702-bf4f-7bf7412c9886> <http://drug.uk/model/route> "By mouth" .
+<http://drug.uk/dosage/7aa33cd8-ef37-4702-bf4f-7bf7412c9886> <http://drug.uk/model/unit> "mg" .
+<http://drug.uk/dosage/7aa33cd8-ef37-4702-bf4f-7bf7412c9886> <http://purl.org/dc/terms/description> "600 mg daily" .
+<http://drug.uk/dosage/7aa33cd8-ef37-4702-bf4f-7bf7412c9886> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Dosage> .
+<http://drug.uk/usage/breast-feeding/00bc3da4-4d6b-402e-b4e7-0e9d83b6ebc5> <http://drug.uk/model/patientCondition> "BreastFeeding" .
+<http://drug.uk/usage/breast-feeding/00bc3da4-4d6b-402e-b4e7-0e9d83b6ebc5> <http://purl.org/dc/terms/description> " null" .
+<http://drug.uk/usage/breast-feeding/00bc3da4-4d6b-402e-b4e7-0e9d83b6ebc5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/hepatic-impairment/3ec13278-6e69-4b48-9ec8-dc67e1211b0a> <http://drug.uk/model/patientCondition> "HepaticImpairment" .
+<http://drug.uk/usage/hepatic-impairment/3ec13278-6e69-4b48-9ec8-dc67e1211b0a> <http://purl.org/dc/terms/description> "In general, manufacturers advise caution in patients with chronic hepatitis B or C (increased risk of hepatic side-effects). Manufacturer advises caution in mild impairment; consider avoiding in moderate to severe impairment (no information available)." .
+<http://drug.uk/usage/hepatic-impairment/3ec13278-6e69-4b48-9ec8-dc67e1211b0a> <http://drug.uk/model/safetyLevel> "caution" .
+<http://drug.uk/usage/hepatic-impairment/3ec13278-6e69-4b48-9ec8-dc67e1211b0a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/normal/53ce5d72-af38-4503-9f7e-4b0e096fded8> <http://drug.uk/model/dosage> <http://drug.uk/dosage/7aa33cd8-ef37-4702-bf4f-7bf7412c9886> .
+<http://drug.uk/usage/normal/53ce5d72-af38-4503-9f7e-4b0e096fded8> <http://drug.uk/model/indication> "HIV infection in combination with other antiretroviral drugs" .
+<http://drug.uk/usage/normal/53ce5d72-af38-4503-9f7e-4b0e096fded8> <http://drug.uk/model/patientCondition> "Normal" .
+<http://drug.uk/usage/normal/53ce5d72-af38-4503-9f7e-4b0e096fded8> <http://drug.uk/model/safetyLevel> "safe" .
+<http://drug.uk/usage/normal/53ce5d72-af38-4503-9f7e-4b0e096fded8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/pregnancy/af72aad3-572e-4715-91da-6cb9bf609d99> <http://drug.uk/model/patientCondition> "Pregnancy" .
+<http://drug.uk/usage/pregnancy/af72aad3-572e-4715-91da-6cb9bf609d99> <http://purl.org/dc/terms/description> "Monitoring in pregnancy\nMitochondrial dysfunction has been reported in infants exposed to nucleoside reverse transcriptase inhibitors in utero; the main effects include haematological, metabolic, and neurological disorders; all infants whose mothers received nucleoside reverse transcriptase inhibitors during pregnancy should be monitored for relevant signs or symptoms. null" .
+<http://drug.uk/usage/pregnancy/af72aad3-572e-4715-91da-6cb9bf609d99> <http://drug.uk/model/safetyLevel> "caution" .
+<http://drug.uk/usage/pregnancy/af72aad3-572e-4715-91da-6cb9bf609d99> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/renal-impairment/b2c4218b-d973-4840-81af-ce4cd876c75c> <http://drug.uk/model/patientCondition> "RenalImpairment" .
+<http://drug.uk/usage/renal-impairment/b2c4218b-d973-4840-81af-ce4cd876c75c> <http://purl.org/dc/terms/description> " Manufacturer advises avoid in end-stage renal disease." .
+<http://drug.uk/usage/renal-impairment/b2c4218b-d973-4840-81af-ce4cd876c75c> <http://drug.uk/model/safetyLevel> "caution" .
+<http://drug.uk/usage/renal-impairment/b2c4218b-d973-4840-81af-ce4cd876c75c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .

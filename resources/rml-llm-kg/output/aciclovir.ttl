@@ -1,0 +1,69 @@
+<http://drug.uk/aciclovir> <http://drug.uk/model/sideEffect> "Abdominal pain" .
+<http://drug.uk/aciclovir> <http://drug.uk/model/sideEffect> "Agitation" .
+<http://drug.uk/aciclovir> <http://drug.uk/model/sideEffect> "Alopecia" .
+<http://drug.uk/aciclovir> <http://drug.uk/model/sideEffect> "Anaemia" .
+<http://drug.uk/aciclovir> <http://drug.uk/model/sideEffect> "Angioedema" .
+<http://drug.uk/aciclovir> <http://drug.uk/model/sideEffect> "Ataxia" .
+<http://drug.uk/aciclovir> <http://drug.uk/model/sideEffect> "Coma" .
+<http://drug.uk/aciclovir> <http://drug.uk/model/sideEffect> "Confusion" .
+<http://drug.uk/aciclovir> <http://drug.uk/model/sideEffect> "Crystalluria" .
+<http://drug.uk/aciclovir> <http://drug.uk/model/sideEffect> "Diarrhoea" .
+<http://drug.uk/aciclovir> <http://drug.uk/model/sideEffect> "Dizziness" .
+<http://drug.uk/aciclovir> <http://drug.uk/model/sideEffect> "Dysarthria" .
+<http://drug.uk/aciclovir> <http://drug.uk/model/sideEffect> "Encephalopathy" .
+<http://drug.uk/aciclovir> <http://drug.uk/model/sideEffect> "Eye inflammation" .
+<http://drug.uk/aciclovir> <http://drug.uk/model/sideEffect> "Eye pain" .
+<http://drug.uk/aciclovir> <http://drug.uk/model/sideEffect> "Fatigue" .
+<http://drug.uk/aciclovir> <http://drug.uk/model/sideEffect> "Fever" .
+<http://drug.uk/aciclovir> <http://drug.uk/model/sideEffect> "Hallucination" .
+<http://drug.uk/aciclovir> <http://drug.uk/model/sideEffect> "Headache" .
+<http://drug.uk/aciclovir> <http://drug.uk/model/sideEffect> "Hepatic disorders" .
+<http://drug.uk/aciclovir> <http://drug.uk/model/sideEffect> "Inflammation localised" .
+<http://drug.uk/aciclovir> <http://drug.uk/model/sideEffect> "Leucopenia" .
+<http://drug.uk/aciclovir> <http://drug.uk/model/sideEffect> "Nausea" .
+<http://drug.uk/aciclovir> <http://drug.uk/model/sideEffect> "Photosensitivity reaction" .
+<http://drug.uk/aciclovir> <http://drug.uk/model/sideEffect> "Psychosis" .
+<http://drug.uk/aciclovir> <http://drug.uk/model/sideEffect> "Renal impairment" .
+<http://drug.uk/aciclovir> <http://drug.uk/model/sideEffect> "Renal pain" .
+<http://drug.uk/aciclovir> <http://drug.uk/model/sideEffect> "Seizure" .
+<http://drug.uk/aciclovir> <http://drug.uk/model/sideEffect> "Skin reactions" .
+<http://drug.uk/aciclovir> <http://drug.uk/model/sideEffect> "Thrombocytopenia" .
+<http://drug.uk/aciclovir> <http://drug.uk/model/sideEffect> "Tremor" .
+<http://drug.uk/aciclovir> <http://drug.uk/model/sideEffect> "Vomiting" .
+<http://drug.uk/aciclovir> <http://drug.uk/model/sideEffectDescription> " Common or very common\nWhen used by eye (topical)\nEye inflammation; eye pain\nWith intravenous use\nNausea; photosensitivity reaction; skin reactions; vomiting\nWith oral use\nAbdominal pain; diarrhoea; dizziness; fatigue; fever; headache; nausea; photosensitivity reaction; skin reactions; vomiting\nUncommon\nWith intravenous use\nAnaemia; leucopenia; thrombocytopenia\nWith topical use\nSkin reactions\nRare or very rare\nWith intravenous use\nAbdominal pain; agitation; angioedema; ataxia; coma; confusion; diarrhoea; dizziness; drowsiness; dysarthria; dyspnoea; encephalopathy; fatigue; fever; hallucination; headache; hepatic disorders; inflammation localised; psychosis; renal impairment; renal pain; seizure; tremor\nWith oral use\nAgitation; anaemia; angioedema; ataxia; coma; confusion; drowsiness; dysarthria; dyspnoea; encephalopathy; hallucination; hepatic disorders; leucopenia; psychosis; renal impairment; renal pain; seizure; thrombocytopenia; tremor\nFrequency not known\nWith intravenous use\nCrystalluria\nWith oral use\nAlopecia; crystalluria" .
+<http://drug.uk/aciclovir> <http://drug.uk/model/usage> <http://drug.uk/usage/breast-feeding/5b0aa324-5c8c-4634-893c-8cd57fc6f42b> .
+<http://drug.uk/aciclovir> <http://drug.uk/model/usage> <http://drug.uk/usage/hepatic-impairment/dcdf671c-dcac-4e8b-a8d7-46555c35027d> .
+<http://drug.uk/aciclovir> <http://drug.uk/model/usage> <http://drug.uk/usage/normal/4274cbd3-9b5f-460f-bcbd-a2fa33c3a01f> .
+<http://drug.uk/aciclovir> <http://drug.uk/model/usage> <http://drug.uk/usage/pregnancy/077225a4-0f00-4b9e-b219-c6e9c6308c93> .
+<http://drug.uk/aciclovir> <http://drug.uk/model/usage> <http://drug.uk/usage/renal-impairment/62cd4de4-c244-460f-8887-f25325ae20d5> .
+<http://drug.uk/aciclovir> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/aciclovir> <http://www.w3.org/2004/02/skos/core#prefLabel> "Aciclovir" .
+<http://drug.uk/dosage/2aa35793-0b8a-4dbf-9b14-c1f2d2da6e24> <http://drug.uk/model/amount> "1.0"^^<http://www.w3.org/2001/XMLSchema#decimal> .
+<http://drug.uk/dosage/2aa35793-0b8a-4dbf-9b14-c1f2d2da6e24> <http://drug.uk/model/duration> "P1D"^^<http://www.w3.org/2001/XMLSchema#duration> .
+<http://drug.uk/dosage/2aa35793-0b8a-4dbf-9b14-c1f2d2da6e24> <http://drug.uk/model/frequency> "5.0"^^<http://www.w3.org/2001/XMLSchema#decimal> .
+<http://drug.uk/dosage/2aa35793-0b8a-4dbf-9b14-c1f2d2da6e24> <http://drug.uk/model/group> "adult" .
+<http://drug.uk/dosage/2aa35793-0b8a-4dbf-9b14-c1f2d2da6e24> <http://drug.uk/model/patientGroupDescription> "Adult" .
+<http://drug.uk/dosage/2aa35793-0b8a-4dbf-9b14-c1f2d2da6e24> <http://drug.uk/model/route> "To the eye" .
+<http://drug.uk/dosage/2aa35793-0b8a-4dbf-9b14-c1f2d2da6e24> <http://drug.uk/model/unit> "centimetre" .
+<http://drug.uk/dosage/2aa35793-0b8a-4dbf-9b14-c1f2d2da6e24> <http://purl.org/dc/terms/description> "Apply 1 centimetre 5 times a day." .
+<http://drug.uk/dosage/2aa35793-0b8a-4dbf-9b14-c1f2d2da6e24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Dosage> .
+<http://drug.uk/usage/breast-feeding/5b0aa324-5c8c-4634-893c-8cd57fc6f42b> <http://drug.uk/model/patientCondition> "BreastFeeding" .
+<http://drug.uk/usage/breast-feeding/5b0aa324-5c8c-4634-893c-8cd57fc6f42b> <http://purl.org/dc/terms/description> " With systemic use:\nSignificant amount in milk after systemic administration—not known to be harmful but manufacturer advises caution." .
+<http://drug.uk/usage/breast-feeding/5b0aa324-5c8c-4634-893c-8cd57fc6f42b> <http://drug.uk/model/safetyLevel> "caution" .
+<http://drug.uk/usage/breast-feeding/5b0aa324-5c8c-4634-893c-8cd57fc6f42b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/hepatic-impairment/dcdf671c-dcac-4e8b-a8d7-46555c35027d> <http://drug.uk/model/patientCondition> "HepaticImpairment" .
+<http://drug.uk/usage/hepatic-impairment/dcdf671c-dcac-4e8b-a8d7-46555c35027d> <http://purl.org/dc/terms/description> " null" .
+<http://drug.uk/usage/hepatic-impairment/dcdf671c-dcac-4e8b-a8d7-46555c35027d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/normal/4274cbd3-9b5f-460f-bcbd-a2fa33c3a01f> <http://drug.uk/model/dosage> <http://drug.uk/dosage/2aa35793-0b8a-4dbf-9b14-c1f2d2da6e24> .
+<http://drug.uk/usage/normal/4274cbd3-9b5f-460f-bcbd-a2fa33c3a01f> <http://drug.uk/model/indication> "Herpes simplex infection (local treatment)" .
+<http://drug.uk/usage/normal/4274cbd3-9b5f-460f-bcbd-a2fa33c3a01f> <http://drug.uk/model/patientCondition> "Normal" .
+<http://drug.uk/usage/normal/4274cbd3-9b5f-460f-bcbd-a2fa33c3a01f> <http://drug.uk/model/safetyLevel> "safe" .
+<http://drug.uk/usage/normal/4274cbd3-9b5f-460f-bcbd-a2fa33c3a01f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/pregnancy/077225a4-0f00-4b9e-b219-c6e9c6308c93> <http://drug.uk/model/patientCondition> "Pregnancy" .
+<http://drug.uk/usage/pregnancy/077225a4-0f00-4b9e-b219-c6e9c6308c93> <http://purl.org/dc/terms/description> " With systemic use:\nNot known to be harmful—manufacturers advise use only when potential benefit outweighs risk.\nWith topical use:\nLimited absorption from topical aciclovir preparations." .
+<http://drug.uk/usage/pregnancy/077225a4-0f00-4b9e-b219-c6e9c6308c93> <http://drug.uk/model/safetyLevel> "caution" .
+<http://drug.uk/usage/pregnancy/077225a4-0f00-4b9e-b219-c6e9c6308c93> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/renal-impairment/62cd4de4-c244-460f-8887-f25325ae20d5> <http://drug.uk/model/patientCondition> "RenalImpairment" .
+<http://drug.uk/usage/renal-impairment/62cd4de4-c244-460f-8887-f25325ae20d5> <http://purl.org/dc/terms/description> " With systemic use:\nRisk of neurological reactions increased. Maintain adequate hydration (especially during renal impairment).\nDose adjustments\nWith systemic use:\nConsider dose reduction.\nWith intravenous use:\nUse normal intravenous dose every 12 hours if eGFR 25–50 mL/minute/1.73 m^2 (every 24 hours if eGFR 10–25 mL/minute/1.73 m^2).\nConsult product literature for intravenous dose if eGFR less than 10 mL/minute/1.73 m^2\n.\nWith oral use:\nFor herpes zoster, use normal oral dose every 8 hours if eGFR 10–25 mL/minute/1.73 m^2 (every 12 hours if eGFR less than 10 mL/minute/1.73 m^2).\nFor herpes simplex, use normal oral dose every 12 hours if eGFR less than 10 mL/minute/1.73 m^2." .
+<http://drug.uk/usage/renal-impairment/62cd4de4-c244-460f-8887-f25325ae20d5> <http://drug.uk/model/safetyLevel> "caution" .
+<http://drug.uk/usage/renal-impairment/62cd4de4-c244-460f-8887-f25325ae20d5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .

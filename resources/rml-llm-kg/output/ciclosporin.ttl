@@ -1,0 +1,83 @@
+<http://drug.uk/ciclosporin> <http://drug.uk/model/sideEffect> "Anaemia" .
+<http://drug.uk/ciclosporin> <http://drug.uk/model/sideEffect> "Appetite decreased" .
+<http://drug.uk/ciclosporin> <http://drug.uk/model/sideEffect> "Diarrhoea" .
+<http://drug.uk/ciclosporin> <http://drug.uk/model/sideEffect> "Electrolyte imbalance" .
+<http://drug.uk/ciclosporin> <http://drug.uk/model/sideEffect> "Encephalopathy" .
+<http://drug.uk/ciclosporin> <http://drug.uk/model/sideEffect> "Eye deposit" .
+<http://drug.uk/ciclosporin> <http://drug.uk/model/sideEffect> "Eye discomfort" .
+<http://drug.uk/ciclosporin> <http://drug.uk/model/sideEffect> "Eye disorders" .
+<http://drug.uk/ciclosporin> <http://drug.uk/model/sideEffect> "Eye inflammation" .
+<http://drug.uk/ciclosporin> <http://drug.uk/model/sideEffect> "Fatigue" .
+<http://drug.uk/ciclosporin> <http://drug.uk/model/sideEffect> "Fever" .
+<http://drug.uk/ciclosporin> <http://drug.uk/model/sideEffect> "Flushing" .
+<http://drug.uk/ciclosporin> <http://drug.uk/model/sideEffect> "Gastrointestinal discomfort" .
+<http://drug.uk/ciclosporin> <http://drug.uk/model/sideEffect> "Gingival hyperplasia" .
+<http://drug.uk/ciclosporin> <http://drug.uk/model/sideEffect> "Gynaecomastia" .
+<http://drug.uk/ciclosporin> <http://drug.uk/model/sideEffect> "Haemolytic anaemia" .
+<http://drug.uk/ciclosporin> <http://drug.uk/model/sideEffect> "Hair changes" .
+<http://drug.uk/ciclosporin> <http://drug.uk/model/sideEffect> "Headaches" .
+<http://drug.uk/ciclosporin> <http://drug.uk/model/sideEffect> "Hepatic disorders" .
+<http://drug.uk/ciclosporin> <http://drug.uk/model/sideEffect> "Hyperglycaemia" .
+<http://drug.uk/ciclosporin> <http://drug.uk/model/sideEffect> "Hyperlipidaemia" .
+<http://drug.uk/ciclosporin> <http://drug.uk/model/sideEffect> "Hypertension" .
+<http://drug.uk/ciclosporin> <http://drug.uk/model/sideEffect> "Hyperuricaemia" .
+<http://drug.uk/ciclosporin> <http://drug.uk/model/sideEffect> "Idiopathic intracranial hypertension" .
+<http://drug.uk/ciclosporin> <http://drug.uk/model/sideEffect> "Increased risk of infection" .
+<http://drug.uk/ciclosporin> <http://drug.uk/model/sideEffect> "Leucopenia" .
+<http://drug.uk/ciclosporin> <http://drug.uk/model/sideEffect> "Menstrual disorder" .
+<http://drug.uk/ciclosporin> <http://drug.uk/model/sideEffect> "Multifocal motor neuropathy" .
+<http://drug.uk/ciclosporin> <http://drug.uk/model/sideEffect> "Muscle complaints" .
+<http://drug.uk/ciclosporin> <http://drug.uk/model/sideEffect> "Muscle weakness" .
+<http://drug.uk/ciclosporin> <http://drug.uk/model/sideEffect> "Myopathy" .
+<http://drug.uk/ciclosporin> <http://drug.uk/model/sideEffect> "Nausea" .
+<http://drug.uk/ciclosporin> <http://drug.uk/model/sideEffect> "Oedema" .
+<http://drug.uk/ciclosporin> <http://drug.uk/model/sideEffect> "Pain in extremity" .
+<http://drug.uk/ciclosporin> <http://drug.uk/model/sideEffect> "Pancreatitis" .
+<http://drug.uk/ciclosporin> <http://drug.uk/model/sideEffect> "Paraesthesia" .
+<http://drug.uk/ciclosporin> <http://drug.uk/model/sideEffect> "Peptic ulcer" .
+<http://drug.uk/ciclosporin> <http://drug.uk/model/sideEffect> "Renal impairment" .
+<http://drug.uk/ciclosporin> <http://drug.uk/model/sideEffect> "Seizure" .
+<http://drug.uk/ciclosporin> <http://drug.uk/model/sideEffect> "Skin reactions" .
+<http://drug.uk/ciclosporin> <http://drug.uk/model/sideEffect> "Thrombocytopenia" .
+<http://drug.uk/ciclosporin> <http://drug.uk/model/sideEffect> "Thrombotic microangiopathy" .
+<http://drug.uk/ciclosporin> <http://drug.uk/model/sideEffect> "Tremor" .
+<http://drug.uk/ciclosporin> <http://drug.uk/model/sideEffect> "Vision blurred" .
+<http://drug.uk/ciclosporin> <http://drug.uk/model/sideEffect> "Vomiting" .
+<http://drug.uk/ciclosporin> <http://drug.uk/model/sideEffect> "Weight increased" .
+<http://drug.uk/ciclosporin> <http://drug.uk/model/sideEffectDescription> " General side-effects:\nCommon or very common\nEye inflammation\nSpecific side-effects:\nCommon or very common\nWhen used by eye (topical)\nEye discomfort; eye disorders; vision blurred\nWith oral use\nAppetite decreased; diarrhoea; electrolyte imbalance; fatigue; fever; flushing; gastrointestinal discomfort; gingival hyperplasia; hair changes; headaches; hepatic disorders; hyperglycaemia; hyperlipidaemia; hypertension; hyperuricaemia; leucopenia; muscle complaints; nausea; paraesthesia; peptic ulcer; renal impairment (renal structural changes on long-term administration); seizure; skin reactions; tremor; vomiting\nWith parenteral use\nAppetite decreased; diarrhoea; electrolyte imbalance; fatigue; fever; flushing; gastrointestinal discomfort; gingival hyperplasia; hair changes; headaches; hepatic disorders; hyperglycaemia; hyperlipidaemia; hypertension; hyperuricaemia; leucopenia; muscle complaints; nausea; paraesthesia; peptic ulcer; renal impairment (renal structural changes on long-term administration); seizure; skin reactions; tremor; vomiting\nUncommon\nWhen used by eye (topical)\nEye deposit; increased risk of infection\nWith oral use\nAnaemia; encephalopathy; oedema; thrombocytopenia; weight increased\nWith parenteral use\nAnaemia; encephalopathy; oedema; thrombocytopenia; weight increased\nRare or very rare\nWith oral use\nGynaecomastia; haemolytic anaemia; idiopathic intracranial hypertension; menstrual disorder; multifocal motor neuropathy; muscle weakness; myopathy; pancreatitis\nWith parenteral use\nGynaecomastia; haemolytic anaemia; idiopathic intracranial hypertension; menstrual disorder; multifocal motor neuropathy; muscle weakness; myopathy; pancreatitis\nFrequency not known\nWith oral use\nPain in extremity; thrombotic microangiopathy\nWith parenteral use\nPain in extremity; thrombotic microangiopathy" .
+<http://drug.uk/ciclosporin> <http://drug.uk/model/usage> <http://drug.uk/usage/breast-feeding/ddc82580-687a-44d4-86f1-70efd5e5f5b7> .
+<http://drug.uk/ciclosporin> <http://drug.uk/model/usage> <http://drug.uk/usage/hepatic-impairment/cbf07a1a-d289-488d-ab90-9006d0d7f1b5> .
+<http://drug.uk/ciclosporin> <http://drug.uk/model/usage> <http://drug.uk/usage/normal/7c9ef523-61d4-486e-ad83-59ece8f2a93b> .
+<http://drug.uk/ciclosporin> <http://drug.uk/model/usage> <http://drug.uk/usage/pregnancy/a1fa1883-fcd5-4550-8ded-ec2cb3d3bbbd> .
+<http://drug.uk/ciclosporin> <http://drug.uk/model/usage> <http://drug.uk/usage/renal-impairment/16b4e4bf-4266-4ac2-9384-3df3dc02498d> .
+<http://drug.uk/ciclosporin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/ciclosporin> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ciclosporin" .
+<http://drug.uk/dosage/df1724cf-b63c-4375-898e-32c635623cf7> <http://drug.uk/model/amount> "2.0"^^<http://www.w3.org/2001/XMLSchema#decimal> .
+<http://drug.uk/dosage/df1724cf-b63c-4375-898e-32c635623cf7> <http://drug.uk/model/duration> "P1D"^^<http://www.w3.org/2001/XMLSchema#duration> .
+<http://drug.uk/dosage/df1724cf-b63c-4375-898e-32c635623cf7> <http://drug.uk/model/group> "adult" .
+<http://drug.uk/dosage/df1724cf-b63c-4375-898e-32c635623cf7> <http://drug.uk/model/patientGroupDescription> "Adult" .
+<http://drug.uk/dosage/df1724cf-b63c-4375-898e-32c635623cf7> <http://drug.uk/model/route> "By intravenous infusion" .
+<http://drug.uk/dosage/df1724cf-b63c-4375-898e-32c635623cf7> <http://drug.uk/model/unit> "mg" .
+<http://drug.uk/dosage/df1724cf-b63c-4375-898e-32c635623cf7> <http://purl.org/dc/terms/description> "2 mg/kg to be given over 24 hours." .
+<http://drug.uk/dosage/df1724cf-b63c-4375-898e-32c635623cf7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Dosage> .
+<http://drug.uk/usage/breast-feeding/ddc82580-687a-44d4-86f1-70efd5e5f5b7> <http://drug.uk/model/patientCondition> "BreastFeeding" .
+<http://drug.uk/usage/breast-feeding/ddc82580-687a-44d4-86f1-70efd5e5f5b7> <http://purl.org/dc/terms/description> " Manufacturer advises avoid—present in milk." .
+<http://drug.uk/usage/breast-feeding/ddc82580-687a-44d4-86f1-70efd5e5f5b7> <http://drug.uk/model/safetyLevel> "unsafe" .
+<http://drug.uk/usage/breast-feeding/ddc82580-687a-44d4-86f1-70efd5e5f5b7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/hepatic-impairment/cbf07a1a-d289-488d-ab90-9006d0d7f1b5> <http://drug.uk/model/patientCondition> "HepaticImpairment" .
+<http://drug.uk/usage/hepatic-impairment/cbf07a1a-d289-488d-ab90-9006d0d7f1b5> <http://purl.org/dc/terms/description> " With systemic use:\nManufacturer advises caution in severe impairment (risk of increased exposure).\nDose adjustments\nWith systemic use:\nManufacturer advises consider dose reduction in severe impairment to maintain blood-ciclosporin concentration in target range—monitor until concentration stable." .
+<http://drug.uk/usage/hepatic-impairment/cbf07a1a-d289-488d-ab90-9006d0d7f1b5> <http://drug.uk/model/safetyLevel> "caution" .
+<http://drug.uk/usage/hepatic-impairment/cbf07a1a-d289-488d-ab90-9006d0d7f1b5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/normal/7c9ef523-61d4-486e-ad83-59ece8f2a93b> <http://drug.uk/model/dosage> <http://drug.uk/dosage/df1724cf-b63c-4375-898e-32c635623cf7> .
+<http://drug.uk/usage/normal/7c9ef523-61d4-486e-ad83-59ece8f2a93b> <http://drug.uk/model/indication> "Severe acute ulcerative colitis refractory to corticosteroid treatment" .
+<http://drug.uk/usage/normal/7c9ef523-61d4-486e-ad83-59ece8f2a93b> <http://drug.uk/model/patientCondition> "Normal" .
+<http://drug.uk/usage/normal/7c9ef523-61d4-486e-ad83-59ece8f2a93b> <http://drug.uk/model/safetyLevel> "safe" .
+<http://drug.uk/usage/normal/7c9ef523-61d4-486e-ad83-59ece8f2a93b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/pregnancy/a1fa1883-fcd5-4550-8ded-ec2cb3d3bbbd> <http://drug.uk/model/patientCondition> "Pregnancy" .
+<http://drug.uk/usage/pregnancy/a1fa1883-fcd5-4550-8ded-ec2cb3d3bbbd> <http://purl.org/dc/terms/description> " With systemic use:\nCrosses placenta; manufacturer advises avoid unless potential benefit outweighs risk—toxicity in\nanimal\nstudies.\nWhen used by eye:\nManufacturer advises avoid unless potential benefit outweighs risk—no information available." .
+<http://drug.uk/usage/pregnancy/a1fa1883-fcd5-4550-8ded-ec2cb3d3bbbd> <http://drug.uk/model/safetyLevel> "caution" .
+<http://drug.uk/usage/pregnancy/a1fa1883-fcd5-4550-8ded-ec2cb3d3bbbd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/renal-impairment/16b4e4bf-4266-4ac2-9384-3df3dc02498d> <http://drug.uk/model/patientCondition> "RenalImpairment" .
+<http://drug.uk/usage/renal-impairment/16b4e4bf-4266-4ac2-9384-3df3dc02498d> <http://purl.org/dc/terms/description> " With systemic use:\nIn non-transplant indications, manufacturer advises establishing baseline renal function before initiation of treatment; if baseline function is impaired in non-transplant indications, except nephrotic syndrome—avoid.\nDose adjustments\nWith systemic use:\nIn nephrotic syndrome, manufacturer advises initial dose should not exceed 2.5 mg/kg daily in patients with baseline renal impairment.\nDuring treatment\nfor non-transplant indications, manufacturer recommends if eGFR decreases by more than 25% below baseline on more than one measurement, reduce dose by 25–50%. If the eGFR decrease from baseline exceeds 35%, further dose reduction should be considered (even if within normal range); discontinue if reduction not successful within 1 month." .
+<http://drug.uk/usage/renal-impairment/16b4e4bf-4266-4ac2-9384-3df3dc02498d> <http://drug.uk/model/safetyLevel> "caution" .
+<http://drug.uk/usage/renal-impairment/16b4e4bf-4266-4ac2-9384-3df3dc02498d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .

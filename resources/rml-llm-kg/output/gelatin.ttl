@@ -1,0 +1,47 @@
+<http://drug.uk/dosage/b1625464-707d-4445-bb51-4441f7d7f331> <http://drug.uk/model/amount> "1000.0"^^<http://www.w3.org/2001/XMLSchema#decimal> .
+<http://drug.uk/dosage/b1625464-707d-4445-bb51-4441f7d7f331> <http://drug.uk/model/group> "adult" .
+<http://drug.uk/dosage/b1625464-707d-4445-bb51-4441f7d7f331> <http://drug.uk/model/patientGroupDescription> "Adult" .
+<http://drug.uk/dosage/b1625464-707d-4445-bb51-4441f7d7f331> <http://drug.uk/model/route> "By intravenous infusion" .
+<http://drug.uk/dosage/b1625464-707d-4445-bb51-4441f7d7f331> <http://drug.uk/model/unit> "mL" .
+<http://drug.uk/dosage/b1625464-707d-4445-bb51-4441f7d7f331> <http://purl.org/dc/terms/description> "1000 mL" .
+<http://drug.uk/dosage/b1625464-707d-4445-bb51-4441f7d7f331> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Dosage> .
+<http://drug.uk/gelatin> <http://drug.uk/model/sideEffect> "Chills" .
+<http://drug.uk/gelatin> <http://drug.uk/model/sideEffect> "dyspnoea" .
+<http://drug.uk/gelatin> <http://drug.uk/model/sideEffect> "fever" .
+<http://drug.uk/gelatin> <http://drug.uk/model/sideEffect> "hyperhidrosis" .
+<http://drug.uk/gelatin> <http://drug.uk/model/sideEffect> "hypersensitivity" .
+<http://drug.uk/gelatin> <http://drug.uk/model/sideEffect> "hypertension" .
+<http://drug.uk/gelatin> <http://drug.uk/model/sideEffect> "hypotension" .
+<http://drug.uk/gelatin> <http://drug.uk/model/sideEffect> "hypoxia" .
+<http://drug.uk/gelatin> <http://drug.uk/model/sideEffect> "tachycardia" .
+<http://drug.uk/gelatin> <http://drug.uk/model/sideEffect> "tremor" .
+<http://drug.uk/gelatin> <http://drug.uk/model/sideEffect> "urticaria" .
+<http://drug.uk/gelatin> <http://drug.uk/model/sideEffect> "wheezing" .
+<http://drug.uk/gelatin> <http://drug.uk/model/sideEffectDescription> " Rare or very rare\nChills; dyspnoea; fever; hyperhidrosis; hypersensitivity; hypertension; hypotension; hypoxia; tachycardia; tremor; urticaria; wheezing" .
+<http://drug.uk/gelatin> <http://drug.uk/model/usage> <http://drug.uk/usage/breast-feeding/771a010e-85a4-43d1-b811-d6d8db17d62a> .
+<http://drug.uk/gelatin> <http://drug.uk/model/usage> <http://drug.uk/usage/hepatic-impairment/2b0feab0-7054-4238-bb74-449572bdcfaa> .
+<http://drug.uk/gelatin> <http://drug.uk/model/usage> <http://drug.uk/usage/normal/90478769-e613-43b2-b2a3-1fc25076a4a4> .
+<http://drug.uk/gelatin> <http://drug.uk/model/usage> <http://drug.uk/usage/pregnancy/9b03c449-2a86-411c-8cc7-eae58b6179e3> .
+<http://drug.uk/gelatin> <http://drug.uk/model/usage> <http://drug.uk/usage/renal-impairment/492aeb89-e824-4df1-8467-055f346cf9d9> .
+<http://drug.uk/gelatin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/gelatin> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gelatin" .
+<http://drug.uk/usage/breast-feeding/771a010e-85a4-43d1-b811-d6d8db17d62a> <http://drug.uk/model/patientCondition> "BreastFeeding" .
+<http://drug.uk/usage/breast-feeding/771a010e-85a4-43d1-b811-d6d8db17d62a> <http://purl.org/dc/terms/description> " null" .
+<http://drug.uk/usage/breast-feeding/771a010e-85a4-43d1-b811-d6d8db17d62a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/hepatic-impairment/2b0feab0-7054-4238-bb74-449572bdcfaa> <http://drug.uk/model/patientCondition> "HepaticImpairment" .
+<http://drug.uk/usage/hepatic-impairment/2b0feab0-7054-4238-bb74-449572bdcfaa> <http://purl.org/dc/terms/description> " Manufacturers advise avoid preparations that contain lactate (risk of impaired lactate metabolism)." .
+<http://drug.uk/usage/hepatic-impairment/2b0feab0-7054-4238-bb74-449572bdcfaa> <http://drug.uk/model/safetyLevel> "unsafe" .
+<http://drug.uk/usage/hepatic-impairment/2b0feab0-7054-4238-bb74-449572bdcfaa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/normal/90478769-e613-43b2-b2a3-1fc25076a4a4> <http://drug.uk/model/dosage> <http://drug.uk/dosage/b1625464-707d-4445-bb51-4441f7d7f331> .
+<http://drug.uk/usage/normal/90478769-e613-43b2-b2a3-1fc25076a4a4> <http://drug.uk/model/indication> "Low blood volume in hypovolaemic shock, burns and cardiopulmonary bypass" .
+<http://drug.uk/usage/normal/90478769-e613-43b2-b2a3-1fc25076a4a4> <http://drug.uk/model/patientCondition> "Normal" .
+<http://drug.uk/usage/normal/90478769-e613-43b2-b2a3-1fc25076a4a4> <http://drug.uk/model/safetyLevel> "safe" .
+<http://drug.uk/usage/normal/90478769-e613-43b2-b2a3-1fc25076a4a4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/pregnancy/9b03c449-2a86-411c-8cc7-eae58b6179e3> <http://drug.uk/model/patientCondition> "Pregnancy" .
+<http://drug.uk/usage/pregnancy/9b03c449-2a86-411c-8cc7-eae58b6179e3> <http://purl.org/dc/terms/description> " Manufacturer of Geloplasma advises avoid at the end of pregnancy." .
+<http://drug.uk/usage/pregnancy/9b03c449-2a86-411c-8cc7-eae58b6179e3> <http://drug.uk/model/safetyLevel> "caution" .
+<http://drug.uk/usage/pregnancy/9b03c449-2a86-411c-8cc7-eae58b6179e3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/renal-impairment/492aeb89-e824-4df1-8467-055f346cf9d9> <http://drug.uk/model/patientCondition> "RenalImpairment" .
+<http://drug.uk/usage/renal-impairment/492aeb89-e824-4df1-8467-055f346cf9d9> <http://purl.org/dc/terms/description> " Use with caution." .
+<http://drug.uk/usage/renal-impairment/492aeb89-e824-4df1-8467-055f346cf9d9> <http://drug.uk/model/safetyLevel> "caution" .
+<http://drug.uk/usage/renal-impairment/492aeb89-e824-4df1-8467-055f346cf9d9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
