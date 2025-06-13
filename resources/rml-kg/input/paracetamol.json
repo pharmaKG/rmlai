@@ -1,0 +1,56 @@
+{
+    "identifier": "paracetamol",
+    "title": "Paracetamol",
+    "breastFeeding": {
+        "generalInfo": [],
+        "specificInfo": "Amount too small to be harmful.",
+        "id": "a1ea795d-6e97-413b-81ba-32acddd18959",
+        "parentId": "14e13afc-ec0a-44e9-8e8c-ab7d30f50cbc"
+    },
+    "hepaticImpairment": {
+        "generalInfo": [],
+        "specificInfo": "Manufacturer advises caution (increased risk of toxicity).",
+        "id": "37b6a7e4-b915-4ba1-adfe-bdeddc1b0f6d",
+        "parentId": "14e13afc-ec0a-44e9-8e8c-ab7d30f50cbc"
+    },
+    "pregnancy": {
+        "generalInfo": [],
+        "specificInfo": "Not known to be harmful.",
+        "id": "da36716a-e315-4354-8ab3-f15fe7ef1bf8",
+        "parentId": "14e13afc-ec0a-44e9-8e8c-ab7d30f50cbc"
+    },
+    "renalImpairment": {
+        "generalInfo": [],
+        "specificInfo": "Caution in severe impairment (consult product literature).\nDose adjustments\nWith intravenous use:\nIncrease infusion dose interval to at least every 6 hours if creatinine clearance 30 mL/minute or less.",
+        "id": "8ec30528-b69d-440c-bb22-08976ef32833",
+        "parentId": "14e13afc-ec0a-44e9-8e8c-ab7d30f50cbc"
+    },
+    "sideEffects": {
+        "generalInfo": [],
+        "specificInfo": "General side-effects:\nRare or very rare\nThrombocytopenia\nSpecific side-effects:\nCommon or very common\nWith rectal use\nAnorectal erythema\nRare or very rare\nWith intravenous use\nHypersensitivity; hypotension; leucopenia; malaise; neutropenia\nWith rectal use\nAngioedema; liver injury; severe cutaneous adverse reactions (SCARs); skin reactions\nFrequency not known\nWith intravenous use\nFlushing; skin reactions; tachycardia\nWith oral use\nAgranulocytosis; bronchospasm; hepatic function abnormal; rash; severe cutaneous adverse reactions (SCARs)\nWith rectal use\nAgranulocytosis; blood disorder\nOverdose\nLiver damage and less frequently renal damage can occur following overdose.\nNausea and vomiting, the only early features of poisoning, usually settle within 24 hours. Persistence beyond this time, often associated with the onset of right subcostal pain and tenderness, usually indicates development of hepatic necrosis.",
+        "id": "bf6a2fa5-6694-4938-b25c-dcdc2d0ddd2c",
+        "parentId": "14e13afc-ec0a-44e9-8e8c-ab7d30f50cbc"
+    },
+    "therapeuticPlan": [
+        {
+            "indications": [
+                "Mild to moderate pain",
+                "Pyrexia"
+            ],
+            "dosages": [
+                {
+                    "patientGroup": "adult",
+                    "detailedPatientGroup": "Adult",
+                    "doseStatement": "up to 1 g, every 6 hours",
+                    "routeOfAdministration": "By mouth",
+                    "id": "ab33b98c-efda-4c73-bc1a-89c434d62a83",
+                    "parentId": "e32fb437-ac30-4fb4-9f09-593da466a3e2"
+                }
+            ],
+            "id": "e32fb437-ac30-4fb4-9f09-593da466a3e2",
+            "parentId": "14e13afc-ec0a-44e9-8e8c-ab7d30f50cbc"
+        }
+    ],
+    "id": "14e13afc-ec0a-44e9-8e8c-ab7d30f50cbc",
+    "parentId": null
+}

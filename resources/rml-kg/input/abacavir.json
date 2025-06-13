@@ -1,0 +1,59 @@
+{
+    "identifier": "abacavir",
+    "title": "Abacavir",
+    "breastFeeding": {
+        "generalInfo": [],
+        "id": "00bc3da4-4d6b-402e-b4e7-0e9d83b6ebc5",
+        "parentId": "7c4383d4-8026-4a3a-b2fa-d86935743ebc"
+    },
+    "hepaticImpairment": {
+        "generalInfo": [
+            "In general, manufacturers advise caution in patients with chronic hepatitis B or C (increased risk of hepatic side-effects)."
+        ],
+        "specificInfo": "Manufacturer advises caution in mild impairment; consider avoiding in moderate to severe impairment (no information available).",
+        "id": "3ec13278-6e69-4b48-9ec8-dc67e1211b0a",
+        "parentId": "7c4383d4-8026-4a3a-b2fa-d86935743ebc"
+    },
+    "pregnancy": {
+        "generalInfo": [
+            "Monitoring in pregnancy\nMitochondrial dysfunction has been reported in infants exposed to nucleoside reverse transcriptase inhibitors in utero; the main effects include haematological, metabolic, and neurological disorders; all infants whose mothers received nucleoside reverse transcriptase inhibitors during pregnancy should be monitored for relevant signs or symptoms."
+        ],
+        "id": "af72aad3-572e-4715-91da-6cb9bf609d99",
+        "parentId": "7c4383d4-8026-4a3a-b2fa-d86935743ebc"
+    },
+    "renalImpairment": {
+        "generalInfo": [],
+        "specificInfo": "Manufacturer advises avoid in end-stage renal disease.",
+        "id": "b2c4218b-d973-4840-81af-ce4cd876c75c",
+        "parentId": "7c4383d4-8026-4a3a-b2fa-d86935743ebc"
+    },
+    "sideEffects": {
+        "generalInfo": [
+            "Common or very common\nAbdominal pain; anaemia (may require transfusion); asthenia; diarrhoea; dizziness; fever; flatulence; headache; insomnia; nausea; neutropenia; skin reactions; vomiting\nUncommon\nAngioedema; pancreatitis\nRare or very rare\nLactic acidosis\nFrequency not known\nImmune reconstitution inflammatory syndrome; osteonecrosis; weight increased\nSide-effects, further information\nOsteonecrosis has been reported in patients with advanced HIV disease or following long-term exposure to combination antiretroviral therapy.\n"
+        ],
+        "specificInfo": "Common or very common\nAppetite decreased; lethargy\nRare or very rare\nSevere cutaneous adverse reactions (SCARs)\nFrequency not known\nHypersensitivity\nSide-effects, further information\nLife-threatening hypersensitivity reactions have been reported- characterised by fever or rash and possibly nausea, vomiting, diarrhoea, abdominal pain, dyspnoea, cough, lethargy, malaise, headache, and myalgia; less frequently mouth ulceration, oedema, hypotension, sore throat, acute respiratory distress syndrome, anaphylaxis, paraesthesia, arthralgia, conjunctivitis, lymphadenopathy, lymphocytopenia and renal failure; rarely myolysis. Laboratory abnormalities may include raised liver function tests and creatine kinase; symptoms usually appear in the first 6 weeks, but may occur at any time. Discontinue immediately if any symptom of hypersensitivity develops and do not rechallenge (risk of more severe hypersensitivity reaction).",
+        "id": "da3ae97d-d557-47bf-bb5d-debc0cafb6e6",
+        "parentId": "7c4383d4-8026-4a3a-b2fa-d86935743ebc"
+    },
+    "therapeuticPlan": [
+        {
+            "indications": [
+                "HIV infection in combination with other antiretroviral drugs"
+            ],
+            "dosages": [
+                {
+                    "patientGroup": "adult",
+                    "detailedPatientGroup": "Adult",
+                    "doseStatement": "600 mg daily",
+                    "routeOfAdministration": "By mouth",
+                    "id": "7aa33cd8-ef37-4702-bf4f-7bf7412c9886",
+                    "parentId": "53ce5d72-af38-4503-9f7e-4b0e096fded8"
+                }
+            ],
+            "id": "53ce5d72-af38-4503-9f7e-4b0e096fded8",
+            "parentId": "7c4383d4-8026-4a3a-b2fa-d86935743ebc"
+        }
+    ],
+    "id": "7c4383d4-8026-4a3a-b2fa-d86935743ebc",
+    "parentId": null
+}
