@@ -1,0 +1,1129 @@
+<http://drug.uk/adrenaline-epinephrine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/alcohol> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/alectinib-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/alfentanil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/aliskiren> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/alprostadil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/aminophylline> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/amlodipine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/apraclonidine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/aripiprazole> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/asenapine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/avanafil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/baclofen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/bendroflumethiazide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/benperidol> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/betaxolol> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/bortezomib-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/brigatinib-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/bromocriptine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/bumetanide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/cabergoline> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/canagliflozin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/captopril> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/cariprazine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/carvedilol> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/ceritinib-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/chlortalidone> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/clozapine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/crizotinib-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/dapagliflozin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/desflurane> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/diazoxide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/digoxin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/dipyridamole> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/disopyramide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/dobutamine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/doxazosin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/doxepin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/dronedarone> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/droperidol> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/empagliflozin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/eplerenone> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/epoprostenol> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/eprosartan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/ertugliflozin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/esketamine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/etomidate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/etrasimod> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/felodipine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/fentanyl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/finerenone> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/fingolimod> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/furosemide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/galantamine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/glyceryl-trinitrate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/guanfacine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/hydrochlorothiazide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/iloprost> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/indapamide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/indoramin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/interaction/betaxolol-adrenaline-epinephrine> <http://drug.uk/model/interactingDrug> <http://drug.uk/adrenaline-epinephrine> .
+<http://drug.uk/interaction/betaxolol-adrenaline-epinephrine> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-adrenaline-epinephrine> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/310ab5de-f757-4693-8c2c-be34e16aeec3> .
+<http://drug.uk/interaction/betaxolol-adrenaline-epinephrine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-alcohol> <http://drug.uk/model/interactingDrug> <http://drug.uk/alcohol> .
+<http://drug.uk/interaction/betaxolol-alcohol> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-alcohol> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/7329bf0b-590f-4971-81dd-954b8e2ac282> .
+<http://drug.uk/interaction/betaxolol-alcohol> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-alectinib-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/alectinib-specialist-drug> .
+<http://drug.uk/interaction/betaxolol-alectinib-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-alectinib-specialist-drug> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/24a44518-c43e-4151-b192-9ea1daf7c3c4> .
+<http://drug.uk/interaction/betaxolol-alectinib-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-alfentanil> <http://drug.uk/model/interactingDrug> <http://drug.uk/alfentanil> .
+<http://drug.uk/interaction/betaxolol-alfentanil> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-alfentanil> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/ed9e1f11-64b4-4e87-9407-9525602a6cd2> .
+<http://drug.uk/interaction/betaxolol-alfentanil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-aliskiren> <http://drug.uk/model/interactingDrug> <http://drug.uk/aliskiren> .
+<http://drug.uk/interaction/betaxolol-aliskiren> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-aliskiren> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/931d57c5-6bd7-401b-a4a8-9b3f9d5bb868> .
+<http://drug.uk/interaction/betaxolol-aliskiren> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-alprostadil> <http://drug.uk/model/interactingDrug> <http://drug.uk/alprostadil> .
+<http://drug.uk/interaction/betaxolol-alprostadil> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-alprostadil> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/2c874d53-87f3-4793-8d28-976dc7e7befb> .
+<http://drug.uk/interaction/betaxolol-alprostadil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-aminophylline> <http://drug.uk/model/interactingDrug> <http://drug.uk/aminophylline> .
+<http://drug.uk/interaction/betaxolol-aminophylline> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-aminophylline> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/380d3ff1-d974-4bca-b512-0c884d672b6a> .
+<http://drug.uk/interaction/betaxolol-aminophylline> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-amlodipine> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/betaxolol-amlodipine> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-amlodipine> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/e4d1f5d1-8a4b-490c-9754-97cf700a93a8> .
+<http://drug.uk/interaction/betaxolol-amlodipine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-apraclonidine> <http://drug.uk/model/interactingDrug> <http://drug.uk/apraclonidine> .
+<http://drug.uk/interaction/betaxolol-apraclonidine> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-apraclonidine> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/341e2900-3b45-4b22-92a1-d750e647c09c> .
+<http://drug.uk/interaction/betaxolol-apraclonidine> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/e2397265-5dc0-4bff-afbc-2f53a8e8ed75> .
+<http://drug.uk/interaction/betaxolol-apraclonidine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-aripiprazole> <http://drug.uk/model/interactingDrug> <http://drug.uk/aripiprazole> .
+<http://drug.uk/interaction/betaxolol-aripiprazole> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-aripiprazole> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/09bfd092-442e-4605-b5dd-18dc744b4496> .
+<http://drug.uk/interaction/betaxolol-aripiprazole> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-asenapine> <http://drug.uk/model/interactingDrug> <http://drug.uk/asenapine> .
+<http://drug.uk/interaction/betaxolol-asenapine> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-asenapine> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/aacc7c8e-eb33-4c74-b719-e1fd53827d55> .
+<http://drug.uk/interaction/betaxolol-asenapine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-avanafil> <http://drug.uk/model/interactingDrug> <http://drug.uk/avanafil> .
+<http://drug.uk/interaction/betaxolol-avanafil> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-avanafil> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/89b74712-683b-42ac-8d26-531223d2fe34> .
+<http://drug.uk/interaction/betaxolol-avanafil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-baclofen> <http://drug.uk/model/interactingDrug> <http://drug.uk/baclofen> .
+<http://drug.uk/interaction/betaxolol-baclofen> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-baclofen> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/815a1a8f-40f0-42d4-86aa-0bb070c2b8ab> .
+<http://drug.uk/interaction/betaxolol-baclofen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-bendroflumethiazide> <http://drug.uk/model/interactingDrug> <http://drug.uk/bendroflumethiazide> .
+<http://drug.uk/interaction/betaxolol-bendroflumethiazide> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-bendroflumethiazide> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/d1537ba1-2431-455c-bfa9-9d59f714ae8f> .
+<http://drug.uk/interaction/betaxolol-bendroflumethiazide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-benperidol> <http://drug.uk/model/interactingDrug> <http://drug.uk/benperidol> .
+<http://drug.uk/interaction/betaxolol-benperidol> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-benperidol> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/d0344260-6ea4-46a7-942e-a052ae230fe4> .
+<http://drug.uk/interaction/betaxolol-benperidol> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-bortezomib-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-bortezomib-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/bortezomib-specialist-drug> .
+<http://drug.uk/interaction/betaxolol-bortezomib-specialist-drug> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/2026fb93-7f94-4dad-8d63-c9da58b43e92> .
+<http://drug.uk/interaction/betaxolol-bortezomib-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-brigatinib-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-brigatinib-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/brigatinib-specialist-drug> .
+<http://drug.uk/interaction/betaxolol-brigatinib-specialist-drug> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/f7f17a71-fa4e-41b1-90d4-8eb68aa0b9fb> .
+<http://drug.uk/interaction/betaxolol-brigatinib-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-bromocriptine> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-bromocriptine> <http://drug.uk/model/interactingDrug> <http://drug.uk/bromocriptine> .
+<http://drug.uk/interaction/betaxolol-bromocriptine> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/520410f1-e1b5-436d-af96-ec6987479b20> .
+<http://drug.uk/interaction/betaxolol-bromocriptine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-bumetanide> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-bumetanide> <http://drug.uk/model/interactingDrug> <http://drug.uk/bumetanide> .
+<http://drug.uk/interaction/betaxolol-bumetanide> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/9313772e-c6bb-452d-a94e-c615b0665685> .
+<http://drug.uk/interaction/betaxolol-bumetanide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-cabergoline> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-cabergoline> <http://drug.uk/model/interactingDrug> <http://drug.uk/cabergoline> .
+<http://drug.uk/interaction/betaxolol-cabergoline> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/3423d6dc-e5f8-4e4f-9aeb-b160e1aee4ed> .
+<http://drug.uk/interaction/betaxolol-cabergoline> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-canagliflozin> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-canagliflozin> <http://drug.uk/model/interactingDrug> <http://drug.uk/canagliflozin> .
+<http://drug.uk/interaction/betaxolol-canagliflozin> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/57457d8d-9723-450e-b58c-3532f0d87641> .
+<http://drug.uk/interaction/betaxolol-canagliflozin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-captopril> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-captopril> <http://drug.uk/model/interactingDrug> <http://drug.uk/captopril> .
+<http://drug.uk/interaction/betaxolol-captopril> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/0859cfbc-4449-4812-9436-c30adbb4265b> .
+<http://drug.uk/interaction/betaxolol-captopril> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-cariprazine> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-cariprazine> <http://drug.uk/model/interactingDrug> <http://drug.uk/cariprazine> .
+<http://drug.uk/interaction/betaxolol-cariprazine> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/9434ffd5-f7f0-4e3e-9dbf-5be64864963f> .
+<http://drug.uk/interaction/betaxolol-cariprazine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-carvedilol> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-carvedilol> <http://drug.uk/model/interactingDrug> <http://drug.uk/carvedilol> .
+<http://drug.uk/interaction/betaxolol-carvedilol> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/2839a49b-fe77-4e95-847a-bfc8be10d100> .
+<http://drug.uk/interaction/betaxolol-carvedilol> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/a2321255-e8d8-4f7b-8ffb-87912bb0e051> .
+<http://drug.uk/interaction/betaxolol-carvedilol> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-ceritinib-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-ceritinib-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/ceritinib-specialist-drug> .
+<http://drug.uk/interaction/betaxolol-ceritinib-specialist-drug> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/85734d7e-4ea9-4e35-adfc-40f7bc7c9dec> .
+<http://drug.uk/interaction/betaxolol-ceritinib-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-chlortalidone> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-chlortalidone> <http://drug.uk/model/interactingDrug> <http://drug.uk/chlortalidone> .
+<http://drug.uk/interaction/betaxolol-chlortalidone> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/eae107c0-e8b1-4cf4-a294-a2b0a0dfdf1b> .
+<http://drug.uk/interaction/betaxolol-chlortalidone> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-clozapine> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-clozapine> <http://drug.uk/model/interactingDrug> <http://drug.uk/clozapine> .
+<http://drug.uk/interaction/betaxolol-clozapine> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/e4c9e71c-c644-4e92-a07e-58afd5541776> .
+<http://drug.uk/interaction/betaxolol-clozapine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-crizotinib-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-crizotinib-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/crizotinib-specialist-drug> .
+<http://drug.uk/interaction/betaxolol-crizotinib-specialist-drug> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/6e56c14f-699e-41be-9379-79a052f574b3> .
+<http://drug.uk/interaction/betaxolol-crizotinib-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-dapagliflozin> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-dapagliflozin> <http://drug.uk/model/interactingDrug> <http://drug.uk/dapagliflozin> .
+<http://drug.uk/interaction/betaxolol-dapagliflozin> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/5326bc27-4722-4a93-b78d-51debcfc14b8> .
+<http://drug.uk/interaction/betaxolol-dapagliflozin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-desflurane> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-desflurane> <http://drug.uk/model/interactingDrug> <http://drug.uk/desflurane> .
+<http://drug.uk/interaction/betaxolol-desflurane> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/ee35102a-1590-4e66-81ca-3931ecbe2817> .
+<http://drug.uk/interaction/betaxolol-desflurane> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-diazoxide> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-diazoxide> <http://drug.uk/model/interactingDrug> <http://drug.uk/diazoxide> .
+<http://drug.uk/interaction/betaxolol-diazoxide> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/9399f8ea-6145-4db7-a0be-0ab35e53f129> .
+<http://drug.uk/interaction/betaxolol-diazoxide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-digoxin> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-digoxin> <http://drug.uk/model/interactingDrug> <http://drug.uk/digoxin> .
+<http://drug.uk/interaction/betaxolol-digoxin> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/b765dd63-c861-4a9f-8157-95b5f1d24d7e> .
+<http://drug.uk/interaction/betaxolol-digoxin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-dipyridamole> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-dipyridamole> <http://drug.uk/model/interactingDrug> <http://drug.uk/dipyridamole> .
+<http://drug.uk/interaction/betaxolol-dipyridamole> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/578fdea6-f265-4709-b170-5e31ece136b6> .
+<http://drug.uk/interaction/betaxolol-dipyridamole> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-disopyramide> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-disopyramide> <http://drug.uk/model/interactingDrug> <http://drug.uk/disopyramide> .
+<http://drug.uk/interaction/betaxolol-disopyramide> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/d3575ba7-7807-493d-98f3-2882cf32d37e> .
+<http://drug.uk/interaction/betaxolol-disopyramide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-dobutamine> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-dobutamine> <http://drug.uk/model/interactingDrug> <http://drug.uk/dobutamine> .
+<http://drug.uk/interaction/betaxolol-dobutamine> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/2fdb9a90-6cf8-4ad7-a266-030ad1215ff6> .
+<http://drug.uk/interaction/betaxolol-dobutamine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-doxazosin> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-doxazosin> <http://drug.uk/model/interactingDrug> <http://drug.uk/doxazosin> .
+<http://drug.uk/interaction/betaxolol-doxazosin> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/4f27a944-d7ac-45b7-9a62-30c1979e2801> .
+<http://drug.uk/interaction/betaxolol-doxazosin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-doxepin> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-doxepin> <http://drug.uk/model/interactingDrug> <http://drug.uk/doxepin> .
+<http://drug.uk/interaction/betaxolol-doxepin> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/fce86498-99b1-41b1-9308-a7739e7eb1fb> .
+<http://drug.uk/interaction/betaxolol-doxepin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-dronedarone> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-dronedarone> <http://drug.uk/model/interactingDrug> <http://drug.uk/dronedarone> .
+<http://drug.uk/interaction/betaxolol-dronedarone> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/0e9521fc-07b8-4a69-b402-a35a537ce0a2> .
+<http://drug.uk/interaction/betaxolol-dronedarone> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/1d2de348-6c0e-43a7-96fe-8212849ccb7f> .
+<http://drug.uk/interaction/betaxolol-dronedarone> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-droperidol> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-droperidol> <http://drug.uk/model/interactingDrug> <http://drug.uk/droperidol> .
+<http://drug.uk/interaction/betaxolol-droperidol> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/f095d46d-3b06-479d-bcba-8461e2e67e42> .
+<http://drug.uk/interaction/betaxolol-droperidol> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-empagliflozin> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-empagliflozin> <http://drug.uk/model/interactingDrug> <http://drug.uk/empagliflozin> .
+<http://drug.uk/interaction/betaxolol-empagliflozin> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/1d2245b6-8507-4278-8987-1396baa4dac5> .
+<http://drug.uk/interaction/betaxolol-empagliflozin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-eplerenone> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-eplerenone> <http://drug.uk/model/interactingDrug> <http://drug.uk/eplerenone> .
+<http://drug.uk/interaction/betaxolol-eplerenone> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/66bdeda2-62bd-4078-bcb0-56e329583a54> .
+<http://drug.uk/interaction/betaxolol-eplerenone> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-epoprostenol> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-epoprostenol> <http://drug.uk/model/interactingDrug> <http://drug.uk/epoprostenol> .
+<http://drug.uk/interaction/betaxolol-epoprostenol> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/091e9a21-ee88-4e2c-bb8a-8c51d33ea5fc> .
+<http://drug.uk/interaction/betaxolol-epoprostenol> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-eprosartan> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-eprosartan> <http://drug.uk/model/interactingDrug> <http://drug.uk/eprosartan> .
+<http://drug.uk/interaction/betaxolol-eprosartan> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/5abfb27e-506b-4bb7-90f7-8de25161ec11> .
+<http://drug.uk/interaction/betaxolol-eprosartan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-ertugliflozin> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-ertugliflozin> <http://drug.uk/model/interactingDrug> <http://drug.uk/ertugliflozin> .
+<http://drug.uk/interaction/betaxolol-ertugliflozin> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/0aa784c9-2db4-475a-9305-708cbaae93e9> .
+<http://drug.uk/interaction/betaxolol-ertugliflozin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-esketamine> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-esketamine> <http://drug.uk/model/interactingDrug> <http://drug.uk/esketamine> .
+<http://drug.uk/interaction/betaxolol-esketamine> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/85c969d8-038f-439f-90a6-481bde6d9c71> .
+<http://drug.uk/interaction/betaxolol-esketamine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-etomidate> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-etomidate> <http://drug.uk/model/interactingDrug> <http://drug.uk/etomidate> .
+<http://drug.uk/interaction/betaxolol-etomidate> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/f4527dd8-ec8e-4b90-bf91-b060aab3c895> .
+<http://drug.uk/interaction/betaxolol-etomidate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-etrasimod> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-etrasimod> <http://drug.uk/model/interactingDrug> <http://drug.uk/etrasimod> .
+<http://drug.uk/interaction/betaxolol-etrasimod> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/3ed16c20-96c8-4ea4-a55a-e23c93f8e3bd> .
+<http://drug.uk/interaction/betaxolol-etrasimod> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-felodipine> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-felodipine> <http://drug.uk/model/interactingDrug> <http://drug.uk/felodipine> .
+<http://drug.uk/interaction/betaxolol-felodipine> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/c6928316-fc06-48d2-bdb9-01210a1b905b> .
+<http://drug.uk/interaction/betaxolol-felodipine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-fentanyl> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-fentanyl> <http://drug.uk/model/interactingDrug> <http://drug.uk/fentanyl> .
+<http://drug.uk/interaction/betaxolol-fentanyl> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/c11c77f6-e320-43a7-a464-0772ac467d6b> .
+<http://drug.uk/interaction/betaxolol-fentanyl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-finerenone> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-finerenone> <http://drug.uk/model/interactingDrug> <http://drug.uk/finerenone> .
+<http://drug.uk/interaction/betaxolol-finerenone> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/33e944db-f0cf-4111-afc4-03f2f3570d6a> .
+<http://drug.uk/interaction/betaxolol-finerenone> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-fingolimod> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-fingolimod> <http://drug.uk/model/interactingDrug> <http://drug.uk/fingolimod> .
+<http://drug.uk/interaction/betaxolol-fingolimod> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/0229346b-22fe-49a0-b09d-f475303114a2> .
+<http://drug.uk/interaction/betaxolol-fingolimod> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-furosemide> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-furosemide> <http://drug.uk/model/interactingDrug> <http://drug.uk/furosemide> .
+<http://drug.uk/interaction/betaxolol-furosemide> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/d39b9bdb-7f8f-4963-9efb-7a6cb6101125> .
+<http://drug.uk/interaction/betaxolol-furosemide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-galantamine> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-galantamine> <http://drug.uk/model/interactingDrug> <http://drug.uk/galantamine> .
+<http://drug.uk/interaction/betaxolol-galantamine> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/7ae10301-9548-47a8-99a2-0c885fd2907b> .
+<http://drug.uk/interaction/betaxolol-galantamine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-glyceryl-trinitrate> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-glyceryl-trinitrate> <http://drug.uk/model/interactingDrug> <http://drug.uk/glyceryl-trinitrate> .
+<http://drug.uk/interaction/betaxolol-glyceryl-trinitrate> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/6bbb161d-2bb4-4dce-beb8-fb2b0c6273f7> .
+<http://drug.uk/interaction/betaxolol-glyceryl-trinitrate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-guanfacine> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-guanfacine> <http://drug.uk/model/interactingDrug> <http://drug.uk/guanfacine> .
+<http://drug.uk/interaction/betaxolol-guanfacine> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/d17c2b6f-9e54-4f75-804e-ab0553f2031c> .
+<http://drug.uk/interaction/betaxolol-guanfacine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-hydrochlorothiazide> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-hydrochlorothiazide> <http://drug.uk/model/interactingDrug> <http://drug.uk/hydrochlorothiazide> .
+<http://drug.uk/interaction/betaxolol-hydrochlorothiazide> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/421d44cf-2ede-4565-b2d3-6f772e4a850e> .
+<http://drug.uk/interaction/betaxolol-hydrochlorothiazide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-iloprost> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-iloprost> <http://drug.uk/model/interactingDrug> <http://drug.uk/iloprost> .
+<http://drug.uk/interaction/betaxolol-iloprost> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/9a5265f5-53b6-4385-ae77-14cccbe52eeb> .
+<http://drug.uk/interaction/betaxolol-iloprost> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-indapamide> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-indapamide> <http://drug.uk/model/interactingDrug> <http://drug.uk/indapamide> .
+<http://drug.uk/interaction/betaxolol-indapamide> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/9683cbce-241b-4523-ab5a-72a18c0e1090> .
+<http://drug.uk/interaction/betaxolol-indapamide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-indoramin> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-indoramin> <http://drug.uk/model/interactingDrug> <http://drug.uk/indoramin> .
+<http://drug.uk/interaction/betaxolol-indoramin> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/138ca097-0afe-4859-85dd-c6893e3e7395> .
+<http://drug.uk/interaction/betaxolol-indoramin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-irbesartan> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-irbesartan> <http://drug.uk/model/interactingDrug> <http://drug.uk/irbesartan> .
+<http://drug.uk/interaction/betaxolol-irbesartan> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/08d9c3c3-ff53-4c7d-8a58-46fd4e5370c3> .
+<http://drug.uk/interaction/betaxolol-irbesartan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-isocarboxazid> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-isocarboxazid> <http://drug.uk/model/interactingDrug> <http://drug.uk/isocarboxazid> .
+<http://drug.uk/interaction/betaxolol-isocarboxazid> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/68e239a8-6b95-4372-9792-a8eb3beb4ac6> .
+<http://drug.uk/interaction/betaxolol-isocarboxazid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-isoflurane> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-isoflurane> <http://drug.uk/model/interactingDrug> <http://drug.uk/isoflurane> .
+<http://drug.uk/interaction/betaxolol-isoflurane> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/fd408fc3-4082-4c89-a4db-05c6f4854d75> .
+<http://drug.uk/interaction/betaxolol-isoflurane> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-isosorbide-dinitrate> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-isosorbide-dinitrate> <http://drug.uk/model/interactingDrug> <http://drug.uk/isosorbide-dinitrate> .
+<http://drug.uk/interaction/betaxolol-isosorbide-dinitrate> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/9611d41b-9ad7-41f0-9208-d21a40a509bb> .
+<http://drug.uk/interaction/betaxolol-isosorbide-dinitrate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-isosorbide-mononitrate> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-isosorbide-mononitrate> <http://drug.uk/model/interactingDrug> <http://drug.uk/isosorbide-mononitrate> .
+<http://drug.uk/interaction/betaxolol-isosorbide-mononitrate> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/dfbc2399-29e0-4460-a789-f95d45d7eb84> .
+<http://drug.uk/interaction/betaxolol-isosorbide-mononitrate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-ivabradine> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-ivabradine> <http://drug.uk/model/interactingDrug> <http://drug.uk/ivabradine> .
+<http://drug.uk/interaction/betaxolol-ivabradine> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/b40db194-7a8c-460f-8cf6-fbb7fad11c69> .
+<http://drug.uk/interaction/betaxolol-ivabradine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-ketamine> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-ketamine> <http://drug.uk/model/interactingDrug> <http://drug.uk/ketamine> .
+<http://drug.uk/interaction/betaxolol-ketamine> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/7e3ba8b3-48a2-474f-8681-c1da5c1a712d> .
+<http://drug.uk/interaction/betaxolol-ketamine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-lacidipine> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-lacidipine> <http://drug.uk/model/interactingDrug> <http://drug.uk/lacidipine> .
+<http://drug.uk/interaction/betaxolol-lacidipine> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/86f980a7-d0ec-4a0b-b053-e4bff29722b8> .
+<http://drug.uk/interaction/betaxolol-lacidipine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-lanreotide> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-lanreotide> <http://drug.uk/model/interactingDrug> <http://drug.uk/lanreotide> .
+<http://drug.uk/interaction/betaxolol-lanreotide> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/a6235544-a4ae-4aa9-b8d9-e79dfde2f5b5> .
+<http://drug.uk/interaction/betaxolol-lanreotide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-levomepromazine> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-levomepromazine> <http://drug.uk/model/interactingDrug> <http://drug.uk/levomepromazine> .
+<http://drug.uk/interaction/betaxolol-levomepromazine> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/525f494a-f61e-4dd4-b87c-c869be3b5751> .
+<http://drug.uk/interaction/betaxolol-levomepromazine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-lisinopril> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-lisinopril> <http://drug.uk/model/interactingDrug> <http://drug.uk/lisinopril> .
+<http://drug.uk/interaction/betaxolol-lisinopril> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/9234fd58-6319-4ecd-8506-92076b4a0a4e> .
+<http://drug.uk/interaction/betaxolol-lisinopril> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-lofepramine> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-lofepramine> <http://drug.uk/model/interactingDrug> <http://drug.uk/lofepramine> .
+<http://drug.uk/interaction/betaxolol-lofepramine> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/9e536a0f-4764-4dc2-bf89-ade01dd453c0> .
+<http://drug.uk/interaction/betaxolol-lofepramine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-loxapine> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-loxapine> <http://drug.uk/model/interactingDrug> <http://drug.uk/loxapine> .
+<http://drug.uk/interaction/betaxolol-loxapine> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/07957598-276f-4bb8-a523-3b24bc8cfd26> .
+<http://drug.uk/interaction/betaxolol-loxapine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-mavacamten> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-mavacamten> <http://drug.uk/model/interactingDrug> <http://drug.uk/mavacamten> .
+<http://drug.uk/interaction/betaxolol-mavacamten> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/fe2a8068-85c1-4c64-9cf5-a460c6180b17> .
+<http://drug.uk/interaction/betaxolol-mavacamten> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-mefloquine> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-mefloquine> <http://drug.uk/model/interactingDrug> <http://drug.uk/mefloquine> .
+<http://drug.uk/interaction/betaxolol-mefloquine> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/2513a2b8-b21a-458d-8f37-03f302994d7e> .
+<http://drug.uk/interaction/betaxolol-mefloquine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-methoxyflurane> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-methoxyflurane> <http://drug.uk/model/interactingDrug> <http://drug.uk/methoxyflurane> .
+<http://drug.uk/interaction/betaxolol-methoxyflurane> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/1d826ab4-7c00-4bb4-9b8f-4c420256208d> .
+<http://drug.uk/interaction/betaxolol-methoxyflurane> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-methyldopa> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-methyldopa> <http://drug.uk/model/interactingDrug> <http://drug.uk/methyldopa> .
+<http://drug.uk/interaction/betaxolol-methyldopa> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/44595b30-1af8-4b78-88f2-cdabceb713f1> .
+<http://drug.uk/interaction/betaxolol-methyldopa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-metolazone> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-metolazone> <http://drug.uk/model/interactingDrug> <http://drug.uk/metolazone> .
+<http://drug.uk/interaction/betaxolol-metolazone> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/699fe9cf-ca12-44a8-b085-a5f063262e8e> .
+<http://drug.uk/interaction/betaxolol-metolazone> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-mexiletine> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-mexiletine> <http://drug.uk/model/interactingDrug> <http://drug.uk/mexiletine> .
+<http://drug.uk/interaction/betaxolol-mexiletine> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/0d79c8f1-e052-4162-b064-6944357e3b72> .
+<http://drug.uk/interaction/betaxolol-mexiletine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-minoxidil> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-minoxidil> <http://drug.uk/model/interactingDrug> <http://drug.uk/minoxidil> .
+<http://drug.uk/interaction/betaxolol-minoxidil> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/caf8021a-2457-4506-b737-e2a7aa2610d2> .
+<http://drug.uk/interaction/betaxolol-minoxidil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-moxonidine> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-moxonidine> <http://drug.uk/model/interactingDrug> <http://drug.uk/moxonidine> .
+<http://drug.uk/interaction/betaxolol-moxonidine> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/d8b768a9-2c05-4e8b-934f-a5f6f906ec97> .
+<http://drug.uk/interaction/betaxolol-moxonidine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-nadolol> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-nadolol> <http://drug.uk/model/interactingDrug> <http://drug.uk/nadolol> .
+<http://drug.uk/interaction/betaxolol-nadolol> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/48596e2f-a84c-40d2-9708-d7921c19c861> .
+<http://drug.uk/interaction/betaxolol-nadolol> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/e33c52d6-0d65-4fb5-a26c-a4a999193a48> .
+<http://drug.uk/interaction/betaxolol-nadolol> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-neostigmine> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-neostigmine> <http://drug.uk/model/interactingDrug> <http://drug.uk/neostigmine> .
+<http://drug.uk/interaction/betaxolol-neostigmine> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/20ee268c-fb6f-41f7-accb-2f5e663c06fa> .
+<http://drug.uk/interaction/betaxolol-neostigmine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-nicorandil> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-nicorandil> <http://drug.uk/model/interactingDrug> <http://drug.uk/nicorandil> .
+<http://drug.uk/interaction/betaxolol-nicorandil> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/8da52231-46d1-4cb8-94e9-f95994cca48a> .
+<http://drug.uk/interaction/betaxolol-nicorandil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-nifedipine> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-nifedipine> <http://drug.uk/model/interactingDrug> <http://drug.uk/nifedipine> .
+<http://drug.uk/interaction/betaxolol-nifedipine> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/49046a71-a01a-4280-98c8-967074cfed0a> .
+<http://drug.uk/interaction/betaxolol-nifedipine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-nimodipine> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-nimodipine> <http://drug.uk/model/interactingDrug> <http://drug.uk/nimodipine> .
+<http://drug.uk/interaction/betaxolol-nimodipine> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/5eaa2b98-c060-484a-a7c2-e58a5bf9e11b> .
+<http://drug.uk/interaction/betaxolol-nimodipine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-nitrous-oxide> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-nitrous-oxide> <http://drug.uk/model/interactingDrug> <http://drug.uk/nitrous-oxide> .
+<http://drug.uk/interaction/betaxolol-nitrous-oxide> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/8556e0f6-7239-41ac-8fd9-72016e734238> .
+<http://drug.uk/interaction/betaxolol-nitrous-oxide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-noradrenaline-norepinephrine> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-noradrenaline-norepinephrine> <http://drug.uk/model/interactingDrug> <http://drug.uk/noradrenaline-norepinephrine> .
+<http://drug.uk/interaction/betaxolol-noradrenaline-norepinephrine> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/3688df55-f656-4d02-964b-ee6c560c341b> .
+<http://drug.uk/interaction/betaxolol-noradrenaline-norepinephrine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-nortriptyline> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-nortriptyline> <http://drug.uk/model/interactingDrug> <http://drug.uk/nortriptyline> .
+<http://drug.uk/interaction/betaxolol-nortriptyline> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/ef05ec9a-752b-4133-83b2-69b3ebe336c6> .
+<http://drug.uk/interaction/betaxolol-nortriptyline> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-omega-3-acid-ethyl-esters> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-omega-3-acid-ethyl-esters> <http://drug.uk/model/interactingDrug> <http://drug.uk/omega-3-acid-ethyl-esters> .
+<http://drug.uk/interaction/betaxolol-omega-3-acid-ethyl-esters> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/efbe4ae4-1f04-4801-8123-5eca12d3c601> .
+<http://drug.uk/interaction/betaxolol-omega-3-acid-ethyl-esters> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-ozanimod> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-ozanimod> <http://drug.uk/model/interactingDrug> <http://drug.uk/ozanimod> .
+<http://drug.uk/interaction/betaxolol-ozanimod> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/3db2a244-c439-4bd5-aafa-6c1fdd6ad264> .
+<http://drug.uk/interaction/betaxolol-ozanimod> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-paliperidone> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-paliperidone> <http://drug.uk/model/interactingDrug> <http://drug.uk/paliperidone> .
+<http://drug.uk/interaction/betaxolol-paliperidone> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/e322157e-48b3-4e84-94ab-b70264d071b3> .
+<http://drug.uk/interaction/betaxolol-paliperidone> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-pasireotide> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-pasireotide> <http://drug.uk/model/interactingDrug> <http://drug.uk/pasireotide> .
+<http://drug.uk/interaction/betaxolol-pasireotide> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/ea10cc4b-aff0-4c78-bcf7-ce3c9b0c50cf> .
+<http://drug.uk/interaction/betaxolol-pasireotide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-pericyazine> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-pericyazine> <http://drug.uk/model/interactingDrug> <http://drug.uk/pericyazine> .
+<http://drug.uk/interaction/betaxolol-pericyazine> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/22592d5d-13c8-41eb-87c3-da3e022f9fba> .
+<http://drug.uk/interaction/betaxolol-pericyazine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-phenelzine> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-phenelzine> <http://drug.uk/model/interactingDrug> <http://drug.uk/phenelzine> .
+<http://drug.uk/interaction/betaxolol-phenelzine> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/87a2fcbd-e08a-4504-8447-f558e27bf478> .
+<http://drug.uk/interaction/betaxolol-phenelzine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-pimozide> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-pimozide> <http://drug.uk/model/interactingDrug> <http://drug.uk/pimozide> .
+<http://drug.uk/interaction/betaxolol-pimozide> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/ef4005aa-303a-4dee-9a82-b8e7bf1c9851> .
+<http://drug.uk/interaction/betaxolol-pimozide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-pindolol> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-pindolol> <http://drug.uk/model/interactingDrug> <http://drug.uk/pindolol> .
+<http://drug.uk/interaction/betaxolol-pindolol> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/28622254-e550-4b78-8807-549aaf70e82c> .
+<http://drug.uk/interaction/betaxolol-pindolol> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/6ee5ee55-000d-4724-8c4f-d59b02e3bb5d> .
+<http://drug.uk/interaction/betaxolol-pindolol> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-ponesimod> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-ponesimod> <http://drug.uk/model/interactingDrug> <http://drug.uk/ponesimod> .
+<http://drug.uk/interaction/betaxolol-ponesimod> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/10c4d3de-7936-4d9f-b95c-66d9abae5361> .
+<http://drug.uk/interaction/betaxolol-ponesimod> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-pramipexole> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-pramipexole> <http://drug.uk/model/interactingDrug> <http://drug.uk/pramipexole> .
+<http://drug.uk/interaction/betaxolol-pramipexole> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/b19762b7-7b56-472f-a582-c674937d9126> .
+<http://drug.uk/interaction/betaxolol-pramipexole> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-prazosin> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-prazosin> <http://drug.uk/model/interactingDrug> <http://drug.uk/prazosin> .
+<http://drug.uk/interaction/betaxolol-prazosin> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/722abc08-a008-4fa9-9225-04a9b1eb43b1> .
+<http://drug.uk/interaction/betaxolol-prazosin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-prochlorperazine> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-prochlorperazine> <http://drug.uk/model/interactingDrug> <http://drug.uk/prochlorperazine> .
+<http://drug.uk/interaction/betaxolol-prochlorperazine> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/362c9676-709c-4618-91f3-310e048da811> .
+<http://drug.uk/interaction/betaxolol-prochlorperazine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-propofol> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-propofol> <http://drug.uk/model/interactingDrug> <http://drug.uk/propofol> .
+<http://drug.uk/interaction/betaxolol-propofol> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/4842a670-ff43-4b87-8bb2-e9823785cc8a> .
+<http://drug.uk/interaction/betaxolol-propofol> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/4cca8e08-dc14-4b86-beaf-c8f3cd5618bc> .
+<http://drug.uk/interaction/betaxolol-propofol> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-quetiapine> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-quetiapine> <http://drug.uk/model/interactingDrug> <http://drug.uk/quetiapine> .
+<http://drug.uk/interaction/betaxolol-quetiapine> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/6eced84a-aee0-41f7-a48c-4ab036c10640> .
+<http://drug.uk/interaction/betaxolol-quetiapine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-quinagolide> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-quinagolide> <http://drug.uk/model/interactingDrug> <http://drug.uk/quinagolide> .
+<http://drug.uk/interaction/betaxolol-quinagolide> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/e04a7cea-b3a6-40e8-b772-ebba18cbbc3c> .
+<http://drug.uk/interaction/betaxolol-quinagolide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-quinapril> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-quinapril> <http://drug.uk/model/interactingDrug> <http://drug.uk/quinapril> .
+<http://drug.uk/interaction/betaxolol-quinapril> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/335bccc9-0dd0-47e9-93fd-0d6973dce8ff> .
+<http://drug.uk/interaction/betaxolol-quinapril> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-ramipril> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-ramipril> <http://drug.uk/model/interactingDrug> <http://drug.uk/ramipril> .
+<http://drug.uk/interaction/betaxolol-ramipril> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/84dc8574-d16a-4a6b-a3ce-efd88ccd0065> .
+<http://drug.uk/interaction/betaxolol-ramipril> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-remifentanil> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-remifentanil> <http://drug.uk/model/interactingDrug> <http://drug.uk/remifentanil> .
+<http://drug.uk/interaction/betaxolol-remifentanil> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/b6e01e2f-ac33-4782-aa4f-0464999e1607> .
+<http://drug.uk/interaction/betaxolol-remifentanil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-riociguat> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-riociguat> <http://drug.uk/model/interactingDrug> <http://drug.uk/riociguat> .
+<http://drug.uk/interaction/betaxolol-riociguat> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/945081b0-0a85-4a4b-a751-ce28a0a68bc5> .
+<http://drug.uk/interaction/betaxolol-riociguat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-risperidone> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-risperidone> <http://drug.uk/model/interactingDrug> <http://drug.uk/risperidone> .
+<http://drug.uk/interaction/betaxolol-risperidone> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/5300e691-34b7-4d17-b7a7-dae7047ecb86> .
+<http://drug.uk/interaction/betaxolol-risperidone> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-rivastigmine> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-rivastigmine> <http://drug.uk/model/interactingDrug> <http://drug.uk/rivastigmine> .
+<http://drug.uk/interaction/betaxolol-rivastigmine> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/22c53d99-d5e6-42a9-afbe-16674dd833c2> .
+<http://drug.uk/interaction/betaxolol-rivastigmine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-ropinirole> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-ropinirole> <http://drug.uk/model/interactingDrug> <http://drug.uk/ropinirole> .
+<http://drug.uk/interaction/betaxolol-ropinirole> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/eb4a29b5-f7fb-4480-89dc-b4571d470aa1> .
+<http://drug.uk/interaction/betaxolol-ropinirole> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-rotigotine> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-rotigotine> <http://drug.uk/model/interactingDrug> <http://drug.uk/rotigotine> .
+<http://drug.uk/interaction/betaxolol-rotigotine> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/b4339e2a-2a22-4d7f-a28d-9368e9e054be> .
+<http://drug.uk/interaction/betaxolol-rotigotine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-sevoflurane> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-sevoflurane> <http://drug.uk/model/interactingDrug> <http://drug.uk/sevoflurane> .
+<http://drug.uk/interaction/betaxolol-sevoflurane> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/fcc51899-3622-467d-be67-6601ef798712> .
+<http://drug.uk/interaction/betaxolol-sevoflurane> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-sildenafil> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-sildenafil> <http://drug.uk/model/interactingDrug> <http://drug.uk/sildenafil> .
+<http://drug.uk/interaction/betaxolol-sildenafil> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/e95529b4-f8d3-4b25-bbd0-a4d963926f79> .
+<http://drug.uk/interaction/betaxolol-sildenafil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-siponimod> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-siponimod> <http://drug.uk/model/interactingDrug> <http://drug.uk/siponimod> .
+<http://drug.uk/interaction/betaxolol-siponimod> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/12e39d41-5987-4a75-82a9-bc5b37d97bfd> .
+<http://drug.uk/interaction/betaxolol-siponimod> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-sodium-oxybate> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-sodium-oxybate> <http://drug.uk/model/interactingDrug> <http://drug.uk/sodium-oxybate> .
+<http://drug.uk/interaction/betaxolol-sodium-oxybate> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/fc7e85fa-db6f-476d-bc70-e81e2d3a2e0b> .
+<http://drug.uk/interaction/betaxolol-sodium-oxybate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-spironolactone> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-spironolactone> <http://drug.uk/model/interactingDrug> <http://drug.uk/spironolactone> .
+<http://drug.uk/interaction/betaxolol-spironolactone> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/1123bf91-c738-4cc4-bc2e-183d99290689> .
+<http://drug.uk/interaction/betaxolol-spironolactone> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-sufentanil> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-sufentanil> <http://drug.uk/model/interactingDrug> <http://drug.uk/sufentanil> .
+<http://drug.uk/interaction/betaxolol-sufentanil> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/39db8955-182a-495f-863c-f08a44c84427> .
+<http://drug.uk/interaction/betaxolol-sufentanil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-sulpiride> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-sulpiride> <http://drug.uk/model/interactingDrug> <http://drug.uk/sulpiride> .
+<http://drug.uk/interaction/betaxolol-sulpiride> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/1d668730-0bbe-4bd7-85ee-f0f06202f52c> .
+<http://drug.uk/interaction/betaxolol-sulpiride> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-tadalafil> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-tadalafil> <http://drug.uk/model/interactingDrug> <http://drug.uk/tadalafil> .
+<http://drug.uk/interaction/betaxolol-tadalafil> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/299ea7df-d59e-4630-9a5b-5c928f443385> .
+<http://drug.uk/interaction/betaxolol-tadalafil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-telmisartan> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-telmisartan> <http://drug.uk/model/interactingDrug> <http://drug.uk/telmisartan> .
+<http://drug.uk/interaction/betaxolol-telmisartan> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/09cdc41c-624d-48a4-b4ce-003cc5e44c28> .
+<http://drug.uk/interaction/betaxolol-telmisartan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-terazosin> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-terazosin> <http://drug.uk/model/interactingDrug> <http://drug.uk/terazosin> .
+<http://drug.uk/interaction/betaxolol-terazosin> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/ad14f34c-6d41-4e3e-9f66-794823009d79> .
+<http://drug.uk/interaction/betaxolol-terazosin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-thalidomide-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-thalidomide-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/thalidomide-specialist-drug> .
+<http://drug.uk/interaction/betaxolol-thalidomide-specialist-drug> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/4ecdbad5-1dab-4ce8-afcd-baa17218b1ea> .
+<http://drug.uk/interaction/betaxolol-thalidomide-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-theophylline> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-theophylline> <http://drug.uk/model/interactingDrug> <http://drug.uk/theophylline> .
+<http://drug.uk/interaction/betaxolol-theophylline> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/890c0441-51cb-4d6a-8388-56002c3ce434> .
+<http://drug.uk/interaction/betaxolol-theophylline> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-ticagrelor> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-ticagrelor> <http://drug.uk/model/interactingDrug> <http://drug.uk/ticagrelor> .
+<http://drug.uk/interaction/betaxolol-ticagrelor> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/42c0c422-f9da-4c4f-b831-1af876cdd3f7> .
+<http://drug.uk/interaction/betaxolol-ticagrelor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-tizanidine> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-tizanidine> <http://drug.uk/model/interactingDrug> <http://drug.uk/tizanidine> .
+<http://drug.uk/interaction/betaxolol-tizanidine> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/3015c3ab-9873-47a9-ba11-970fc99e1cfa> .
+<http://drug.uk/interaction/betaxolol-tizanidine> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/9f28256a-acf1-4d2e-b93c-ffc80d384e04> .
+<http://drug.uk/interaction/betaxolol-tizanidine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-torasemide> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-torasemide> <http://drug.uk/model/interactingDrug> <http://drug.uk/torasemide> .
+<http://drug.uk/interaction/betaxolol-torasemide> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/13ec8a62-280f-4768-935d-17bf9355955d> .
+<http://drug.uk/interaction/betaxolol-torasemide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-trandolapril> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-trandolapril> <http://drug.uk/model/interactingDrug> <http://drug.uk/trandolapril> .
+<http://drug.uk/interaction/betaxolol-trandolapril> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/81d8d91b-01d7-446c-8c13-0d3b8fbfdbb4> .
+<http://drug.uk/interaction/betaxolol-trandolapril> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-tranylcypromine> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-tranylcypromine> <http://drug.uk/model/interactingDrug> <http://drug.uk/tranylcypromine> .
+<http://drug.uk/interaction/betaxolol-tranylcypromine> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/82e3092a-b40f-4476-855e-4c6615d9c6ba> .
+<http://drug.uk/interaction/betaxolol-tranylcypromine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-treprostinil> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-treprostinil> <http://drug.uk/model/interactingDrug> <http://drug.uk/treprostinil> .
+<http://drug.uk/interaction/betaxolol-treprostinil> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/b8672cb6-94f3-4def-b51f-286f726b9407> .
+<http://drug.uk/interaction/betaxolol-treprostinil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-trifluoperazine> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-trifluoperazine> <http://drug.uk/model/interactingDrug> <http://drug.uk/trifluoperazine> .
+<http://drug.uk/interaction/betaxolol-trifluoperazine> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/f4a9d4b9-fdb6-43c3-8c28-3fd5eb4a495f> .
+<http://drug.uk/interaction/betaxolol-trifluoperazine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-trimipramine> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-trimipramine> <http://drug.uk/model/interactingDrug> <http://drug.uk/trimipramine> .
+<http://drug.uk/interaction/betaxolol-trimipramine> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/ac17dd9d-0698-4a2e-b014-e12a76a1e0db> .
+<http://drug.uk/interaction/betaxolol-trimipramine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-valsartan> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-valsartan> <http://drug.uk/model/interactingDrug> <http://drug.uk/valsartan> .
+<http://drug.uk/interaction/betaxolol-valsartan> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/de8d7074-60f9-4fb1-b96f-f71ee1700a21> .
+<http://drug.uk/interaction/betaxolol-valsartan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-vardenafil> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-vardenafil> <http://drug.uk/model/interactingDrug> <http://drug.uk/vardenafil> .
+<http://drug.uk/interaction/betaxolol-vardenafil> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/ab214fc6-d5a2-4439-b453-0e8ec2c4cd2d> .
+<http://drug.uk/interaction/betaxolol-vardenafil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-vericiguat> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-vericiguat> <http://drug.uk/model/interactingDrug> <http://drug.uk/vericiguat> .
+<http://drug.uk/interaction/betaxolol-vericiguat> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/a5cfdf44-671e-4e51-8627-071b58931f9c> .
+<http://drug.uk/interaction/betaxolol-vericiguat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-vernakalant> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-vernakalant> <http://drug.uk/model/interactingDrug> <http://drug.uk/vernakalant> .
+<http://drug.uk/interaction/betaxolol-vernakalant> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/e4b4978b-0772-4811-a5fb-2784308fa235> .
+<http://drug.uk/interaction/betaxolol-vernakalant> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/betaxolol-xipamide> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-xipamide> <http://drug.uk/model/interactingDrug> <http://drug.uk/xipamide> .
+<http://drug.uk/interaction/betaxolol-xipamide> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/11665a02-b29b-44b7-896b-a85ffcc121aa> .
+<http://drug.uk/interaction/betaxolol-xipamide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/detail/0229346b-22fe-49a0-b09d-f475303114a2> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/0229346b-22fe-49a0-b09d-f475303114a2> <http://purl.org/dc/terms/description> "Both Betaxolol and Fingolimod can increase the risk of bradycardia." .
+<http://drug.uk/interaction/detail/0229346b-22fe-49a0-b09d-f475303114a2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/07957598-276f-4bb8-a523-3b24bc8cfd26> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/07957598-276f-4bb8-a523-3b24bc8cfd26> <http://purl.org/dc/terms/description> "Both Betaxolol and Loxapine can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/07957598-276f-4bb8-a523-3b24bc8cfd26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/0859cfbc-4449-4812-9436-c30adbb4265b> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/0859cfbc-4449-4812-9436-c30adbb4265b> <http://purl.org/dc/terms/description> "Both Betaxolol and Captopril can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/0859cfbc-4449-4812-9436-c30adbb4265b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/08d9c3c3-ff53-4c7d-8a58-46fd4e5370c3> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/08d9c3c3-ff53-4c7d-8a58-46fd4e5370c3> <http://purl.org/dc/terms/description> "Both Betaxolol and Irbesartan can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/08d9c3c3-ff53-4c7d-8a58-46fd4e5370c3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/091e9a21-ee88-4e2c-bb8a-8c51d33ea5fc> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/091e9a21-ee88-4e2c-bb8a-8c51d33ea5fc> <http://purl.org/dc/terms/description> "Both Betaxolol and Epoprostenol can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/091e9a21-ee88-4e2c-bb8a-8c51d33ea5fc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/09bfd092-442e-4605-b5dd-18dc744b4496> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/09bfd092-442e-4605-b5dd-18dc744b4496> <http://purl.org/dc/terms/description> "Both Betaxolol and Aripiprazole can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/09bfd092-442e-4605-b5dd-18dc744b4496> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/09cdc41c-624d-48a4-b4ce-003cc5e44c28> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/09cdc41c-624d-48a4-b4ce-003cc5e44c28> <http://purl.org/dc/terms/description> "Both Betaxolol and Telmisartan can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/09cdc41c-624d-48a4-b4ce-003cc5e44c28> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/0aa784c9-2db4-475a-9305-708cbaae93e9> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/0aa784c9-2db4-475a-9305-708cbaae93e9> <http://purl.org/dc/terms/description> "Both Betaxolol and Ertugliflozin can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/0aa784c9-2db4-475a-9305-708cbaae93e9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/0d79c8f1-e052-4162-b064-6944357e3b72> <http://drug.uk/model/evidence> "Theoretical" .
+<http://drug.uk/interaction/detail/0d79c8f1-e052-4162-b064-6944357e3b72> <http://drug.uk/model/severity> "Severe" .
+<http://drug.uk/interaction/detail/0d79c8f1-e052-4162-b064-6944357e3b72> <http://purl.org/dc/terms/description> "Mexiletine potentially increases the risk of cardiovascular adverse effects when given with Betaxolol. Manufacturer advises avoid or monitor.  " .
+<http://drug.uk/interaction/detail/0d79c8f1-e052-4162-b064-6944357e3b72> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/0e9521fc-07b8-4a69-b402-a35a537ce0a2> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/0e9521fc-07b8-4a69-b402-a35a537ce0a2> <http://purl.org/dc/terms/description> "Both Betaxolol and Dronedarone can increase the risk of bradycardia." .
+<http://drug.uk/interaction/detail/0e9521fc-07b8-4a69-b402-a35a537ce0a2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/10c4d3de-7936-4d9f-b95c-66d9abae5361> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/10c4d3de-7936-4d9f-b95c-66d9abae5361> <http://purl.org/dc/terms/description> "Both Betaxolol and Ponesimod can increase the risk of bradycardia." .
+<http://drug.uk/interaction/detail/10c4d3de-7936-4d9f-b95c-66d9abae5361> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/1123bf91-c738-4cc4-bc2e-183d99290689> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/1123bf91-c738-4cc4-bc2e-183d99290689> <http://purl.org/dc/terms/description> "Both Betaxolol and Spironolactone can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/1123bf91-c738-4cc4-bc2e-183d99290689> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/11665a02-b29b-44b7-896b-a85ffcc121aa> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/11665a02-b29b-44b7-896b-a85ffcc121aa> <http://purl.org/dc/terms/description> "Both Betaxolol and Xipamide can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/11665a02-b29b-44b7-896b-a85ffcc121aa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/12e39d41-5987-4a75-82a9-bc5b37d97bfd> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/12e39d41-5987-4a75-82a9-bc5b37d97bfd> <http://purl.org/dc/terms/description> "Both Betaxolol and Siponimod can increase the risk of bradycardia." .
+<http://drug.uk/interaction/detail/12e39d41-5987-4a75-82a9-bc5b37d97bfd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/138ca097-0afe-4859-85dd-c6893e3e7395> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/138ca097-0afe-4859-85dd-c6893e3e7395> <http://purl.org/dc/terms/description> "Both Betaxolol and Indoramin can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/138ca097-0afe-4859-85dd-c6893e3e7395> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/13ec8a62-280f-4768-935d-17bf9355955d> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/13ec8a62-280f-4768-935d-17bf9355955d> <http://purl.org/dc/terms/description> "Both Betaxolol and Torasemide can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/13ec8a62-280f-4768-935d-17bf9355955d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/1d2245b6-8507-4278-8987-1396baa4dac5> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/1d2245b6-8507-4278-8987-1396baa4dac5> <http://purl.org/dc/terms/description> "Both Betaxolol and Empagliflozin can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/1d2245b6-8507-4278-8987-1396baa4dac5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/1d2de348-6c0e-43a7-96fe-8212849ccb7f> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/1d2de348-6c0e-43a7-96fe-8212849ccb7f> <http://drug.uk/model/severity> "Severe" .
+<http://drug.uk/interaction/detail/1d2de348-6c0e-43a7-96fe-8212849ccb7f> <http://purl.org/dc/terms/description> "Dronedarone is predicted to increase the risk of cardiovascular adverse effects when given with Betaxolol. Manufacturer advises use with caution or avoid.  " .
+<http://drug.uk/interaction/detail/1d2de348-6c0e-43a7-96fe-8212849ccb7f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/1d668730-0bbe-4bd7-85ee-f0f06202f52c> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/1d668730-0bbe-4bd7-85ee-f0f06202f52c> <http://purl.org/dc/terms/description> "Both Betaxolol and Sulpiride can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/1d668730-0bbe-4bd7-85ee-f0f06202f52c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/1d826ab4-7c00-4bb4-9b8f-4c420256208d> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/1d826ab4-7c00-4bb4-9b8f-4c420256208d> <http://purl.org/dc/terms/description> "Both Betaxolol and Methoxyflurane can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/1d826ab4-7c00-4bb4-9b8f-4c420256208d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/2026fb93-7f94-4dad-8d63-c9da58b43e92> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/2026fb93-7f94-4dad-8d63-c9da58b43e92> <http://purl.org/dc/terms/description> "Both Betaxolol and Bortezomib can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/2026fb93-7f94-4dad-8d63-c9da58b43e92> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/20ee268c-fb6f-41f7-accb-2f5e663c06fa> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/20ee268c-fb6f-41f7-accb-2f5e663c06fa> <http://purl.org/dc/terms/description> "Both Betaxolol and Neostigmine can increase the risk of bradycardia." .
+<http://drug.uk/interaction/detail/20ee268c-fb6f-41f7-accb-2f5e663c06fa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/22592d5d-13c8-41eb-87c3-da3e022f9fba> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/22592d5d-13c8-41eb-87c3-da3e022f9fba> <http://purl.org/dc/terms/description> "Both Betaxolol and Pericyazine can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/22592d5d-13c8-41eb-87c3-da3e022f9fba> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/22c53d99-d5e6-42a9-afbe-16674dd833c2> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/22c53d99-d5e6-42a9-afbe-16674dd833c2> <http://purl.org/dc/terms/description> "Both Betaxolol and Rivastigmine can increase the risk of bradycardia." .
+<http://drug.uk/interaction/detail/22c53d99-d5e6-42a9-afbe-16674dd833c2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/24a44518-c43e-4151-b192-9ea1daf7c3c4> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/24a44518-c43e-4151-b192-9ea1daf7c3c4> <http://purl.org/dc/terms/description> "Both Betaxolol and Alectinib can increase the risk of bradycardia." .
+<http://drug.uk/interaction/detail/24a44518-c43e-4151-b192-9ea1daf7c3c4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/2513a2b8-b21a-458d-8f37-03f302994d7e> <http://drug.uk/model/evidence> "Theoretical" .
+<http://drug.uk/interaction/detail/2513a2b8-b21a-458d-8f37-03f302994d7e> <http://drug.uk/model/severity> "Severe" .
+<http://drug.uk/interaction/detail/2513a2b8-b21a-458d-8f37-03f302994d7e> <http://purl.org/dc/terms/description> "Mefloquine is predicted to increase the risk of bradycardia when given with Betaxolol. Manufacturer makes no recommendation.  " .
+<http://drug.uk/interaction/detail/2513a2b8-b21a-458d-8f37-03f302994d7e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/2839a49b-fe77-4e95-847a-bfc8be10d100> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/2839a49b-fe77-4e95-847a-bfc8be10d100> <http://purl.org/dc/terms/description> "Both Betaxolol and Carvedilol can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/2839a49b-fe77-4e95-847a-bfc8be10d100> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/28622254-e550-4b78-8807-549aaf70e82c> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/28622254-e550-4b78-8807-549aaf70e82c> <http://purl.org/dc/terms/description> "Both Betaxolol and Pindolol can increase the risk of bradycardia." .
+<http://drug.uk/interaction/detail/28622254-e550-4b78-8807-549aaf70e82c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/299ea7df-d59e-4630-9a5b-5c928f443385> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/299ea7df-d59e-4630-9a5b-5c928f443385> <http://purl.org/dc/terms/description> "Both Betaxolol and Tadalafil can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/299ea7df-d59e-4630-9a5b-5c928f443385> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/2c874d53-87f3-4793-8d28-976dc7e7befb> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/2c874d53-87f3-4793-8d28-976dc7e7befb> <http://purl.org/dc/terms/description> "Both Betaxolol and Alprostadil can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/2c874d53-87f3-4793-8d28-976dc7e7befb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/2fdb9a90-6cf8-4ad7-a266-030ad1215ff6> <http://drug.uk/model/evidence> "Theoretical" .
+<http://drug.uk/interaction/detail/2fdb9a90-6cf8-4ad7-a266-030ad1215ff6> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/2fdb9a90-6cf8-4ad7-a266-030ad1215ff6> <http://purl.org/dc/terms/description> "Betaxolol increases the risk of hypertension and bradycardia when given with Dobutamine. Manufacturer advises caution.  " .
+<http://drug.uk/interaction/detail/2fdb9a90-6cf8-4ad7-a266-030ad1215ff6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/3015c3ab-9873-47a9-ba11-970fc99e1cfa> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/3015c3ab-9873-47a9-ba11-970fc99e1cfa> <http://purl.org/dc/terms/description> "Both Betaxolol and Tizanidine can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/3015c3ab-9873-47a9-ba11-970fc99e1cfa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/310ab5de-f757-4693-8c2c-be34e16aeec3> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/310ab5de-f757-4693-8c2c-be34e16aeec3> <http://drug.uk/model/severity> "Severe" .
+<http://drug.uk/interaction/detail/310ab5de-f757-4693-8c2c-be34e16aeec3> <http://purl.org/dc/terms/description> "Betaxolol is predicted to increase the risk of hypertension and bradycardia when given with Adrenaline/epinephrine. Manufacturer advises caution.  " .
+<http://drug.uk/interaction/detail/310ab5de-f757-4693-8c2c-be34e16aeec3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/335bccc9-0dd0-47e9-93fd-0d6973dce8ff> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/335bccc9-0dd0-47e9-93fd-0d6973dce8ff> <http://purl.org/dc/terms/description> "Both Betaxolol and Quinapril can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/335bccc9-0dd0-47e9-93fd-0d6973dce8ff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/33e944db-f0cf-4111-afc4-03f2f3570d6a> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/33e944db-f0cf-4111-afc4-03f2f3570d6a> <http://purl.org/dc/terms/description> "Both Betaxolol and Finerenone can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/33e944db-f0cf-4111-afc4-03f2f3570d6a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/341e2900-3b45-4b22-92a1-d750e647c09c> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/341e2900-3b45-4b22-92a1-d750e647c09c> <http://purl.org/dc/terms/description> "Both Betaxolol and Apraclonidine can increase the risk of bradycardia." .
+<http://drug.uk/interaction/detail/341e2900-3b45-4b22-92a1-d750e647c09c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/3423d6dc-e5f8-4e4f-9aeb-b160e1aee4ed> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/3423d6dc-e5f8-4e4f-9aeb-b160e1aee4ed> <http://purl.org/dc/terms/description> "Both Betaxolol and Cabergoline can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/3423d6dc-e5f8-4e4f-9aeb-b160e1aee4ed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/362c9676-709c-4618-91f3-310e048da811> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/362c9676-709c-4618-91f3-310e048da811> <http://purl.org/dc/terms/description> "Both Betaxolol and Prochlorperazine can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/362c9676-709c-4618-91f3-310e048da811> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/3688df55-f656-4d02-964b-ee6c560c341b> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/3688df55-f656-4d02-964b-ee6c560c341b> <http://drug.uk/model/severity> "Severe" .
+<http://drug.uk/interaction/detail/3688df55-f656-4d02-964b-ee6c560c341b> <http://purl.org/dc/terms/description> "Betaxolol is predicted to increase the risk of hypertension and bradycardia when given with Noradrenaline/norepinephrine. Manufacturer advises caution.  " .
+<http://drug.uk/interaction/detail/3688df55-f656-4d02-964b-ee6c560c341b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/380d3ff1-d974-4bca-b512-0c884d672b6a> <http://drug.uk/model/evidence> "Theoretical" .
+<http://drug.uk/interaction/detail/380d3ff1-d974-4bca-b512-0c884d672b6a> <http://drug.uk/model/severity> "Severe" .
+<http://drug.uk/interaction/detail/380d3ff1-d974-4bca-b512-0c884d672b6a> <http://purl.org/dc/terms/description> "Betaxolol is predicted to increase the risk of bronchospasm when given with Aminophylline. Manufacturer advises avoid.  " .
+<http://drug.uk/interaction/detail/380d3ff1-d974-4bca-b512-0c884d672b6a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/39db8955-182a-495f-863c-f08a44c84427> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/39db8955-182a-495f-863c-f08a44c84427> <http://purl.org/dc/terms/description> "Both Betaxolol and Sufentanil can increase the risk of bradycardia." .
+<http://drug.uk/interaction/detail/39db8955-182a-495f-863c-f08a44c84427> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/3db2a244-c439-4bd5-aafa-6c1fdd6ad264> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/3db2a244-c439-4bd5-aafa-6c1fdd6ad264> <http://purl.org/dc/terms/description> "Both Betaxolol and Ozanimod can increase the risk of bradycardia." .
+<http://drug.uk/interaction/detail/3db2a244-c439-4bd5-aafa-6c1fdd6ad264> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/3ed16c20-96c8-4ea4-a55a-e23c93f8e3bd> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/3ed16c20-96c8-4ea4-a55a-e23c93f8e3bd> <http://purl.org/dc/terms/description> "Both Betaxolol and Etrasimod can increase the risk of bradycardia." .
+<http://drug.uk/interaction/detail/3ed16c20-96c8-4ea4-a55a-e23c93f8e3bd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/421d44cf-2ede-4565-b2d3-6f772e4a850e> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/421d44cf-2ede-4565-b2d3-6f772e4a850e> <http://purl.org/dc/terms/description> "Both Betaxolol and Hydrochlorothiazide can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/421d44cf-2ede-4565-b2d3-6f772e4a850e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/42c0c422-f9da-4c4f-b831-1af876cdd3f7> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/42c0c422-f9da-4c4f-b831-1af876cdd3f7> <http://purl.org/dc/terms/description> "Both Betaxolol and Ticagrelor can increase the risk of bradycardia." .
+<http://drug.uk/interaction/detail/42c0c422-f9da-4c4f-b831-1af876cdd3f7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/44595b30-1af8-4b78-88f2-cdabceb713f1> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/44595b30-1af8-4b78-88f2-cdabceb713f1> <http://purl.org/dc/terms/description> "Both Betaxolol and Methyldopa can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/44595b30-1af8-4b78-88f2-cdabceb713f1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/4842a670-ff43-4b87-8bb2-e9823785cc8a> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/4842a670-ff43-4b87-8bb2-e9823785cc8a> <http://purl.org/dc/terms/description> "Both Betaxolol and Propofol can increase the risk of bradycardia." .
+<http://drug.uk/interaction/detail/4842a670-ff43-4b87-8bb2-e9823785cc8a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/48596e2f-a84c-40d2-9708-d7921c19c861> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/48596e2f-a84c-40d2-9708-d7921c19c861> <http://purl.org/dc/terms/description> "Both Betaxolol and Nadolol can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/48596e2f-a84c-40d2-9708-d7921c19c861> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/49046a71-a01a-4280-98c8-967074cfed0a> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/49046a71-a01a-4280-98c8-967074cfed0a> <http://purl.org/dc/terms/description> "Both Betaxolol and Nifedipine can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/49046a71-a01a-4280-98c8-967074cfed0a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/4cca8e08-dc14-4b86-beaf-c8f3cd5618bc> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/4cca8e08-dc14-4b86-beaf-c8f3cd5618bc> <http://purl.org/dc/terms/description> "Both Betaxolol and Propofol can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/4cca8e08-dc14-4b86-beaf-c8f3cd5618bc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/4ecdbad5-1dab-4ce8-afcd-baa17218b1ea> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/4ecdbad5-1dab-4ce8-afcd-baa17218b1ea> <http://purl.org/dc/terms/description> "Both Betaxolol and Thalidomide can increase the risk of bradycardia." .
+<http://drug.uk/interaction/detail/4ecdbad5-1dab-4ce8-afcd-baa17218b1ea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/4f27a944-d7ac-45b7-9a62-30c1979e2801> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/4f27a944-d7ac-45b7-9a62-30c1979e2801> <http://purl.org/dc/terms/description> "Both Betaxolol and Doxazosin can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/4f27a944-d7ac-45b7-9a62-30c1979e2801> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/520410f1-e1b5-436d-af96-ec6987479b20> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/520410f1-e1b5-436d-af96-ec6987479b20> <http://purl.org/dc/terms/description> "Both Betaxolol and Bromocriptine can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/520410f1-e1b5-436d-af96-ec6987479b20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/525f494a-f61e-4dd4-b87c-c869be3b5751> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/525f494a-f61e-4dd4-b87c-c869be3b5751> <http://purl.org/dc/terms/description> "Both Betaxolol and Levomepromazine can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/525f494a-f61e-4dd4-b87c-c869be3b5751> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/5300e691-34b7-4d17-b7a7-dae7047ecb86> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/5300e691-34b7-4d17-b7a7-dae7047ecb86> <http://purl.org/dc/terms/description> "Both Betaxolol and Risperidone can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/5300e691-34b7-4d17-b7a7-dae7047ecb86> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/5326bc27-4722-4a93-b78d-51debcfc14b8> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/5326bc27-4722-4a93-b78d-51debcfc14b8> <http://purl.org/dc/terms/description> "Both Betaxolol and Dapagliflozin can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/5326bc27-4722-4a93-b78d-51debcfc14b8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/57457d8d-9723-450e-b58c-3532f0d87641> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/57457d8d-9723-450e-b58c-3532f0d87641> <http://purl.org/dc/terms/description> "Both Betaxolol and Canagliflozin can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/57457d8d-9723-450e-b58c-3532f0d87641> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/578fdea6-f265-4709-b170-5e31ece136b6> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/578fdea6-f265-4709-b170-5e31ece136b6> <http://purl.org/dc/terms/description> "Both Betaxolol and Dipyridamole can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/578fdea6-f265-4709-b170-5e31ece136b6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/5abfb27e-506b-4bb7-90f7-8de25161ec11> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/5abfb27e-506b-4bb7-90f7-8de25161ec11> <http://purl.org/dc/terms/description> "Both Betaxolol and Eprosartan can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/5abfb27e-506b-4bb7-90f7-8de25161ec11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/5eaa2b98-c060-484a-a7c2-e58a5bf9e11b> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/5eaa2b98-c060-484a-a7c2-e58a5bf9e11b> <http://purl.org/dc/terms/description> "Both Betaxolol and Nimodipine can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/5eaa2b98-c060-484a-a7c2-e58a5bf9e11b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/66bdeda2-62bd-4078-bcb0-56e329583a54> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/66bdeda2-62bd-4078-bcb0-56e329583a54> <http://purl.org/dc/terms/description> "Both Betaxolol and Eplerenone can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/66bdeda2-62bd-4078-bcb0-56e329583a54> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/68e239a8-6b95-4372-9792-a8eb3beb4ac6> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/68e239a8-6b95-4372-9792-a8eb3beb4ac6> <http://purl.org/dc/terms/description> "Both Betaxolol and Isocarboxazid can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/68e239a8-6b95-4372-9792-a8eb3beb4ac6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/699fe9cf-ca12-44a8-b085-a5f063262e8e> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/699fe9cf-ca12-44a8-b085-a5f063262e8e> <http://purl.org/dc/terms/description> "Both Betaxolol and Metolazone can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/699fe9cf-ca12-44a8-b085-a5f063262e8e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/6bbb161d-2bb4-4dce-beb8-fb2b0c6273f7> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/6bbb161d-2bb4-4dce-beb8-fb2b0c6273f7> <http://purl.org/dc/terms/description> "Both Betaxolol and Glyceryl trinitrate can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/6bbb161d-2bb4-4dce-beb8-fb2b0c6273f7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/6e56c14f-699e-41be-9379-79a052f574b3> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/6e56c14f-699e-41be-9379-79a052f574b3> <http://purl.org/dc/terms/description> "Both Betaxolol and Crizotinib can increase the risk of bradycardia." .
+<http://drug.uk/interaction/detail/6e56c14f-699e-41be-9379-79a052f574b3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/6eced84a-aee0-41f7-a48c-4ab036c10640> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/6eced84a-aee0-41f7-a48c-4ab036c10640> <http://purl.org/dc/terms/description> "Both Betaxolol and Quetiapine can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/6eced84a-aee0-41f7-a48c-4ab036c10640> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/6ee5ee55-000d-4724-8c4f-d59b02e3bb5d> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/6ee5ee55-000d-4724-8c4f-d59b02e3bb5d> <http://purl.org/dc/terms/description> "Both Betaxolol and Pindolol can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/6ee5ee55-000d-4724-8c4f-d59b02e3bb5d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/722abc08-a008-4fa9-9225-04a9b1eb43b1> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/722abc08-a008-4fa9-9225-04a9b1eb43b1> <http://purl.org/dc/terms/description> "Both Betaxolol and Prazosin can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/722abc08-a008-4fa9-9225-04a9b1eb43b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/7329bf0b-590f-4971-81dd-954b8e2ac282> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/7329bf0b-590f-4971-81dd-954b8e2ac282> <http://purl.org/dc/terms/description> "Both Betaxolol and Alcohol can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/7329bf0b-590f-4971-81dd-954b8e2ac282> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/7ae10301-9548-47a8-99a2-0c885fd2907b> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/7ae10301-9548-47a8-99a2-0c885fd2907b> <http://purl.org/dc/terms/description> "Both Betaxolol and Galantamine can increase the risk of bradycardia." .
+<http://drug.uk/interaction/detail/7ae10301-9548-47a8-99a2-0c885fd2907b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/7e3ba8b3-48a2-474f-8681-c1da5c1a712d> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/7e3ba8b3-48a2-474f-8681-c1da5c1a712d> <http://purl.org/dc/terms/description> "Both Betaxolol and Ketamine can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/7e3ba8b3-48a2-474f-8681-c1da5c1a712d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/815a1a8f-40f0-42d4-86aa-0bb070c2b8ab> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/815a1a8f-40f0-42d4-86aa-0bb070c2b8ab> <http://purl.org/dc/terms/description> "Both Betaxolol and Baclofen can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/815a1a8f-40f0-42d4-86aa-0bb070c2b8ab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/81d8d91b-01d7-446c-8c13-0d3b8fbfdbb4> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/81d8d91b-01d7-446c-8c13-0d3b8fbfdbb4> <http://purl.org/dc/terms/description> "Both Betaxolol and Trandolapril can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/81d8d91b-01d7-446c-8c13-0d3b8fbfdbb4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/82e3092a-b40f-4476-855e-4c6615d9c6ba> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/82e3092a-b40f-4476-855e-4c6615d9c6ba> <http://purl.org/dc/terms/description> "Both Betaxolol and Tranylcypromine can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/82e3092a-b40f-4476-855e-4c6615d9c6ba> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/84dc8574-d16a-4a6b-a3ce-efd88ccd0065> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/84dc8574-d16a-4a6b-a3ce-efd88ccd0065> <http://purl.org/dc/terms/description> "Both Betaxolol and Ramipril can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/84dc8574-d16a-4a6b-a3ce-efd88ccd0065> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/8556e0f6-7239-41ac-8fd9-72016e734238> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/8556e0f6-7239-41ac-8fd9-72016e734238> <http://purl.org/dc/terms/description> "Both Betaxolol and Nitrous oxide can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/8556e0f6-7239-41ac-8fd9-72016e734238> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/85734d7e-4ea9-4e35-adfc-40f7bc7c9dec> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/85734d7e-4ea9-4e35-adfc-40f7bc7c9dec> <http://purl.org/dc/terms/description> "Both Betaxolol and Ceritinib can increase the risk of bradycardia." .
+<http://drug.uk/interaction/detail/85734d7e-4ea9-4e35-adfc-40f7bc7c9dec> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/85c969d8-038f-439f-90a6-481bde6d9c71> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/85c969d8-038f-439f-90a6-481bde6d9c71> <http://purl.org/dc/terms/description> "Both Betaxolol and Esketamine can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/85c969d8-038f-439f-90a6-481bde6d9c71> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/86f980a7-d0ec-4a0b-b053-e4bff29722b8> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/86f980a7-d0ec-4a0b-b053-e4bff29722b8> <http://purl.org/dc/terms/description> "Both Betaxolol and Lacidipine can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/86f980a7-d0ec-4a0b-b053-e4bff29722b8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/87a2fcbd-e08a-4504-8447-f558e27bf478> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/87a2fcbd-e08a-4504-8447-f558e27bf478> <http://purl.org/dc/terms/description> "Both Betaxolol and Phenelzine can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/87a2fcbd-e08a-4504-8447-f558e27bf478> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/890c0441-51cb-4d6a-8388-56002c3ce434> <http://drug.uk/model/evidence> "Theoretical" .
+<http://drug.uk/interaction/detail/890c0441-51cb-4d6a-8388-56002c3ce434> <http://drug.uk/model/severity> "Severe" .
+<http://drug.uk/interaction/detail/890c0441-51cb-4d6a-8388-56002c3ce434> <http://purl.org/dc/terms/description> "Betaxolol is predicted to increase the risk of bronchospasm when given with Theophylline. Manufacturer advises avoid.  " .
+<http://drug.uk/interaction/detail/890c0441-51cb-4d6a-8388-56002c3ce434> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/89b74712-683b-42ac-8d26-531223d2fe34> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/89b74712-683b-42ac-8d26-531223d2fe34> <http://purl.org/dc/terms/description> "Both Betaxolol and Avanafil can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/89b74712-683b-42ac-8d26-531223d2fe34> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/8da52231-46d1-4cb8-94e9-f95994cca48a> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/8da52231-46d1-4cb8-94e9-f95994cca48a> <http://purl.org/dc/terms/description> "Both Betaxolol and Nicorandil can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/8da52231-46d1-4cb8-94e9-f95994cca48a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/9234fd58-6319-4ecd-8506-92076b4a0a4e> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/9234fd58-6319-4ecd-8506-92076b4a0a4e> <http://purl.org/dc/terms/description> "Both Betaxolol and Lisinopril can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/9234fd58-6319-4ecd-8506-92076b4a0a4e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/9313772e-c6bb-452d-a94e-c615b0665685> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/9313772e-c6bb-452d-a94e-c615b0665685> <http://purl.org/dc/terms/description> "Both Betaxolol and Bumetanide can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/9313772e-c6bb-452d-a94e-c615b0665685> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/931d57c5-6bd7-401b-a4a8-9b3f9d5bb868> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/931d57c5-6bd7-401b-a4a8-9b3f9d5bb868> <http://purl.org/dc/terms/description> "Both Betaxolol and Aliskiren can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/931d57c5-6bd7-401b-a4a8-9b3f9d5bb868> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/9399f8ea-6145-4db7-a0be-0ab35e53f129> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/9399f8ea-6145-4db7-a0be-0ab35e53f129> <http://purl.org/dc/terms/description> "Both Betaxolol and Diazoxide can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/9399f8ea-6145-4db7-a0be-0ab35e53f129> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/9434ffd5-f7f0-4e3e-9dbf-5be64864963f> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/9434ffd5-f7f0-4e3e-9dbf-5be64864963f> <http://purl.org/dc/terms/description> "Both Betaxolol and Cariprazine can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/9434ffd5-f7f0-4e3e-9dbf-5be64864963f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/945081b0-0a85-4a4b-a751-ce28a0a68bc5> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/945081b0-0a85-4a4b-a751-ce28a0a68bc5> <http://purl.org/dc/terms/description> "Both Betaxolol and Riociguat can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/945081b0-0a85-4a4b-a751-ce28a0a68bc5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/9611d41b-9ad7-41f0-9208-d21a40a509bb> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/9611d41b-9ad7-41f0-9208-d21a40a509bb> <http://purl.org/dc/terms/description> "Both Betaxolol and Isosorbide dinitrate can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/9611d41b-9ad7-41f0-9208-d21a40a509bb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/9683cbce-241b-4523-ab5a-72a18c0e1090> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/9683cbce-241b-4523-ab5a-72a18c0e1090> <http://purl.org/dc/terms/description> "Both Betaxolol and Indapamide can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/9683cbce-241b-4523-ab5a-72a18c0e1090> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/9a5265f5-53b6-4385-ae77-14cccbe52eeb> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/9a5265f5-53b6-4385-ae77-14cccbe52eeb> <http://purl.org/dc/terms/description> "Both Betaxolol and Iloprost can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/9a5265f5-53b6-4385-ae77-14cccbe52eeb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/9e536a0f-4764-4dc2-bf89-ade01dd453c0> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/9e536a0f-4764-4dc2-bf89-ade01dd453c0> <http://purl.org/dc/terms/description> "Both Betaxolol and Lofepramine can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/9e536a0f-4764-4dc2-bf89-ade01dd453c0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/9f28256a-acf1-4d2e-b93c-ffc80d384e04> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/9f28256a-acf1-4d2e-b93c-ffc80d384e04> <http://purl.org/dc/terms/description> "Both Betaxolol and Tizanidine can increase the risk of bradycardia." .
+<http://drug.uk/interaction/detail/9f28256a-acf1-4d2e-b93c-ffc80d384e04> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/a2321255-e8d8-4f7b-8ffb-87912bb0e051> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/a2321255-e8d8-4f7b-8ffb-87912bb0e051> <http://purl.org/dc/terms/description> "Both Betaxolol and Carvedilol can increase the risk of bradycardia." .
+<http://drug.uk/interaction/detail/a2321255-e8d8-4f7b-8ffb-87912bb0e051> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/a5cfdf44-671e-4e51-8627-071b58931f9c> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/a5cfdf44-671e-4e51-8627-071b58931f9c> <http://purl.org/dc/terms/description> "Both Betaxolol and Vericiguat can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/a5cfdf44-671e-4e51-8627-071b58931f9c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/a6235544-a4ae-4aa9-b8d9-e79dfde2f5b5> <http://drug.uk/model/evidence> "Theoretical" .
+<http://drug.uk/interaction/detail/a6235544-a4ae-4aa9-b8d9-e79dfde2f5b5> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/a6235544-a4ae-4aa9-b8d9-e79dfde2f5b5> <http://purl.org/dc/terms/description> "Betaxolol is predicted to increase the risk of bradycardia when given with Lanreotide. Manufacturer advises caution.  " .
+<http://drug.uk/interaction/detail/a6235544-a4ae-4aa9-b8d9-e79dfde2f5b5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/aacc7c8e-eb33-4c74-b719-e1fd53827d55> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/aacc7c8e-eb33-4c74-b719-e1fd53827d55> <http://purl.org/dc/terms/description> "Both Betaxolol and Asenapine can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/aacc7c8e-eb33-4c74-b719-e1fd53827d55> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/ab214fc6-d5a2-4439-b453-0e8ec2c4cd2d> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/ab214fc6-d5a2-4439-b453-0e8ec2c4cd2d> <http://purl.org/dc/terms/description> "Both Betaxolol and Vardenafil can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/ab214fc6-d5a2-4439-b453-0e8ec2c4cd2d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/ac17dd9d-0698-4a2e-b014-e12a76a1e0db> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/ac17dd9d-0698-4a2e-b014-e12a76a1e0db> <http://purl.org/dc/terms/description> "Both Betaxolol and Trimipramine can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/ac17dd9d-0698-4a2e-b014-e12a76a1e0db> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/ad14f34c-6d41-4e3e-9f66-794823009d79> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/ad14f34c-6d41-4e3e-9f66-794823009d79> <http://purl.org/dc/terms/description> "Both Betaxolol and Terazosin can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/ad14f34c-6d41-4e3e-9f66-794823009d79> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/b19762b7-7b56-472f-a582-c674937d9126> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/b19762b7-7b56-472f-a582-c674937d9126> <http://purl.org/dc/terms/description> "Both Betaxolol and Pramipexole can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/b19762b7-7b56-472f-a582-c674937d9126> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/b40db194-7a8c-460f-8cf6-fbb7fad11c69> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/b40db194-7a8c-460f-8cf6-fbb7fad11c69> <http://purl.org/dc/terms/description> "Both Betaxolol and Ivabradine can increase the risk of bradycardia." .
+<http://drug.uk/interaction/detail/b40db194-7a8c-460f-8cf6-fbb7fad11c69> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/b4339e2a-2a22-4d7f-a28d-9368e9e054be> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/b4339e2a-2a22-4d7f-a28d-9368e9e054be> <http://purl.org/dc/terms/description> "Both Betaxolol and Rotigotine can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/b4339e2a-2a22-4d7f-a28d-9368e9e054be> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/b6e01e2f-ac33-4782-aa4f-0464999e1607> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/b6e01e2f-ac33-4782-aa4f-0464999e1607> <http://purl.org/dc/terms/description> "Both Betaxolol and Remifentanil can increase the risk of bradycardia." .
+<http://drug.uk/interaction/detail/b6e01e2f-ac33-4782-aa4f-0464999e1607> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/b765dd63-c861-4a9f-8157-95b5f1d24d7e> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/b765dd63-c861-4a9f-8157-95b5f1d24d7e> <http://purl.org/dc/terms/description> "Both Betaxolol and Digoxin can increase the risk of bradycardia." .
+<http://drug.uk/interaction/detail/b765dd63-c861-4a9f-8157-95b5f1d24d7e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/b8672cb6-94f3-4def-b51f-286f726b9407> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/b8672cb6-94f3-4def-b51f-286f726b9407> <http://purl.org/dc/terms/description> "Both Betaxolol and Treprostinil can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/b8672cb6-94f3-4def-b51f-286f726b9407> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/c11c77f6-e320-43a7-a464-0772ac467d6b> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/c11c77f6-e320-43a7-a464-0772ac467d6b> <http://purl.org/dc/terms/description> "Both Betaxolol and Fentanyl can increase the risk of bradycardia." .
+<http://drug.uk/interaction/detail/c11c77f6-e320-43a7-a464-0772ac467d6b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/c6928316-fc06-48d2-bdb9-01210a1b905b> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/c6928316-fc06-48d2-bdb9-01210a1b905b> <http://purl.org/dc/terms/description> "Both Betaxolol and Felodipine can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/c6928316-fc06-48d2-bdb9-01210a1b905b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/caf8021a-2457-4506-b737-e2a7aa2610d2> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/caf8021a-2457-4506-b737-e2a7aa2610d2> <http://purl.org/dc/terms/description> "Both Betaxolol and Minoxidil can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/caf8021a-2457-4506-b737-e2a7aa2610d2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/d0344260-6ea4-46a7-942e-a052ae230fe4> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/d0344260-6ea4-46a7-942e-a052ae230fe4> <http://purl.org/dc/terms/description> "Both Betaxolol and Benperidol can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/d0344260-6ea4-46a7-942e-a052ae230fe4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/d1537ba1-2431-455c-bfa9-9d59f714ae8f> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/d1537ba1-2431-455c-bfa9-9d59f714ae8f> <http://purl.org/dc/terms/description> "Both Betaxolol and Bendroflumethiazide can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/d1537ba1-2431-455c-bfa9-9d59f714ae8f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/d17c2b6f-9e54-4f75-804e-ab0553f2031c> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/d17c2b6f-9e54-4f75-804e-ab0553f2031c> <http://purl.org/dc/terms/description> "Both Betaxolol and Guanfacine can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/d17c2b6f-9e54-4f75-804e-ab0553f2031c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/d3575ba7-7807-493d-98f3-2882cf32d37e> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/d3575ba7-7807-493d-98f3-2882cf32d37e> <http://drug.uk/model/severity> "Severe" .
+<http://drug.uk/interaction/detail/d3575ba7-7807-493d-98f3-2882cf32d37e> <http://purl.org/dc/terms/description> "Disopyramide is predicted to increase the risk of cardiovascular adverse effects when given with Betaxolol. Manufacturer advises use with caution or avoid.  " .
+<http://drug.uk/interaction/detail/d3575ba7-7807-493d-98f3-2882cf32d37e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/d39b9bdb-7f8f-4963-9efb-7a6cb6101125> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/d39b9bdb-7f8f-4963-9efb-7a6cb6101125> <http://purl.org/dc/terms/description> "Both Betaxolol and Furosemide can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/d39b9bdb-7f8f-4963-9efb-7a6cb6101125> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/d8b768a9-2c05-4e8b-934f-a5f6f906ec97> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/d8b768a9-2c05-4e8b-934f-a5f6f906ec97> <http://purl.org/dc/terms/description> "Both Betaxolol and Moxonidine can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/d8b768a9-2c05-4e8b-934f-a5f6f906ec97> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/de8d7074-60f9-4fb1-b96f-f71ee1700a21> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/de8d7074-60f9-4fb1-b96f-f71ee1700a21> <http://purl.org/dc/terms/description> "Both Betaxolol and Valsartan can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/de8d7074-60f9-4fb1-b96f-f71ee1700a21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/dfbc2399-29e0-4460-a789-f95d45d7eb84> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/dfbc2399-29e0-4460-a789-f95d45d7eb84> <http://purl.org/dc/terms/description> "Both Betaxolol and Isosorbide mononitrate can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/dfbc2399-29e0-4460-a789-f95d45d7eb84> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/e04a7cea-b3a6-40e8-b772-ebba18cbbc3c> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/e04a7cea-b3a6-40e8-b772-ebba18cbbc3c> <http://purl.org/dc/terms/description> "Both Betaxolol and Quinagolide can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/e04a7cea-b3a6-40e8-b772-ebba18cbbc3c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/e2397265-5dc0-4bff-afbc-2f53a8e8ed75> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/e2397265-5dc0-4bff-afbc-2f53a8e8ed75> <http://purl.org/dc/terms/description> "Both Betaxolol and Apraclonidine can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/e2397265-5dc0-4bff-afbc-2f53a8e8ed75> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/e322157e-48b3-4e84-94ab-b70264d071b3> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/e322157e-48b3-4e84-94ab-b70264d071b3> <http://purl.org/dc/terms/description> "Both Betaxolol and Paliperidone can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/e322157e-48b3-4e84-94ab-b70264d071b3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/e33c52d6-0d65-4fb5-a26c-a4a999193a48> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/e33c52d6-0d65-4fb5-a26c-a4a999193a48> <http://purl.org/dc/terms/description> "Both Betaxolol and Nadolol can increase the risk of bradycardia." .
+<http://drug.uk/interaction/detail/e33c52d6-0d65-4fb5-a26c-a4a999193a48> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/e4b4978b-0772-4811-a5fb-2784308fa235> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/e4b4978b-0772-4811-a5fb-2784308fa235> <http://purl.org/dc/terms/description> "Both Betaxolol and Vernakalant can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/e4b4978b-0772-4811-a5fb-2784308fa235> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/e4c9e71c-c644-4e92-a07e-58afd5541776> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/e4c9e71c-c644-4e92-a07e-58afd5541776> <http://purl.org/dc/terms/description> "Both Betaxolol and Clozapine can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/e4c9e71c-c644-4e92-a07e-58afd5541776> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/e4d1f5d1-8a4b-490c-9754-97cf700a93a8> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/e4d1f5d1-8a4b-490c-9754-97cf700a93a8> <http://purl.org/dc/terms/description> "Both Betaxolol and Amlodipine can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/e4d1f5d1-8a4b-490c-9754-97cf700a93a8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/e95529b4-f8d3-4b25-bbd0-a4d963926f79> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/e95529b4-f8d3-4b25-bbd0-a4d963926f79> <http://purl.org/dc/terms/description> "Both Betaxolol and Sildenafil can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/e95529b4-f8d3-4b25-bbd0-a4d963926f79> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/ea10cc4b-aff0-4c78-bcf7-ce3c9b0c50cf> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/ea10cc4b-aff0-4c78-bcf7-ce3c9b0c50cf> <http://purl.org/dc/terms/description> "Both Betaxolol and Pasireotide can increase the risk of bradycardia." .
+<http://drug.uk/interaction/detail/ea10cc4b-aff0-4c78-bcf7-ce3c9b0c50cf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/eae107c0-e8b1-4cf4-a294-a2b0a0dfdf1b> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/eae107c0-e8b1-4cf4-a294-a2b0a0dfdf1b> <http://purl.org/dc/terms/description> "Both Betaxolol and Chlortalidone can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/eae107c0-e8b1-4cf4-a294-a2b0a0dfdf1b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/eb4a29b5-f7fb-4480-89dc-b4571d470aa1> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/eb4a29b5-f7fb-4480-89dc-b4571d470aa1> <http://purl.org/dc/terms/description> "Both Betaxolol and Ropinirole can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/eb4a29b5-f7fb-4480-89dc-b4571d470aa1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/ed9e1f11-64b4-4e87-9407-9525602a6cd2> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/ed9e1f11-64b4-4e87-9407-9525602a6cd2> <http://purl.org/dc/terms/description> "Both Betaxolol and Alfentanil can increase the risk of bradycardia." .
+<http://drug.uk/interaction/detail/ed9e1f11-64b4-4e87-9407-9525602a6cd2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/ee35102a-1590-4e66-81ca-3931ecbe2817> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/ee35102a-1590-4e66-81ca-3931ecbe2817> <http://purl.org/dc/terms/description> "Both Betaxolol and Desflurane can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/ee35102a-1590-4e66-81ca-3931ecbe2817> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/ef05ec9a-752b-4133-83b2-69b3ebe336c6> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/ef05ec9a-752b-4133-83b2-69b3ebe336c6> <http://purl.org/dc/terms/description> "Both Betaxolol and Nortriptyline can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/ef05ec9a-752b-4133-83b2-69b3ebe336c6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/ef4005aa-303a-4dee-9a82-b8e7bf1c9851> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/ef4005aa-303a-4dee-9a82-b8e7bf1c9851> <http://purl.org/dc/terms/description> "Both Betaxolol and Pimozide can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/ef4005aa-303a-4dee-9a82-b8e7bf1c9851> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/efbe4ae4-1f04-4801-8123-5eca12d3c601> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/efbe4ae4-1f04-4801-8123-5eca12d3c601> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/efbe4ae4-1f04-4801-8123-5eca12d3c601> <http://purl.org/dc/terms/description> "Omega-3-acid ethyl esters might enhance the blood pressure-lowering effects of Betaxolol. Manufacturer makes no recommendation.  " .
+<http://drug.uk/interaction/detail/efbe4ae4-1f04-4801-8123-5eca12d3c601> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/f095d46d-3b06-479d-bcba-8461e2e67e42> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/f095d46d-3b06-479d-bcba-8461e2e67e42> <http://purl.org/dc/terms/description> "Both Betaxolol and Droperidol can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/f095d46d-3b06-479d-bcba-8461e2e67e42> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/f4527dd8-ec8e-4b90-bf91-b060aab3c895> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/f4527dd8-ec8e-4b90-bf91-b060aab3c895> <http://purl.org/dc/terms/description> "Both Betaxolol and Etomidate can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/f4527dd8-ec8e-4b90-bf91-b060aab3c895> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/f4a9d4b9-fdb6-43c3-8c28-3fd5eb4a495f> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/f4a9d4b9-fdb6-43c3-8c28-3fd5eb4a495f> <http://purl.org/dc/terms/description> "Both Betaxolol and Trifluoperazine can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/f4a9d4b9-fdb6-43c3-8c28-3fd5eb4a495f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/f7f17a71-fa4e-41b1-90d4-8eb68aa0b9fb> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/f7f17a71-fa4e-41b1-90d4-8eb68aa0b9fb> <http://purl.org/dc/terms/description> "Both Betaxolol and Brigatinib can increase the risk of bradycardia." .
+<http://drug.uk/interaction/detail/f7f17a71-fa4e-41b1-90d4-8eb68aa0b9fb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/fc7e85fa-db6f-476d-bc70-e81e2d3a2e0b> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/fc7e85fa-db6f-476d-bc70-e81e2d3a2e0b> <http://purl.org/dc/terms/description> "Both Betaxolol and Sodium oxybate can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/fc7e85fa-db6f-476d-bc70-e81e2d3a2e0b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/fcc51899-3622-467d-be67-6601ef798712> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/fcc51899-3622-467d-be67-6601ef798712> <http://purl.org/dc/terms/description> "Both Betaxolol and Sevoflurane can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/fcc51899-3622-467d-be67-6601ef798712> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/fce86498-99b1-41b1-9308-a7739e7eb1fb> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/fce86498-99b1-41b1-9308-a7739e7eb1fb> <http://purl.org/dc/terms/description> "Both Betaxolol and Doxepin can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/fce86498-99b1-41b1-9308-a7739e7eb1fb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/fd408fc3-4082-4c89-a4db-05c6f4854d75> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/fd408fc3-4082-4c89-a4db-05c6f4854d75> <http://purl.org/dc/terms/description> "Both Betaxolol and Isoflurane can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/fd408fc3-4082-4c89-a4db-05c6f4854d75> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/fe2a8068-85c1-4c64-9cf5-a460c6180b17> <http://drug.uk/model/evidence> "Theoretical" .
+<http://drug.uk/interaction/detail/fe2a8068-85c1-4c64-9cf5-a460c6180b17> <http://drug.uk/model/severity> "Severe" .
+<http://drug.uk/interaction/detail/fe2a8068-85c1-4c64-9cf5-a460c6180b17> <http://purl.org/dc/terms/description> "Mavacamten can cause negative inotropic effects, as can Betaxolol. Manufacturer advises monitor.  " .
+<http://drug.uk/interaction/detail/fe2a8068-85c1-4c64-9cf5-a460c6180b17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/irbesartan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/isocarboxazid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/isoflurane> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/isosorbide-dinitrate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/isosorbide-mononitrate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/ivabradine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/ketamine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/lacidipine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/lanreotide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/levomepromazine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/lisinopril> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/lofepramine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/loxapine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/mavacamten> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/mefloquine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/methoxyflurane> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/methyldopa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/metolazone> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/mexiletine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/minoxidil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/moxonidine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/nadolol> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/neostigmine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/nicorandil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/nifedipine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/nimodipine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/nitrous-oxide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/noradrenaline-norepinephrine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/nortriptyline> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/omega-3-acid-ethyl-esters> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/ozanimod> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/paliperidone> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/pasireotide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/pericyazine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/phenelzine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/pimozide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/pindolol> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/ponesimod> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/pramipexole> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/prazosin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/prochlorperazine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/propofol> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/quetiapine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/quinagolide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/quinapril> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/ramipril> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/remifentanil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/riociguat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/risperidone> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/rivastigmine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/ropinirole> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/rotigotine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/sevoflurane> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/sildenafil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/siponimod> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/sodium-oxybate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/spironolactone> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/sufentanil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/sulpiride> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/tadalafil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/telmisartan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/terazosin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/thalidomide-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/theophylline> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/ticagrelor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/tizanidine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/torasemide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/trandolapril> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/tranylcypromine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/treprostinil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/trifluoperazine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/trimipramine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/valsartan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/vardenafil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/vericiguat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/vernakalant> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/xipamide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .

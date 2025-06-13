@@ -1,0 +1,46 @@
+<http://drug.uk/bilastine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/grapefruit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/interaction/bilastine-grapefruit> <http://drug.uk/model/interactingDrug> <http://drug.uk/bilastine> .
+<http://drug.uk/interaction/bilastine-grapefruit> <http://drug.uk/model/interactingDrug> <http://drug.uk/grapefruit> .
+<http://drug.uk/interaction/bilastine-grapefruit> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/e57739ac-ffdb-4802-b27b-bccc30cbe824> .
+<http://drug.uk/interaction/bilastine-grapefruit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/bilastine-isocarboxazid> <http://drug.uk/model/interactingDrug> <http://drug.uk/bilastine> .
+<http://drug.uk/interaction/bilastine-isocarboxazid> <http://drug.uk/model/interactingDrug> <http://drug.uk/isocarboxazid> .
+<http://drug.uk/interaction/bilastine-isocarboxazid> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/e010cfb9-be21-4cdb-9136-0c4c11f0964e> .
+<http://drug.uk/interaction/bilastine-isocarboxazid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/bilastine-phenelzine> <http://drug.uk/model/interactingDrug> <http://drug.uk/bilastine> .
+<http://drug.uk/interaction/bilastine-phenelzine> <http://drug.uk/model/interactingDrug> <http://drug.uk/phenelzine> .
+<http://drug.uk/interaction/bilastine-phenelzine> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/38755b4a-e267-4a66-93c5-0d6c5ac1a19a> .
+<http://drug.uk/interaction/bilastine-phenelzine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/bilastine-rifampicin> <http://drug.uk/model/interactingDrug> <http://drug.uk/bilastine> .
+<http://drug.uk/interaction/bilastine-rifampicin> <http://drug.uk/model/interactingDrug> <http://drug.uk/rifampicin> .
+<http://drug.uk/interaction/bilastine-rifampicin> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/63ffb0b4-1f2c-453b-be2c-6647cbadbb1d> .
+<http://drug.uk/interaction/bilastine-rifampicin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/bilastine-tranylcypromine> <http://drug.uk/model/interactingDrug> <http://drug.uk/bilastine> .
+<http://drug.uk/interaction/bilastine-tranylcypromine> <http://drug.uk/model/interactingDrug> <http://drug.uk/tranylcypromine> .
+<http://drug.uk/interaction/bilastine-tranylcypromine> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/adf5cbc2-fb7a-475e-929f-1b277e5b4b6e> .
+<http://drug.uk/interaction/bilastine-tranylcypromine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/detail/38755b4a-e267-4a66-93c5-0d6c5ac1a19a> <http://drug.uk/model/evidence> "Theoretical" .
+<http://drug.uk/interaction/detail/38755b4a-e267-4a66-93c5-0d6c5ac1a19a> <http://drug.uk/model/severity> "Severe" .
+<http://drug.uk/interaction/detail/38755b4a-e267-4a66-93c5-0d6c5ac1a19a> <http://purl.org/dc/terms/description> "Phenelzine is predicted to increase the risk of antimuscarinic adverse effects when given with Bilastine. Manufacturer advises avoid.  " .
+<http://drug.uk/interaction/detail/38755b4a-e267-4a66-93c5-0d6c5ac1a19a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/63ffb0b4-1f2c-453b-be2c-6647cbadbb1d> <http://drug.uk/model/evidence> "Theoretical" .
+<http://drug.uk/interaction/detail/63ffb0b4-1f2c-453b-be2c-6647cbadbb1d> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/63ffb0b4-1f2c-453b-be2c-6647cbadbb1d> <http://purl.org/dc/terms/description> "Rifampicin is predicted to decrease the exposure to Bilastine. Manufacturer makes no recommendation.  " .
+<http://drug.uk/interaction/detail/63ffb0b4-1f2c-453b-be2c-6647cbadbb1d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/adf5cbc2-fb7a-475e-929f-1b277e5b4b6e> <http://drug.uk/model/evidence> "Theoretical" .
+<http://drug.uk/interaction/detail/adf5cbc2-fb7a-475e-929f-1b277e5b4b6e> <http://drug.uk/model/severity> "Severe" .
+<http://drug.uk/interaction/detail/adf5cbc2-fb7a-475e-929f-1b277e5b4b6e> <http://purl.org/dc/terms/description> "Tranylcypromine is predicted to increase the risk of antimuscarinic adverse effects when given with Bilastine. Manufacturer advises avoid.  " .
+<http://drug.uk/interaction/detail/adf5cbc2-fb7a-475e-929f-1b277e5b4b6e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/e010cfb9-be21-4cdb-9136-0c4c11f0964e> <http://drug.uk/model/evidence> "Theoretical" .
+<http://drug.uk/interaction/detail/e010cfb9-be21-4cdb-9136-0c4c11f0964e> <http://drug.uk/model/severity> "Severe" .
+<http://drug.uk/interaction/detail/e010cfb9-be21-4cdb-9136-0c4c11f0964e> <http://purl.org/dc/terms/description> "Isocarboxazid is predicted to increase the risk of antimuscarinic adverse effects when given with Bilastine. Manufacturer advises avoid.  " .
+<http://drug.uk/interaction/detail/e010cfb9-be21-4cdb-9136-0c4c11f0964e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/e57739ac-ffdb-4802-b27b-bccc30cbe824> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/e57739ac-ffdb-4802-b27b-bccc30cbe824> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/e57739ac-ffdb-4802-b27b-bccc30cbe824> <http://purl.org/dc/terms/description> "Grapefruit juice slightly decreases the exposure to Bilastine. Manufacturer advises Bilastine should be taken 1 hour before or 2 hours after Grapefruit.  " .
+<http://drug.uk/interaction/detail/e57739ac-ffdb-4802-b27b-bccc30cbe824> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/isocarboxazid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/phenelzine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/rifampicin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/tranylcypromine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .

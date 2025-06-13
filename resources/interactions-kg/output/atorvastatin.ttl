@@ -1,0 +1,1125 @@
+<http://drug.uk/acipimox> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/acitretin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/alcohol> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/alectinib-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/aliskiren> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/anidulafungin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/apalutamide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/aprepitant> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/asparaginase-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/atazanavir> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/atorvastatin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/belumosudil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/bexarotene-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/bezafibrate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/bosentan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/bulevirtide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/cabazitaxel-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/capecitabine-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/carbamazepine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/carmustine-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/caspofungin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/ceftobiprole> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/cenobamate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/ceritinib-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/ciclosporin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/cilostazol> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/ciprofibrate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/clarithromycin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/clofarabine-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/cobicistat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/colchicine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/crisantaspase-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/crizotinib-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/cytarabine-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/dabrafenib-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/danicopan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/daptomycin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/darolutamide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/darunavir> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/decitabine-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/doxycycline> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/dronedarone> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/efavirenz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/elafibranor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/eltrombopag> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/empagliflozin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/encorafenib-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/enzalutamide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/eravacycline> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/erythromycin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/etravirine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/fenofibrate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/fluconazole> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/fluorouracil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/flutamide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/fosamprenavir> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/fostamatinib> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/fostemsavir> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/gemcitabine-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/gemfibrozil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/grapefruit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/idelalisib-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/imatinib-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/interaction/atorvastatin-acipimox> <http://drug.uk/model/interactingDrug> <http://drug.uk/acipimox> .
+<http://drug.uk/interaction/atorvastatin-acipimox> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-acipimox> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/54886efa-f891-40b1-aa34-b2c88c8f95c2> .
+<http://drug.uk/interaction/atorvastatin-acipimox> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-acitretin> <http://drug.uk/model/interactingDrug> <http://drug.uk/acitretin> .
+<http://drug.uk/interaction/atorvastatin-acitretin> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-acitretin> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/17560c81-eac4-4772-bb1f-1d612cf81967> .
+<http://drug.uk/interaction/atorvastatin-acitretin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-alcohol> <http://drug.uk/model/interactingDrug> <http://drug.uk/alcohol> .
+<http://drug.uk/interaction/atorvastatin-alcohol> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-alcohol> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/f0370ead-e2f5-428f-91dc-f8fbf6c0eb24> .
+<http://drug.uk/interaction/atorvastatin-alcohol> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-alectinib-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/alectinib-specialist-drug> .
+<http://drug.uk/interaction/atorvastatin-alectinib-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-alectinib-specialist-drug> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/87dae5df-8284-44bb-92e1-c8483a10655b> .
+<http://drug.uk/interaction/atorvastatin-alectinib-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-aliskiren> <http://drug.uk/model/interactingDrug> <http://drug.uk/aliskiren> .
+<http://drug.uk/interaction/atorvastatin-aliskiren> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-aliskiren> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/4c6be75c-4567-4040-b0d5-ca13e334cba1> .
+<http://drug.uk/interaction/atorvastatin-aliskiren> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-anidulafungin> <http://drug.uk/model/interactingDrug> <http://drug.uk/anidulafungin> .
+<http://drug.uk/interaction/atorvastatin-anidulafungin> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-anidulafungin> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/ce90f584-7ab8-4ee6-bae5-10ed35eacb48> .
+<http://drug.uk/interaction/atorvastatin-anidulafungin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-apalutamide> <http://drug.uk/model/interactingDrug> <http://drug.uk/apalutamide> .
+<http://drug.uk/interaction/atorvastatin-apalutamide> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-apalutamide> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/82c6fc32-bbf8-440c-bd65-ff0f2f1ddf47> .
+<http://drug.uk/interaction/atorvastatin-apalutamide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-aprepitant> <http://drug.uk/model/interactingDrug> <http://drug.uk/aprepitant> .
+<http://drug.uk/interaction/atorvastatin-aprepitant> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-aprepitant> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/2c0b45b0-4d10-479d-b211-270b791821fd> .
+<http://drug.uk/interaction/atorvastatin-aprepitant> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-asparaginase-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/asparaginase-specialist-drug> .
+<http://drug.uk/interaction/atorvastatin-asparaginase-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-asparaginase-specialist-drug> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/5aafca04-176c-470d-9dc1-83ee5afe4cba> .
+<http://drug.uk/interaction/atorvastatin-asparaginase-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-atazanavir> <http://drug.uk/model/interactingDrug> <http://drug.uk/atazanavir> .
+<http://drug.uk/interaction/atorvastatin-atazanavir> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-atazanavir> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/51e21918-2be4-49b9-a4bb-12d1ef73c975> .
+<http://drug.uk/interaction/atorvastatin-atazanavir> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-belumosudil> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-belumosudil> <http://drug.uk/model/interactingDrug> <http://drug.uk/belumosudil> .
+<http://drug.uk/interaction/atorvastatin-belumosudil> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/b64a7311-c069-482c-872b-72332cd3a10b> .
+<http://drug.uk/interaction/atorvastatin-belumosudil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-bexarotene-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-bexarotene-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/bexarotene-specialist-drug> .
+<http://drug.uk/interaction/atorvastatin-bexarotene-specialist-drug> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/e1faeb4c-d1fd-4d0b-8a38-49482069cdf8> .
+<http://drug.uk/interaction/atorvastatin-bexarotene-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-bezafibrate> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-bezafibrate> <http://drug.uk/model/interactingDrug> <http://drug.uk/bezafibrate> .
+<http://drug.uk/interaction/atorvastatin-bezafibrate> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/1ff541a4-8471-45b0-99ca-2fbb1f9a39eb> .
+<http://drug.uk/interaction/atorvastatin-bezafibrate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-bosentan> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-bosentan> <http://drug.uk/model/interactingDrug> <http://drug.uk/bosentan> .
+<http://drug.uk/interaction/atorvastatin-bosentan> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/cadce152-9e77-4404-8a59-781f0cec5151> .
+<http://drug.uk/interaction/atorvastatin-bosentan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-bulevirtide> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-bulevirtide> <http://drug.uk/model/interactingDrug> <http://drug.uk/bulevirtide> .
+<http://drug.uk/interaction/atorvastatin-bulevirtide> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/c10682ed-af18-4067-86f9-2e8ca6c47c0d> .
+<http://drug.uk/interaction/atorvastatin-bulevirtide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-cabazitaxel-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-cabazitaxel-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/cabazitaxel-specialist-drug> .
+<http://drug.uk/interaction/atorvastatin-cabazitaxel-specialist-drug> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/9314f43e-8843-46a5-8fcf-bfcd1203d97d> .
+<http://drug.uk/interaction/atorvastatin-cabazitaxel-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-capecitabine-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-capecitabine-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/capecitabine-specialist-drug> .
+<http://drug.uk/interaction/atorvastatin-capecitabine-specialist-drug> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/c521f108-0b87-4762-a4c7-b45e9cb0b80a> .
+<http://drug.uk/interaction/atorvastatin-capecitabine-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-carbamazepine> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-carbamazepine> <http://drug.uk/model/interactingDrug> <http://drug.uk/carbamazepine> .
+<http://drug.uk/interaction/atorvastatin-carbamazepine> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/149e8e01-07ce-4275-83bc-969b26602fba> .
+<http://drug.uk/interaction/atorvastatin-carbamazepine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-carmustine-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-carmustine-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/carmustine-specialist-drug> .
+<http://drug.uk/interaction/atorvastatin-carmustine-specialist-drug> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/3a05bbd1-e8ba-4361-9902-eed8f3907460> .
+<http://drug.uk/interaction/atorvastatin-carmustine-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-caspofungin> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-caspofungin> <http://drug.uk/model/interactingDrug> <http://drug.uk/caspofungin> .
+<http://drug.uk/interaction/atorvastatin-caspofungin> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/97a582d6-1335-411f-a8ae-ad3ac19f8cbb> .
+<http://drug.uk/interaction/atorvastatin-caspofungin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-ceftobiprole> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-ceftobiprole> <http://drug.uk/model/interactingDrug> <http://drug.uk/ceftobiprole> .
+<http://drug.uk/interaction/atorvastatin-ceftobiprole> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/76fc2145-6f63-4dbd-9c06-c1297ddc185a> .
+<http://drug.uk/interaction/atorvastatin-ceftobiprole> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-cenobamate> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-cenobamate> <http://drug.uk/model/interactingDrug> <http://drug.uk/cenobamate> .
+<http://drug.uk/interaction/atorvastatin-cenobamate> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/cbe63ba9-8eb1-4b13-9edb-4b89abac6f46> .
+<http://drug.uk/interaction/atorvastatin-cenobamate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-ceritinib-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-ceritinib-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/ceritinib-specialist-drug> .
+<http://drug.uk/interaction/atorvastatin-ceritinib-specialist-drug> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/e073cf25-d884-45e6-9e8a-5bf52cf3729d> .
+<http://drug.uk/interaction/atorvastatin-ceritinib-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-ciclosporin> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-ciclosporin> <http://drug.uk/model/interactingDrug> <http://drug.uk/ciclosporin> .
+<http://drug.uk/interaction/atorvastatin-ciclosporin> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/e94490ce-d0c9-4949-8da2-091d9f032b8c> .
+<http://drug.uk/interaction/atorvastatin-ciclosporin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-cilostazol> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-cilostazol> <http://drug.uk/model/interactingDrug> <http://drug.uk/cilostazol> .
+<http://drug.uk/interaction/atorvastatin-cilostazol> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/3139dd03-8165-4bf0-a94f-76d871d543a9> .
+<http://drug.uk/interaction/atorvastatin-cilostazol> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-ciprofibrate> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-ciprofibrate> <http://drug.uk/model/interactingDrug> <http://drug.uk/ciprofibrate> .
+<http://drug.uk/interaction/atorvastatin-ciprofibrate> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/52f0a60b-a727-41c5-8938-ce3995b80ec8> .
+<http://drug.uk/interaction/atorvastatin-ciprofibrate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-clarithromycin> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-clarithromycin> <http://drug.uk/model/interactingDrug> <http://drug.uk/clarithromycin> .
+<http://drug.uk/interaction/atorvastatin-clarithromycin> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/11f365ba-f4b6-4d21-a5e6-9ab5bdc76fd2> .
+<http://drug.uk/interaction/atorvastatin-clarithromycin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-clofarabine-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-clofarabine-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/clofarabine-specialist-drug> .
+<http://drug.uk/interaction/atorvastatin-clofarabine-specialist-drug> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/3ed1cf0f-b9da-4d27-b523-e7c90e5efa97> .
+<http://drug.uk/interaction/atorvastatin-clofarabine-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-cobicistat> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-cobicistat> <http://drug.uk/model/interactingDrug> <http://drug.uk/cobicistat> .
+<http://drug.uk/interaction/atorvastatin-cobicistat> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/ddc9ea1e-cccc-4d83-a512-47a71a09fd57> .
+<http://drug.uk/interaction/atorvastatin-cobicistat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-colchicine> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-colchicine> <http://drug.uk/model/interactingDrug> <http://drug.uk/colchicine> .
+<http://drug.uk/interaction/atorvastatin-colchicine> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/a468e9a1-d6f2-434e-8954-31c3d822ea24> .
+<http://drug.uk/interaction/atorvastatin-colchicine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-crisantaspase-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-crisantaspase-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/crisantaspase-specialist-drug> .
+<http://drug.uk/interaction/atorvastatin-crisantaspase-specialist-drug> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/2304a069-b553-468e-ae07-f06e77ca5815> .
+<http://drug.uk/interaction/atorvastatin-crisantaspase-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-crizotinib-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-crizotinib-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/crizotinib-specialist-drug> .
+<http://drug.uk/interaction/atorvastatin-crizotinib-specialist-drug> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/86c1fb21-46de-4ec6-8871-be64c750df73> .
+<http://drug.uk/interaction/atorvastatin-crizotinib-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-cytarabine-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-cytarabine-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/cytarabine-specialist-drug> .
+<http://drug.uk/interaction/atorvastatin-cytarabine-specialist-drug> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/12363d81-ba6e-42e7-b8dc-57e0168cc688> .
+<http://drug.uk/interaction/atorvastatin-cytarabine-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-dabrafenib-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-dabrafenib-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/dabrafenib-specialist-drug> .
+<http://drug.uk/interaction/atorvastatin-dabrafenib-specialist-drug> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/c8e2efe4-143b-455f-a01d-dceaae73ba06> .
+<http://drug.uk/interaction/atorvastatin-dabrafenib-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-danicopan> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-danicopan> <http://drug.uk/model/interactingDrug> <http://drug.uk/danicopan> .
+<http://drug.uk/interaction/atorvastatin-danicopan> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/b0bd4315-8843-4e67-9552-770e6ab789a7> .
+<http://drug.uk/interaction/atorvastatin-danicopan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-daptomycin> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-daptomycin> <http://drug.uk/model/interactingDrug> <http://drug.uk/daptomycin> .
+<http://drug.uk/interaction/atorvastatin-daptomycin> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/088f5127-315d-4f6e-bd17-af25b8c21462> .
+<http://drug.uk/interaction/atorvastatin-daptomycin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-darolutamide> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-darolutamide> <http://drug.uk/model/interactingDrug> <http://drug.uk/darolutamide> .
+<http://drug.uk/interaction/atorvastatin-darolutamide> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/0cd526f2-92d4-4547-ae64-edf0210f4530> .
+<http://drug.uk/interaction/atorvastatin-darolutamide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-darunavir> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-darunavir> <http://drug.uk/model/interactingDrug> <http://drug.uk/darunavir> .
+<http://drug.uk/interaction/atorvastatin-darunavir> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/61f2784d-9e1b-4ba0-ab45-8d628b695842> .
+<http://drug.uk/interaction/atorvastatin-darunavir> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-decitabine-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-decitabine-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/decitabine-specialist-drug> .
+<http://drug.uk/interaction/atorvastatin-decitabine-specialist-drug> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/9daa719f-c507-4067-a9f8-d6e39349ebdd> .
+<http://drug.uk/interaction/atorvastatin-decitabine-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-doxycycline> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-doxycycline> <http://drug.uk/model/interactingDrug> <http://drug.uk/doxycycline> .
+<http://drug.uk/interaction/atorvastatin-doxycycline> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/f842b939-875e-4071-8b2f-15c294bcc2b0> .
+<http://drug.uk/interaction/atorvastatin-doxycycline> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-dronedarone> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-dronedarone> <http://drug.uk/model/interactingDrug> <http://drug.uk/dronedarone> .
+<http://drug.uk/interaction/atorvastatin-dronedarone> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/b9066cce-e72d-4ed3-bc8e-8167c465af4b> .
+<http://drug.uk/interaction/atorvastatin-dronedarone> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-efavirenz> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-efavirenz> <http://drug.uk/model/interactingDrug> <http://drug.uk/efavirenz> .
+<http://drug.uk/interaction/atorvastatin-efavirenz> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/de4bac8f-b66e-447c-bad0-036b8fd0b4c7> .
+<http://drug.uk/interaction/atorvastatin-efavirenz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-elafibranor> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-elafibranor> <http://drug.uk/model/interactingDrug> <http://drug.uk/elafibranor> .
+<http://drug.uk/interaction/atorvastatin-elafibranor> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/c1765b86-0eb9-4e96-bf97-de3ac65e6f6e> .
+<http://drug.uk/interaction/atorvastatin-elafibranor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-eltrombopag> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-eltrombopag> <http://drug.uk/model/interactingDrug> <http://drug.uk/eltrombopag> .
+<http://drug.uk/interaction/atorvastatin-eltrombopag> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/1a89d61f-c3d0-44ed-b9bd-08bd845c64dc> .
+<http://drug.uk/interaction/atorvastatin-eltrombopag> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-empagliflozin> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-empagliflozin> <http://drug.uk/model/interactingDrug> <http://drug.uk/empagliflozin> .
+<http://drug.uk/interaction/atorvastatin-empagliflozin> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/081bcdfd-c8d3-4804-846e-f1ac88dbf56a> .
+<http://drug.uk/interaction/atorvastatin-empagliflozin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-encorafenib-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-encorafenib-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/encorafenib-specialist-drug> .
+<http://drug.uk/interaction/atorvastatin-encorafenib-specialist-drug> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/d453d889-6287-4334-8ce3-104376ab4b3e> .
+<http://drug.uk/interaction/atorvastatin-encorafenib-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-enzalutamide> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-enzalutamide> <http://drug.uk/model/interactingDrug> <http://drug.uk/enzalutamide> .
+<http://drug.uk/interaction/atorvastatin-enzalutamide> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/aa4b2f73-8fc7-483f-b586-04da4322522d> .
+<http://drug.uk/interaction/atorvastatin-enzalutamide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-eravacycline> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-eravacycline> <http://drug.uk/model/interactingDrug> <http://drug.uk/eravacycline> .
+<http://drug.uk/interaction/atorvastatin-eravacycline> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/4cf576aa-a9ec-4496-8c00-801ae86e5803> .
+<http://drug.uk/interaction/atorvastatin-eravacycline> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-erythromycin> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-erythromycin> <http://drug.uk/model/interactingDrug> <http://drug.uk/erythromycin> .
+<http://drug.uk/interaction/atorvastatin-erythromycin> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/24dc3a3d-2869-49ad-9a52-bef75e5366a2> .
+<http://drug.uk/interaction/atorvastatin-erythromycin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-etravirine> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-etravirine> <http://drug.uk/model/interactingDrug> <http://drug.uk/etravirine> .
+<http://drug.uk/interaction/atorvastatin-etravirine> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/f30141cd-6dcd-4136-b5c1-598d5b43751c> .
+<http://drug.uk/interaction/atorvastatin-etravirine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-fenofibrate> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-fenofibrate> <http://drug.uk/model/interactingDrug> <http://drug.uk/fenofibrate> .
+<http://drug.uk/interaction/atorvastatin-fenofibrate> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/a0080763-659a-4b13-9399-c97aa4672a0b> .
+<http://drug.uk/interaction/atorvastatin-fenofibrate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-fluconazole> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-fluconazole> <http://drug.uk/model/interactingDrug> <http://drug.uk/fluconazole> .
+<http://drug.uk/interaction/atorvastatin-fluconazole> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/1b3f44ef-6ebb-4487-babb-1e85a5032e2f> .
+<http://drug.uk/interaction/atorvastatin-fluconazole> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/c4ab6a15-a71f-4535-b4dc-368bd734dd6b> .
+<http://drug.uk/interaction/atorvastatin-fluconazole> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-fluorouracil> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-fluorouracil> <http://drug.uk/model/interactingDrug> <http://drug.uk/fluorouracil> .
+<http://drug.uk/interaction/atorvastatin-fluorouracil> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/13a82f86-68fa-42de-8575-b534ffb522e6> .
+<http://drug.uk/interaction/atorvastatin-fluorouracil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-flutamide> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-flutamide> <http://drug.uk/model/interactingDrug> <http://drug.uk/flutamide> .
+<http://drug.uk/interaction/atorvastatin-flutamide> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/48e4e8bc-c770-44d3-8a9b-856af949c811> .
+<http://drug.uk/interaction/atorvastatin-flutamide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-fosamprenavir> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-fosamprenavir> <http://drug.uk/model/interactingDrug> <http://drug.uk/fosamprenavir> .
+<http://drug.uk/interaction/atorvastatin-fosamprenavir> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/4d1cdf59-d536-45f1-a309-e5cbbbf3931c> .
+<http://drug.uk/interaction/atorvastatin-fosamprenavir> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-fostamatinib> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-fostamatinib> <http://drug.uk/model/interactingDrug> <http://drug.uk/fostamatinib> .
+<http://drug.uk/interaction/atorvastatin-fostamatinib> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/861bcd39-8bed-41c2-b4fa-fb49f0731fc0> .
+<http://drug.uk/interaction/atorvastatin-fostamatinib> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-fostemsavir> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-fostemsavir> <http://drug.uk/model/interactingDrug> <http://drug.uk/fostemsavir> .
+<http://drug.uk/interaction/atorvastatin-fostemsavir> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/22e40dcf-013a-4d0e-9c7d-4cf9901cf5e3> .
+<http://drug.uk/interaction/atorvastatin-fostemsavir> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-gemcitabine-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-gemcitabine-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/gemcitabine-specialist-drug> .
+<http://drug.uk/interaction/atorvastatin-gemcitabine-specialist-drug> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/26fe8810-f9fa-42f2-bc7c-931089948466> .
+<http://drug.uk/interaction/atorvastatin-gemcitabine-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-gemfibrozil> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-gemfibrozil> <http://drug.uk/model/interactingDrug> <http://drug.uk/gemfibrozil> .
+<http://drug.uk/interaction/atorvastatin-gemfibrozil> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/8eca9d8f-3c6d-49c8-8aff-b1caa2e77d42> .
+<http://drug.uk/interaction/atorvastatin-gemfibrozil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-grapefruit> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-grapefruit> <http://drug.uk/model/interactingDrug> <http://drug.uk/grapefruit> .
+<http://drug.uk/interaction/atorvastatin-grapefruit> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/67b32335-7185-4f2f-a25b-f5e307fe42cf> .
+<http://drug.uk/interaction/atorvastatin-grapefruit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-idelalisib-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-idelalisib-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/idelalisib-specialist-drug> .
+<http://drug.uk/interaction/atorvastatin-idelalisib-specialist-drug> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/54ed2ac1-a905-45d5-a3b1-18b71bd6396a> .
+<http://drug.uk/interaction/atorvastatin-idelalisib-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-imatinib-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-imatinib-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/imatinib-specialist-drug> .
+<http://drug.uk/interaction/atorvastatin-imatinib-specialist-drug> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/65d10e26-2c72-44d7-806f-cc54a67890b0> .
+<http://drug.uk/interaction/atorvastatin-imatinib-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-isavuconazole> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-isavuconazole> <http://drug.uk/model/interactingDrug> <http://drug.uk/isavuconazole> .
+<http://drug.uk/interaction/atorvastatin-isavuconazole> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/4b1259cd-6fe5-4dd8-94fd-acf803ff7e13> .
+<http://drug.uk/interaction/atorvastatin-isavuconazole> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-isoniazid> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-isoniazid> <http://drug.uk/model/interactingDrug> <http://drug.uk/isoniazid> .
+<http://drug.uk/interaction/atorvastatin-isoniazid> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/c59d19e4-ca4a-459c-9625-e7dfeafafd96> .
+<http://drug.uk/interaction/atorvastatin-isoniazid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-isotretinoin> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-isotretinoin> <http://drug.uk/model/interactingDrug> <http://drug.uk/isotretinoin> .
+<http://drug.uk/interaction/atorvastatin-isotretinoin> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/3c19c270-f770-407c-b6e8-da679c448ca5> .
+<http://drug.uk/interaction/atorvastatin-isotretinoin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-itraconazole> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-itraconazole> <http://drug.uk/model/interactingDrug> <http://drug.uk/itraconazole> .
+<http://drug.uk/interaction/atorvastatin-itraconazole> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/eff59574-0775-495d-940a-d527a9e04841> .
+<http://drug.uk/interaction/atorvastatin-itraconazole> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/fa24b49c-a6b7-446a-a317-270a12f86341> .
+<http://drug.uk/interaction/atorvastatin-itraconazole> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-ivosidenib-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-ivosidenib-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/ivosidenib-specialist-drug> .
+<http://drug.uk/interaction/atorvastatin-ivosidenib-specialist-drug> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/4947a5ed-e3fe-4eb1-ba9d-94d51bc1739f> .
+<http://drug.uk/interaction/atorvastatin-ivosidenib-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-ketoconazole> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-ketoconazole> <http://drug.uk/model/interactingDrug> <http://drug.uk/ketoconazole> .
+<http://drug.uk/interaction/atorvastatin-ketoconazole> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/d34ae1d0-bf2e-4016-ad1a-d9901072af25> .
+<http://drug.uk/interaction/atorvastatin-ketoconazole> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-leflunomide> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-leflunomide> <http://drug.uk/model/interactingDrug> <http://drug.uk/leflunomide> .
+<http://drug.uk/interaction/atorvastatin-leflunomide> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/f483818f-fabc-4487-8b76-3f20267933ee> .
+<http://drug.uk/interaction/atorvastatin-leflunomide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-lenalidomide-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-lenalidomide-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/lenalidomide-specialist-drug> .
+<http://drug.uk/interaction/atorvastatin-lenalidomide-specialist-drug> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/18c2ce81-87ef-4c48-b7f9-be4023871e83> .
+<http://drug.uk/interaction/atorvastatin-lenalidomide-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-leniolisib> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-leniolisib> <http://drug.uk/model/interactingDrug> <http://drug.uk/leniolisib> .
+<http://drug.uk/interaction/atorvastatin-leniolisib> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/c3c57b92-cc07-4659-af9d-46eabda76215> .
+<http://drug.uk/interaction/atorvastatin-leniolisib> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-letermovir> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-letermovir> <http://drug.uk/model/interactingDrug> <http://drug.uk/letermovir> .
+<http://drug.uk/interaction/atorvastatin-letermovir> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/ac924528-a1eb-4597-abc9-103f939a8161> .
+<http://drug.uk/interaction/atorvastatin-letermovir> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-lomitapide> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-lomitapide> <http://drug.uk/model/interactingDrug> <http://drug.uk/lomitapide> .
+<http://drug.uk/interaction/atorvastatin-lomitapide> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/97714bb7-ea7c-4ddb-a533-8b84666dbe10> .
+<http://drug.uk/interaction/atorvastatin-lomitapide> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/e00513d8-7e10-451c-a9e3-3698a8d047d2> .
+<http://drug.uk/interaction/atorvastatin-lomitapide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-lorlatinib-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-lorlatinib-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/lorlatinib-specialist-drug> .
+<http://drug.uk/interaction/atorvastatin-lorlatinib-specialist-drug> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/ab2c748c-5a89-490d-aaf9-1a632ebf7642> .
+<http://drug.uk/interaction/atorvastatin-lorlatinib-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-lymecycline> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-lymecycline> <http://drug.uk/model/interactingDrug> <http://drug.uk/lymecycline> .
+<http://drug.uk/interaction/atorvastatin-lymecycline> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/af8ae900-fd7c-4fab-bb02-22a0404ed2f3> .
+<http://drug.uk/interaction/atorvastatin-lymecycline> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-mercaptopurine> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-mercaptopurine> <http://drug.uk/model/interactingDrug> <http://drug.uk/mercaptopurine> .
+<http://drug.uk/interaction/atorvastatin-mercaptopurine> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/9fdada25-50db-4e6e-a4cf-55ce97cfce5b> .
+<http://drug.uk/interaction/atorvastatin-mercaptopurine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-methotrexate> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-methotrexate> <http://drug.uk/model/interactingDrug> <http://drug.uk/methotrexate> .
+<http://drug.uk/interaction/atorvastatin-methotrexate> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/cb796837-6aea-4603-beee-d101278ac283> .
+<http://drug.uk/interaction/atorvastatin-methotrexate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-micafungin> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-micafungin> <http://drug.uk/model/interactingDrug> <http://drug.uk/micafungin> .
+<http://drug.uk/interaction/atorvastatin-micafungin> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/1ab517b0-844a-4e8b-91a2-5b95d75319c7> .
+<http://drug.uk/interaction/atorvastatin-micafungin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-miconazole> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-miconazole> <http://drug.uk/model/interactingDrug> <http://drug.uk/miconazole> .
+<http://drug.uk/interaction/atorvastatin-miconazole> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/e9743cfe-34fa-466f-98a2-9470fb2878c4> .
+<http://drug.uk/interaction/atorvastatin-miconazole> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-minocycline> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-minocycline> <http://drug.uk/model/interactingDrug> <http://drug.uk/minocycline> .
+<http://drug.uk/interaction/atorvastatin-minocycline> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/f494ee98-3c48-47dc-99ca-490f2657fddc> .
+<http://drug.uk/interaction/atorvastatin-minocycline> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-mitotane-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-mitotane-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/mitotane-specialist-drug> .
+<http://drug.uk/interaction/atorvastatin-mitotane-specialist-drug> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/16f1f33d-3b4e-4b1e-9cf7-6a4f8426abda> .
+<http://drug.uk/interaction/atorvastatin-mitotane-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-nelarabine-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-nelarabine-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/nelarabine-specialist-drug> .
+<http://drug.uk/interaction/atorvastatin-nelarabine-specialist-drug> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/6592213e-bfe4-4d6e-b8aa-8ff12f37cacb> .
+<http://drug.uk/interaction/atorvastatin-nelarabine-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-neratinib-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-neratinib-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/neratinib-specialist-drug> .
+<http://drug.uk/interaction/atorvastatin-neratinib-specialist-drug> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/1e2a2aef-0841-4697-97d6-0d02347ad1f0> .
+<http://drug.uk/interaction/atorvastatin-neratinib-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-nevirapine> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-nevirapine> <http://drug.uk/model/interactingDrug> <http://drug.uk/nevirapine> .
+<http://drug.uk/interaction/atorvastatin-nevirapine> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/5560d801-b36d-47ae-8dd1-f10173f8e561> .
+<http://drug.uk/interaction/atorvastatin-nevirapine> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/6c3cb6cc-7977-482c-bf03-2956daa3c213> .
+<http://drug.uk/interaction/atorvastatin-nevirapine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-nicotinic-acid> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-nicotinic-acid> <http://drug.uk/model/interactingDrug> <http://drug.uk/nicotinic-acid> .
+<http://drug.uk/interaction/atorvastatin-nicotinic-acid> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/401ae2f8-066d-4b38-b1ae-bef3b2c8da6a> .
+<http://drug.uk/interaction/atorvastatin-nicotinic-acid> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/7413cb44-edcb-43da-ab2a-3eb257e50ef1> .
+<http://drug.uk/interaction/atorvastatin-nicotinic-acid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-nilotinib-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-nilotinib-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/nilotinib-specialist-drug> .
+<http://drug.uk/interaction/atorvastatin-nilotinib-specialist-drug> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/e5640609-3692-427f-b393-1a81613ad490> .
+<http://drug.uk/interaction/atorvastatin-nilotinib-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-olaparib-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-olaparib-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/olaparib-specialist-drug> .
+<http://drug.uk/interaction/atorvastatin-olaparib-specialist-drug> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/fd38cb41-01a6-4f4f-8a3f-da42b4aae7b2> .
+<http://drug.uk/interaction/atorvastatin-olaparib-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-oxcarbazepine> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-oxcarbazepine> <http://drug.uk/model/interactingDrug> <http://drug.uk/oxcarbazepine> .
+<http://drug.uk/interaction/atorvastatin-oxcarbazepine> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/d01815c7-fabb-4c60-bfc6-53db940af7b6> .
+<http://drug.uk/interaction/atorvastatin-oxcarbazepine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-oxymetholone> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-oxymetholone> <http://drug.uk/model/interactingDrug> <http://drug.uk/oxymetholone> .
+<http://drug.uk/interaction/atorvastatin-oxymetholone> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/18f2d289-9008-40db-93da-9be655a9d123> .
+<http://drug.uk/interaction/atorvastatin-oxymetholone> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-oxytetracycline> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-oxytetracycline> <http://drug.uk/model/interactingDrug> <http://drug.uk/oxytetracycline> .
+<http://drug.uk/interaction/atorvastatin-oxytetracycline> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/9d3b0ca7-a26f-49c4-92da-acac7fc9f451> .
+<http://drug.uk/interaction/atorvastatin-oxytetracycline> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-paracetamol> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-paracetamol> <http://drug.uk/model/interactingDrug> <http://drug.uk/paracetamol> .
+<http://drug.uk/interaction/atorvastatin-paracetamol> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/3a517098-7f88-441a-8296-b01094fc22fb> .
+<http://drug.uk/interaction/atorvastatin-paracetamol> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-pazopanib-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-pazopanib-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/pazopanib-specialist-drug> .
+<http://drug.uk/interaction/atorvastatin-pazopanib-specialist-drug> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/f171858c-6475-411d-9f7a-681538120864> .
+<http://drug.uk/interaction/atorvastatin-pazopanib-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-pegaspargase-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-pegaspargase-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/pegaspargase-specialist-drug> .
+<http://drug.uk/interaction/atorvastatin-pegaspargase-specialist-drug> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/61d2bb33-b982-48f9-be50-51461ecef802> .
+<http://drug.uk/interaction/atorvastatin-pegaspargase-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-pemetrexed-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-pemetrexed-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/pemetrexed-specialist-drug> .
+<http://drug.uk/interaction/atorvastatin-pemetrexed-specialist-drug> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/3f76843a-0fb8-45d4-a247-cc4792b34c4e> .
+<http://drug.uk/interaction/atorvastatin-pemetrexed-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-phenobarbital> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-phenobarbital> <http://drug.uk/model/interactingDrug> <http://drug.uk/phenobarbital> .
+<http://drug.uk/interaction/atorvastatin-phenobarbital> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/f3ba19c1-37a1-452e-a4b0-c44b2ef38a6f> .
+<http://drug.uk/interaction/atorvastatin-phenobarbital> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-phenytoin> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-phenytoin> <http://drug.uk/model/interactingDrug> <http://drug.uk/phenytoin> .
+<http://drug.uk/interaction/atorvastatin-phenytoin> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/0994f517-4b20-426c-86be-916137cd157b> .
+<http://drug.uk/interaction/atorvastatin-phenytoin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-pomalidomide-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-pomalidomide-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/pomalidomide-specialist-drug> .
+<http://drug.uk/interaction/atorvastatin-pomalidomide-specialist-drug> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/6ad22dde-1f86-42e0-a82d-d4fc4131550e> .
+<http://drug.uk/interaction/atorvastatin-pomalidomide-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-posaconazole> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-posaconazole> <http://drug.uk/model/interactingDrug> <http://drug.uk/posaconazole> .
+<http://drug.uk/interaction/atorvastatin-posaconazole> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/d02be473-c388-431d-bb5e-d86633a0607a> .
+<http://drug.uk/interaction/atorvastatin-posaconazole> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-primidone> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-primidone> <http://drug.uk/model/interactingDrug> <http://drug.uk/primidone> .
+<http://drug.uk/interaction/atorvastatin-primidone> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/f887bb54-b64e-4639-87ea-04eba82b1e64> .
+<http://drug.uk/interaction/atorvastatin-primidone> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-pyrazinamide> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-pyrazinamide> <http://drug.uk/model/interactingDrug> <http://drug.uk/pyrazinamide> .
+<http://drug.uk/interaction/atorvastatin-pyrazinamide> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/415e0175-c5c4-4dc2-85af-0051366a6b05> .
+<http://drug.uk/interaction/atorvastatin-pyrazinamide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-ranolazine> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-ranolazine> <http://drug.uk/model/interactingDrug> <http://drug.uk/ranolazine> .
+<http://drug.uk/interaction/atorvastatin-ranolazine> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/0141624c-b477-4fcf-98f6-279a346d6c27> .
+<http://drug.uk/interaction/atorvastatin-ranolazine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-regorafenib-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-regorafenib-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/regorafenib-specialist-drug> .
+<http://drug.uk/interaction/atorvastatin-regorafenib-specialist-drug> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/3d579cc1-6194-4175-a632-d5844240018a> .
+<http://drug.uk/interaction/atorvastatin-regorafenib-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-rifampicin> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-rifampicin> <http://drug.uk/model/interactingDrug> <http://drug.uk/rifampicin> .
+<http://drug.uk/interaction/atorvastatin-rifampicin> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/66c68683-88fc-4a9c-bd2b-45e79412af4d> .
+<http://drug.uk/interaction/atorvastatin-rifampicin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-ritonavir> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-ritonavir> <http://drug.uk/model/interactingDrug> <http://drug.uk/ritonavir> .
+<http://drug.uk/interaction/atorvastatin-ritonavir> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/3a0c7a80-b8dc-4514-9de7-80606464641e> .
+<http://drug.uk/interaction/atorvastatin-ritonavir> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/9e1e5da4-e0e5-432b-8458-2d3e1aeb63fd> .
+<http://drug.uk/interaction/atorvastatin-ritonavir> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-roxadustat> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-roxadustat> <http://drug.uk/model/interactingDrug> <http://drug.uk/roxadustat> .
+<http://drug.uk/interaction/atorvastatin-roxadustat> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/c42c8abc-8b88-481e-a22e-1326914898ac> .
+<http://drug.uk/interaction/atorvastatin-roxadustat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-sarilumab> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-sarilumab> <http://drug.uk/model/interactingDrug> <http://drug.uk/sarilumab> .
+<http://drug.uk/interaction/atorvastatin-sarilumab> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/010b5192-9f2a-4263-b3ba-1ec8e7647ac7> .
+<http://drug.uk/interaction/atorvastatin-sarilumab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-sotorasib-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-sotorasib-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/sotorasib-specialist-drug> .
+<http://drug.uk/interaction/atorvastatin-sotorasib-specialist-drug> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/a34e47d3-b27b-4566-95a3-e43f4284b65d> .
+<http://drug.uk/interaction/atorvastatin-sotorasib-specialist-drug> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/d4ce701c-3ae2-4d03-ac82-e6e7436731f6> .
+<http://drug.uk/interaction/atorvastatin-sotorasib-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-st-johns-wort> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-st-johns-wort> <http://drug.uk/model/interactingDrug> <http://drug.uk/st-johns-wort> .
+<http://drug.uk/interaction/atorvastatin-st-johns-wort> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/988b9570-0269-4434-94ff-7ec10c1551ad> .
+<http://drug.uk/interaction/atorvastatin-st-johns-wort> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-streptozocin-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-streptozocin-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/streptozocin-specialist-drug> .
+<http://drug.uk/interaction/atorvastatin-streptozocin-specialist-drug> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/9f9cd1d5-e35a-4548-9e01-eb5b64803501> .
+<http://drug.uk/interaction/atorvastatin-streptozocin-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-talazoparib-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-talazoparib-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/talazoparib-specialist-drug> .
+<http://drug.uk/interaction/atorvastatin-talazoparib-specialist-drug> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/2e4f37d5-379c-4e89-97ab-3c94b0874e29> .
+<http://drug.uk/interaction/atorvastatin-talazoparib-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-tedizolid> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-tedizolid> <http://drug.uk/model/interactingDrug> <http://drug.uk/tedizolid> .
+<http://drug.uk/interaction/atorvastatin-tedizolid> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/771b654f-46b2-4c05-b76a-fc5e7e468715> .
+<http://drug.uk/interaction/atorvastatin-tedizolid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-tepotinib-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-tepotinib-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/tepotinib-specialist-drug> .
+<http://drug.uk/interaction/atorvastatin-tepotinib-specialist-drug> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/90b96b16-7f60-4217-af9b-8bab3fdfca5b> .
+<http://drug.uk/interaction/atorvastatin-tepotinib-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-teriflunomide> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-teriflunomide> <http://drug.uk/model/interactingDrug> <http://drug.uk/teriflunomide> .
+<http://drug.uk/interaction/atorvastatin-teriflunomide> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/935cadbf-295e-41ba-8c53-77009c9e2e51> .
+<http://drug.uk/interaction/atorvastatin-teriflunomide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-tetracycline> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-tetracycline> <http://drug.uk/model/interactingDrug> <http://drug.uk/tetracycline> .
+<http://drug.uk/interaction/atorvastatin-tetracycline> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/2c4c76c2-a2b7-4db2-835a-898e93056f64> .
+<http://drug.uk/interaction/atorvastatin-tetracycline> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-thalidomide-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-thalidomide-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/thalidomide-specialist-drug> .
+<http://drug.uk/interaction/atorvastatin-thalidomide-specialist-drug> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/72fb99c2-7451-4f1a-9fe4-a03f04c88ea6> .
+<http://drug.uk/interaction/atorvastatin-thalidomide-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-tigecycline> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-tigecycline> <http://drug.uk/model/interactingDrug> <http://drug.uk/tigecycline> .
+<http://drug.uk/interaction/atorvastatin-tigecycline> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/98f2f2ae-03b8-4693-a101-9bd5286046a4> .
+<http://drug.uk/interaction/atorvastatin-tigecycline> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-tioguanine-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-tioguanine-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/tioguanine-specialist-drug> .
+<http://drug.uk/interaction/atorvastatin-tioguanine-specialist-drug> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/dd9159e3-ca84-400a-a399-e3be44a5bd06> .
+<http://drug.uk/interaction/atorvastatin-tioguanine-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-tocilizumab> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-tocilizumab> <http://drug.uk/model/interactingDrug> <http://drug.uk/tocilizumab> .
+<http://drug.uk/interaction/atorvastatin-tocilizumab> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/0fe8ab3a-264f-4e2b-8af2-4847df68c5ed> .
+<http://drug.uk/interaction/atorvastatin-tocilizumab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-trabectedin-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-trabectedin-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/trabectedin-specialist-drug> .
+<http://drug.uk/interaction/atorvastatin-trabectedin-specialist-drug> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/6b229dec-2d13-43bc-977b-3e8afc6c8bfd> .
+<http://drug.uk/interaction/atorvastatin-trabectedin-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-tucatinib-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-tucatinib-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/tucatinib-specialist-drug> .
+<http://drug.uk/interaction/atorvastatin-tucatinib-specialist-drug> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/46fa6c6b-0d56-4d1b-bdcd-1b1d6a6bd2eb> .
+<http://drug.uk/interaction/atorvastatin-tucatinib-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-vadadustat> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-vadadustat> <http://drug.uk/model/interactingDrug> <http://drug.uk/vadadustat> .
+<http://drug.uk/interaction/atorvastatin-vadadustat> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/2e25fa38-a455-43a0-8f4d-416116954070> .
+<http://drug.uk/interaction/atorvastatin-vadadustat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-venetoclax-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-venetoclax-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/venetoclax-specialist-drug> .
+<http://drug.uk/interaction/atorvastatin-venetoclax-specialist-drug> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/e21cdffc-a902-4348-84a3-c552716385f1> .
+<http://drug.uk/interaction/atorvastatin-venetoclax-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-vitamin-a> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-vitamin-a> <http://drug.uk/model/interactingDrug> <http://drug.uk/vitamin-a> .
+<http://drug.uk/interaction/atorvastatin-vitamin-a> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/c0ff1a36-4bdf-4c5a-aa3b-257d2a5ab1fa> .
+<http://drug.uk/interaction/atorvastatin-vitamin-a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-voclosporin> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-voclosporin> <http://drug.uk/model/interactingDrug> <http://drug.uk/voclosporin> .
+<http://drug.uk/interaction/atorvastatin-voclosporin> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/69e0dd96-f5ef-4d73-84ee-4678d422eeab> .
+<http://drug.uk/interaction/atorvastatin-voclosporin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-voriconazole> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-voriconazole> <http://drug.uk/model/interactingDrug> <http://drug.uk/voriconazole> .
+<http://drug.uk/interaction/atorvastatin-voriconazole> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/198e2824-83b2-4bdc-8d4d-7babc169937d> .
+<http://drug.uk/interaction/atorvastatin-voriconazole> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/5011fe74-16d4-4730-a83d-32da049be3ca> .
+<http://drug.uk/interaction/atorvastatin-voriconazole> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-zidovudine> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-zidovudine> <http://drug.uk/model/interactingDrug> <http://drug.uk/zidovudine> .
+<http://drug.uk/interaction/atorvastatin-zidovudine> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/a6e86fcf-69a1-4505-9bd2-011efa83421c> .
+<http://drug.uk/interaction/atorvastatin-zidovudine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/detail/010b5192-9f2a-4263-b3ba-1ec8e7647ac7> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/010b5192-9f2a-4263-b3ba-1ec8e7647ac7> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/010b5192-9f2a-4263-b3ba-1ec8e7647ac7> <http://purl.org/dc/terms/description> "Sarilumab is predicted to decrease the exposure to Atorvastatin. Manufacturer advises caution.  " .
+<http://drug.uk/interaction/detail/010b5192-9f2a-4263-b3ba-1ec8e7647ac7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/0141624c-b477-4fcf-98f6-279a346d6c27> <http://drug.uk/model/evidence> "Theoretical" .
+<http://drug.uk/interaction/detail/0141624c-b477-4fcf-98f6-279a346d6c27> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/0141624c-b477-4fcf-98f6-279a346d6c27> <http://purl.org/dc/terms/description> "Ranolazine is predicted to increase the exposure to Atorvastatin. Manufacturer makes no recommendation.  " .
+<http://drug.uk/interaction/detail/0141624c-b477-4fcf-98f6-279a346d6c27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/081bcdfd-c8d3-4804-846e-f1ac88dbf56a> <http://drug.uk/model/evidence> "Anecdotal" .
+<http://drug.uk/interaction/detail/081bcdfd-c8d3-4804-846e-f1ac88dbf56a> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/081bcdfd-c8d3-4804-846e-f1ac88dbf56a> <http://purl.org/dc/terms/description> "Empagliflozin has been reported to increase the risk of muscle effects when given after Atorvastatin. Manufacturer makes no recommendation.  " .
+<http://drug.uk/interaction/detail/081bcdfd-c8d3-4804-846e-f1ac88dbf56a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/088f5127-315d-4f6e-bd17-af25b8c21462> <http://drug.uk/model/evidence> "Theoretical" .
+<http://drug.uk/interaction/detail/088f5127-315d-4f6e-bd17-af25b8c21462> <http://drug.uk/model/severity> "Severe" .
+<http://drug.uk/interaction/detail/088f5127-315d-4f6e-bd17-af25b8c21462> <http://purl.org/dc/terms/description> "Atorvastatin is predicted to increase the risk of rhabdomyolysis when given with Daptomycin. Manufacturer advises monitor.  " .
+<http://drug.uk/interaction/detail/088f5127-315d-4f6e-bd17-af25b8c21462> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/0994f517-4b20-426c-86be-916137cd157b> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/0994f517-4b20-426c-86be-916137cd157b> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/0994f517-4b20-426c-86be-916137cd157b> <http://purl.org/dc/terms/description> "Phenytoin moderately decreases the exposure to Atorvastatin. Manufacturer makes no recommendation.  " .
+<http://drug.uk/interaction/detail/0994f517-4b20-426c-86be-916137cd157b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/0cd526f2-92d4-4547-ae64-edf0210f4530> <http://drug.uk/model/evidence> "Theoretical" .
+<http://drug.uk/interaction/detail/0cd526f2-92d4-4547-ae64-edf0210f4530> <http://drug.uk/model/severity> "Severe" .
+<http://drug.uk/interaction/detail/0cd526f2-92d4-4547-ae64-edf0210f4530> <http://purl.org/dc/terms/description> "Darolutamide is predicted to increase the exposure to Atorvastatin. Manufacturer advises avoid.  " .
+<http://drug.uk/interaction/detail/0cd526f2-92d4-4547-ae64-edf0210f4530> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/0fe8ab3a-264f-4e2b-8af2-4847df68c5ed> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/0fe8ab3a-264f-4e2b-8af2-4847df68c5ed> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/0fe8ab3a-264f-4e2b-8af2-4847df68c5ed> <http://purl.org/dc/terms/description> "Tocilizumab is predicted to decrease the exposure to Atorvastatin. Manufacturer advises monitor and adjust dose.  " .
+<http://drug.uk/interaction/detail/0fe8ab3a-264f-4e2b-8af2-4847df68c5ed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/11f365ba-f4b6-4d21-a5e6-9ab5bdc76fd2> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/11f365ba-f4b6-4d21-a5e6-9ab5bdc76fd2> <http://drug.uk/model/severity> "Severe" .
+<http://drug.uk/interaction/detail/11f365ba-f4b6-4d21-a5e6-9ab5bdc76fd2> <http://purl.org/dc/terms/description> "Clarithromycin is predicted to increase the exposure to Atorvastatin. Manufacturer advises avoid or adjust dose and monitor rhabdomyolysis.  " .
+<http://drug.uk/interaction/detail/11f365ba-f4b6-4d21-a5e6-9ab5bdc76fd2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/12363d81-ba6e-42e7-b8dc-57e0168cc688> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/12363d81-ba6e-42e7-b8dc-57e0168cc688> <http://purl.org/dc/terms/description> "Both Atorvastatin and Cytarabine can increase the risk of hepatotoxicity." .
+<http://drug.uk/interaction/detail/12363d81-ba6e-42e7-b8dc-57e0168cc688> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/13a82f86-68fa-42de-8575-b534ffb522e6> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/13a82f86-68fa-42de-8575-b534ffb522e6> <http://purl.org/dc/terms/description> "Both Atorvastatin and Fluorouracil can increase the risk of hepatotoxicity." .
+<http://drug.uk/interaction/detail/13a82f86-68fa-42de-8575-b534ffb522e6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/149e8e01-07ce-4275-83bc-969b26602fba> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/149e8e01-07ce-4275-83bc-969b26602fba> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/149e8e01-07ce-4275-83bc-969b26602fba> <http://purl.org/dc/terms/description> "Carbamazepine is predicted to decrease the exposure to Atorvastatin. Manufacturer advises monitor and adjust dose.  " .
+<http://drug.uk/interaction/detail/149e8e01-07ce-4275-83bc-969b26602fba> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/16f1f33d-3b4e-4b1e-9cf7-6a4f8426abda> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/16f1f33d-3b4e-4b1e-9cf7-6a4f8426abda> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/16f1f33d-3b4e-4b1e-9cf7-6a4f8426abda> <http://purl.org/dc/terms/description> "Mitotane is predicted to decrease the exposure to Atorvastatin. Manufacturer makes no recommendation.  " .
+<http://drug.uk/interaction/detail/16f1f33d-3b4e-4b1e-9cf7-6a4f8426abda> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/17560c81-eac4-4772-bb1f-1d612cf81967> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/17560c81-eac4-4772-bb1f-1d612cf81967> <http://purl.org/dc/terms/description> "Both Atorvastatin and Acitretin can increase the risk of hepatotoxicity." .
+<http://drug.uk/interaction/detail/17560c81-eac4-4772-bb1f-1d612cf81967> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/18c2ce81-87ef-4c48-b7f9-be4023871e83> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/18c2ce81-87ef-4c48-b7f9-be4023871e83> <http://purl.org/dc/terms/description> "Both Atorvastatin and Lenalidomide can increase the risk of hepatotoxicity." .
+<http://drug.uk/interaction/detail/18c2ce81-87ef-4c48-b7f9-be4023871e83> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/18f2d289-9008-40db-93da-9be655a9d123> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/18f2d289-9008-40db-93da-9be655a9d123> <http://purl.org/dc/terms/description> "Both Atorvastatin and Oxymetholone can increase the risk of hepatotoxicity." .
+<http://drug.uk/interaction/detail/18f2d289-9008-40db-93da-9be655a9d123> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/198e2824-83b2-4bdc-8d4d-7babc169937d> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/198e2824-83b2-4bdc-8d4d-7babc169937d> <http://drug.uk/model/severity> "Severe" .
+<http://drug.uk/interaction/detail/198e2824-83b2-4bdc-8d4d-7babc169937d> <http://purl.org/dc/terms/description> "Voriconazole is predicted to increase the exposure to Atorvastatin. Manufacturer advises avoid or adjust dose and monitor rhabdomyolysis.  " .
+<http://drug.uk/interaction/detail/198e2824-83b2-4bdc-8d4d-7babc169937d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/1a89d61f-c3d0-44ed-b9bd-08bd845c64dc> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/1a89d61f-c3d0-44ed-b9bd-08bd845c64dc> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/1a89d61f-c3d0-44ed-b9bd-08bd845c64dc> <http://purl.org/dc/terms/description> "Eltrombopag is predicted to increase the exposure to Atorvastatin. Manufacturer advises monitor and adjust dose.  " .
+<http://drug.uk/interaction/detail/1a89d61f-c3d0-44ed-b9bd-08bd845c64dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/1ab517b0-844a-4e8b-91a2-5b95d75319c7> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/1ab517b0-844a-4e8b-91a2-5b95d75319c7> <http://purl.org/dc/terms/description> "Both Atorvastatin and Micafungin can increase the risk of hepatotoxicity." .
+<http://drug.uk/interaction/detail/1ab517b0-844a-4e8b-91a2-5b95d75319c7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/1b3f44ef-6ebb-4487-babb-1e85a5032e2f> <http://drug.uk/model/evidence> "Anecdotal" .
+<http://drug.uk/interaction/detail/1b3f44ef-6ebb-4487-babb-1e85a5032e2f> <http://drug.uk/model/severity> "Severe" .
+<http://drug.uk/interaction/detail/1b3f44ef-6ebb-4487-babb-1e85a5032e2f> <http://purl.org/dc/terms/description> "Fluconazole is predicted to increase the exposure to Atorvastatin. Manufacturer advises monitor and adjust dose.  " .
+<http://drug.uk/interaction/detail/1b3f44ef-6ebb-4487-babb-1e85a5032e2f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/1e2a2aef-0841-4697-97d6-0d02347ad1f0> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/1e2a2aef-0841-4697-97d6-0d02347ad1f0> <http://purl.org/dc/terms/description> "Both Atorvastatin and Neratinib can increase the risk of hepatotoxicity." .
+<http://drug.uk/interaction/detail/1e2a2aef-0841-4697-97d6-0d02347ad1f0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/1ff541a4-8471-45b0-99ca-2fbb1f9a39eb> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/1ff541a4-8471-45b0-99ca-2fbb1f9a39eb> <http://drug.uk/model/severity> "Severe" .
+<http://drug.uk/interaction/detail/1ff541a4-8471-45b0-99ca-2fbb1f9a39eb> <http://purl.org/dc/terms/description> "Bezafibrate increases the risk of rhabdomyolysis when given with Atorvastatin. Manufacturer advises monitor.  " .
+<http://drug.uk/interaction/detail/1ff541a4-8471-45b0-99ca-2fbb1f9a39eb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/22e40dcf-013a-4d0e-9c7d-4cf9901cf5e3> <http://drug.uk/model/evidence> "Theoretical" .
+<http://drug.uk/interaction/detail/22e40dcf-013a-4d0e-9c7d-4cf9901cf5e3> <http://drug.uk/model/severity> "Severe" .
+<http://drug.uk/interaction/detail/22e40dcf-013a-4d0e-9c7d-4cf9901cf5e3> <http://purl.org/dc/terms/description> "Fostemsavir is predicted to increase the exposure to Atorvastatin. Manufacturer advises adjust starting dose and monitor.  " .
+<http://drug.uk/interaction/detail/22e40dcf-013a-4d0e-9c7d-4cf9901cf5e3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/2304a069-b553-468e-ae07-f06e77ca5815> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/2304a069-b553-468e-ae07-f06e77ca5815> <http://purl.org/dc/terms/description> "Both Atorvastatin and Crisantaspase can increase the risk of hepatotoxicity." .
+<http://drug.uk/interaction/detail/2304a069-b553-468e-ae07-f06e77ca5815> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/24dc3a3d-2869-49ad-9a52-bef75e5366a2> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/24dc3a3d-2869-49ad-9a52-bef75e5366a2> <http://drug.uk/model/severity> "Severe" .
+<http://drug.uk/interaction/detail/24dc3a3d-2869-49ad-9a52-bef75e5366a2> <http://purl.org/dc/terms/description> "Erythromycin slightly increases the exposure to Atorvastatin. Manufacturer advises monitor and adjust dose.  " .
+<http://drug.uk/interaction/detail/24dc3a3d-2869-49ad-9a52-bef75e5366a2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/26fe8810-f9fa-42f2-bc7c-931089948466> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/26fe8810-f9fa-42f2-bc7c-931089948466> <http://purl.org/dc/terms/description> "Both Atorvastatin and Gemcitabine can increase the risk of hepatotoxicity." .
+<http://drug.uk/interaction/detail/26fe8810-f9fa-42f2-bc7c-931089948466> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/2c0b45b0-4d10-479d-b211-270b791821fd> <http://drug.uk/model/evidence> "Theoretical" .
+<http://drug.uk/interaction/detail/2c0b45b0-4d10-479d-b211-270b791821fd> <http://drug.uk/model/severity> "Severe" .
+<http://drug.uk/interaction/detail/2c0b45b0-4d10-479d-b211-270b791821fd> <http://purl.org/dc/terms/description> "Aprepitant is predicted to increase the exposure to Atorvastatin. Manufacturer advises monitor and adjust dose.  " .
+<http://drug.uk/interaction/detail/2c0b45b0-4d10-479d-b211-270b791821fd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/2c4c76c2-a2b7-4db2-835a-898e93056f64> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/2c4c76c2-a2b7-4db2-835a-898e93056f64> <http://purl.org/dc/terms/description> "Both Atorvastatin and Tetracycline can increase the risk of hepatotoxicity." .
+<http://drug.uk/interaction/detail/2c4c76c2-a2b7-4db2-835a-898e93056f64> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/2e25fa38-a455-43a0-8f4d-416116954070> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/2e25fa38-a455-43a0-8f4d-416116954070> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/2e25fa38-a455-43a0-8f4d-416116954070> <http://purl.org/dc/terms/description> "Vadadustat is predicted to increase the exposure to Atorvastatin. Manufacturer advises monitor and adjust dose.  " .
+<http://drug.uk/interaction/detail/2e25fa38-a455-43a0-8f4d-416116954070> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/2e4f37d5-379c-4e89-97ab-3c94b0874e29> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/2e4f37d5-379c-4e89-97ab-3c94b0874e29> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/2e4f37d5-379c-4e89-97ab-3c94b0874e29> <http://purl.org/dc/terms/description> "Atorvastatin very slightly increases the exposure to Talazoparib. Manufacturer makes no recommendation.  " .
+<http://drug.uk/interaction/detail/2e4f37d5-379c-4e89-97ab-3c94b0874e29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/3139dd03-8165-4bf0-a94f-76d871d543a9> <http://drug.uk/model/evidence> "Theoretical" .
+<http://drug.uk/interaction/detail/3139dd03-8165-4bf0-a94f-76d871d543a9> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/3139dd03-8165-4bf0-a94f-76d871d543a9> <http://purl.org/dc/terms/description> "Cilostazol is predicted to increase the exposure to Atorvastatin. Manufacturer advises caution.  " .
+<http://drug.uk/interaction/detail/3139dd03-8165-4bf0-a94f-76d871d543a9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/3a05bbd1-e8ba-4361-9902-eed8f3907460> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/3a05bbd1-e8ba-4361-9902-eed8f3907460> <http://purl.org/dc/terms/description> "Both Atorvastatin and Carmustine can increase the risk of hepatotoxicity." .
+<http://drug.uk/interaction/detail/3a05bbd1-e8ba-4361-9902-eed8f3907460> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/3a0c7a80-b8dc-4514-9de7-80606464641e> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/3a0c7a80-b8dc-4514-9de7-80606464641e> <http://drug.uk/model/severity> "Severe" .
+<http://drug.uk/interaction/detail/3a0c7a80-b8dc-4514-9de7-80606464641e> <http://purl.org/dc/terms/description> "Ritonavir is predicted to increase the exposure to Atorvastatin. Manufacturer advises avoid or adjust dose and monitor rhabdomyolysis.  " .
+<http://drug.uk/interaction/detail/3a0c7a80-b8dc-4514-9de7-80606464641e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/3a517098-7f88-441a-8296-b01094fc22fb> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/3a517098-7f88-441a-8296-b01094fc22fb> <http://purl.org/dc/terms/description> "Both Atorvastatin and Paracetamol can increase the risk of hepatotoxicity." .
+<http://drug.uk/interaction/detail/3a517098-7f88-441a-8296-b01094fc22fb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/3c19c270-f770-407c-b6e8-da679c448ca5> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/3c19c270-f770-407c-b6e8-da679c448ca5> <http://purl.org/dc/terms/description> "Both Atorvastatin and Isotretinoin can increase the risk of hepatotoxicity." .
+<http://drug.uk/interaction/detail/3c19c270-f770-407c-b6e8-da679c448ca5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/3d579cc1-6194-4175-a632-d5844240018a> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/3d579cc1-6194-4175-a632-d5844240018a> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/3d579cc1-6194-4175-a632-d5844240018a> <http://purl.org/dc/terms/description> "Regorafenib is predicted to increase the exposure to Atorvastatin. Manufacturer advises monitor adverse effects.  " .
+<http://drug.uk/interaction/detail/3d579cc1-6194-4175-a632-d5844240018a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/3ed1cf0f-b9da-4d27-b523-e7c90e5efa97> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/3ed1cf0f-b9da-4d27-b523-e7c90e5efa97> <http://purl.org/dc/terms/description> "Both Atorvastatin and Clofarabine can increase the risk of hepatotoxicity." .
+<http://drug.uk/interaction/detail/3ed1cf0f-b9da-4d27-b523-e7c90e5efa97> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/3f76843a-0fb8-45d4-a247-cc4792b34c4e> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/3f76843a-0fb8-45d4-a247-cc4792b34c4e> <http://purl.org/dc/terms/description> "Both Atorvastatin and Pemetrexed can increase the risk of hepatotoxicity." .
+<http://drug.uk/interaction/detail/3f76843a-0fb8-45d4-a247-cc4792b34c4e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/401ae2f8-066d-4b38-b1ae-bef3b2c8da6a> <http://drug.uk/model/evidence> "Theoretical" .
+<http://drug.uk/interaction/detail/401ae2f8-066d-4b38-b1ae-bef3b2c8da6a> <http://drug.uk/model/severity> "Severe" .
+<http://drug.uk/interaction/detail/401ae2f8-066d-4b38-b1ae-bef3b2c8da6a> <http://purl.org/dc/terms/description> "Nicotinic acid might increase the risk of rhabdomyolysis when given with Atorvastatin. Manufacturer advises use with caution or avoid.  " .
+<http://drug.uk/interaction/detail/401ae2f8-066d-4b38-b1ae-bef3b2c8da6a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/415e0175-c5c4-4dc2-85af-0051366a6b05> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/415e0175-c5c4-4dc2-85af-0051366a6b05> <http://purl.org/dc/terms/description> "Both Atorvastatin and Pyrazinamide can increase the risk of hepatotoxicity." .
+<http://drug.uk/interaction/detail/415e0175-c5c4-4dc2-85af-0051366a6b05> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/46fa6c6b-0d56-4d1b-bdcd-1b1d6a6bd2eb> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/46fa6c6b-0d56-4d1b-bdcd-1b1d6a6bd2eb> <http://drug.uk/model/severity> "Severe" .
+<http://drug.uk/interaction/detail/46fa6c6b-0d56-4d1b-bdcd-1b1d6a6bd2eb> <http://purl.org/dc/terms/description> "Tucatinib is predicted to increase the exposure to Atorvastatin. Manufacturer advises avoid or adjust dose and monitor rhabdomyolysis.  " .
+<http://drug.uk/interaction/detail/46fa6c6b-0d56-4d1b-bdcd-1b1d6a6bd2eb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/48e4e8bc-c770-44d3-8a9b-856af949c811> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/48e4e8bc-c770-44d3-8a9b-856af949c811> <http://purl.org/dc/terms/description> "Both Atorvastatin and Flutamide can increase the risk of hepatotoxicity." .
+<http://drug.uk/interaction/detail/48e4e8bc-c770-44d3-8a9b-856af949c811> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/4947a5ed-e3fe-4eb1-ba9d-94d51bc1739f> <http://drug.uk/model/evidence> "Theoretical" .
+<http://drug.uk/interaction/detail/4947a5ed-e3fe-4eb1-ba9d-94d51bc1739f> <http://drug.uk/model/severity> "Unknown" .
+<http://drug.uk/interaction/detail/4947a5ed-e3fe-4eb1-ba9d-94d51bc1739f> <http://purl.org/dc/terms/description> "Ivosidenib is predicted to increase the exposure to Atorvastatin. Manufacturer advises use with caution or avoid.  " .
+<http://drug.uk/interaction/detail/4947a5ed-e3fe-4eb1-ba9d-94d51bc1739f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/4b1259cd-6fe5-4dd8-94fd-acf803ff7e13> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/4b1259cd-6fe5-4dd8-94fd-acf803ff7e13> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/4b1259cd-6fe5-4dd8-94fd-acf803ff7e13> <http://purl.org/dc/terms/description> "Isavuconazole slightly increases the exposure to Atorvastatin. Manufacturer advises monitor adverse effects.  " .
+<http://drug.uk/interaction/detail/4b1259cd-6fe5-4dd8-94fd-acf803ff7e13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/4c6be75c-4567-4040-b0d5-ca13e334cba1> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/4c6be75c-4567-4040-b0d5-ca13e334cba1> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/4c6be75c-4567-4040-b0d5-ca13e334cba1> <http://purl.org/dc/terms/description> "Atorvastatin slightly to moderately increases the exposure to Aliskiren. Manufacturer makes no recommendation.  " .
+<http://drug.uk/interaction/detail/4c6be75c-4567-4040-b0d5-ca13e334cba1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/4cf576aa-a9ec-4496-8c00-801ae86e5803> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/4cf576aa-a9ec-4496-8c00-801ae86e5803> <http://purl.org/dc/terms/description> "Both Atorvastatin and Eravacycline can increase the risk of hepatotoxicity." .
+<http://drug.uk/interaction/detail/4cf576aa-a9ec-4496-8c00-801ae86e5803> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/4d1cdf59-d536-45f1-a309-e5cbbbf3931c> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/4d1cdf59-d536-45f1-a309-e5cbbbf3931c> <http://drug.uk/model/severity> "Severe" .
+<http://drug.uk/interaction/detail/4d1cdf59-d536-45f1-a309-e5cbbbf3931c> <http://purl.org/dc/terms/description> "Fosamprenavir is predicted to increase the exposure to Atorvastatin. Manufacturer advises avoid or adjust dose and monitor rhabdomyolysis.  " .
+<http://drug.uk/interaction/detail/4d1cdf59-d536-45f1-a309-e5cbbbf3931c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/5011fe74-16d4-4730-a83d-32da049be3ca> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/5011fe74-16d4-4730-a83d-32da049be3ca> <http://purl.org/dc/terms/description> "Both Atorvastatin and Voriconazole can increase the risk of hepatotoxicity." .
+<http://drug.uk/interaction/detail/5011fe74-16d4-4730-a83d-32da049be3ca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/51e21918-2be4-49b9-a4bb-12d1ef73c975> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/51e21918-2be4-49b9-a4bb-12d1ef73c975> <http://drug.uk/model/severity> "Severe" .
+<http://drug.uk/interaction/detail/51e21918-2be4-49b9-a4bb-12d1ef73c975> <http://purl.org/dc/terms/description> "Atazanavir is predicted to increase the exposure to Atorvastatin. Manufacturer advises avoid or adjust dose and monitor rhabdomyolysis.  " .
+<http://drug.uk/interaction/detail/51e21918-2be4-49b9-a4bb-12d1ef73c975> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/52f0a60b-a727-41c5-8938-ce3995b80ec8> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/52f0a60b-a727-41c5-8938-ce3995b80ec8> <http://drug.uk/model/severity> "Severe" .
+<http://drug.uk/interaction/detail/52f0a60b-a727-41c5-8938-ce3995b80ec8> <http://purl.org/dc/terms/description> "Ciprofibrate increases the risk of rhabdomyolysis when given with Atorvastatin. Manufacturer advises avoid or adjust dose.  " .
+<http://drug.uk/interaction/detail/52f0a60b-a727-41c5-8938-ce3995b80ec8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/54886efa-f891-40b1-aa34-b2c88c8f95c2> <http://drug.uk/model/evidence> "Theoretical" .
+<http://drug.uk/interaction/detail/54886efa-f891-40b1-aa34-b2c88c8f95c2> <http://drug.uk/model/severity> "Severe" .
+<http://drug.uk/interaction/detail/54886efa-f891-40b1-aa34-b2c88c8f95c2> <http://purl.org/dc/terms/description> "Acipimox is predicted to increase the risk of rhabdomyolysis when given with Atorvastatin. Manufacturer advises caution.  " .
+<http://drug.uk/interaction/detail/54886efa-f891-40b1-aa34-b2c88c8f95c2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/54ed2ac1-a905-45d5-a3b1-18b71bd6396a> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/54ed2ac1-a905-45d5-a3b1-18b71bd6396a> <http://drug.uk/model/severity> "Severe" .
+<http://drug.uk/interaction/detail/54ed2ac1-a905-45d5-a3b1-18b71bd6396a> <http://purl.org/dc/terms/description> "Idelalisib is predicted to increase the exposure to Atorvastatin. Manufacturer advises avoid or adjust dose and monitor rhabdomyolysis.  " .
+<http://drug.uk/interaction/detail/54ed2ac1-a905-45d5-a3b1-18b71bd6396a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/5560d801-b36d-47ae-8dd1-f10173f8e561> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/5560d801-b36d-47ae-8dd1-f10173f8e561> <http://purl.org/dc/terms/description> "Both Atorvastatin and Nevirapine can increase the risk of hepatotoxicity." .
+<http://drug.uk/interaction/detail/5560d801-b36d-47ae-8dd1-f10173f8e561> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/5aafca04-176c-470d-9dc1-83ee5afe4cba> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/5aafca04-176c-470d-9dc1-83ee5afe4cba> <http://purl.org/dc/terms/description> "Both Atorvastatin and Asparaginase can increase the risk of hepatotoxicity." .
+<http://drug.uk/interaction/detail/5aafca04-176c-470d-9dc1-83ee5afe4cba> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/61d2bb33-b982-48f9-be50-51461ecef802> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/61d2bb33-b982-48f9-be50-51461ecef802> <http://purl.org/dc/terms/description> "Both Atorvastatin and Pegaspargase can increase the risk of hepatotoxicity." .
+<http://drug.uk/interaction/detail/61d2bb33-b982-48f9-be50-51461ecef802> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/61f2784d-9e1b-4ba0-ab45-8d628b695842> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/61f2784d-9e1b-4ba0-ab45-8d628b695842> <http://drug.uk/model/severity> "Severe" .
+<http://drug.uk/interaction/detail/61f2784d-9e1b-4ba0-ab45-8d628b695842> <http://purl.org/dc/terms/description> "Darunavir is predicted to increase the exposure to Atorvastatin. Manufacturer advises avoid or adjust dose and monitor rhabdomyolysis.  " .
+<http://drug.uk/interaction/detail/61f2784d-9e1b-4ba0-ab45-8d628b695842> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/6592213e-bfe4-4d6e-b8aa-8ff12f37cacb> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/6592213e-bfe4-4d6e-b8aa-8ff12f37cacb> <http://purl.org/dc/terms/description> "Both Atorvastatin and Nelarabine can increase the risk of hepatotoxicity." .
+<http://drug.uk/interaction/detail/6592213e-bfe4-4d6e-b8aa-8ff12f37cacb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/65d10e26-2c72-44d7-806f-cc54a67890b0> <http://drug.uk/model/evidence> "Theoretical" .
+<http://drug.uk/interaction/detail/65d10e26-2c72-44d7-806f-cc54a67890b0> <http://drug.uk/model/severity> "Severe" .
+<http://drug.uk/interaction/detail/65d10e26-2c72-44d7-806f-cc54a67890b0> <http://purl.org/dc/terms/description> "Imatinib is predicted to increase the exposure to Atorvastatin. Manufacturer advises monitor and adjust dose.  " .
+<http://drug.uk/interaction/detail/65d10e26-2c72-44d7-806f-cc54a67890b0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/66c68683-88fc-4a9c-bd2b-45e79412af4d> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/66c68683-88fc-4a9c-bd2b-45e79412af4d> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/66c68683-88fc-4a9c-bd2b-45e79412af4d> <http://purl.org/dc/terms/description> "Rifampicin markedly decreases the exposure to Atorvastatin. Manufacturer advises take both drugs at the same time.  " .
+<http://drug.uk/interaction/detail/66c68683-88fc-4a9c-bd2b-45e79412af4d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/67b32335-7185-4f2f-a25b-f5e307fe42cf> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/67b32335-7185-4f2f-a25b-f5e307fe42cf> <http://drug.uk/model/severity> "Mild" .
+<http://drug.uk/interaction/detail/67b32335-7185-4f2f-a25b-f5e307fe42cf> <http://purl.org/dc/terms/description> "Grapefruit juice increases the exposure to Atorvastatin. Manufacturer advises caution.  " .
+<http://drug.uk/interaction/detail/67b32335-7185-4f2f-a25b-f5e307fe42cf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/69e0dd96-f5ef-4d73-84ee-4678d422eeab> <http://drug.uk/model/evidence> "Theoretical" .
+<http://drug.uk/interaction/detail/69e0dd96-f5ef-4d73-84ee-4678d422eeab> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/69e0dd96-f5ef-4d73-84ee-4678d422eeab> <http://purl.org/dc/terms/description> "Voclosporin is predicted to increase the concentration of Atorvastatin. Manufacturer advises monitor.  " .
+<http://drug.uk/interaction/detail/69e0dd96-f5ef-4d73-84ee-4678d422eeab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/6ad22dde-1f86-42e0-a82d-d4fc4131550e> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/6ad22dde-1f86-42e0-a82d-d4fc4131550e> <http://purl.org/dc/terms/description> "Both Atorvastatin and Pomalidomide can increase the risk of hepatotoxicity." .
+<http://drug.uk/interaction/detail/6ad22dde-1f86-42e0-a82d-d4fc4131550e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/6b229dec-2d13-43bc-977b-3e8afc6c8bfd> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/6b229dec-2d13-43bc-977b-3e8afc6c8bfd> <http://purl.org/dc/terms/description> "Both Atorvastatin and Trabectedin can increase the risk of hepatotoxicity." .
+<http://drug.uk/interaction/detail/6b229dec-2d13-43bc-977b-3e8afc6c8bfd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/6c3cb6cc-7977-482c-bf03-2956daa3c213> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/6c3cb6cc-7977-482c-bf03-2956daa3c213> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/6c3cb6cc-7977-482c-bf03-2956daa3c213> <http://purl.org/dc/terms/description> "Nevirapine is predicted to decrease the exposure to Atorvastatin. Manufacturer makes no recommendation.  " .
+<http://drug.uk/interaction/detail/6c3cb6cc-7977-482c-bf03-2956daa3c213> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/72fb99c2-7451-4f1a-9fe4-a03f04c88ea6> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/72fb99c2-7451-4f1a-9fe4-a03f04c88ea6> <http://purl.org/dc/terms/description> "Both Atorvastatin and Thalidomide can increase the risk of hepatotoxicity." .
+<http://drug.uk/interaction/detail/72fb99c2-7451-4f1a-9fe4-a03f04c88ea6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/7413cb44-edcb-43da-ab2a-3eb257e50ef1> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/7413cb44-edcb-43da-ab2a-3eb257e50ef1> <http://purl.org/dc/terms/description> "Both Atorvastatin and Nicotinic acid can increase the risk of hepatotoxicity." .
+<http://drug.uk/interaction/detail/7413cb44-edcb-43da-ab2a-3eb257e50ef1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/76fc2145-6f63-4dbd-9c06-c1297ddc185a> <http://drug.uk/model/evidence> "Theoretical" .
+<http://drug.uk/interaction/detail/76fc2145-6f63-4dbd-9c06-c1297ddc185a> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/76fc2145-6f63-4dbd-9c06-c1297ddc185a> <http://purl.org/dc/terms/description> "Ceftobiprole is predicted to increase the concentration of Atorvastatin. Manufacturer makes no recommendation.  " .
+<http://drug.uk/interaction/detail/76fc2145-6f63-4dbd-9c06-c1297ddc185a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/771b654f-46b2-4c05-b76a-fc5e7e468715> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/771b654f-46b2-4c05-b76a-fc5e7e468715> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/771b654f-46b2-4c05-b76a-fc5e7e468715> <http://purl.org/dc/terms/description> "Tedizolid is predicted to increase the exposure to Atorvastatin. Manufacturer advises avoid.  " .
+<http://drug.uk/interaction/detail/771b654f-46b2-4c05-b76a-fc5e7e468715> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/82c6fc32-bbf8-440c-bd65-ff0f2f1ddf47> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/82c6fc32-bbf8-440c-bd65-ff0f2f1ddf47> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/82c6fc32-bbf8-440c-bd65-ff0f2f1ddf47> <http://purl.org/dc/terms/description> "Apalutamide is predicted to decrease the exposure to Atorvastatin. Manufacturer advises monitor.  " .
+<http://drug.uk/interaction/detail/82c6fc32-bbf8-440c-bd65-ff0f2f1ddf47> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/861bcd39-8bed-41c2-b4fa-fb49f0731fc0> <http://drug.uk/model/evidence> "Theoretical" .
+<http://drug.uk/interaction/detail/861bcd39-8bed-41c2-b4fa-fb49f0731fc0> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/861bcd39-8bed-41c2-b4fa-fb49f0731fc0> <http://purl.org/dc/terms/description> "Fostamatinib is predicted to increase the exposure to Atorvastatin. Manufacturer advises monitor and adjust dose.  " .
+<http://drug.uk/interaction/detail/861bcd39-8bed-41c2-b4fa-fb49f0731fc0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/86c1fb21-46de-4ec6-8871-be64c750df73> <http://drug.uk/model/evidence> "Theoretical" .
+<http://drug.uk/interaction/detail/86c1fb21-46de-4ec6-8871-be64c750df73> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/86c1fb21-46de-4ec6-8871-be64c750df73> <http://purl.org/dc/terms/description> "Crizotinib is predicted to increase the exposure to Atorvastatin. Manufacturer advises monitor and adjust dose.  " .
+<http://drug.uk/interaction/detail/86c1fb21-46de-4ec6-8871-be64c750df73> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/87dae5df-8284-44bb-92e1-c8483a10655b> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/87dae5df-8284-44bb-92e1-c8483a10655b> <http://purl.org/dc/terms/description> "Both Atorvastatin and Alectinib can increase the risk of hepatotoxicity." .
+<http://drug.uk/interaction/detail/87dae5df-8284-44bb-92e1-c8483a10655b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/8eca9d8f-3c6d-49c8-8aff-b1caa2e77d42> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/8eca9d8f-3c6d-49c8-8aff-b1caa2e77d42> <http://drug.uk/model/severity> "Severe" .
+<http://drug.uk/interaction/detail/8eca9d8f-3c6d-49c8-8aff-b1caa2e77d42> <http://purl.org/dc/terms/description> "Gemfibrozil causes a small increase in the exposure to Atorvastatin. Manufacturer advises avoid.  " .
+<http://drug.uk/interaction/detail/8eca9d8f-3c6d-49c8-8aff-b1caa2e77d42> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/90b96b16-7f60-4217-af9b-8bab3fdfca5b> <http://drug.uk/model/evidence> "Theoretical" .
+<http://drug.uk/interaction/detail/90b96b16-7f60-4217-af9b-8bab3fdfca5b> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/90b96b16-7f60-4217-af9b-8bab3fdfca5b> <http://purl.org/dc/terms/description> "Tepotinib might increase the exposure to Atorvastatin. Manufacturer advises monitor.  " .
+<http://drug.uk/interaction/detail/90b96b16-7f60-4217-af9b-8bab3fdfca5b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/9314f43e-8843-46a5-8fcf-bfcd1203d97d> <http://drug.uk/model/evidence> "Theoretical" .
+<http://drug.uk/interaction/detail/9314f43e-8843-46a5-8fcf-bfcd1203d97d> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/9314f43e-8843-46a5-8fcf-bfcd1203d97d> <http://purl.org/dc/terms/description> "Cabazitaxel is predicted to affect the exposure to Atorvastatin. Manufacturer advises take 12 hours before or 3 hours after Cabazitaxel.  " .
+<http://drug.uk/interaction/detail/9314f43e-8843-46a5-8fcf-bfcd1203d97d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/935cadbf-295e-41ba-8c53-77009c9e2e51> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/935cadbf-295e-41ba-8c53-77009c9e2e51> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/935cadbf-295e-41ba-8c53-77009c9e2e51> <http://purl.org/dc/terms/description> "Teriflunomide is predicted to increase the exposure to Atorvastatin. Manufacturer advises caution.  " .
+<http://drug.uk/interaction/detail/935cadbf-295e-41ba-8c53-77009c9e2e51> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/97714bb7-ea7c-4ddb-a533-8b84666dbe10> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/97714bb7-ea7c-4ddb-a533-8b84666dbe10> <http://purl.org/dc/terms/description> "Both Atorvastatin and Lomitapide can increase the risk of hepatotoxicity." .
+<http://drug.uk/interaction/detail/97714bb7-ea7c-4ddb-a533-8b84666dbe10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/97a582d6-1335-411f-a8ae-ad3ac19f8cbb> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/97a582d6-1335-411f-a8ae-ad3ac19f8cbb> <http://purl.org/dc/terms/description> "Both Atorvastatin and Caspofungin can increase the risk of hepatotoxicity." .
+<http://drug.uk/interaction/detail/97a582d6-1335-411f-a8ae-ad3ac19f8cbb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/988b9570-0269-4434-94ff-7ec10c1551ad> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/988b9570-0269-4434-94ff-7ec10c1551ad> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/988b9570-0269-4434-94ff-7ec10c1551ad> <http://purl.org/dc/terms/description> "St John's wort is predicted to decrease the exposure to Atorvastatin. Manufacturer makes no recommendation.  " .
+<http://drug.uk/interaction/detail/988b9570-0269-4434-94ff-7ec10c1551ad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/98f2f2ae-03b8-4693-a101-9bd5286046a4> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/98f2f2ae-03b8-4693-a101-9bd5286046a4> <http://purl.org/dc/terms/description> "Both Atorvastatin and Tigecycline can increase the risk of hepatotoxicity." .
+<http://drug.uk/interaction/detail/98f2f2ae-03b8-4693-a101-9bd5286046a4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/9d3b0ca7-a26f-49c4-92da-acac7fc9f451> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/9d3b0ca7-a26f-49c4-92da-acac7fc9f451> <http://purl.org/dc/terms/description> "Both Atorvastatin and Oxytetracycline can increase the risk of hepatotoxicity." .
+<http://drug.uk/interaction/detail/9d3b0ca7-a26f-49c4-92da-acac7fc9f451> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/9daa719f-c507-4067-a9f8-d6e39349ebdd> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/9daa719f-c507-4067-a9f8-d6e39349ebdd> <http://purl.org/dc/terms/description> "Both Atorvastatin and Decitabine can increase the risk of hepatotoxicity." .
+<http://drug.uk/interaction/detail/9daa719f-c507-4067-a9f8-d6e39349ebdd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/9e1e5da4-e0e5-432b-8458-2d3e1aeb63fd> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/9e1e5da4-e0e5-432b-8458-2d3e1aeb63fd> <http://purl.org/dc/terms/description> "Both Atorvastatin and Ritonavir can increase the risk of hepatotoxicity." .
+<http://drug.uk/interaction/detail/9e1e5da4-e0e5-432b-8458-2d3e1aeb63fd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/9f9cd1d5-e35a-4548-9e01-eb5b64803501> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/9f9cd1d5-e35a-4548-9e01-eb5b64803501> <http://purl.org/dc/terms/description> "Both Atorvastatin and Streptozocin can increase the risk of hepatotoxicity." .
+<http://drug.uk/interaction/detail/9f9cd1d5-e35a-4548-9e01-eb5b64803501> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/9fdada25-50db-4e6e-a4cf-55ce97cfce5b> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/9fdada25-50db-4e6e-a4cf-55ce97cfce5b> <http://purl.org/dc/terms/description> "Both Atorvastatin and Mercaptopurine can increase the risk of hepatotoxicity." .
+<http://drug.uk/interaction/detail/9fdada25-50db-4e6e-a4cf-55ce97cfce5b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/a0080763-659a-4b13-9399-c97aa4672a0b> <http://drug.uk/model/evidence> "Anecdotal" .
+<http://drug.uk/interaction/detail/a0080763-659a-4b13-9399-c97aa4672a0b> <http://drug.uk/model/severity> "Severe" .
+<http://drug.uk/interaction/detail/a0080763-659a-4b13-9399-c97aa4672a0b> <http://purl.org/dc/terms/description> "Fenofibrate increases the risk of rhabdomyolysis when given with Atorvastatin. Manufacturer advises monitor and adjust Fenofibrate dose.  " .
+<http://drug.uk/interaction/detail/a0080763-659a-4b13-9399-c97aa4672a0b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/a34e47d3-b27b-4566-95a3-e43f4284b65d> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/a34e47d3-b27b-4566-95a3-e43f4284b65d> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/a34e47d3-b27b-4566-95a3-e43f4284b65d> <http://purl.org/dc/terms/description> "Sotorasib is predicted to decrease the exposure to Atorvastatin. Manufacturer makes no recommendation.  " .
+<http://drug.uk/interaction/detail/a34e47d3-b27b-4566-95a3-e43f4284b65d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/a468e9a1-d6f2-434e-8954-31c3d822ea24> <http://drug.uk/model/evidence> "Anecdotal" .
+<http://drug.uk/interaction/detail/a468e9a1-d6f2-434e-8954-31c3d822ea24> <http://drug.uk/model/severity> "Severe" .
+<http://drug.uk/interaction/detail/a468e9a1-d6f2-434e-8954-31c3d822ea24> <http://purl.org/dc/terms/description> "Colchicine has been reported to cause rhabdomyolysis when given with Atorvastatin. Manufacturer advises caution or monitor.  " .
+<http://drug.uk/interaction/detail/a468e9a1-d6f2-434e-8954-31c3d822ea24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/a6e86fcf-69a1-4505-9bd2-011efa83421c> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/a6e86fcf-69a1-4505-9bd2-011efa83421c> <http://purl.org/dc/terms/description> "Both Atorvastatin and Zidovudine can increase the risk of hepatotoxicity." .
+<http://drug.uk/interaction/detail/a6e86fcf-69a1-4505-9bd2-011efa83421c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/aa4b2f73-8fc7-483f-b586-04da4322522d> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/aa4b2f73-8fc7-483f-b586-04da4322522d> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/aa4b2f73-8fc7-483f-b586-04da4322522d> <http://purl.org/dc/terms/description> "Enzalutamide is predicted to decrease the exposure to Atorvastatin. Manufacturer makes no recommendation.  " .
+<http://drug.uk/interaction/detail/aa4b2f73-8fc7-483f-b586-04da4322522d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/ab2c748c-5a89-490d-aaf9-1a632ebf7642> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/ab2c748c-5a89-490d-aaf9-1a632ebf7642> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/ab2c748c-5a89-490d-aaf9-1a632ebf7642> <http://purl.org/dc/terms/description> "Lorlatinib is predicted to decrease the exposure to Atorvastatin. Manufacturer makes no recommendation.  " .
+<http://drug.uk/interaction/detail/ab2c748c-5a89-490d-aaf9-1a632ebf7642> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/ac924528-a1eb-4597-abc9-103f939a8161> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/ac924528-a1eb-4597-abc9-103f939a8161> <http://drug.uk/model/severity> "Severe" .
+<http://drug.uk/interaction/detail/ac924528-a1eb-4597-abc9-103f939a8161> <http://purl.org/dc/terms/description> "Letermovir moderately increases the exposure to Atorvastatin. Manufacturer advises avoid or adjust Atorvastatin dose.  " .
+<http://drug.uk/interaction/detail/ac924528-a1eb-4597-abc9-103f939a8161> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/af8ae900-fd7c-4fab-bb02-22a0404ed2f3> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/af8ae900-fd7c-4fab-bb02-22a0404ed2f3> <http://purl.org/dc/terms/description> "Both Atorvastatin and Lymecycline can increase the risk of hepatotoxicity." .
+<http://drug.uk/interaction/detail/af8ae900-fd7c-4fab-bb02-22a0404ed2f3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/b0bd4315-8843-4e67-9552-770e6ab789a7> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/b0bd4315-8843-4e67-9552-770e6ab789a7> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/b0bd4315-8843-4e67-9552-770e6ab789a7> <http://purl.org/dc/terms/description> "Danicopan is predicted to increase the exposure to Atorvastatin. Manufacturer advises caution.  " .
+<http://drug.uk/interaction/detail/b0bd4315-8843-4e67-9552-770e6ab789a7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/b64a7311-c069-482c-872b-72332cd3a10b> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/b64a7311-c069-482c-872b-72332cd3a10b> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/b64a7311-c069-482c-872b-72332cd3a10b> <http://purl.org/dc/terms/description> "Belumosudil is predicted to increase the exposure to Atorvastatin. Manufacturer advises avoid or adjust dose.  " .
+<http://drug.uk/interaction/detail/b64a7311-c069-482c-872b-72332cd3a10b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/b9066cce-e72d-4ed3-bc8e-8167c465af4b> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/b9066cce-e72d-4ed3-bc8e-8167c465af4b> <http://drug.uk/model/severity> "Severe" .
+<http://drug.uk/interaction/detail/b9066cce-e72d-4ed3-bc8e-8167c465af4b> <http://purl.org/dc/terms/description> "Dronedarone slightly increases the exposure to Atorvastatin. Manufacturer advises monitor and adjust dose.  " .
+<http://drug.uk/interaction/detail/b9066cce-e72d-4ed3-bc8e-8167c465af4b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/c0ff1a36-4bdf-4c5a-aa3b-257d2a5ab1fa> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/c0ff1a36-4bdf-4c5a-aa3b-257d2a5ab1fa> <http://purl.org/dc/terms/description> "Both Atorvastatin and Vitamin A can increase the risk of hepatotoxicity." .
+<http://drug.uk/interaction/detail/c0ff1a36-4bdf-4c5a-aa3b-257d2a5ab1fa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/c10682ed-af18-4067-86f9-2e8ca6c47c0d> <http://drug.uk/model/evidence> "Theoretical" .
+<http://drug.uk/interaction/detail/c10682ed-af18-4067-86f9-2e8ca6c47c0d> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/c10682ed-af18-4067-86f9-2e8ca6c47c0d> <http://purl.org/dc/terms/description> "Bulevirtide is predicted to increase the exposure to Atorvastatin. Manufacturer advises avoid or monitor.  " .
+<http://drug.uk/interaction/detail/c10682ed-af18-4067-86f9-2e8ca6c47c0d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/c1765b86-0eb9-4e96-bf97-de3ac65e6f6e> <http://drug.uk/model/evidence> "Theoretical" .
+<http://drug.uk/interaction/detail/c1765b86-0eb9-4e96-bf97-de3ac65e6f6e> <http://drug.uk/model/severity> "Severe" .
+<http://drug.uk/interaction/detail/c1765b86-0eb9-4e96-bf97-de3ac65e6f6e> <http://purl.org/dc/terms/description> "Elafibranor might increase the risk of muscle effects when given with Atorvastatin. Manufacturer advises monitor creatine kinase.  " .
+<http://drug.uk/interaction/detail/c1765b86-0eb9-4e96-bf97-de3ac65e6f6e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/c3c57b92-cc07-4659-af9d-46eabda76215> <http://drug.uk/model/evidence> "Theoretical" .
+<http://drug.uk/interaction/detail/c3c57b92-cc07-4659-af9d-46eabda76215> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/c3c57b92-cc07-4659-af9d-46eabda76215> <http://purl.org/dc/terms/description> "Leniolisib is predicted to increase the exposure to Atorvastatin. Manufacturer advises avoid.  " .
+<http://drug.uk/interaction/detail/c3c57b92-cc07-4659-af9d-46eabda76215> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/c42c8abc-8b88-481e-a22e-1326914898ac> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/c42c8abc-8b88-481e-a22e-1326914898ac> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/c42c8abc-8b88-481e-a22e-1326914898ac> <http://purl.org/dc/terms/description> "Roxadustat is predicted to increase the exposure to Atorvastatin. Manufacturer advises monitor adverse effects and adjust dose.  " .
+<http://drug.uk/interaction/detail/c42c8abc-8b88-481e-a22e-1326914898ac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/c4ab6a15-a71f-4535-b4dc-368bd734dd6b> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/c4ab6a15-a71f-4535-b4dc-368bd734dd6b> <http://purl.org/dc/terms/description> "Both Atorvastatin and Fluconazole can increase the risk of hepatotoxicity." .
+<http://drug.uk/interaction/detail/c4ab6a15-a71f-4535-b4dc-368bd734dd6b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/c521f108-0b87-4762-a4c7-b45e9cb0b80a> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/c521f108-0b87-4762-a4c7-b45e9cb0b80a> <http://purl.org/dc/terms/description> "Both Atorvastatin and Capecitabine can increase the risk of hepatotoxicity." .
+<http://drug.uk/interaction/detail/c521f108-0b87-4762-a4c7-b45e9cb0b80a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/c59d19e4-ca4a-459c-9625-e7dfeafafd96> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/c59d19e4-ca4a-459c-9625-e7dfeafafd96> <http://purl.org/dc/terms/description> "Both Atorvastatin and Isoniazid can increase the risk of hepatotoxicity." .
+<http://drug.uk/interaction/detail/c59d19e4-ca4a-459c-9625-e7dfeafafd96> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/c8e2efe4-143b-455f-a01d-dceaae73ba06> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/c8e2efe4-143b-455f-a01d-dceaae73ba06> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/c8e2efe4-143b-455f-a01d-dceaae73ba06> <http://purl.org/dc/terms/description> "Dabrafenib is predicted to decrease the exposure to Atorvastatin. Manufacturer makes no recommendation.  " .
+<http://drug.uk/interaction/detail/c8e2efe4-143b-455f-a01d-dceaae73ba06> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/cadce152-9e77-4404-8a59-781f0cec5151> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/cadce152-9e77-4404-8a59-781f0cec5151> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/cadce152-9e77-4404-8a59-781f0cec5151> <http://purl.org/dc/terms/description> "Bosentan is predicted to decrease the exposure to Atorvastatin. Manufacturer makes no recommendation.  " .
+<http://drug.uk/interaction/detail/cadce152-9e77-4404-8a59-781f0cec5151> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/cb796837-6aea-4603-beee-d101278ac283> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/cb796837-6aea-4603-beee-d101278ac283> <http://purl.org/dc/terms/description> "Both Atorvastatin and Methotrexate can increase the risk of hepatotoxicity." .
+<http://drug.uk/interaction/detail/cb796837-6aea-4603-beee-d101278ac283> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/cbe63ba9-8eb1-4b13-9edb-4b89abac6f46> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/cbe63ba9-8eb1-4b13-9edb-4b89abac6f46> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/cbe63ba9-8eb1-4b13-9edb-4b89abac6f46> <http://purl.org/dc/terms/description> "Cenobamate is predicted to decrease the exposure to Atorvastatin. Manufacturer makes no recommendation.  " .
+<http://drug.uk/interaction/detail/cbe63ba9-8eb1-4b13-9edb-4b89abac6f46> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/ce90f584-7ab8-4ee6-bae5-10ed35eacb48> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/ce90f584-7ab8-4ee6-bae5-10ed35eacb48> <http://purl.org/dc/terms/description> "Both Atorvastatin and Anidulafungin can increase the risk of hepatotoxicity." .
+<http://drug.uk/interaction/detail/ce90f584-7ab8-4ee6-bae5-10ed35eacb48> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/d01815c7-fabb-4c60-bfc6-53db940af7b6> <http://drug.uk/model/evidence> "Theoretical" .
+<http://drug.uk/interaction/detail/d01815c7-fabb-4c60-bfc6-53db940af7b6> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/d01815c7-fabb-4c60-bfc6-53db940af7b6> <http://purl.org/dc/terms/description> "Oxcarbazepine is predicted to decrease the exposure to Atorvastatin. Manufacturer makes no recommendation.  " .
+<http://drug.uk/interaction/detail/d01815c7-fabb-4c60-bfc6-53db940af7b6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/d02be473-c388-431d-bb5e-d86633a0607a> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/d02be473-c388-431d-bb5e-d86633a0607a> <http://drug.uk/model/severity> "Severe" .
+<http://drug.uk/interaction/detail/d02be473-c388-431d-bb5e-d86633a0607a> <http://purl.org/dc/terms/description> "Posaconazole is predicted to increase the exposure to Atorvastatin. Manufacturer advises avoid or adjust dose and monitor rhabdomyolysis.  " .
+<http://drug.uk/interaction/detail/d02be473-c388-431d-bb5e-d86633a0607a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/d34ae1d0-bf2e-4016-ad1a-d9901072af25> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/d34ae1d0-bf2e-4016-ad1a-d9901072af25> <http://drug.uk/model/severity> "Severe" .
+<http://drug.uk/interaction/detail/d34ae1d0-bf2e-4016-ad1a-d9901072af25> <http://purl.org/dc/terms/description> "Ketoconazole is predicted to increase the exposure to Atorvastatin. Manufacturer advises avoid or adjust dose and monitor rhabdomyolysis.  " .
+<http://drug.uk/interaction/detail/d34ae1d0-bf2e-4016-ad1a-d9901072af25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/d453d889-6287-4334-8ce3-104376ab4b3e> <http://drug.uk/model/evidence> "Theoretical" .
+<http://drug.uk/interaction/detail/d453d889-6287-4334-8ce3-104376ab4b3e> <http://drug.uk/model/severity> "Mild" .
+<http://drug.uk/interaction/detail/d453d889-6287-4334-8ce3-104376ab4b3e> <http://purl.org/dc/terms/description> "Encorafenib is predicted to increase the exposure to Atorvastatin. Manufacturer advises caution.  " .
+<http://drug.uk/interaction/detail/d453d889-6287-4334-8ce3-104376ab4b3e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/d4ce701c-3ae2-4d03-ac82-e6e7436731f6> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/d4ce701c-3ae2-4d03-ac82-e6e7436731f6> <http://purl.org/dc/terms/description> "Both Atorvastatin and Sotorasib can increase the risk of hepatotoxicity." .
+<http://drug.uk/interaction/detail/d4ce701c-3ae2-4d03-ac82-e6e7436731f6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/dd9159e3-ca84-400a-a399-e3be44a5bd06> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/dd9159e3-ca84-400a-a399-e3be44a5bd06> <http://purl.org/dc/terms/description> "Both Atorvastatin and Tioguanine can increase the risk of hepatotoxicity." .
+<http://drug.uk/interaction/detail/dd9159e3-ca84-400a-a399-e3be44a5bd06> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/ddc9ea1e-cccc-4d83-a512-47a71a09fd57> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/ddc9ea1e-cccc-4d83-a512-47a71a09fd57> <http://drug.uk/model/severity> "Severe" .
+<http://drug.uk/interaction/detail/ddc9ea1e-cccc-4d83-a512-47a71a09fd57> <http://purl.org/dc/terms/description> "Cobicistat is predicted to increase the exposure to Atorvastatin. Manufacturer advises avoid or adjust dose and monitor rhabdomyolysis.  " .
+<http://drug.uk/interaction/detail/ddc9ea1e-cccc-4d83-a512-47a71a09fd57> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/de4bac8f-b66e-447c-bad0-036b8fd0b4c7> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/de4bac8f-b66e-447c-bad0-036b8fd0b4c7> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/de4bac8f-b66e-447c-bad0-036b8fd0b4c7> <http://purl.org/dc/terms/description> "Efavirenz is predicted to decrease the exposure to Atorvastatin. Manufacturer makes no recommendation.  " .
+<http://drug.uk/interaction/detail/de4bac8f-b66e-447c-bad0-036b8fd0b4c7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/e00513d8-7e10-451c-a9e3-3698a8d047d2> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/e00513d8-7e10-451c-a9e3-3698a8d047d2> <http://drug.uk/model/severity> "Mild" .
+<http://drug.uk/interaction/detail/e00513d8-7e10-451c-a9e3-3698a8d047d2> <http://purl.org/dc/terms/description> "Lomitapide increases the exposure to Atorvastatin. Manufacturer advises adjust Lomitapide dose or separate administration by 12 hours.  " .
+<http://drug.uk/interaction/detail/e00513d8-7e10-451c-a9e3-3698a8d047d2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/e073cf25-d884-45e6-9e8a-5bf52cf3729d> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/e073cf25-d884-45e6-9e8a-5bf52cf3729d> <http://drug.uk/model/severity> "Severe" .
+<http://drug.uk/interaction/detail/e073cf25-d884-45e6-9e8a-5bf52cf3729d> <http://purl.org/dc/terms/description> "Ceritinib is predicted to increase the exposure to Atorvastatin. Manufacturer advises avoid or adjust dose and monitor rhabdomyolysis.  " .
+<http://drug.uk/interaction/detail/e073cf25-d884-45e6-9e8a-5bf52cf3729d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/e1faeb4c-d1fd-4d0b-8a38-49482069cdf8> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/e1faeb4c-d1fd-4d0b-8a38-49482069cdf8> <http://purl.org/dc/terms/description> "Both Atorvastatin and Bexarotene can increase the risk of hepatotoxicity." .
+<http://drug.uk/interaction/detail/e1faeb4c-d1fd-4d0b-8a38-49482069cdf8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/e21cdffc-a902-4348-84a3-c552716385f1> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/e21cdffc-a902-4348-84a3-c552716385f1> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/e21cdffc-a902-4348-84a3-c552716385f1> <http://purl.org/dc/terms/description> "Venetoclax is predicted to increase the exposure to Atorvastatin. Manufacturer advises monitor.  " .
+<http://drug.uk/interaction/detail/e21cdffc-a902-4348-84a3-c552716385f1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/e5640609-3692-427f-b393-1a81613ad490> <http://drug.uk/model/evidence> "Theoretical" .
+<http://drug.uk/interaction/detail/e5640609-3692-427f-b393-1a81613ad490> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/e5640609-3692-427f-b393-1a81613ad490> <http://purl.org/dc/terms/description> "Nilotinib is predicted to increase the exposure to Atorvastatin. Manufacturer advises monitor and adjust dose.  " .
+<http://drug.uk/interaction/detail/e5640609-3692-427f-b393-1a81613ad490> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/e94490ce-d0c9-4949-8da2-091d9f032b8c> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/e94490ce-d0c9-4949-8da2-091d9f032b8c> <http://drug.uk/model/severity> "Severe" .
+<http://drug.uk/interaction/detail/e94490ce-d0c9-4949-8da2-091d9f032b8c> <http://purl.org/dc/terms/description> "Ciclosporin markedly to very markedly increases the exposure to Atorvastatin. Manufacturer advises avoid or adjust Atorvastatin dose.  " .
+<http://drug.uk/interaction/detail/e94490ce-d0c9-4949-8da2-091d9f032b8c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/e9743cfe-34fa-466f-98a2-9470fb2878c4> <http://drug.uk/model/evidence> "Theoretical" .
+<http://drug.uk/interaction/detail/e9743cfe-34fa-466f-98a2-9470fb2878c4> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/e9743cfe-34fa-466f-98a2-9470fb2878c4> <http://purl.org/dc/terms/description> "Miconazole (including the oral gel) might increase the exposure to Atorvastatin. Manufacturer makes no recommendation.  " .
+<http://drug.uk/interaction/detail/e9743cfe-34fa-466f-98a2-9470fb2878c4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/eff59574-0775-495d-940a-d527a9e04841> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/eff59574-0775-495d-940a-d527a9e04841> <http://purl.org/dc/terms/description> "Both Atorvastatin and Itraconazole can increase the risk of hepatotoxicity." .
+<http://drug.uk/interaction/detail/eff59574-0775-495d-940a-d527a9e04841> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/f0370ead-e2f5-428f-91dc-f8fbf6c0eb24> <http://drug.uk/model/evidence> "Theoretical" .
+<http://drug.uk/interaction/detail/f0370ead-e2f5-428f-91dc-f8fbf6c0eb24> <http://drug.uk/model/severity> "Severe" .
+<http://drug.uk/interaction/detail/f0370ead-e2f5-428f-91dc-f8fbf6c0eb24> <http://purl.org/dc/terms/description> "Alcohol -induced liver disease increases the risk of hepatotoxicity in those taking Atorvastatin. Manufacturer makes no recommendation.  " .
+<http://drug.uk/interaction/detail/f0370ead-e2f5-428f-91dc-f8fbf6c0eb24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/f171858c-6475-411d-9f7a-681538120864> <http://drug.uk/model/evidence> "Theoretical" .
+<http://drug.uk/interaction/detail/f171858c-6475-411d-9f7a-681538120864> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/f171858c-6475-411d-9f7a-681538120864> <http://purl.org/dc/terms/description> "Pazopanib might affect the exposure to Atorvastatin. Manufacturer advises caution.  " .
+<http://drug.uk/interaction/detail/f171858c-6475-411d-9f7a-681538120864> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/f30141cd-6dcd-4136-b5c1-598d5b43751c> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/f30141cd-6dcd-4136-b5c1-598d5b43751c> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/f30141cd-6dcd-4136-b5c1-598d5b43751c> <http://purl.org/dc/terms/description> "Etravirine is predicted to decrease the exposure to Atorvastatin. Manufacturer makes no recommendation.  " .
+<http://drug.uk/interaction/detail/f30141cd-6dcd-4136-b5c1-598d5b43751c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/f3ba19c1-37a1-452e-a4b0-c44b2ef38a6f> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/f3ba19c1-37a1-452e-a4b0-c44b2ef38a6f> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/f3ba19c1-37a1-452e-a4b0-c44b2ef38a6f> <http://purl.org/dc/terms/description> "Phenobarbital is predicted to decrease the exposure to Atorvastatin. Manufacturer makes no recommendation.  " .
+<http://drug.uk/interaction/detail/f3ba19c1-37a1-452e-a4b0-c44b2ef38a6f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/f483818f-fabc-4487-8b76-3f20267933ee> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/f483818f-fabc-4487-8b76-3f20267933ee> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/f483818f-fabc-4487-8b76-3f20267933ee> <http://purl.org/dc/terms/description> "Leflunomide is predicted to increase the exposure to Atorvastatin. Manufacturer advises caution.  " .
+<http://drug.uk/interaction/detail/f483818f-fabc-4487-8b76-3f20267933ee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/f494ee98-3c48-47dc-99ca-490f2657fddc> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/f494ee98-3c48-47dc-99ca-490f2657fddc> <http://purl.org/dc/terms/description> "Both Atorvastatin and Minocycline can increase the risk of hepatotoxicity." .
+<http://drug.uk/interaction/detail/f494ee98-3c48-47dc-99ca-490f2657fddc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/f842b939-875e-4071-8b2f-15c294bcc2b0> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/f842b939-875e-4071-8b2f-15c294bcc2b0> <http://purl.org/dc/terms/description> "Both Atorvastatin and Doxycycline can increase the risk of hepatotoxicity." .
+<http://drug.uk/interaction/detail/f842b939-875e-4071-8b2f-15c294bcc2b0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/f887bb54-b64e-4639-87ea-04eba82b1e64> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/f887bb54-b64e-4639-87ea-04eba82b1e64> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/f887bb54-b64e-4639-87ea-04eba82b1e64> <http://purl.org/dc/terms/description> "Primidone is predicted to decrease the exposure to Atorvastatin. Manufacturer makes no recommendation.  " .
+<http://drug.uk/interaction/detail/f887bb54-b64e-4639-87ea-04eba82b1e64> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/fa24b49c-a6b7-446a-a317-270a12f86341> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/fa24b49c-a6b7-446a-a317-270a12f86341> <http://drug.uk/model/severity> "Severe" .
+<http://drug.uk/interaction/detail/fa24b49c-a6b7-446a-a317-270a12f86341> <http://purl.org/dc/terms/description> "Itraconazole is predicted to increase the exposure to Atorvastatin. Manufacturer advises avoid or adjust dose and monitor rhabdomyolysis.  " .
+<http://drug.uk/interaction/detail/fa24b49c-a6b7-446a-a317-270a12f86341> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/fd38cb41-01a6-4f4f-8a3f-da42b4aae7b2> <http://drug.uk/model/evidence> "Theoretical" .
+<http://drug.uk/interaction/detail/fd38cb41-01a6-4f4f-8a3f-da42b4aae7b2> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/fd38cb41-01a6-4f4f-8a3f-da42b4aae7b2> <http://purl.org/dc/terms/description> "Olaparib is predicted to increase the exposure to Atorvastatin. Manufacturer advises caution.  " .
+<http://drug.uk/interaction/detail/fd38cb41-01a6-4f4f-8a3f-da42b4aae7b2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/isavuconazole> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/isoniazid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/isotretinoin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/itraconazole> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/ivosidenib-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/ketoconazole> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/leflunomide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/lenalidomide-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/leniolisib> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/letermovir> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/lomitapide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/lorlatinib-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/lymecycline> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/mercaptopurine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/methotrexate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/micafungin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/miconazole> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/minocycline> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/mitotane-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/nelarabine-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/neratinib-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/nevirapine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/nicotinic-acid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/nilotinib-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/olaparib-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/oxcarbazepine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/oxymetholone> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/oxytetracycline> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/paracetamol> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/pazopanib-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/pegaspargase-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/pemetrexed-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/phenobarbital> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/phenytoin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/pomalidomide-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/posaconazole> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/primidone> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/pyrazinamide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/ranolazine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/regorafenib-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/rifampicin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/ritonavir> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/roxadustat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/sarilumab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/sotorasib-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/st-johns-wort> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/streptozocin-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/talazoparib-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/tedizolid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/tepotinib-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/teriflunomide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/tetracycline> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/thalidomide-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/tigecycline> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/tioguanine-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/tocilizumab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/trabectedin-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/tucatinib-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/vadadustat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/venetoclax-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/vitamin-a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/voclosporin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/voriconazole> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/zidovudine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .

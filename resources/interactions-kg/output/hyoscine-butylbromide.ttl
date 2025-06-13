@@ -1,0 +1,158 @@
+<http://drug.uk/baclofen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/clozapine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/cyclizine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/darifenacin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/disopyramide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/doxepin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/hyoscine-butylbromide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/interaction/detail/05facae3-5941-4341-ad80-a6e97b4156f0> <http://drug.uk/model/evidence> "Theoretical" .
+<http://drug.uk/interaction/detail/05facae3-5941-4341-ad80-a6e97b4156f0> <http://drug.uk/model/severity> "Severe" .
+<http://drug.uk/interaction/detail/05facae3-5941-4341-ad80-a6e97b4156f0> <http://purl.org/dc/terms/description> "Clozapine can cause constipation, as can Hyoscine ; concurrent use might increase the risk of developing intestinal obstruction. Manufacturer advises caution.  " .
+<http://drug.uk/interaction/detail/05facae3-5941-4341-ad80-a6e97b4156f0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/1a6b8cdf-b90f-472b-bd61-d24ecd8fd83d> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/1a6b8cdf-b90f-472b-bd61-d24ecd8fd83d> <http://purl.org/dc/terms/description> "Both Hyoscine and Cyclizine can cause antimuscarinic effects." .
+<http://drug.uk/interaction/detail/1a6b8cdf-b90f-472b-bd61-d24ecd8fd83d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/1dc92e42-8bd5-4643-a683-2c12671b1a53> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/1dc92e42-8bd5-4643-a683-2c12671b1a53> <http://purl.org/dc/terms/description> "Both Hyoscine and Tiotropium can cause antimuscarinic effects." .
+<http://drug.uk/interaction/detail/1dc92e42-8bd5-4643-a683-2c12671b1a53> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/3b2eea9e-83d0-4b3b-902a-089dd54e4f7a> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/3b2eea9e-83d0-4b3b-902a-089dd54e4f7a> <http://purl.org/dc/terms/description> "Both Hyoscine and Prochlorperazine can cause antimuscarinic effects." .
+<http://drug.uk/interaction/detail/3b2eea9e-83d0-4b3b-902a-089dd54e4f7a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/615d7a3d-c9f0-4a8f-9b43-31dc4b99f9a9> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/615d7a3d-c9f0-4a8f-9b43-31dc4b99f9a9> <http://purl.org/dc/terms/description> "Both Hyoscine and Trimipramine can cause antimuscarinic effects." .
+<http://drug.uk/interaction/detail/615d7a3d-c9f0-4a8f-9b43-31dc4b99f9a9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/79915a54-fbfe-460b-96a9-aadacfbe6604> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/79915a54-fbfe-460b-96a9-aadacfbe6604> <http://purl.org/dc/terms/description> "Both Hyoscine and Nortriptyline can cause antimuscarinic effects." .
+<http://drug.uk/interaction/detail/79915a54-fbfe-460b-96a9-aadacfbe6604> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/7b2519f8-1dd5-455e-ad8f-67505191eb13> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/7b2519f8-1dd5-455e-ad8f-67505191eb13> <http://purl.org/dc/terms/description> "Both Hyoscine and Clozapine can cause antimuscarinic effects." .
+<http://drug.uk/interaction/detail/7b2519f8-1dd5-455e-ad8f-67505191eb13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/84680588-8d00-48f1-ac0b-f864860b0f4b> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/84680588-8d00-48f1-ac0b-f864860b0f4b> <http://purl.org/dc/terms/description> "Both Hyoscine and Pridinol can cause antimuscarinic effects." .
+<http://drug.uk/interaction/detail/84680588-8d00-48f1-ac0b-f864860b0f4b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/a499a4e4-7a4a-4283-9963-17197f5eeb05> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/a499a4e4-7a4a-4283-9963-17197f5eeb05> <http://purl.org/dc/terms/description> "Both Hyoscine and Doxepin can cause antimuscarinic effects." .
+<http://drug.uk/interaction/detail/a499a4e4-7a4a-4283-9963-17197f5eeb05> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/a72144c6-96f2-4ca4-a7ca-bfe337b8284a> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/a72144c6-96f2-4ca4-a7ca-bfe337b8284a> <http://purl.org/dc/terms/description> "Both Hyoscine and Tropicamide can cause antimuscarinic effects." .
+<http://drug.uk/interaction/detail/a72144c6-96f2-4ca4-a7ca-bfe337b8284a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/cfd3a117-cba2-4393-b57d-e86198a4c37e> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/cfd3a117-cba2-4393-b57d-e86198a4c37e> <http://purl.org/dc/terms/description> "Both Hyoscine and Darifenacin can cause antimuscarinic effects." .
+<http://drug.uk/interaction/detail/cfd3a117-cba2-4393-b57d-e86198a4c37e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/d0b8de06-8e2f-40df-a08e-7d38ce6c87b1> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/d0b8de06-8e2f-40df-a08e-7d38ce6c87b1> <http://purl.org/dc/terms/description> "Both Hyoscine and Lofepramine can cause antimuscarinic effects." .
+<http://drug.uk/interaction/detail/d0b8de06-8e2f-40df-a08e-7d38ce6c87b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/d1f17210-192c-4af9-9ca7-7d9a4ed64f4b> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/d1f17210-192c-4af9-9ca7-7d9a4ed64f4b> <http://purl.org/dc/terms/description> "Both Hyoscine and Trifluoperazine can cause antimuscarinic effects." .
+<http://drug.uk/interaction/detail/d1f17210-192c-4af9-9ca7-7d9a4ed64f4b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/d5ecd7c3-07c7-45f4-b64e-f10a991fdb30> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/d5ecd7c3-07c7-45f4-b64e-f10a991fdb30> <http://purl.org/dc/terms/description> "Both Hyoscine and Umeclidinium can cause antimuscarinic effects." .
+<http://drug.uk/interaction/detail/d5ecd7c3-07c7-45f4-b64e-f10a991fdb30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/e1791d2d-f656-4d38-bb4a-18ac8ea5ce42> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/e1791d2d-f656-4d38-bb4a-18ac8ea5ce42> <http://purl.org/dc/terms/description> "Both Hyoscine and Levomepromazine can cause antimuscarinic effects." .
+<http://drug.uk/interaction/detail/e1791d2d-f656-4d38-bb4a-18ac8ea5ce42> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/e30495c4-e627-4442-8a6f-88e4699c1918> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/e30495c4-e627-4442-8a6f-88e4699c1918> <http://purl.org/dc/terms/description> "Both Hyoscine and Loxapine can cause antimuscarinic effects." .
+<http://drug.uk/interaction/detail/e30495c4-e627-4442-8a6f-88e4699c1918> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/e5ea2a3b-4091-4beb-ba2d-5da9960a81c0> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/e5ea2a3b-4091-4beb-ba2d-5da9960a81c0> <http://purl.org/dc/terms/description> "Both Hyoscine and Pimozide can cause antimuscarinic effects." .
+<http://drug.uk/interaction/detail/e5ea2a3b-4091-4beb-ba2d-5da9960a81c0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/eea56ee2-bf9c-424e-a8ed-a6622d29f417> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/eea56ee2-bf9c-424e-a8ed-a6622d29f417> <http://purl.org/dc/terms/description> "Both Hyoscine and Baclofen can cause antimuscarinic effects." .
+<http://drug.uk/interaction/detail/eea56ee2-bf9c-424e-a8ed-a6622d29f417> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/f139ffc9-b533-4b5f-a5c7-9cd1eaa6f0f7> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/f139ffc9-b533-4b5f-a5c7-9cd1eaa6f0f7> <http://purl.org/dc/terms/description> "Both Hyoscine and Disopyramide can cause antimuscarinic effects." .
+<http://drug.uk/interaction/detail/f139ffc9-b533-4b5f-a5c7-9cd1eaa6f0f7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/f29a2097-372b-4ada-bee1-bc8c50d752fd> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/f29a2097-372b-4ada-bee1-bc8c50d752fd> <http://purl.org/dc/terms/description> "Both Hyoscine and Pericyazine can cause antimuscarinic effects." .
+<http://drug.uk/interaction/detail/f29a2097-372b-4ada-bee1-bc8c50d752fd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/hyoscine-butylbromide-baclofen> <http://drug.uk/model/interactingDrug> <http://drug.uk/baclofen> .
+<http://drug.uk/interaction/hyoscine-butylbromide-baclofen> <http://drug.uk/model/interactingDrug> <http://drug.uk/hyoscine-butylbromide> .
+<http://drug.uk/interaction/hyoscine-butylbromide-baclofen> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/eea56ee2-bf9c-424e-a8ed-a6622d29f417> .
+<http://drug.uk/interaction/hyoscine-butylbromide-baclofen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/hyoscine-butylbromide-clozapine> <http://drug.uk/model/interactingDrug> <http://drug.uk/clozapine> .
+<http://drug.uk/interaction/hyoscine-butylbromide-clozapine> <http://drug.uk/model/interactingDrug> <http://drug.uk/hyoscine-butylbromide> .
+<http://drug.uk/interaction/hyoscine-butylbromide-clozapine> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/05facae3-5941-4341-ad80-a6e97b4156f0> .
+<http://drug.uk/interaction/hyoscine-butylbromide-clozapine> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/7b2519f8-1dd5-455e-ad8f-67505191eb13> .
+<http://drug.uk/interaction/hyoscine-butylbromide-clozapine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/hyoscine-butylbromide-cyclizine> <http://drug.uk/model/interactingDrug> <http://drug.uk/cyclizine> .
+<http://drug.uk/interaction/hyoscine-butylbromide-cyclizine> <http://drug.uk/model/interactingDrug> <http://drug.uk/hyoscine-butylbromide> .
+<http://drug.uk/interaction/hyoscine-butylbromide-cyclizine> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/1a6b8cdf-b90f-472b-bd61-d24ecd8fd83d> .
+<http://drug.uk/interaction/hyoscine-butylbromide-cyclizine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/hyoscine-butylbromide-darifenacin> <http://drug.uk/model/interactingDrug> <http://drug.uk/darifenacin> .
+<http://drug.uk/interaction/hyoscine-butylbromide-darifenacin> <http://drug.uk/model/interactingDrug> <http://drug.uk/hyoscine-butylbromide> .
+<http://drug.uk/interaction/hyoscine-butylbromide-darifenacin> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/cfd3a117-cba2-4393-b57d-e86198a4c37e> .
+<http://drug.uk/interaction/hyoscine-butylbromide-darifenacin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/hyoscine-butylbromide-disopyramide> <http://drug.uk/model/interactingDrug> <http://drug.uk/disopyramide> .
+<http://drug.uk/interaction/hyoscine-butylbromide-disopyramide> <http://drug.uk/model/interactingDrug> <http://drug.uk/hyoscine-butylbromide> .
+<http://drug.uk/interaction/hyoscine-butylbromide-disopyramide> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/f139ffc9-b533-4b5f-a5c7-9cd1eaa6f0f7> .
+<http://drug.uk/interaction/hyoscine-butylbromide-disopyramide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/hyoscine-butylbromide-doxepin> <http://drug.uk/model/interactingDrug> <http://drug.uk/doxepin> .
+<http://drug.uk/interaction/hyoscine-butylbromide-doxepin> <http://drug.uk/model/interactingDrug> <http://drug.uk/hyoscine-butylbromide> .
+<http://drug.uk/interaction/hyoscine-butylbromide-doxepin> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/a499a4e4-7a4a-4283-9963-17197f5eeb05> .
+<http://drug.uk/interaction/hyoscine-butylbromide-doxepin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/hyoscine-butylbromide-levomepromazine> <http://drug.uk/model/interactingDrug> <http://drug.uk/hyoscine-butylbromide> .
+<http://drug.uk/interaction/hyoscine-butylbromide-levomepromazine> <http://drug.uk/model/interactingDrug> <http://drug.uk/levomepromazine> .
+<http://drug.uk/interaction/hyoscine-butylbromide-levomepromazine> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/e1791d2d-f656-4d38-bb4a-18ac8ea5ce42> .
+<http://drug.uk/interaction/hyoscine-butylbromide-levomepromazine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/hyoscine-butylbromide-lofepramine> <http://drug.uk/model/interactingDrug> <http://drug.uk/hyoscine-butylbromide> .
+<http://drug.uk/interaction/hyoscine-butylbromide-lofepramine> <http://drug.uk/model/interactingDrug> <http://drug.uk/lofepramine> .
+<http://drug.uk/interaction/hyoscine-butylbromide-lofepramine> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/d0b8de06-8e2f-40df-a08e-7d38ce6c87b1> .
+<http://drug.uk/interaction/hyoscine-butylbromide-lofepramine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/hyoscine-butylbromide-loxapine> <http://drug.uk/model/interactingDrug> <http://drug.uk/hyoscine-butylbromide> .
+<http://drug.uk/interaction/hyoscine-butylbromide-loxapine> <http://drug.uk/model/interactingDrug> <http://drug.uk/loxapine> .
+<http://drug.uk/interaction/hyoscine-butylbromide-loxapine> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/e30495c4-e627-4442-8a6f-88e4699c1918> .
+<http://drug.uk/interaction/hyoscine-butylbromide-loxapine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/hyoscine-butylbromide-nortriptyline> <http://drug.uk/model/interactingDrug> <http://drug.uk/hyoscine-butylbromide> .
+<http://drug.uk/interaction/hyoscine-butylbromide-nortriptyline> <http://drug.uk/model/interactingDrug> <http://drug.uk/nortriptyline> .
+<http://drug.uk/interaction/hyoscine-butylbromide-nortriptyline> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/79915a54-fbfe-460b-96a9-aadacfbe6604> .
+<http://drug.uk/interaction/hyoscine-butylbromide-nortriptyline> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/hyoscine-butylbromide-pericyazine> <http://drug.uk/model/interactingDrug> <http://drug.uk/hyoscine-butylbromide> .
+<http://drug.uk/interaction/hyoscine-butylbromide-pericyazine> <http://drug.uk/model/interactingDrug> <http://drug.uk/pericyazine> .
+<http://drug.uk/interaction/hyoscine-butylbromide-pericyazine> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/f29a2097-372b-4ada-bee1-bc8c50d752fd> .
+<http://drug.uk/interaction/hyoscine-butylbromide-pericyazine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/hyoscine-butylbromide-pimozide> <http://drug.uk/model/interactingDrug> <http://drug.uk/hyoscine-butylbromide> .
+<http://drug.uk/interaction/hyoscine-butylbromide-pimozide> <http://drug.uk/model/interactingDrug> <http://drug.uk/pimozide> .
+<http://drug.uk/interaction/hyoscine-butylbromide-pimozide> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/e5ea2a3b-4091-4beb-ba2d-5da9960a81c0> .
+<http://drug.uk/interaction/hyoscine-butylbromide-pimozide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/hyoscine-butylbromide-pridinol> <http://drug.uk/model/interactingDrug> <http://drug.uk/hyoscine-butylbromide> .
+<http://drug.uk/interaction/hyoscine-butylbromide-pridinol> <http://drug.uk/model/interactingDrug> <http://drug.uk/pridinol> .
+<http://drug.uk/interaction/hyoscine-butylbromide-pridinol> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/84680588-8d00-48f1-ac0b-f864860b0f4b> .
+<http://drug.uk/interaction/hyoscine-butylbromide-pridinol> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/hyoscine-butylbromide-prochlorperazine> <http://drug.uk/model/interactingDrug> <http://drug.uk/hyoscine-butylbromide> .
+<http://drug.uk/interaction/hyoscine-butylbromide-prochlorperazine> <http://drug.uk/model/interactingDrug> <http://drug.uk/prochlorperazine> .
+<http://drug.uk/interaction/hyoscine-butylbromide-prochlorperazine> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/3b2eea9e-83d0-4b3b-902a-089dd54e4f7a> .
+<http://drug.uk/interaction/hyoscine-butylbromide-prochlorperazine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/hyoscine-butylbromide-tiotropium> <http://drug.uk/model/interactingDrug> <http://drug.uk/hyoscine-butylbromide> .
+<http://drug.uk/interaction/hyoscine-butylbromide-tiotropium> <http://drug.uk/model/interactingDrug> <http://drug.uk/tiotropium> .
+<http://drug.uk/interaction/hyoscine-butylbromide-tiotropium> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/1dc92e42-8bd5-4643-a683-2c12671b1a53> .
+<http://drug.uk/interaction/hyoscine-butylbromide-tiotropium> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/hyoscine-butylbromide-trifluoperazine> <http://drug.uk/model/interactingDrug> <http://drug.uk/hyoscine-butylbromide> .
+<http://drug.uk/interaction/hyoscine-butylbromide-trifluoperazine> <http://drug.uk/model/interactingDrug> <http://drug.uk/trifluoperazine> .
+<http://drug.uk/interaction/hyoscine-butylbromide-trifluoperazine> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/d1f17210-192c-4af9-9ca7-7d9a4ed64f4b> .
+<http://drug.uk/interaction/hyoscine-butylbromide-trifluoperazine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/hyoscine-butylbromide-trimipramine> <http://drug.uk/model/interactingDrug> <http://drug.uk/hyoscine-butylbromide> .
+<http://drug.uk/interaction/hyoscine-butylbromide-trimipramine> <http://drug.uk/model/interactingDrug> <http://drug.uk/trimipramine> .
+<http://drug.uk/interaction/hyoscine-butylbromide-trimipramine> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/615d7a3d-c9f0-4a8f-9b43-31dc4b99f9a9> .
+<http://drug.uk/interaction/hyoscine-butylbromide-trimipramine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/hyoscine-butylbromide-tropicamide> <http://drug.uk/model/interactingDrug> <http://drug.uk/hyoscine-butylbromide> .
+<http://drug.uk/interaction/hyoscine-butylbromide-tropicamide> <http://drug.uk/model/interactingDrug> <http://drug.uk/tropicamide> .
+<http://drug.uk/interaction/hyoscine-butylbromide-tropicamide> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/a72144c6-96f2-4ca4-a7ca-bfe337b8284a> .
+<http://drug.uk/interaction/hyoscine-butylbromide-tropicamide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/hyoscine-butylbromide-umeclidinium> <http://drug.uk/model/interactingDrug> <http://drug.uk/hyoscine-butylbromide> .
+<http://drug.uk/interaction/hyoscine-butylbromide-umeclidinium> <http://drug.uk/model/interactingDrug> <http://drug.uk/umeclidinium> .
+<http://drug.uk/interaction/hyoscine-butylbromide-umeclidinium> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/d5ecd7c3-07c7-45f4-b64e-f10a991fdb30> .
+<http://drug.uk/interaction/hyoscine-butylbromide-umeclidinium> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/levomepromazine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/lofepramine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/loxapine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/nortriptyline> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/pericyazine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/pimozide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/pridinol> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/prochlorperazine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/tiotropium> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/trifluoperazine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/trimipramine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/tropicamide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/umeclidinium> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .

@@ -1,0 +1,1267 @@
+<http://drug.uk/acebutolol> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/alcohol> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/aliskiren> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/alprostadil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/amlodipine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/apalutamide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/apraclonidine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/aprepitant> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/aripiprazole> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/asenapine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/atazanavir> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/atenolol> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/avanafil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/baclofen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/bendroflumethiazide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/benperidol> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/berotralstat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/betaxolol> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/bortezomib-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/bosentan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/bromocriptine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/bumetanide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/cabergoline> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/canagliflozin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/captopril> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/carbamazepine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/cariprazine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/carvedilol> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/cenobamate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/ceritinib-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/chlortalidone> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/clarithromycin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/clozapine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/cobicistat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/crizotinib-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/dabrafenib-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/dapagliflozin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/darunavir> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/desflurane> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/diazoxide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/dipyridamole> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/doxazosin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/doxepin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/dronedarone> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/droperidol> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/efavirenz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/empagliflozin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/encorafenib-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/enzalutamide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/eplerenone> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/epoprostenol> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/eprosartan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/ertugliflozin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/erythromycin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/esketamine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/etomidate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/etravirine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/fedratinib-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/finerenone> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/fluconazole> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/fosamprenavir> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/furosemide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/glyceryl-trinitrate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/grapefruit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/guanfacine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/hydrochlorothiazide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/idelalisib-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/iloprost> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/imatinib-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/indapamide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/indoramin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/interaction/amlodipine-acebutolol> <http://drug.uk/model/interactingDrug> <http://drug.uk/acebutolol> .
+<http://drug.uk/interaction/amlodipine-acebutolol> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-acebutolol> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/231b475b-6740-49f6-9950-87e6e4e44290> .
+<http://drug.uk/interaction/amlodipine-acebutolol> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-alcohol> <http://drug.uk/model/interactingDrug> <http://drug.uk/alcohol> .
+<http://drug.uk/interaction/amlodipine-alcohol> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-alcohol> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/d787338f-0d17-4287-8ceb-43a842f430ca> .
+<http://drug.uk/interaction/amlodipine-alcohol> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-aliskiren> <http://drug.uk/model/interactingDrug> <http://drug.uk/aliskiren> .
+<http://drug.uk/interaction/amlodipine-aliskiren> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-aliskiren> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/4e478dfb-706e-4dde-a8ff-3ec0bfa9dc73> .
+<http://drug.uk/interaction/amlodipine-aliskiren> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-alprostadil> <http://drug.uk/model/interactingDrug> <http://drug.uk/alprostadil> .
+<http://drug.uk/interaction/amlodipine-alprostadil> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-alprostadil> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/30592168-9c70-45fa-a676-28b26150e3d3> .
+<http://drug.uk/interaction/amlodipine-alprostadil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-apalutamide> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-apalutamide> <http://drug.uk/model/interactingDrug> <http://drug.uk/apalutamide> .
+<http://drug.uk/interaction/amlodipine-apalutamide> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/1de900f5-31ec-4c54-93f4-7b6843bb5556> .
+<http://drug.uk/interaction/amlodipine-apalutamide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-apraclonidine> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-apraclonidine> <http://drug.uk/model/interactingDrug> <http://drug.uk/apraclonidine> .
+<http://drug.uk/interaction/amlodipine-apraclonidine> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/cc21d71e-825f-4380-b079-2befe1834573> .
+<http://drug.uk/interaction/amlodipine-apraclonidine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-aprepitant> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-aprepitant> <http://drug.uk/model/interactingDrug> <http://drug.uk/aprepitant> .
+<http://drug.uk/interaction/amlodipine-aprepitant> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/b9353005-4006-4532-bc3b-7e4c28517524> .
+<http://drug.uk/interaction/amlodipine-aprepitant> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-aripiprazole> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-aripiprazole> <http://drug.uk/model/interactingDrug> <http://drug.uk/aripiprazole> .
+<http://drug.uk/interaction/amlodipine-aripiprazole> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/6a38e173-e056-4971-9cdc-cc8e1ee31836> .
+<http://drug.uk/interaction/amlodipine-aripiprazole> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-asenapine> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-asenapine> <http://drug.uk/model/interactingDrug> <http://drug.uk/asenapine> .
+<http://drug.uk/interaction/amlodipine-asenapine> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/f420df77-ca02-423f-8993-7ea541bc81c9> .
+<http://drug.uk/interaction/amlodipine-asenapine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-atazanavir> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-atazanavir> <http://drug.uk/model/interactingDrug> <http://drug.uk/atazanavir> .
+<http://drug.uk/interaction/amlodipine-atazanavir> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/a72f95cb-b80c-46d3-b2c5-db3cc0881e81> .
+<http://drug.uk/interaction/amlodipine-atazanavir> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-atenolol> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-atenolol> <http://drug.uk/model/interactingDrug> <http://drug.uk/atenolol> .
+<http://drug.uk/interaction/amlodipine-atenolol> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/b6889a9a-1a96-49dc-9d4f-66fc414cbed0> .
+<http://drug.uk/interaction/amlodipine-atenolol> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-avanafil> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-avanafil> <http://drug.uk/model/interactingDrug> <http://drug.uk/avanafil> .
+<http://drug.uk/interaction/amlodipine-avanafil> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/df20e7a0-eb91-4a68-8a92-95e3dff01c7c> .
+<http://drug.uk/interaction/amlodipine-avanafil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-baclofen> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-baclofen> <http://drug.uk/model/interactingDrug> <http://drug.uk/baclofen> .
+<http://drug.uk/interaction/amlodipine-baclofen> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/2a7d3481-0719-4c0d-aa96-f24d860f54ee> .
+<http://drug.uk/interaction/amlodipine-baclofen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-bendroflumethiazide> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-bendroflumethiazide> <http://drug.uk/model/interactingDrug> <http://drug.uk/bendroflumethiazide> .
+<http://drug.uk/interaction/amlodipine-bendroflumethiazide> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/ad1e35be-68a1-4404-bd29-37deae524381> .
+<http://drug.uk/interaction/amlodipine-bendroflumethiazide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-benperidol> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-benperidol> <http://drug.uk/model/interactingDrug> <http://drug.uk/benperidol> .
+<http://drug.uk/interaction/amlodipine-benperidol> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/1467bb73-404d-49b7-b198-52001765e007> .
+<http://drug.uk/interaction/amlodipine-benperidol> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-berotralstat> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-berotralstat> <http://drug.uk/model/interactingDrug> <http://drug.uk/berotralstat> .
+<http://drug.uk/interaction/amlodipine-berotralstat> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/19d0a2dc-3414-412e-ad51-b8a43dfca93c> .
+<http://drug.uk/interaction/amlodipine-berotralstat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-betaxolol> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-betaxolol> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/amlodipine-betaxolol> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/4d026c5b-9ef6-4add-b038-e19e08542128> .
+<http://drug.uk/interaction/amlodipine-betaxolol> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-bortezomib-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-bortezomib-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/bortezomib-specialist-drug> .
+<http://drug.uk/interaction/amlodipine-bortezomib-specialist-drug> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/799a01d3-7875-49f2-87c9-25ff93945d9b> .
+<http://drug.uk/interaction/amlodipine-bortezomib-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-bosentan> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-bosentan> <http://drug.uk/model/interactingDrug> <http://drug.uk/bosentan> .
+<http://drug.uk/interaction/amlodipine-bosentan> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/bb4a4a63-08d6-4855-8b3c-4bcc4b05533e> .
+<http://drug.uk/interaction/amlodipine-bosentan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-bromocriptine> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-bromocriptine> <http://drug.uk/model/interactingDrug> <http://drug.uk/bromocriptine> .
+<http://drug.uk/interaction/amlodipine-bromocriptine> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/a96247e8-8e07-4744-b7f7-871251dd1690> .
+<http://drug.uk/interaction/amlodipine-bromocriptine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-bumetanide> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-bumetanide> <http://drug.uk/model/interactingDrug> <http://drug.uk/bumetanide> .
+<http://drug.uk/interaction/amlodipine-bumetanide> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/371cee97-061c-4731-81f2-909feacad372> .
+<http://drug.uk/interaction/amlodipine-bumetanide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-cabergoline> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-cabergoline> <http://drug.uk/model/interactingDrug> <http://drug.uk/cabergoline> .
+<http://drug.uk/interaction/amlodipine-cabergoline> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/9c335f71-95d2-4685-a300-e3d1abc6762b> .
+<http://drug.uk/interaction/amlodipine-cabergoline> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-canagliflozin> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-canagliflozin> <http://drug.uk/model/interactingDrug> <http://drug.uk/canagliflozin> .
+<http://drug.uk/interaction/amlodipine-canagliflozin> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/ed8d36f6-40d2-4732-945b-2da7618e55db> .
+<http://drug.uk/interaction/amlodipine-canagliflozin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-captopril> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-captopril> <http://drug.uk/model/interactingDrug> <http://drug.uk/captopril> .
+<http://drug.uk/interaction/amlodipine-captopril> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/a193a8e7-56f3-4f88-9c6f-ad708a7e6473> .
+<http://drug.uk/interaction/amlodipine-captopril> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-carbamazepine> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-carbamazepine> <http://drug.uk/model/interactingDrug> <http://drug.uk/carbamazepine> .
+<http://drug.uk/interaction/amlodipine-carbamazepine> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/3e988500-4642-4c75-ac54-279d09270d48> .
+<http://drug.uk/interaction/amlodipine-carbamazepine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-cariprazine> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-cariprazine> <http://drug.uk/model/interactingDrug> <http://drug.uk/cariprazine> .
+<http://drug.uk/interaction/amlodipine-cariprazine> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/e1f6108a-9b35-49f1-8278-ff7bd3247e53> .
+<http://drug.uk/interaction/amlodipine-cariprazine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-carvedilol> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-carvedilol> <http://drug.uk/model/interactingDrug> <http://drug.uk/carvedilol> .
+<http://drug.uk/interaction/amlodipine-carvedilol> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/4b2a4b7e-d1a4-4452-ae4e-e4aeb64a98b9> .
+<http://drug.uk/interaction/amlodipine-carvedilol> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-cenobamate> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-cenobamate> <http://drug.uk/model/interactingDrug> <http://drug.uk/cenobamate> .
+<http://drug.uk/interaction/amlodipine-cenobamate> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/b898c45a-9dc0-4dd7-a4cb-2bb7193fd28a> .
+<http://drug.uk/interaction/amlodipine-cenobamate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-ceritinib-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-ceritinib-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/ceritinib-specialist-drug> .
+<http://drug.uk/interaction/amlodipine-ceritinib-specialist-drug> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/4b6cc9ae-08c0-4762-9921-dcb6b2aafc5a> .
+<http://drug.uk/interaction/amlodipine-ceritinib-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-chlortalidone> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-chlortalidone> <http://drug.uk/model/interactingDrug> <http://drug.uk/chlortalidone> .
+<http://drug.uk/interaction/amlodipine-chlortalidone> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/1321deff-e93b-4e1b-a911-44c11f1845bc> .
+<http://drug.uk/interaction/amlodipine-chlortalidone> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-clarithromycin> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-clarithromycin> <http://drug.uk/model/interactingDrug> <http://drug.uk/clarithromycin> .
+<http://drug.uk/interaction/amlodipine-clarithromycin> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/cca5d17e-0150-4a33-92f7-5d47385b8e03> .
+<http://drug.uk/interaction/amlodipine-clarithromycin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-clozapine> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-clozapine> <http://drug.uk/model/interactingDrug> <http://drug.uk/clozapine> .
+<http://drug.uk/interaction/amlodipine-clozapine> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/2fcf17ac-f48f-4804-aced-4a4b32ad04ef> .
+<http://drug.uk/interaction/amlodipine-clozapine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-cobicistat> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-cobicistat> <http://drug.uk/model/interactingDrug> <http://drug.uk/cobicistat> .
+<http://drug.uk/interaction/amlodipine-cobicistat> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/67049d3f-14cb-4c58-b0bd-7867f8780791> .
+<http://drug.uk/interaction/amlodipine-cobicistat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-crizotinib-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-crizotinib-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/crizotinib-specialist-drug> .
+<http://drug.uk/interaction/amlodipine-crizotinib-specialist-drug> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/ebe17795-878d-406c-bff4-bd1dd97fa132> .
+<http://drug.uk/interaction/amlodipine-crizotinib-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-dabrafenib-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-dabrafenib-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/dabrafenib-specialist-drug> .
+<http://drug.uk/interaction/amlodipine-dabrafenib-specialist-drug> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/8637a329-e962-4f37-a379-f4acbbda5d2d> .
+<http://drug.uk/interaction/amlodipine-dabrafenib-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-dapagliflozin> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-dapagliflozin> <http://drug.uk/model/interactingDrug> <http://drug.uk/dapagliflozin> .
+<http://drug.uk/interaction/amlodipine-dapagliflozin> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/4a8882be-d730-4e8d-9173-b6989482d9cf> .
+<http://drug.uk/interaction/amlodipine-dapagliflozin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-darunavir> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-darunavir> <http://drug.uk/model/interactingDrug> <http://drug.uk/darunavir> .
+<http://drug.uk/interaction/amlodipine-darunavir> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/165f01d4-9544-45ec-96d4-4eb0ab9db993> .
+<http://drug.uk/interaction/amlodipine-darunavir> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-desflurane> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-desflurane> <http://drug.uk/model/interactingDrug> <http://drug.uk/desflurane> .
+<http://drug.uk/interaction/amlodipine-desflurane> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/fa3c1d6b-9966-47a8-b1a9-48336355e0da> .
+<http://drug.uk/interaction/amlodipine-desflurane> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-diazoxide> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-diazoxide> <http://drug.uk/model/interactingDrug> <http://drug.uk/diazoxide> .
+<http://drug.uk/interaction/amlodipine-diazoxide> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/e6194134-1b25-45c3-a8f9-0c58b6d52412> .
+<http://drug.uk/interaction/amlodipine-diazoxide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-dipyridamole> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-dipyridamole> <http://drug.uk/model/interactingDrug> <http://drug.uk/dipyridamole> .
+<http://drug.uk/interaction/amlodipine-dipyridamole> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/7968cb4d-2c01-4d32-a27e-c48dd50c7504> .
+<http://drug.uk/interaction/amlodipine-dipyridamole> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-doxazosin> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-doxazosin> <http://drug.uk/model/interactingDrug> <http://drug.uk/doxazosin> .
+<http://drug.uk/interaction/amlodipine-doxazosin> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/09d87462-a392-42b0-9249-1903dd7ee2d7> .
+<http://drug.uk/interaction/amlodipine-doxazosin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-doxepin> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-doxepin> <http://drug.uk/model/interactingDrug> <http://drug.uk/doxepin> .
+<http://drug.uk/interaction/amlodipine-doxepin> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/d2f172a7-9b06-40a2-b495-f689446cd3ca> .
+<http://drug.uk/interaction/amlodipine-doxepin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-dronedarone> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-dronedarone> <http://drug.uk/model/interactingDrug> <http://drug.uk/dronedarone> .
+<http://drug.uk/interaction/amlodipine-dronedarone> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/458d9188-58fb-4b6a-87ce-211444149229> .
+<http://drug.uk/interaction/amlodipine-dronedarone> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-droperidol> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-droperidol> <http://drug.uk/model/interactingDrug> <http://drug.uk/droperidol> .
+<http://drug.uk/interaction/amlodipine-droperidol> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/2376c807-2b0b-49cb-8276-d0585cb96f92> .
+<http://drug.uk/interaction/amlodipine-droperidol> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-efavirenz> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-efavirenz> <http://drug.uk/model/interactingDrug> <http://drug.uk/efavirenz> .
+<http://drug.uk/interaction/amlodipine-efavirenz> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/7ef7a3de-c536-4f51-8eb7-62c3579f3c3c> .
+<http://drug.uk/interaction/amlodipine-efavirenz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-empagliflozin> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-empagliflozin> <http://drug.uk/model/interactingDrug> <http://drug.uk/empagliflozin> .
+<http://drug.uk/interaction/amlodipine-empagliflozin> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/c26896eb-a9bb-45a2-a258-1e7e207eae7f> .
+<http://drug.uk/interaction/amlodipine-empagliflozin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-encorafenib-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-encorafenib-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/encorafenib-specialist-drug> .
+<http://drug.uk/interaction/amlodipine-encorafenib-specialist-drug> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/61a245b6-daea-40f8-8e99-8d9ed8b21ef3> .
+<http://drug.uk/interaction/amlodipine-encorafenib-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-enzalutamide> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-enzalutamide> <http://drug.uk/model/interactingDrug> <http://drug.uk/enzalutamide> .
+<http://drug.uk/interaction/amlodipine-enzalutamide> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/142c0eab-2d49-497d-98aa-16db786eaa41> .
+<http://drug.uk/interaction/amlodipine-enzalutamide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-eplerenone> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-eplerenone> <http://drug.uk/model/interactingDrug> <http://drug.uk/eplerenone> .
+<http://drug.uk/interaction/amlodipine-eplerenone> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/c66b7fca-90dd-4eeb-93c0-87ca65252c8b> .
+<http://drug.uk/interaction/amlodipine-eplerenone> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-epoprostenol> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-epoprostenol> <http://drug.uk/model/interactingDrug> <http://drug.uk/epoprostenol> .
+<http://drug.uk/interaction/amlodipine-epoprostenol> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/37a7ad63-e9ca-4fb2-a32a-a66682dc1037> .
+<http://drug.uk/interaction/amlodipine-epoprostenol> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-eprosartan> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-eprosartan> <http://drug.uk/model/interactingDrug> <http://drug.uk/eprosartan> .
+<http://drug.uk/interaction/amlodipine-eprosartan> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/468dd20b-0334-4533-a84b-5b106721e025> .
+<http://drug.uk/interaction/amlodipine-eprosartan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-ertugliflozin> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-ertugliflozin> <http://drug.uk/model/interactingDrug> <http://drug.uk/ertugliflozin> .
+<http://drug.uk/interaction/amlodipine-ertugliflozin> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/6edacab7-bd5a-447e-9129-c8b871e763d2> .
+<http://drug.uk/interaction/amlodipine-ertugliflozin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-erythromycin> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-erythromycin> <http://drug.uk/model/interactingDrug> <http://drug.uk/erythromycin> .
+<http://drug.uk/interaction/amlodipine-erythromycin> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/83be8b69-6de6-4b41-a044-a70388f136be> .
+<http://drug.uk/interaction/amlodipine-erythromycin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-esketamine> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-esketamine> <http://drug.uk/model/interactingDrug> <http://drug.uk/esketamine> .
+<http://drug.uk/interaction/amlodipine-esketamine> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/304c077e-6722-419f-8ad6-87099565e061> .
+<http://drug.uk/interaction/amlodipine-esketamine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-etomidate> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-etomidate> <http://drug.uk/model/interactingDrug> <http://drug.uk/etomidate> .
+<http://drug.uk/interaction/amlodipine-etomidate> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/c4e86f9d-8641-4eb2-a79c-7d04cd60cf79> .
+<http://drug.uk/interaction/amlodipine-etomidate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-etravirine> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-etravirine> <http://drug.uk/model/interactingDrug> <http://drug.uk/etravirine> .
+<http://drug.uk/interaction/amlodipine-etravirine> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/563c75f6-5b1e-4b99-8b6b-e89d1d8a38e4> .
+<http://drug.uk/interaction/amlodipine-etravirine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-fedratinib-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-fedratinib-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/fedratinib-specialist-drug> .
+<http://drug.uk/interaction/amlodipine-fedratinib-specialist-drug> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/dbbc0d9d-bffe-45ca-be6c-a480918ffc71> .
+<http://drug.uk/interaction/amlodipine-fedratinib-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-finerenone> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-finerenone> <http://drug.uk/model/interactingDrug> <http://drug.uk/finerenone> .
+<http://drug.uk/interaction/amlodipine-finerenone> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/4e0a9050-d755-47d1-a31d-1de33d2e5978> .
+<http://drug.uk/interaction/amlodipine-finerenone> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-fluconazole> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-fluconazole> <http://drug.uk/model/interactingDrug> <http://drug.uk/fluconazole> .
+<http://drug.uk/interaction/amlodipine-fluconazole> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/350168fc-5933-4dac-9eb4-59c8b9972989> .
+<http://drug.uk/interaction/amlodipine-fluconazole> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-fosamprenavir> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-fosamprenavir> <http://drug.uk/model/interactingDrug> <http://drug.uk/fosamprenavir> .
+<http://drug.uk/interaction/amlodipine-fosamprenavir> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/fda3d1da-887c-4583-af5a-ced207cab480> .
+<http://drug.uk/interaction/amlodipine-fosamprenavir> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-furosemide> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-furosemide> <http://drug.uk/model/interactingDrug> <http://drug.uk/furosemide> .
+<http://drug.uk/interaction/amlodipine-furosemide> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/febf4aea-0978-452d-8f2c-7bd105428426> .
+<http://drug.uk/interaction/amlodipine-furosemide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-glyceryl-trinitrate> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-glyceryl-trinitrate> <http://drug.uk/model/interactingDrug> <http://drug.uk/glyceryl-trinitrate> .
+<http://drug.uk/interaction/amlodipine-glyceryl-trinitrate> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/b963376f-cdd3-455e-922a-b5a0e06f3198> .
+<http://drug.uk/interaction/amlodipine-glyceryl-trinitrate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-grapefruit> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-grapefruit> <http://drug.uk/model/interactingDrug> <http://drug.uk/grapefruit> .
+<http://drug.uk/interaction/amlodipine-grapefruit> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/810d995e-ba87-492c-9a0a-20cb37ed929b> .
+<http://drug.uk/interaction/amlodipine-grapefruit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-guanfacine> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-guanfacine> <http://drug.uk/model/interactingDrug> <http://drug.uk/guanfacine> .
+<http://drug.uk/interaction/amlodipine-guanfacine> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/651dbe12-14c8-4165-a3c1-61a5e78c3ffb> .
+<http://drug.uk/interaction/amlodipine-guanfacine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-hydrochlorothiazide> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-hydrochlorothiazide> <http://drug.uk/model/interactingDrug> <http://drug.uk/hydrochlorothiazide> .
+<http://drug.uk/interaction/amlodipine-hydrochlorothiazide> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/6c9a77b2-b835-496d-a642-2c7d9df5794a> .
+<http://drug.uk/interaction/amlodipine-hydrochlorothiazide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-idelalisib-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-idelalisib-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/idelalisib-specialist-drug> .
+<http://drug.uk/interaction/amlodipine-idelalisib-specialist-drug> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/5ab15bb5-92c0-4a2b-8782-1d95f06c4e23> .
+<http://drug.uk/interaction/amlodipine-idelalisib-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-iloprost> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-iloprost> <http://drug.uk/model/interactingDrug> <http://drug.uk/iloprost> .
+<http://drug.uk/interaction/amlodipine-iloprost> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/3c6f7099-797a-47d5-9d53-25a17ffd6f46> .
+<http://drug.uk/interaction/amlodipine-iloprost> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-imatinib-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-imatinib-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/imatinib-specialist-drug> .
+<http://drug.uk/interaction/amlodipine-imatinib-specialist-drug> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/dc2e9787-f30c-42a9-b267-f400953144e4> .
+<http://drug.uk/interaction/amlodipine-imatinib-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-indapamide> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-indapamide> <http://drug.uk/model/interactingDrug> <http://drug.uk/indapamide> .
+<http://drug.uk/interaction/amlodipine-indapamide> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/f94b6895-5f13-4dcb-ba9c-fbdb68108395> .
+<http://drug.uk/interaction/amlodipine-indapamide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-indoramin> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-indoramin> <http://drug.uk/model/interactingDrug> <http://drug.uk/indoramin> .
+<http://drug.uk/interaction/amlodipine-indoramin> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/905441bb-e0c3-44f2-b45a-c4cf770d154c> .
+<http://drug.uk/interaction/amlodipine-indoramin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-irbesartan> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-irbesartan> <http://drug.uk/model/interactingDrug> <http://drug.uk/irbesartan> .
+<http://drug.uk/interaction/amlodipine-irbesartan> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/f6c1c450-6884-4cfb-a1ab-d987672d165f> .
+<http://drug.uk/interaction/amlodipine-irbesartan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-isavuconazole> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-isavuconazole> <http://drug.uk/model/interactingDrug> <http://drug.uk/isavuconazole> .
+<http://drug.uk/interaction/amlodipine-isavuconazole> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/c1d16292-88de-45c9-a803-d76d0ee88687> .
+<http://drug.uk/interaction/amlodipine-isavuconazole> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-isocarboxazid> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-isocarboxazid> <http://drug.uk/model/interactingDrug> <http://drug.uk/isocarboxazid> .
+<http://drug.uk/interaction/amlodipine-isocarboxazid> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/7c8ecf91-d728-4824-995d-9dbd3f6bdadc> .
+<http://drug.uk/interaction/amlodipine-isocarboxazid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-isoflurane> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-isoflurane> <http://drug.uk/model/interactingDrug> <http://drug.uk/isoflurane> .
+<http://drug.uk/interaction/amlodipine-isoflurane> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/8c1cc5b5-b3d7-4b70-ad4b-e786ac1cff5e> .
+<http://drug.uk/interaction/amlodipine-isoflurane> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-isosorbide-dinitrate> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-isosorbide-dinitrate> <http://drug.uk/model/interactingDrug> <http://drug.uk/isosorbide-dinitrate> .
+<http://drug.uk/interaction/amlodipine-isosorbide-dinitrate> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/6339cc01-61ad-4315-84e1-2140d73a2973> .
+<http://drug.uk/interaction/amlodipine-isosorbide-dinitrate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-isosorbide-mononitrate> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-isosorbide-mononitrate> <http://drug.uk/model/interactingDrug> <http://drug.uk/isosorbide-mononitrate> .
+<http://drug.uk/interaction/amlodipine-isosorbide-mononitrate> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/1e588d71-1f34-4cca-a288-dc2b5eb19e68> .
+<http://drug.uk/interaction/amlodipine-isosorbide-mononitrate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-itraconazole> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-itraconazole> <http://drug.uk/model/interactingDrug> <http://drug.uk/itraconazole> .
+<http://drug.uk/interaction/amlodipine-itraconazole> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/9b1826aa-b9c3-450e-b211-5fd89327a1cd> .
+<http://drug.uk/interaction/amlodipine-itraconazole> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-ivosidenib-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-ivosidenib-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/ivosidenib-specialist-drug> .
+<http://drug.uk/interaction/amlodipine-ivosidenib-specialist-drug> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/b670b32d-c2d0-49f5-aac4-b65fd9bc8481> .
+<http://drug.uk/interaction/amlodipine-ivosidenib-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-ketamine> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-ketamine> <http://drug.uk/model/interactingDrug> <http://drug.uk/ketamine> .
+<http://drug.uk/interaction/amlodipine-ketamine> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/6c4b4497-f08d-4fc7-bba2-64ca3404ab90> .
+<http://drug.uk/interaction/amlodipine-ketamine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-ketoconazole> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-ketoconazole> <http://drug.uk/model/interactingDrug> <http://drug.uk/ketoconazole> .
+<http://drug.uk/interaction/amlodipine-ketoconazole> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/8d48e5c1-3e19-4faf-b05f-398ec61c6c37> .
+<http://drug.uk/interaction/amlodipine-ketoconazole> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-letermovir> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-letermovir> <http://drug.uk/model/interactingDrug> <http://drug.uk/letermovir> .
+<http://drug.uk/interaction/amlodipine-letermovir> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/59df83ef-eaca-4403-ad14-138bf6b88dca> .
+<http://drug.uk/interaction/amlodipine-letermovir> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-levomepromazine> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-levomepromazine> <http://drug.uk/model/interactingDrug> <http://drug.uk/levomepromazine> .
+<http://drug.uk/interaction/amlodipine-levomepromazine> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/3d3e6e63-7918-4944-a04e-031f87ce816a> .
+<http://drug.uk/interaction/amlodipine-levomepromazine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-lisinopril> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-lisinopril> <http://drug.uk/model/interactingDrug> <http://drug.uk/lisinopril> .
+<http://drug.uk/interaction/amlodipine-lisinopril> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/c8fa6f1e-6cba-47ab-8be2-dec4f11ed589> .
+<http://drug.uk/interaction/amlodipine-lisinopril> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-lofepramine> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-lofepramine> <http://drug.uk/model/interactingDrug> <http://drug.uk/lofepramine> .
+<http://drug.uk/interaction/amlodipine-lofepramine> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/d21b4da8-bd47-45e4-9976-2434d1848939> .
+<http://drug.uk/interaction/amlodipine-lofepramine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-lomitapide> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-lomitapide> <http://drug.uk/model/interactingDrug> <http://drug.uk/lomitapide> .
+<http://drug.uk/interaction/amlodipine-lomitapide> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/5cadc4fa-c92e-4ffc-8e86-cced52d3a72d> .
+<http://drug.uk/interaction/amlodipine-lomitapide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-lorlatinib-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-lorlatinib-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/lorlatinib-specialist-drug> .
+<http://drug.uk/interaction/amlodipine-lorlatinib-specialist-drug> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/d7dbc3bb-6e6f-4488-9a82-0cb543472717> .
+<http://drug.uk/interaction/amlodipine-lorlatinib-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-loxapine> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-loxapine> <http://drug.uk/model/interactingDrug> <http://drug.uk/loxapine> .
+<http://drug.uk/interaction/amlodipine-loxapine> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/5d03831e-baf9-47e7-aa51-0844e5fcd870> .
+<http://drug.uk/interaction/amlodipine-loxapine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-mefloquine> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-mefloquine> <http://drug.uk/model/interactingDrug> <http://drug.uk/mefloquine> .
+<http://drug.uk/interaction/amlodipine-mefloquine> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/1eef524b-20da-4a5d-a429-5ff8c1f3c02d> .
+<http://drug.uk/interaction/amlodipine-mefloquine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-methoxyflurane> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-methoxyflurane> <http://drug.uk/model/interactingDrug> <http://drug.uk/methoxyflurane> .
+<http://drug.uk/interaction/amlodipine-methoxyflurane> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/a383c7f6-2d8b-428f-bd11-a0c7d241b9ce> .
+<http://drug.uk/interaction/amlodipine-methoxyflurane> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-methyldopa> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-methyldopa> <http://drug.uk/model/interactingDrug> <http://drug.uk/methyldopa> .
+<http://drug.uk/interaction/amlodipine-methyldopa> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/ade6f62b-bfe4-40bd-879a-81f0c03fd490> .
+<http://drug.uk/interaction/amlodipine-methyldopa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-metolazone> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-metolazone> <http://drug.uk/model/interactingDrug> <http://drug.uk/metolazone> .
+<http://drug.uk/interaction/amlodipine-metolazone> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/f8c33286-c26d-4943-8514-9ecdd02dd4eb> .
+<http://drug.uk/interaction/amlodipine-metolazone> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-miconazole> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-miconazole> <http://drug.uk/model/interactingDrug> <http://drug.uk/miconazole> .
+<http://drug.uk/interaction/amlodipine-miconazole> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/42237ff7-3554-4737-8948-968cebf2b3ac> .
+<http://drug.uk/interaction/amlodipine-miconazole> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-minoxidil> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-minoxidil> <http://drug.uk/model/interactingDrug> <http://drug.uk/minoxidil> .
+<http://drug.uk/interaction/amlodipine-minoxidil> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/29830b5b-4641-4544-b625-f5e8e2d9c9a7> .
+<http://drug.uk/interaction/amlodipine-minoxidil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-mitotane-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-mitotane-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/mitotane-specialist-drug> .
+<http://drug.uk/interaction/amlodipine-mitotane-specialist-drug> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/47f43a2f-356e-4089-b567-624c3e33f935> .
+<http://drug.uk/interaction/amlodipine-mitotane-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-moxonidine> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-moxonidine> <http://drug.uk/model/interactingDrug> <http://drug.uk/moxonidine> .
+<http://drug.uk/interaction/amlodipine-moxonidine> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/ba78620a-a025-4e5b-8860-ac1ec108f8c4> .
+<http://drug.uk/interaction/amlodipine-moxonidine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-nadolol> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-nadolol> <http://drug.uk/model/interactingDrug> <http://drug.uk/nadolol> .
+<http://drug.uk/interaction/amlodipine-nadolol> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/c99e1263-e3ba-46bb-8355-90610ca1b474> .
+<http://drug.uk/interaction/amlodipine-nadolol> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-nebivolol> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-nebivolol> <http://drug.uk/model/interactingDrug> <http://drug.uk/nebivolol> .
+<http://drug.uk/interaction/amlodipine-nebivolol> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/03953591-bdfa-4976-bdc8-2389b8f9760e> .
+<http://drug.uk/interaction/amlodipine-nebivolol> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-nevirapine> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-nevirapine> <http://drug.uk/model/interactingDrug> <http://drug.uk/nevirapine> .
+<http://drug.uk/interaction/amlodipine-nevirapine> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/07cc70d8-8404-4159-b649-5972de7a575b> .
+<http://drug.uk/interaction/amlodipine-nevirapine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-nicorandil> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-nicorandil> <http://drug.uk/model/interactingDrug> <http://drug.uk/nicorandil> .
+<http://drug.uk/interaction/amlodipine-nicorandil> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/2b6c46ce-0e3d-4a42-b3ab-c408b445245f> .
+<http://drug.uk/interaction/amlodipine-nicorandil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-nilotinib-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-nilotinib-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/nilotinib-specialist-drug> .
+<http://drug.uk/interaction/amlodipine-nilotinib-specialist-drug> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/0f49ba5d-f6ba-4ece-bac9-a9e710891200> .
+<http://drug.uk/interaction/amlodipine-nilotinib-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-nitrous-oxide> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-nitrous-oxide> <http://drug.uk/model/interactingDrug> <http://drug.uk/nitrous-oxide> .
+<http://drug.uk/interaction/amlodipine-nitrous-oxide> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/c02d90d8-8d42-4689-a457-202d4868508e> .
+<http://drug.uk/interaction/amlodipine-nitrous-oxide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-nortriptyline> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-nortriptyline> <http://drug.uk/model/interactingDrug> <http://drug.uk/nortriptyline> .
+<http://drug.uk/interaction/amlodipine-nortriptyline> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/79c8c62c-5a2e-42be-bbc5-5f9501968bc9> .
+<http://drug.uk/interaction/amlodipine-nortriptyline> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-paliperidone> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-paliperidone> <http://drug.uk/model/interactingDrug> <http://drug.uk/paliperidone> .
+<http://drug.uk/interaction/amlodipine-paliperidone> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/a8ca0f98-5109-4fec-833c-18bc1541c6a7> .
+<http://drug.uk/interaction/amlodipine-paliperidone> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-pericyazine> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-pericyazine> <http://drug.uk/model/interactingDrug> <http://drug.uk/pericyazine> .
+<http://drug.uk/interaction/amlodipine-pericyazine> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/529b5d64-9f14-491b-8e6a-06e59893f7bf> .
+<http://drug.uk/interaction/amlodipine-pericyazine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-phenelzine> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-phenelzine> <http://drug.uk/model/interactingDrug> <http://drug.uk/phenelzine> .
+<http://drug.uk/interaction/amlodipine-phenelzine> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/7a5b334a-d0af-4066-96c2-959a4ae4c382> .
+<http://drug.uk/interaction/amlodipine-phenelzine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-phenobarbital> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-phenobarbital> <http://drug.uk/model/interactingDrug> <http://drug.uk/phenobarbital> .
+<http://drug.uk/interaction/amlodipine-phenobarbital> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/09c46d64-087f-482a-9a9a-25e409beedf9> .
+<http://drug.uk/interaction/amlodipine-phenobarbital> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-phenytoin> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-phenytoin> <http://drug.uk/model/interactingDrug> <http://drug.uk/phenytoin> .
+<http://drug.uk/interaction/amlodipine-phenytoin> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/2980cbd8-a465-4c61-83c7-ac1db1e63631> .
+<http://drug.uk/interaction/amlodipine-phenytoin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-pimozide> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-pimozide> <http://drug.uk/model/interactingDrug> <http://drug.uk/pimozide> .
+<http://drug.uk/interaction/amlodipine-pimozide> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/5ca61808-1fdb-49df-ac68-dbae53e6040c> .
+<http://drug.uk/interaction/amlodipine-pimozide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-pindolol> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-pindolol> <http://drug.uk/model/interactingDrug> <http://drug.uk/pindolol> .
+<http://drug.uk/interaction/amlodipine-pindolol> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/f17a466e-593c-4db9-9d2c-ea70a4b0d79a> .
+<http://drug.uk/interaction/amlodipine-pindolol> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-posaconazole> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-posaconazole> <http://drug.uk/model/interactingDrug> <http://drug.uk/posaconazole> .
+<http://drug.uk/interaction/amlodipine-posaconazole> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/babdfe94-e670-43f5-aa27-b146bbfc8592> .
+<http://drug.uk/interaction/amlodipine-posaconazole> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-pramipexole> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-pramipexole> <http://drug.uk/model/interactingDrug> <http://drug.uk/pramipexole> .
+<http://drug.uk/interaction/amlodipine-pramipexole> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/1384852d-ec51-4b04-80b9-b7f91bd211b8> .
+<http://drug.uk/interaction/amlodipine-pramipexole> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-prazosin> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-prazosin> <http://drug.uk/model/interactingDrug> <http://drug.uk/prazosin> .
+<http://drug.uk/interaction/amlodipine-prazosin> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/dda824a6-1208-4b5b-82bc-5b56359e4544> .
+<http://drug.uk/interaction/amlodipine-prazosin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-primidone> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-primidone> <http://drug.uk/model/interactingDrug> <http://drug.uk/primidone> .
+<http://drug.uk/interaction/amlodipine-primidone> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/1e38a327-1d53-4ca4-86a1-9594e791f3d6> .
+<http://drug.uk/interaction/amlodipine-primidone> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-prochlorperazine> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-prochlorperazine> <http://drug.uk/model/interactingDrug> <http://drug.uk/prochlorperazine> .
+<http://drug.uk/interaction/amlodipine-prochlorperazine> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/94706086-a45e-47cb-8d6c-24e37c4e7ab0> .
+<http://drug.uk/interaction/amlodipine-prochlorperazine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-propofol> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-propofol> <http://drug.uk/model/interactingDrug> <http://drug.uk/propofol> .
+<http://drug.uk/interaction/amlodipine-propofol> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/81c27c9d-6239-4280-acc5-533810a6ae28> .
+<http://drug.uk/interaction/amlodipine-propofol> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-quetiapine> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-quetiapine> <http://drug.uk/model/interactingDrug> <http://drug.uk/quetiapine> .
+<http://drug.uk/interaction/amlodipine-quetiapine> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/588f970e-6777-4c71-ad19-bfefa14b61c7> .
+<http://drug.uk/interaction/amlodipine-quetiapine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-quinagolide> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-quinagolide> <http://drug.uk/model/interactingDrug> <http://drug.uk/quinagolide> .
+<http://drug.uk/interaction/amlodipine-quinagolide> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/afe91313-a083-4fd9-8184-5db13ce22a43> .
+<http://drug.uk/interaction/amlodipine-quinagolide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-quinapril> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-quinapril> <http://drug.uk/model/interactingDrug> <http://drug.uk/quinapril> .
+<http://drug.uk/interaction/amlodipine-quinapril> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/f6b9b05f-bc51-4868-a108-2258da982061> .
+<http://drug.uk/interaction/amlodipine-quinapril> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-ramipril> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-ramipril> <http://drug.uk/model/interactingDrug> <http://drug.uk/ramipril> .
+<http://drug.uk/interaction/amlodipine-ramipril> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/16aa68d8-6f4c-4b8c-ae96-fefcb6fff599> .
+<http://drug.uk/interaction/amlodipine-ramipril> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-rifampicin> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-rifampicin> <http://drug.uk/model/interactingDrug> <http://drug.uk/rifampicin> .
+<http://drug.uk/interaction/amlodipine-rifampicin> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/9f447a04-c0fd-4a9a-b0c9-32b90fbf8804> .
+<http://drug.uk/interaction/amlodipine-rifampicin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-riociguat> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-riociguat> <http://drug.uk/model/interactingDrug> <http://drug.uk/riociguat> .
+<http://drug.uk/interaction/amlodipine-riociguat> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/e9411e06-3c4e-476c-b758-d5f820328813> .
+<http://drug.uk/interaction/amlodipine-riociguat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-risperidone> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-risperidone> <http://drug.uk/model/interactingDrug> <http://drug.uk/risperidone> .
+<http://drug.uk/interaction/amlodipine-risperidone> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/6f0f9f78-92c6-4be5-b46e-85a83ec3c692> .
+<http://drug.uk/interaction/amlodipine-risperidone> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-ritonavir> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-ritonavir> <http://drug.uk/model/interactingDrug> <http://drug.uk/ritonavir> .
+<http://drug.uk/interaction/amlodipine-ritonavir> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/6712997a-9bbd-4613-b6e5-a8ffaecf97e8> .
+<http://drug.uk/interaction/amlodipine-ritonavir> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-ropinirole> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-ropinirole> <http://drug.uk/model/interactingDrug> <http://drug.uk/ropinirole> .
+<http://drug.uk/interaction/amlodipine-ropinirole> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/34852f94-8017-41dc-86cb-a4e705d0a1a2> .
+<http://drug.uk/interaction/amlodipine-ropinirole> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-rotigotine> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-rotigotine> <http://drug.uk/model/interactingDrug> <http://drug.uk/rotigotine> .
+<http://drug.uk/interaction/amlodipine-rotigotine> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/0280f7ea-88d4-436b-b924-a6405a8c8eee> .
+<http://drug.uk/interaction/amlodipine-rotigotine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-sevoflurane> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-sevoflurane> <http://drug.uk/model/interactingDrug> <http://drug.uk/sevoflurane> .
+<http://drug.uk/interaction/amlodipine-sevoflurane> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/a854a8df-1707-4b63-8018-72e4d5bef161> .
+<http://drug.uk/interaction/amlodipine-sevoflurane> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-sildenafil> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-sildenafil> <http://drug.uk/model/interactingDrug> <http://drug.uk/sildenafil> .
+<http://drug.uk/interaction/amlodipine-sildenafil> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/4e23a20f-e960-4efc-8443-5b50a724e954> .
+<http://drug.uk/interaction/amlodipine-sildenafil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-simvastatin> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-simvastatin> <http://drug.uk/model/interactingDrug> <http://drug.uk/simvastatin> .
+<http://drug.uk/interaction/amlodipine-simvastatin> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/4952b1d1-f250-4e73-8f46-460e2391f57d> .
+<http://drug.uk/interaction/amlodipine-simvastatin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-sodium-oxybate> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-sodium-oxybate> <http://drug.uk/model/interactingDrug> <http://drug.uk/sodium-oxybate> .
+<http://drug.uk/interaction/amlodipine-sodium-oxybate> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/fc50d66a-d8c8-4bb7-b57a-60d26a376b73> .
+<http://drug.uk/interaction/amlodipine-sodium-oxybate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-sotorasib-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-sotorasib-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/sotorasib-specialist-drug> .
+<http://drug.uk/interaction/amlodipine-sotorasib-specialist-drug> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/5f2341d7-72b7-44ba-b87b-357542c651ff> .
+<http://drug.uk/interaction/amlodipine-sotorasib-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-spironolactone> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-spironolactone> <http://drug.uk/model/interactingDrug> <http://drug.uk/spironolactone> .
+<http://drug.uk/interaction/amlodipine-spironolactone> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/c73ce611-eaa8-4573-acf4-00f7399eccaf> .
+<http://drug.uk/interaction/amlodipine-spironolactone> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-st-johns-wort> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-st-johns-wort> <http://drug.uk/model/interactingDrug> <http://drug.uk/st-johns-wort> .
+<http://drug.uk/interaction/amlodipine-st-johns-wort> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/c81f009d-d7c8-434c-b567-a7d327cee40f> .
+<http://drug.uk/interaction/amlodipine-st-johns-wort> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-sulpiride> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-sulpiride> <http://drug.uk/model/interactingDrug> <http://drug.uk/sulpiride> .
+<http://drug.uk/interaction/amlodipine-sulpiride> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/3c5877cb-cc51-4b30-ab66-47a32438051d> .
+<http://drug.uk/interaction/amlodipine-sulpiride> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-tadalafil> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-tadalafil> <http://drug.uk/model/interactingDrug> <http://drug.uk/tadalafil> .
+<http://drug.uk/interaction/amlodipine-tadalafil> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/06a392cf-1036-4c79-9e23-ee0abde7e816> .
+<http://drug.uk/interaction/amlodipine-tadalafil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-telmisartan> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-telmisartan> <http://drug.uk/model/interactingDrug> <http://drug.uk/telmisartan> .
+<http://drug.uk/interaction/amlodipine-telmisartan> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/c2d4b589-a3a6-497d-87b7-3b138400b956> .
+<http://drug.uk/interaction/amlodipine-telmisartan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-temsirolimus-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-temsirolimus-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/temsirolimus-specialist-drug> .
+<http://drug.uk/interaction/amlodipine-temsirolimus-specialist-drug> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/29413dc7-7460-46e2-9890-173468b520e9> .
+<http://drug.uk/interaction/amlodipine-temsirolimus-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-terazosin> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-terazosin> <http://drug.uk/model/interactingDrug> <http://drug.uk/terazosin> .
+<http://drug.uk/interaction/amlodipine-terazosin> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/6af63e38-8b58-4856-8c0c-405fe1492b29> .
+<http://drug.uk/interaction/amlodipine-terazosin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-tizanidine> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-tizanidine> <http://drug.uk/model/interactingDrug> <http://drug.uk/tizanidine> .
+<http://drug.uk/interaction/amlodipine-tizanidine> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/8a3fbed6-2033-4eb9-8975-e200b593cd55> .
+<http://drug.uk/interaction/amlodipine-tizanidine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-tocilizumab> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-tocilizumab> <http://drug.uk/model/interactingDrug> <http://drug.uk/tocilizumab> .
+<http://drug.uk/interaction/amlodipine-tocilizumab> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/e2e736eb-cf91-4ac3-981d-6c0c823b0502> .
+<http://drug.uk/interaction/amlodipine-tocilizumab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-torasemide> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-torasemide> <http://drug.uk/model/interactingDrug> <http://drug.uk/torasemide> .
+<http://drug.uk/interaction/amlodipine-torasemide> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/f3ea5881-7123-446e-aa9b-842171a080ee> .
+<http://drug.uk/interaction/amlodipine-torasemide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-trandolapril> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-trandolapril> <http://drug.uk/model/interactingDrug> <http://drug.uk/trandolapril> .
+<http://drug.uk/interaction/amlodipine-trandolapril> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/068d3009-2132-4464-8ff3-b0043ccec25a> .
+<http://drug.uk/interaction/amlodipine-trandolapril> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-tranylcypromine> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-tranylcypromine> <http://drug.uk/model/interactingDrug> <http://drug.uk/tranylcypromine> .
+<http://drug.uk/interaction/amlodipine-tranylcypromine> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/e09a0929-12b4-46a2-a62c-ba7e1c9f1d80> .
+<http://drug.uk/interaction/amlodipine-tranylcypromine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-treprostinil> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-treprostinil> <http://drug.uk/model/interactingDrug> <http://drug.uk/treprostinil> .
+<http://drug.uk/interaction/amlodipine-treprostinil> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/fcc5d8b3-d22a-4517-b968-c2a84e8a1395> .
+<http://drug.uk/interaction/amlodipine-treprostinil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-trifluoperazine> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-trifluoperazine> <http://drug.uk/model/interactingDrug> <http://drug.uk/trifluoperazine> .
+<http://drug.uk/interaction/amlodipine-trifluoperazine> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/dae5acb9-324a-43fa-9ce2-80919bab004b> .
+<http://drug.uk/interaction/amlodipine-trifluoperazine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-trimipramine> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-trimipramine> <http://drug.uk/model/interactingDrug> <http://drug.uk/trimipramine> .
+<http://drug.uk/interaction/amlodipine-trimipramine> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/e36f7579-3934-46a9-9192-32ab6eb8f5f4> .
+<http://drug.uk/interaction/amlodipine-trimipramine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-tucatinib-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-tucatinib-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/tucatinib-specialist-drug> .
+<http://drug.uk/interaction/amlodipine-tucatinib-specialist-drug> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/dba29291-1fa7-48c5-915d-5c795cb78f61> .
+<http://drug.uk/interaction/amlodipine-tucatinib-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-valsartan> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-valsartan> <http://drug.uk/model/interactingDrug> <http://drug.uk/valsartan> .
+<http://drug.uk/interaction/amlodipine-valsartan> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/ef6153a1-cb34-48e3-8074-63686033f63e> .
+<http://drug.uk/interaction/amlodipine-valsartan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-vardenafil> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-vardenafil> <http://drug.uk/model/interactingDrug> <http://drug.uk/vardenafil> .
+<http://drug.uk/interaction/amlodipine-vardenafil> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/c4b1b7aa-282e-4517-8c03-34f497ac3ab3> .
+<http://drug.uk/interaction/amlodipine-vardenafil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-vericiguat> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-vericiguat> <http://drug.uk/model/interactingDrug> <http://drug.uk/vericiguat> .
+<http://drug.uk/interaction/amlodipine-vericiguat> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/87d2ee56-30e9-40d2-961c-c928eeb26faa> .
+<http://drug.uk/interaction/amlodipine-vericiguat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-vernakalant> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-vernakalant> <http://drug.uk/model/interactingDrug> <http://drug.uk/vernakalant> .
+<http://drug.uk/interaction/amlodipine-vernakalant> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/a53aa52f-7b26-4ac4-91ca-a2001b6e7696> .
+<http://drug.uk/interaction/amlodipine-vernakalant> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-voriconazole> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-voriconazole> <http://drug.uk/model/interactingDrug> <http://drug.uk/voriconazole> .
+<http://drug.uk/interaction/amlodipine-voriconazole> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/5450dad0-8b9a-431a-9b72-30a95dda4c14> .
+<http://drug.uk/interaction/amlodipine-voriconazole> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-xipamide> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-xipamide> <http://drug.uk/model/interactingDrug> <http://drug.uk/xipamide> .
+<http://drug.uk/interaction/amlodipine-xipamide> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/6930d78f-1901-43a4-abeb-efca42589208> .
+<http://drug.uk/interaction/amlodipine-xipamide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/detail/0280f7ea-88d4-436b-b924-a6405a8c8eee> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/0280f7ea-88d4-436b-b924-a6405a8c8eee> <http://purl.org/dc/terms/description> "Both Amlodipine and Rotigotine can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/0280f7ea-88d4-436b-b924-a6405a8c8eee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/03953591-bdfa-4976-bdc8-2389b8f9760e> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/03953591-bdfa-4976-bdc8-2389b8f9760e> <http://purl.org/dc/terms/description> "Both Amlodipine and Nebivolol can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/03953591-bdfa-4976-bdc8-2389b8f9760e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/068d3009-2132-4464-8ff3-b0043ccec25a> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/068d3009-2132-4464-8ff3-b0043ccec25a> <http://purl.org/dc/terms/description> "Both Amlodipine and Trandolapril can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/068d3009-2132-4464-8ff3-b0043ccec25a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/06a392cf-1036-4c79-9e23-ee0abde7e816> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/06a392cf-1036-4c79-9e23-ee0abde7e816> <http://purl.org/dc/terms/description> "Both Amlodipine and Tadalafil can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/06a392cf-1036-4c79-9e23-ee0abde7e816> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/07cc70d8-8404-4159-b649-5972de7a575b> <http://drug.uk/model/evidence> "Theoretical" .
+<http://drug.uk/interaction/detail/07cc70d8-8404-4159-b649-5972de7a575b> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/07cc70d8-8404-4159-b649-5972de7a575b> <http://purl.org/dc/terms/description> "Nevirapine is predicted to decrease the exposure to Amlodipine. Manufacturer advises monitor and adjust dose.  " .
+<http://drug.uk/interaction/detail/07cc70d8-8404-4159-b649-5972de7a575b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/09c46d64-087f-482a-9a9a-25e409beedf9> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/09c46d64-087f-482a-9a9a-25e409beedf9> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/09c46d64-087f-482a-9a9a-25e409beedf9> <http://purl.org/dc/terms/description> "Phenobarbital is predicted to decrease the exposure to Amlodipine. Manufacturer advises monitor and adjust dose.  " .
+<http://drug.uk/interaction/detail/09c46d64-087f-482a-9a9a-25e409beedf9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/09d87462-a392-42b0-9249-1903dd7ee2d7> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/09d87462-a392-42b0-9249-1903dd7ee2d7> <http://purl.org/dc/terms/description> "Both Amlodipine and Doxazosin can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/09d87462-a392-42b0-9249-1903dd7ee2d7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/0f49ba5d-f6ba-4ece-bac9-a9e710891200> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/0f49ba5d-f6ba-4ece-bac9-a9e710891200> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/0f49ba5d-f6ba-4ece-bac9-a9e710891200> <http://purl.org/dc/terms/description> "Nilotinib is predicted to increase the exposure to Amlodipine. Manufacturer advises monitor and adjust dose.  " .
+<http://drug.uk/interaction/detail/0f49ba5d-f6ba-4ece-bac9-a9e710891200> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/1321deff-e93b-4e1b-a911-44c11f1845bc> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/1321deff-e93b-4e1b-a911-44c11f1845bc> <http://purl.org/dc/terms/description> "Both Amlodipine and Chlortalidone can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/1321deff-e93b-4e1b-a911-44c11f1845bc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/1384852d-ec51-4b04-80b9-b7f91bd211b8> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/1384852d-ec51-4b04-80b9-b7f91bd211b8> <http://purl.org/dc/terms/description> "Both Amlodipine and Pramipexole can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/1384852d-ec51-4b04-80b9-b7f91bd211b8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/142c0eab-2d49-497d-98aa-16db786eaa41> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/142c0eab-2d49-497d-98aa-16db786eaa41> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/142c0eab-2d49-497d-98aa-16db786eaa41> <http://purl.org/dc/terms/description> "Enzalutamide is predicted to decrease the exposure to Amlodipine. Manufacturer advises monitor and adjust dose.  " .
+<http://drug.uk/interaction/detail/142c0eab-2d49-497d-98aa-16db786eaa41> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/1467bb73-404d-49b7-b198-52001765e007> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/1467bb73-404d-49b7-b198-52001765e007> <http://purl.org/dc/terms/description> "Both Amlodipine and Benperidol can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/1467bb73-404d-49b7-b198-52001765e007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/165f01d4-9544-45ec-96d4-4eb0ab9db993> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/165f01d4-9544-45ec-96d4-4eb0ab9db993> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/165f01d4-9544-45ec-96d4-4eb0ab9db993> <http://purl.org/dc/terms/description> "Darunavir is predicted to increase the exposure to Amlodipine. Manufacturer advises monitor and adjust dose.  " .
+<http://drug.uk/interaction/detail/165f01d4-9544-45ec-96d4-4eb0ab9db993> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/16aa68d8-6f4c-4b8c-ae96-fefcb6fff599> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/16aa68d8-6f4c-4b8c-ae96-fefcb6fff599> <http://purl.org/dc/terms/description> "Both Amlodipine and Ramipril can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/16aa68d8-6f4c-4b8c-ae96-fefcb6fff599> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/19d0a2dc-3414-412e-ad51-b8a43dfca93c> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/19d0a2dc-3414-412e-ad51-b8a43dfca93c> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/19d0a2dc-3414-412e-ad51-b8a43dfca93c> <http://purl.org/dc/terms/description> "Berotralstat is predicted to increase the exposure to Amlodipine. Manufacturer advises monitor and adjust dose.  " .
+<http://drug.uk/interaction/detail/19d0a2dc-3414-412e-ad51-b8a43dfca93c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/1de900f5-31ec-4c54-93f4-7b6843bb5556> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/1de900f5-31ec-4c54-93f4-7b6843bb5556> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/1de900f5-31ec-4c54-93f4-7b6843bb5556> <http://purl.org/dc/terms/description> "Apalutamide is predicted to decrease the exposure to Amlodipine. Manufacturer advises monitor and adjust dose.  " .
+<http://drug.uk/interaction/detail/1de900f5-31ec-4c54-93f4-7b6843bb5556> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/1e38a327-1d53-4ca4-86a1-9594e791f3d6> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/1e38a327-1d53-4ca4-86a1-9594e791f3d6> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/1e38a327-1d53-4ca4-86a1-9594e791f3d6> <http://purl.org/dc/terms/description> "Primidone is predicted to decrease the exposure to Amlodipine. Manufacturer advises monitor and adjust dose.  " .
+<http://drug.uk/interaction/detail/1e38a327-1d53-4ca4-86a1-9594e791f3d6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/1e588d71-1f34-4cca-a288-dc2b5eb19e68> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/1e588d71-1f34-4cca-a288-dc2b5eb19e68> <http://purl.org/dc/terms/description> "Both Amlodipine and Isosorbide mononitrate can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/1e588d71-1f34-4cca-a288-dc2b5eb19e68> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/1eef524b-20da-4a5d-a429-5ff8c1f3c02d> <http://drug.uk/model/evidence> "Theoretical" .
+<http://drug.uk/interaction/detail/1eef524b-20da-4a5d-a429-5ff8c1f3c02d> <http://drug.uk/model/severity> "Severe" .
+<http://drug.uk/interaction/detail/1eef524b-20da-4a5d-a429-5ff8c1f3c02d> <http://purl.org/dc/terms/description> "Mefloquine is predicted to increase the risk of bradycardia when given with Amlodipine. Manufacturer makes no recommendation.  " .
+<http://drug.uk/interaction/detail/1eef524b-20da-4a5d-a429-5ff8c1f3c02d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/231b475b-6740-49f6-9950-87e6e4e44290> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/231b475b-6740-49f6-9950-87e6e4e44290> <http://purl.org/dc/terms/description> "Both Amlodipine and Acebutolol can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/231b475b-6740-49f6-9950-87e6e4e44290> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/2376c807-2b0b-49cb-8276-d0585cb96f92> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/2376c807-2b0b-49cb-8276-d0585cb96f92> <http://purl.org/dc/terms/description> "Both Amlodipine and Droperidol can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/2376c807-2b0b-49cb-8276-d0585cb96f92> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/29413dc7-7460-46e2-9890-173468b520e9> <http://drug.uk/model/evidence> "Theoretical" .
+<http://drug.uk/interaction/detail/29413dc7-7460-46e2-9890-173468b520e9> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/29413dc7-7460-46e2-9890-173468b520e9> <http://purl.org/dc/terms/description> "Temsirolimus is predicted to increase the risk of angioedema when given with Amlodipine. Manufacturer advises caution.  " .
+<http://drug.uk/interaction/detail/29413dc7-7460-46e2-9890-173468b520e9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/2980cbd8-a465-4c61-83c7-ac1db1e63631> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/2980cbd8-a465-4c61-83c7-ac1db1e63631> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/2980cbd8-a465-4c61-83c7-ac1db1e63631> <http://purl.org/dc/terms/description> "Phenytoin is predicted to decrease the exposure to Amlodipine. Manufacturer advises monitor and adjust dose.  " .
+<http://drug.uk/interaction/detail/2980cbd8-a465-4c61-83c7-ac1db1e63631> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/29830b5b-4641-4544-b625-f5e8e2d9c9a7> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/29830b5b-4641-4544-b625-f5e8e2d9c9a7> <http://purl.org/dc/terms/description> "Both Amlodipine and Minoxidil can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/29830b5b-4641-4544-b625-f5e8e2d9c9a7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/2a7d3481-0719-4c0d-aa96-f24d860f54ee> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/2a7d3481-0719-4c0d-aa96-f24d860f54ee> <http://purl.org/dc/terms/description> "Both Amlodipine and Baclofen can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/2a7d3481-0719-4c0d-aa96-f24d860f54ee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/2b6c46ce-0e3d-4a42-b3ab-c408b445245f> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/2b6c46ce-0e3d-4a42-b3ab-c408b445245f> <http://purl.org/dc/terms/description> "Both Amlodipine and Nicorandil can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/2b6c46ce-0e3d-4a42-b3ab-c408b445245f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/2fcf17ac-f48f-4804-aced-4a4b32ad04ef> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/2fcf17ac-f48f-4804-aced-4a4b32ad04ef> <http://purl.org/dc/terms/description> "Both Amlodipine and Clozapine can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/2fcf17ac-f48f-4804-aced-4a4b32ad04ef> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/304c077e-6722-419f-8ad6-87099565e061> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/304c077e-6722-419f-8ad6-87099565e061> <http://purl.org/dc/terms/description> "Both Amlodipine and Esketamine can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/304c077e-6722-419f-8ad6-87099565e061> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/30592168-9c70-45fa-a676-28b26150e3d3> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/30592168-9c70-45fa-a676-28b26150e3d3> <http://purl.org/dc/terms/description> "Both Amlodipine and Alprostadil can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/30592168-9c70-45fa-a676-28b26150e3d3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/34852f94-8017-41dc-86cb-a4e705d0a1a2> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/34852f94-8017-41dc-86cb-a4e705d0a1a2> <http://purl.org/dc/terms/description> "Both Amlodipine and Ropinirole can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/34852f94-8017-41dc-86cb-a4e705d0a1a2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/350168fc-5933-4dac-9eb4-59c8b9972989> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/350168fc-5933-4dac-9eb4-59c8b9972989> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/350168fc-5933-4dac-9eb4-59c8b9972989> <http://purl.org/dc/terms/description> "Fluconazole is predicted to increase the exposure to Amlodipine. Manufacturer advises monitor and adjust dose.  " .
+<http://drug.uk/interaction/detail/350168fc-5933-4dac-9eb4-59c8b9972989> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/371cee97-061c-4731-81f2-909feacad372> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/371cee97-061c-4731-81f2-909feacad372> <http://purl.org/dc/terms/description> "Both Amlodipine and Bumetanide can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/371cee97-061c-4731-81f2-909feacad372> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/37a7ad63-e9ca-4fb2-a32a-a66682dc1037> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/37a7ad63-e9ca-4fb2-a32a-a66682dc1037> <http://purl.org/dc/terms/description> "Both Amlodipine and Epoprostenol can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/37a7ad63-e9ca-4fb2-a32a-a66682dc1037> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/3c5877cb-cc51-4b30-ab66-47a32438051d> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/3c5877cb-cc51-4b30-ab66-47a32438051d> <http://purl.org/dc/terms/description> "Both Amlodipine and Sulpiride can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/3c5877cb-cc51-4b30-ab66-47a32438051d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/3c6f7099-797a-47d5-9d53-25a17ffd6f46> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/3c6f7099-797a-47d5-9d53-25a17ffd6f46> <http://purl.org/dc/terms/description> "Both Amlodipine and Iloprost can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/3c6f7099-797a-47d5-9d53-25a17ffd6f46> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/3d3e6e63-7918-4944-a04e-031f87ce816a> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/3d3e6e63-7918-4944-a04e-031f87ce816a> <http://purl.org/dc/terms/description> "Both Amlodipine and Levomepromazine can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/3d3e6e63-7918-4944-a04e-031f87ce816a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/3e988500-4642-4c75-ac54-279d09270d48> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/3e988500-4642-4c75-ac54-279d09270d48> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/3e988500-4642-4c75-ac54-279d09270d48> <http://purl.org/dc/terms/description> "Carbamazepine is predicted to decrease the exposure to Amlodipine. Manufacturer advises monitor and adjust dose.  " .
+<http://drug.uk/interaction/detail/3e988500-4642-4c75-ac54-279d09270d48> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/42237ff7-3554-4737-8948-968cebf2b3ac> <http://drug.uk/model/evidence> "Theoretical" .
+<http://drug.uk/interaction/detail/42237ff7-3554-4737-8948-968cebf2b3ac> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/42237ff7-3554-4737-8948-968cebf2b3ac> <http://purl.org/dc/terms/description> "Miconazole is predicted to increase the exposure to Amlodipine. Manufacturer advises use with caution and adjust dose.  " .
+<http://drug.uk/interaction/detail/42237ff7-3554-4737-8948-968cebf2b3ac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/458d9188-58fb-4b6a-87ce-211444149229> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/458d9188-58fb-4b6a-87ce-211444149229> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/458d9188-58fb-4b6a-87ce-211444149229> <http://purl.org/dc/terms/description> "Dronedarone is predicted to increase the exposure to Amlodipine. Manufacturer advises monitor and adjust dose.  " .
+<http://drug.uk/interaction/detail/458d9188-58fb-4b6a-87ce-211444149229> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/468dd20b-0334-4533-a84b-5b106721e025> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/468dd20b-0334-4533-a84b-5b106721e025> <http://purl.org/dc/terms/description> "Both Amlodipine and Eprosartan can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/468dd20b-0334-4533-a84b-5b106721e025> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/47f43a2f-356e-4089-b567-624c3e33f935> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/47f43a2f-356e-4089-b567-624c3e33f935> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/47f43a2f-356e-4089-b567-624c3e33f935> <http://purl.org/dc/terms/description> "Mitotane is predicted to decrease the exposure to Amlodipine. Manufacturer advises monitor and adjust dose.  " .
+<http://drug.uk/interaction/detail/47f43a2f-356e-4089-b567-624c3e33f935> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/4952b1d1-f250-4e73-8f46-460e2391f57d> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/4952b1d1-f250-4e73-8f46-460e2391f57d> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/4952b1d1-f250-4e73-8f46-460e2391f57d> <http://purl.org/dc/terms/description> "Amlodipine causes a small increase in the exposure to Simvastatin. Manufacturer advises adjust Simvastatin dose.  " .
+<http://drug.uk/interaction/detail/4952b1d1-f250-4e73-8f46-460e2391f57d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/4a8882be-d730-4e8d-9173-b6989482d9cf> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/4a8882be-d730-4e8d-9173-b6989482d9cf> <http://purl.org/dc/terms/description> "Both Amlodipine and Dapagliflozin can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/4a8882be-d730-4e8d-9173-b6989482d9cf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/4b2a4b7e-d1a4-4452-ae4e-e4aeb64a98b9> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/4b2a4b7e-d1a4-4452-ae4e-e4aeb64a98b9> <http://purl.org/dc/terms/description> "Both Amlodipine and Carvedilol can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/4b2a4b7e-d1a4-4452-ae4e-e4aeb64a98b9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/4b6cc9ae-08c0-4762-9921-dcb6b2aafc5a> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/4b6cc9ae-08c0-4762-9921-dcb6b2aafc5a> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/4b6cc9ae-08c0-4762-9921-dcb6b2aafc5a> <http://purl.org/dc/terms/description> "Ceritinib is predicted to increase the exposure to Amlodipine. Manufacturer advises monitor and adjust dose.  " .
+<http://drug.uk/interaction/detail/4b6cc9ae-08c0-4762-9921-dcb6b2aafc5a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/4d026c5b-9ef6-4add-b038-e19e08542128> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/4d026c5b-9ef6-4add-b038-e19e08542128> <http://purl.org/dc/terms/description> "Both Amlodipine and Betaxolol can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/4d026c5b-9ef6-4add-b038-e19e08542128> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/4e0a9050-d755-47d1-a31d-1de33d2e5978> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/4e0a9050-d755-47d1-a31d-1de33d2e5978> <http://purl.org/dc/terms/description> "Both Amlodipine and Finerenone can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/4e0a9050-d755-47d1-a31d-1de33d2e5978> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/4e23a20f-e960-4efc-8443-5b50a724e954> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/4e23a20f-e960-4efc-8443-5b50a724e954> <http://purl.org/dc/terms/description> "Both Amlodipine and Sildenafil can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/4e23a20f-e960-4efc-8443-5b50a724e954> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/4e478dfb-706e-4dde-a8ff-3ec0bfa9dc73> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/4e478dfb-706e-4dde-a8ff-3ec0bfa9dc73> <http://purl.org/dc/terms/description> "Both Amlodipine and Aliskiren can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/4e478dfb-706e-4dde-a8ff-3ec0bfa9dc73> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/529b5d64-9f14-491b-8e6a-06e59893f7bf> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/529b5d64-9f14-491b-8e6a-06e59893f7bf> <http://purl.org/dc/terms/description> "Both Amlodipine and Pericyazine can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/529b5d64-9f14-491b-8e6a-06e59893f7bf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/5450dad0-8b9a-431a-9b72-30a95dda4c14> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/5450dad0-8b9a-431a-9b72-30a95dda4c14> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/5450dad0-8b9a-431a-9b72-30a95dda4c14> <http://purl.org/dc/terms/description> "Voriconazole is predicted to increase the exposure to Amlodipine. Manufacturer advises monitor and adjust dose.  " .
+<http://drug.uk/interaction/detail/5450dad0-8b9a-431a-9b72-30a95dda4c14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/563c75f6-5b1e-4b99-8b6b-e89d1d8a38e4> <http://drug.uk/model/evidence> "Theoretical" .
+<http://drug.uk/interaction/detail/563c75f6-5b1e-4b99-8b6b-e89d1d8a38e4> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/563c75f6-5b1e-4b99-8b6b-e89d1d8a38e4> <http://purl.org/dc/terms/description> "Etravirine is predicted to decrease the exposure to Amlodipine. Manufacturer advises monitor and adjust dose.  " .
+<http://drug.uk/interaction/detail/563c75f6-5b1e-4b99-8b6b-e89d1d8a38e4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/588f970e-6777-4c71-ad19-bfefa14b61c7> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/588f970e-6777-4c71-ad19-bfefa14b61c7> <http://purl.org/dc/terms/description> "Both Amlodipine and Quetiapine can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/588f970e-6777-4c71-ad19-bfefa14b61c7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/59df83ef-eaca-4403-ad14-138bf6b88dca> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/59df83ef-eaca-4403-ad14-138bf6b88dca> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/59df83ef-eaca-4403-ad14-138bf6b88dca> <http://purl.org/dc/terms/description> "Letermovir is predicted to increase the exposure to Amlodipine. Manufacturer advises monitor and adjust dose.  " .
+<http://drug.uk/interaction/detail/59df83ef-eaca-4403-ad14-138bf6b88dca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/5ab15bb5-92c0-4a2b-8782-1d95f06c4e23> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/5ab15bb5-92c0-4a2b-8782-1d95f06c4e23> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/5ab15bb5-92c0-4a2b-8782-1d95f06c4e23> <http://purl.org/dc/terms/description> "Idelalisib is predicted to increase the exposure to Amlodipine. Manufacturer advises monitor and adjust dose.  " .
+<http://drug.uk/interaction/detail/5ab15bb5-92c0-4a2b-8782-1d95f06c4e23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/5ca61808-1fdb-49df-ac68-dbae53e6040c> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/5ca61808-1fdb-49df-ac68-dbae53e6040c> <http://purl.org/dc/terms/description> "Both Amlodipine and Pimozide can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/5ca61808-1fdb-49df-ac68-dbae53e6040c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/5cadc4fa-c92e-4ffc-8e86-cced52d3a72d> <http://drug.uk/model/evidence> "Theoretical" .
+<http://drug.uk/interaction/detail/5cadc4fa-c92e-4ffc-8e86-cced52d3a72d> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/5cadc4fa-c92e-4ffc-8e86-cced52d3a72d> <http://purl.org/dc/terms/description> "Amlodipine is predicted to increase the exposure to Lomitapide. Manufacturer advises separate administration by 12 hours.  " .
+<http://drug.uk/interaction/detail/5cadc4fa-c92e-4ffc-8e86-cced52d3a72d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/5d03831e-baf9-47e7-aa51-0844e5fcd870> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/5d03831e-baf9-47e7-aa51-0844e5fcd870> <http://purl.org/dc/terms/description> "Both Amlodipine and Loxapine can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/5d03831e-baf9-47e7-aa51-0844e5fcd870> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/5f2341d7-72b7-44ba-b87b-357542c651ff> <http://drug.uk/model/evidence> "Theoretical" .
+<http://drug.uk/interaction/detail/5f2341d7-72b7-44ba-b87b-357542c651ff> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/5f2341d7-72b7-44ba-b87b-357542c651ff> <http://purl.org/dc/terms/description> "Sotorasib is predicted to decrease the exposure to Amlodipine. Manufacturer advises monitor and adjust dose.  " .
+<http://drug.uk/interaction/detail/5f2341d7-72b7-44ba-b87b-357542c651ff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/61a245b6-daea-40f8-8e99-8d9ed8b21ef3> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/61a245b6-daea-40f8-8e99-8d9ed8b21ef3> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/61a245b6-daea-40f8-8e99-8d9ed8b21ef3> <http://purl.org/dc/terms/description> "Encorafenib is predicted to decrease the exposure to Amlodipine. Manufacturer advises monitor and adjust dose.  " .
+<http://drug.uk/interaction/detail/61a245b6-daea-40f8-8e99-8d9ed8b21ef3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/6339cc01-61ad-4315-84e1-2140d73a2973> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/6339cc01-61ad-4315-84e1-2140d73a2973> <http://purl.org/dc/terms/description> "Both Amlodipine and Isosorbide dinitrate can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/6339cc01-61ad-4315-84e1-2140d73a2973> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/651dbe12-14c8-4165-a3c1-61a5e78c3ffb> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/651dbe12-14c8-4165-a3c1-61a5e78c3ffb> <http://purl.org/dc/terms/description> "Both Amlodipine and Guanfacine can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/651dbe12-14c8-4165-a3c1-61a5e78c3ffb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/67049d3f-14cb-4c58-b0bd-7867f8780791> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/67049d3f-14cb-4c58-b0bd-7867f8780791> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/67049d3f-14cb-4c58-b0bd-7867f8780791> <http://purl.org/dc/terms/description> "Cobicistat is predicted to increase the exposure to Amlodipine. Manufacturer advises monitor and adjust dose.  " .
+<http://drug.uk/interaction/detail/67049d3f-14cb-4c58-b0bd-7867f8780791> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/6712997a-9bbd-4613-b6e5-a8ffaecf97e8> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/6712997a-9bbd-4613-b6e5-a8ffaecf97e8> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/6712997a-9bbd-4613-b6e5-a8ffaecf97e8> <http://purl.org/dc/terms/description> "Ritonavir is predicted to increase the exposure to Amlodipine. Manufacturer advises monitor and adjust dose.  " .
+<http://drug.uk/interaction/detail/6712997a-9bbd-4613-b6e5-a8ffaecf97e8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/6930d78f-1901-43a4-abeb-efca42589208> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/6930d78f-1901-43a4-abeb-efca42589208> <http://purl.org/dc/terms/description> "Both Amlodipine and Xipamide can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/6930d78f-1901-43a4-abeb-efca42589208> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/6a38e173-e056-4971-9cdc-cc8e1ee31836> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/6a38e173-e056-4971-9cdc-cc8e1ee31836> <http://purl.org/dc/terms/description> "Both Amlodipine and Aripiprazole can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/6a38e173-e056-4971-9cdc-cc8e1ee31836> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/6af63e38-8b58-4856-8c0c-405fe1492b29> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/6af63e38-8b58-4856-8c0c-405fe1492b29> <http://purl.org/dc/terms/description> "Both Amlodipine and Terazosin can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/6af63e38-8b58-4856-8c0c-405fe1492b29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/6c4b4497-f08d-4fc7-bba2-64ca3404ab90> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/6c4b4497-f08d-4fc7-bba2-64ca3404ab90> <http://purl.org/dc/terms/description> "Both Amlodipine and Ketamine can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/6c4b4497-f08d-4fc7-bba2-64ca3404ab90> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/6c9a77b2-b835-496d-a642-2c7d9df5794a> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/6c9a77b2-b835-496d-a642-2c7d9df5794a> <http://purl.org/dc/terms/description> "Both Amlodipine and Hydrochlorothiazide can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/6c9a77b2-b835-496d-a642-2c7d9df5794a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/6edacab7-bd5a-447e-9129-c8b871e763d2> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/6edacab7-bd5a-447e-9129-c8b871e763d2> <http://purl.org/dc/terms/description> "Both Amlodipine and Ertugliflozin can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/6edacab7-bd5a-447e-9129-c8b871e763d2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/6f0f9f78-92c6-4be5-b46e-85a83ec3c692> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/6f0f9f78-92c6-4be5-b46e-85a83ec3c692> <http://purl.org/dc/terms/description> "Both Amlodipine and Risperidone can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/6f0f9f78-92c6-4be5-b46e-85a83ec3c692> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/7968cb4d-2c01-4d32-a27e-c48dd50c7504> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/7968cb4d-2c01-4d32-a27e-c48dd50c7504> <http://purl.org/dc/terms/description> "Both Amlodipine and Dipyridamole can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/7968cb4d-2c01-4d32-a27e-c48dd50c7504> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/799a01d3-7875-49f2-87c9-25ff93945d9b> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/799a01d3-7875-49f2-87c9-25ff93945d9b> <http://purl.org/dc/terms/description> "Both Amlodipine and Bortezomib can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/799a01d3-7875-49f2-87c9-25ff93945d9b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/79c8c62c-5a2e-42be-bbc5-5f9501968bc9> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/79c8c62c-5a2e-42be-bbc5-5f9501968bc9> <http://purl.org/dc/terms/description> "Both Amlodipine and Nortriptyline can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/79c8c62c-5a2e-42be-bbc5-5f9501968bc9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/7a5b334a-d0af-4066-96c2-959a4ae4c382> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/7a5b334a-d0af-4066-96c2-959a4ae4c382> <http://purl.org/dc/terms/description> "Both Amlodipine and Phenelzine can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/7a5b334a-d0af-4066-96c2-959a4ae4c382> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/7c8ecf91-d728-4824-995d-9dbd3f6bdadc> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/7c8ecf91-d728-4824-995d-9dbd3f6bdadc> <http://purl.org/dc/terms/description> "Both Amlodipine and Isocarboxazid can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/7c8ecf91-d728-4824-995d-9dbd3f6bdadc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/7ef7a3de-c536-4f51-8eb7-62c3579f3c3c> <http://drug.uk/model/evidence> "Theoretical" .
+<http://drug.uk/interaction/detail/7ef7a3de-c536-4f51-8eb7-62c3579f3c3c> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/7ef7a3de-c536-4f51-8eb7-62c3579f3c3c> <http://purl.org/dc/terms/description> "Efavirenz is predicted to decrease the exposure to Amlodipine. Manufacturer advises monitor and adjust dose.  " .
+<http://drug.uk/interaction/detail/7ef7a3de-c536-4f51-8eb7-62c3579f3c3c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/810d995e-ba87-492c-9a0a-20cb37ed929b> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/810d995e-ba87-492c-9a0a-20cb37ed929b> <http://drug.uk/model/severity> "Mild" .
+<http://drug.uk/interaction/detail/810d995e-ba87-492c-9a0a-20cb37ed929b> <http://purl.org/dc/terms/description> "Grapefruit juice very slightly increases the exposure to Amlodipine. Manufacturer advises avoid.  " .
+<http://drug.uk/interaction/detail/810d995e-ba87-492c-9a0a-20cb37ed929b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/81c27c9d-6239-4280-acc5-533810a6ae28> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/81c27c9d-6239-4280-acc5-533810a6ae28> <http://purl.org/dc/terms/description> "Both Amlodipine and Propofol can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/81c27c9d-6239-4280-acc5-533810a6ae28> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/83be8b69-6de6-4b41-a044-a70388f136be> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/83be8b69-6de6-4b41-a044-a70388f136be> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/83be8b69-6de6-4b41-a044-a70388f136be> <http://purl.org/dc/terms/description> "Erythromycin is predicted to increase the exposure to Amlodipine. Manufacturer advises monitor and adjust dose.  " .
+<http://drug.uk/interaction/detail/83be8b69-6de6-4b41-a044-a70388f136be> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/8637a329-e962-4f37-a379-f4acbbda5d2d> <http://drug.uk/model/evidence> "Theoretical" .
+<http://drug.uk/interaction/detail/8637a329-e962-4f37-a379-f4acbbda5d2d> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/8637a329-e962-4f37-a379-f4acbbda5d2d> <http://purl.org/dc/terms/description> "Dabrafenib is predicted to decrease the exposure to Amlodipine. Manufacturer advises monitor and adjust dose.  " .
+<http://drug.uk/interaction/detail/8637a329-e962-4f37-a379-f4acbbda5d2d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/87d2ee56-30e9-40d2-961c-c928eeb26faa> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/87d2ee56-30e9-40d2-961c-c928eeb26faa> <http://purl.org/dc/terms/description> "Both Amlodipine and Vericiguat can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/87d2ee56-30e9-40d2-961c-c928eeb26faa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/8a3fbed6-2033-4eb9-8975-e200b593cd55> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/8a3fbed6-2033-4eb9-8975-e200b593cd55> <http://purl.org/dc/terms/description> "Both Amlodipine and Tizanidine can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/8a3fbed6-2033-4eb9-8975-e200b593cd55> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/8c1cc5b5-b3d7-4b70-ad4b-e786ac1cff5e> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/8c1cc5b5-b3d7-4b70-ad4b-e786ac1cff5e> <http://purl.org/dc/terms/description> "Both Amlodipine and Isoflurane can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/8c1cc5b5-b3d7-4b70-ad4b-e786ac1cff5e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/8d48e5c1-3e19-4faf-b05f-398ec61c6c37> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/8d48e5c1-3e19-4faf-b05f-398ec61c6c37> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/8d48e5c1-3e19-4faf-b05f-398ec61c6c37> <http://purl.org/dc/terms/description> "Ketoconazole is predicted to increase the exposure to Amlodipine. Manufacturer advises monitor and adjust dose.  " .
+<http://drug.uk/interaction/detail/8d48e5c1-3e19-4faf-b05f-398ec61c6c37> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/905441bb-e0c3-44f2-b45a-c4cf770d154c> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/905441bb-e0c3-44f2-b45a-c4cf770d154c> <http://purl.org/dc/terms/description> "Both Amlodipine and Indoramin can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/905441bb-e0c3-44f2-b45a-c4cf770d154c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/94706086-a45e-47cb-8d6c-24e37c4e7ab0> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/94706086-a45e-47cb-8d6c-24e37c4e7ab0> <http://purl.org/dc/terms/description> "Both Amlodipine and Prochlorperazine can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/94706086-a45e-47cb-8d6c-24e37c4e7ab0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/9b1826aa-b9c3-450e-b211-5fd89327a1cd> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/9b1826aa-b9c3-450e-b211-5fd89327a1cd> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/9b1826aa-b9c3-450e-b211-5fd89327a1cd> <http://purl.org/dc/terms/description> "Itraconazole is predicted to increase the exposure to Amlodipine. Manufacturer advises monitor and adjust dose.  " .
+<http://drug.uk/interaction/detail/9b1826aa-b9c3-450e-b211-5fd89327a1cd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/9c335f71-95d2-4685-a300-e3d1abc6762b> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/9c335f71-95d2-4685-a300-e3d1abc6762b> <http://purl.org/dc/terms/description> "Both Amlodipine and Cabergoline can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/9c335f71-95d2-4685-a300-e3d1abc6762b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/9f447a04-c0fd-4a9a-b0c9-32b90fbf8804> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/9f447a04-c0fd-4a9a-b0c9-32b90fbf8804> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/9f447a04-c0fd-4a9a-b0c9-32b90fbf8804> <http://purl.org/dc/terms/description> "Rifampicin is predicted to decrease the exposure to Amlodipine. Manufacturer advises monitor and adjust dose.  " .
+<http://drug.uk/interaction/detail/9f447a04-c0fd-4a9a-b0c9-32b90fbf8804> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/a193a8e7-56f3-4f88-9c6f-ad708a7e6473> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/a193a8e7-56f3-4f88-9c6f-ad708a7e6473> <http://purl.org/dc/terms/description> "Both Amlodipine and Captopril can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/a193a8e7-56f3-4f88-9c6f-ad708a7e6473> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/a383c7f6-2d8b-428f-bd11-a0c7d241b9ce> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/a383c7f6-2d8b-428f-bd11-a0c7d241b9ce> <http://purl.org/dc/terms/description> "Both Amlodipine and Methoxyflurane can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/a383c7f6-2d8b-428f-bd11-a0c7d241b9ce> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/a53aa52f-7b26-4ac4-91ca-a2001b6e7696> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/a53aa52f-7b26-4ac4-91ca-a2001b6e7696> <http://purl.org/dc/terms/description> "Both Amlodipine and Vernakalant can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/a53aa52f-7b26-4ac4-91ca-a2001b6e7696> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/a72f95cb-b80c-46d3-b2c5-db3cc0881e81> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/a72f95cb-b80c-46d3-b2c5-db3cc0881e81> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/a72f95cb-b80c-46d3-b2c5-db3cc0881e81> <http://purl.org/dc/terms/description> "Atazanavir is predicted to increase the exposure to Amlodipine. Manufacturer advises monitor and adjust dose.  " .
+<http://drug.uk/interaction/detail/a72f95cb-b80c-46d3-b2c5-db3cc0881e81> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/a854a8df-1707-4b63-8018-72e4d5bef161> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/a854a8df-1707-4b63-8018-72e4d5bef161> <http://purl.org/dc/terms/description> "Both Amlodipine and Sevoflurane can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/a854a8df-1707-4b63-8018-72e4d5bef161> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/a8ca0f98-5109-4fec-833c-18bc1541c6a7> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/a8ca0f98-5109-4fec-833c-18bc1541c6a7> <http://purl.org/dc/terms/description> "Both Amlodipine and Paliperidone can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/a8ca0f98-5109-4fec-833c-18bc1541c6a7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/a96247e8-8e07-4744-b7f7-871251dd1690> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/a96247e8-8e07-4744-b7f7-871251dd1690> <http://purl.org/dc/terms/description> "Both Amlodipine and Bromocriptine can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/a96247e8-8e07-4744-b7f7-871251dd1690> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/ad1e35be-68a1-4404-bd29-37deae524381> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/ad1e35be-68a1-4404-bd29-37deae524381> <http://purl.org/dc/terms/description> "Both Amlodipine and Bendroflumethiazide can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/ad1e35be-68a1-4404-bd29-37deae524381> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/ade6f62b-bfe4-40bd-879a-81f0c03fd490> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/ade6f62b-bfe4-40bd-879a-81f0c03fd490> <http://purl.org/dc/terms/description> "Both Amlodipine and Methyldopa can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/ade6f62b-bfe4-40bd-879a-81f0c03fd490> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/afe91313-a083-4fd9-8184-5db13ce22a43> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/afe91313-a083-4fd9-8184-5db13ce22a43> <http://purl.org/dc/terms/description> "Both Amlodipine and Quinagolide can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/afe91313-a083-4fd9-8184-5db13ce22a43> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/b670b32d-c2d0-49f5-aac4-b65fd9bc8481> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/b670b32d-c2d0-49f5-aac4-b65fd9bc8481> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/b670b32d-c2d0-49f5-aac4-b65fd9bc8481> <http://purl.org/dc/terms/description> "Ivosidenib is predicted to decrease the exposure to Amlodipine. Manufacturer advises monitor and adjust dose.  " .
+<http://drug.uk/interaction/detail/b670b32d-c2d0-49f5-aac4-b65fd9bc8481> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/b6889a9a-1a96-49dc-9d4f-66fc414cbed0> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/b6889a9a-1a96-49dc-9d4f-66fc414cbed0> <http://purl.org/dc/terms/description> "Both Amlodipine and Atenolol can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/b6889a9a-1a96-49dc-9d4f-66fc414cbed0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/b898c45a-9dc0-4dd7-a4cb-2bb7193fd28a> <http://drug.uk/model/evidence> "Theoretical" .
+<http://drug.uk/interaction/detail/b898c45a-9dc0-4dd7-a4cb-2bb7193fd28a> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/b898c45a-9dc0-4dd7-a4cb-2bb7193fd28a> <http://purl.org/dc/terms/description> "Cenobamate is predicted to decrease the exposure to Amlodipine. Manufacturer advises monitor and adjust dose.  " .
+<http://drug.uk/interaction/detail/b898c45a-9dc0-4dd7-a4cb-2bb7193fd28a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/b9353005-4006-4532-bc3b-7e4c28517524> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/b9353005-4006-4532-bc3b-7e4c28517524> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/b9353005-4006-4532-bc3b-7e4c28517524> <http://purl.org/dc/terms/description> "Aprepitant is predicted to increase the exposure to Amlodipine. Manufacturer advises monitor and adjust dose.  " .
+<http://drug.uk/interaction/detail/b9353005-4006-4532-bc3b-7e4c28517524> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/b963376f-cdd3-455e-922a-b5a0e06f3198> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/b963376f-cdd3-455e-922a-b5a0e06f3198> <http://purl.org/dc/terms/description> "Both Amlodipine and Glyceryl trinitrate can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/b963376f-cdd3-455e-922a-b5a0e06f3198> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/ba78620a-a025-4e5b-8860-ac1ec108f8c4> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/ba78620a-a025-4e5b-8860-ac1ec108f8c4> <http://purl.org/dc/terms/description> "Both Amlodipine and Moxonidine can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/ba78620a-a025-4e5b-8860-ac1ec108f8c4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/babdfe94-e670-43f5-aa27-b146bbfc8592> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/babdfe94-e670-43f5-aa27-b146bbfc8592> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/babdfe94-e670-43f5-aa27-b146bbfc8592> <http://purl.org/dc/terms/description> "Posaconazole is predicted to increase the exposure to Amlodipine. Manufacturer advises monitor and adjust dose.  " .
+<http://drug.uk/interaction/detail/babdfe94-e670-43f5-aa27-b146bbfc8592> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/bb4a4a63-08d6-4855-8b3c-4bcc4b05533e> <http://drug.uk/model/evidence> "Theoretical" .
+<http://drug.uk/interaction/detail/bb4a4a63-08d6-4855-8b3c-4bcc4b05533e> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/bb4a4a63-08d6-4855-8b3c-4bcc4b05533e> <http://purl.org/dc/terms/description> "Bosentan is predicted to decrease the exposure to Amlodipine. Manufacturer advises monitor and adjust dose.  " .
+<http://drug.uk/interaction/detail/bb4a4a63-08d6-4855-8b3c-4bcc4b05533e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/c02d90d8-8d42-4689-a457-202d4868508e> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/c02d90d8-8d42-4689-a457-202d4868508e> <http://purl.org/dc/terms/description> "Both Amlodipine and Nitrous oxide can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/c02d90d8-8d42-4689-a457-202d4868508e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/c1d16292-88de-45c9-a803-d76d0ee88687> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/c1d16292-88de-45c9-a803-d76d0ee88687> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/c1d16292-88de-45c9-a803-d76d0ee88687> <http://purl.org/dc/terms/description> "Isavuconazole is predicted to increase the exposure to Amlodipine. Manufacturer advises monitor and adjust dose.  " .
+<http://drug.uk/interaction/detail/c1d16292-88de-45c9-a803-d76d0ee88687> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/c26896eb-a9bb-45a2-a258-1e7e207eae7f> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/c26896eb-a9bb-45a2-a258-1e7e207eae7f> <http://purl.org/dc/terms/description> "Both Amlodipine and Empagliflozin can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/c26896eb-a9bb-45a2-a258-1e7e207eae7f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/c2d4b589-a3a6-497d-87b7-3b138400b956> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/c2d4b589-a3a6-497d-87b7-3b138400b956> <http://purl.org/dc/terms/description> "Both Amlodipine and Telmisartan can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/c2d4b589-a3a6-497d-87b7-3b138400b956> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/c4b1b7aa-282e-4517-8c03-34f497ac3ab3> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/c4b1b7aa-282e-4517-8c03-34f497ac3ab3> <http://purl.org/dc/terms/description> "Both Amlodipine and Vardenafil can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/c4b1b7aa-282e-4517-8c03-34f497ac3ab3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/c4e86f9d-8641-4eb2-a79c-7d04cd60cf79> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/c4e86f9d-8641-4eb2-a79c-7d04cd60cf79> <http://purl.org/dc/terms/description> "Both Amlodipine and Etomidate can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/c4e86f9d-8641-4eb2-a79c-7d04cd60cf79> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/c66b7fca-90dd-4eeb-93c0-87ca65252c8b> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/c66b7fca-90dd-4eeb-93c0-87ca65252c8b> <http://purl.org/dc/terms/description> "Both Amlodipine and Eplerenone can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/c66b7fca-90dd-4eeb-93c0-87ca65252c8b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/c73ce611-eaa8-4573-acf4-00f7399eccaf> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/c73ce611-eaa8-4573-acf4-00f7399eccaf> <http://purl.org/dc/terms/description> "Both Amlodipine and Spironolactone can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/c73ce611-eaa8-4573-acf4-00f7399eccaf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/c81f009d-d7c8-434c-b567-a7d327cee40f> <http://drug.uk/model/evidence> "Theoretical" .
+<http://drug.uk/interaction/detail/c81f009d-d7c8-434c-b567-a7d327cee40f> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/c81f009d-d7c8-434c-b567-a7d327cee40f> <http://purl.org/dc/terms/description> "St John's wort is predicted to decrease the exposure to Amlodipine. Manufacturer advises monitor and adjust dose.  " .
+<http://drug.uk/interaction/detail/c81f009d-d7c8-434c-b567-a7d327cee40f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/c8fa6f1e-6cba-47ab-8be2-dec4f11ed589> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/c8fa6f1e-6cba-47ab-8be2-dec4f11ed589> <http://purl.org/dc/terms/description> "Both Amlodipine and Lisinopril can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/c8fa6f1e-6cba-47ab-8be2-dec4f11ed589> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/c99e1263-e3ba-46bb-8355-90610ca1b474> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/c99e1263-e3ba-46bb-8355-90610ca1b474> <http://purl.org/dc/terms/description> "Both Amlodipine and Nadolol can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/c99e1263-e3ba-46bb-8355-90610ca1b474> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/cc21d71e-825f-4380-b079-2befe1834573> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/cc21d71e-825f-4380-b079-2befe1834573> <http://purl.org/dc/terms/description> "Both Amlodipine and Apraclonidine can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/cc21d71e-825f-4380-b079-2befe1834573> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/cca5d17e-0150-4a33-92f7-5d47385b8e03> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/cca5d17e-0150-4a33-92f7-5d47385b8e03> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/cca5d17e-0150-4a33-92f7-5d47385b8e03> <http://purl.org/dc/terms/description> "Clarithromycin is predicted to increase the exposure to Amlodipine. Manufacturer advises monitor and adjust dose.  " .
+<http://drug.uk/interaction/detail/cca5d17e-0150-4a33-92f7-5d47385b8e03> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/d21b4da8-bd47-45e4-9976-2434d1848939> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/d21b4da8-bd47-45e4-9976-2434d1848939> <http://purl.org/dc/terms/description> "Both Amlodipine and Lofepramine can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/d21b4da8-bd47-45e4-9976-2434d1848939> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/d2f172a7-9b06-40a2-b495-f689446cd3ca> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/d2f172a7-9b06-40a2-b495-f689446cd3ca> <http://purl.org/dc/terms/description> "Both Amlodipine and Doxepin can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/d2f172a7-9b06-40a2-b495-f689446cd3ca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/d787338f-0d17-4287-8ceb-43a842f430ca> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/d787338f-0d17-4287-8ceb-43a842f430ca> <http://purl.org/dc/terms/description> "Both Amlodipine and Alcohol can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/d787338f-0d17-4287-8ceb-43a842f430ca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/d7dbc3bb-6e6f-4488-9a82-0cb543472717> <http://drug.uk/model/evidence> "Theoretical" .
+<http://drug.uk/interaction/detail/d7dbc3bb-6e6f-4488-9a82-0cb543472717> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/d7dbc3bb-6e6f-4488-9a82-0cb543472717> <http://purl.org/dc/terms/description> "Lorlatinib is predicted to decrease the exposure to Amlodipine. Manufacturer advises monitor and adjust dose.  " .
+<http://drug.uk/interaction/detail/d7dbc3bb-6e6f-4488-9a82-0cb543472717> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/dae5acb9-324a-43fa-9ce2-80919bab004b> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/dae5acb9-324a-43fa-9ce2-80919bab004b> <http://purl.org/dc/terms/description> "Both Amlodipine and Trifluoperazine can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/dae5acb9-324a-43fa-9ce2-80919bab004b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/dba29291-1fa7-48c5-915d-5c795cb78f61> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/dba29291-1fa7-48c5-915d-5c795cb78f61> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/dba29291-1fa7-48c5-915d-5c795cb78f61> <http://purl.org/dc/terms/description> "Tucatinib is predicted to increase the exposure to Amlodipine. Manufacturer advises monitor and adjust dose.  " .
+<http://drug.uk/interaction/detail/dba29291-1fa7-48c5-915d-5c795cb78f61> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/dbbc0d9d-bffe-45ca-be6c-a480918ffc71> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/dbbc0d9d-bffe-45ca-be6c-a480918ffc71> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/dbbc0d9d-bffe-45ca-be6c-a480918ffc71> <http://purl.org/dc/terms/description> "Fedratinib is predicted to increase the exposure to Amlodipine. Manufacturer advises monitor and adjust dose.  " .
+<http://drug.uk/interaction/detail/dbbc0d9d-bffe-45ca-be6c-a480918ffc71> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/dc2e9787-f30c-42a9-b267-f400953144e4> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/dc2e9787-f30c-42a9-b267-f400953144e4> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/dc2e9787-f30c-42a9-b267-f400953144e4> <http://purl.org/dc/terms/description> "Imatinib is predicted to increase the exposure to Amlodipine. Manufacturer advises monitor and adjust dose.  " .
+<http://drug.uk/interaction/detail/dc2e9787-f30c-42a9-b267-f400953144e4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/dda824a6-1208-4b5b-82bc-5b56359e4544> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/dda824a6-1208-4b5b-82bc-5b56359e4544> <http://purl.org/dc/terms/description> "Both Amlodipine and Prazosin can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/dda824a6-1208-4b5b-82bc-5b56359e4544> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/df20e7a0-eb91-4a68-8a92-95e3dff01c7c> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/df20e7a0-eb91-4a68-8a92-95e3dff01c7c> <http://purl.org/dc/terms/description> "Both Amlodipine and Avanafil can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/df20e7a0-eb91-4a68-8a92-95e3dff01c7c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/e09a0929-12b4-46a2-a62c-ba7e1c9f1d80> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/e09a0929-12b4-46a2-a62c-ba7e1c9f1d80> <http://purl.org/dc/terms/description> "Both Amlodipine and Tranylcypromine can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/e09a0929-12b4-46a2-a62c-ba7e1c9f1d80> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/e1f6108a-9b35-49f1-8278-ff7bd3247e53> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/e1f6108a-9b35-49f1-8278-ff7bd3247e53> <http://purl.org/dc/terms/description> "Both Amlodipine and Cariprazine can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/e1f6108a-9b35-49f1-8278-ff7bd3247e53> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/e2e736eb-cf91-4ac3-981d-6c0c823b0502> <http://drug.uk/model/evidence> "Theoretical" .
+<http://drug.uk/interaction/detail/e2e736eb-cf91-4ac3-981d-6c0c823b0502> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/e2e736eb-cf91-4ac3-981d-6c0c823b0502> <http://purl.org/dc/terms/description> "Tocilizumab is predicted to decrease the exposure to Amlodipine. Manufacturer advises monitor and adjust dose.  " .
+<http://drug.uk/interaction/detail/e2e736eb-cf91-4ac3-981d-6c0c823b0502> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/e36f7579-3934-46a9-9192-32ab6eb8f5f4> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/e36f7579-3934-46a9-9192-32ab6eb8f5f4> <http://purl.org/dc/terms/description> "Both Amlodipine and Trimipramine can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/e36f7579-3934-46a9-9192-32ab6eb8f5f4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/e6194134-1b25-45c3-a8f9-0c58b6d52412> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/e6194134-1b25-45c3-a8f9-0c58b6d52412> <http://purl.org/dc/terms/description> "Both Amlodipine and Diazoxide can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/e6194134-1b25-45c3-a8f9-0c58b6d52412> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/e9411e06-3c4e-476c-b758-d5f820328813> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/e9411e06-3c4e-476c-b758-d5f820328813> <http://purl.org/dc/terms/description> "Both Amlodipine and Riociguat can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/e9411e06-3c4e-476c-b758-d5f820328813> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/ebe17795-878d-406c-bff4-bd1dd97fa132> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/ebe17795-878d-406c-bff4-bd1dd97fa132> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/ebe17795-878d-406c-bff4-bd1dd97fa132> <http://purl.org/dc/terms/description> "Crizotinib is predicted to increase the exposure to Amlodipine. Manufacturer advises monitor and adjust dose.  " .
+<http://drug.uk/interaction/detail/ebe17795-878d-406c-bff4-bd1dd97fa132> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/ed8d36f6-40d2-4732-945b-2da7618e55db> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/ed8d36f6-40d2-4732-945b-2da7618e55db> <http://purl.org/dc/terms/description> "Both Amlodipine and Canagliflozin can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/ed8d36f6-40d2-4732-945b-2da7618e55db> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/ef6153a1-cb34-48e3-8074-63686033f63e> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/ef6153a1-cb34-48e3-8074-63686033f63e> <http://purl.org/dc/terms/description> "Both Amlodipine and Valsartan can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/ef6153a1-cb34-48e3-8074-63686033f63e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/f17a466e-593c-4db9-9d2c-ea70a4b0d79a> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/f17a466e-593c-4db9-9d2c-ea70a4b0d79a> <http://purl.org/dc/terms/description> "Both Amlodipine and Pindolol can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/f17a466e-593c-4db9-9d2c-ea70a4b0d79a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/f3ea5881-7123-446e-aa9b-842171a080ee> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/f3ea5881-7123-446e-aa9b-842171a080ee> <http://purl.org/dc/terms/description> "Both Amlodipine and Torasemide can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/f3ea5881-7123-446e-aa9b-842171a080ee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/f420df77-ca02-423f-8993-7ea541bc81c9> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/f420df77-ca02-423f-8993-7ea541bc81c9> <http://purl.org/dc/terms/description> "Both Amlodipine and Asenapine can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/f420df77-ca02-423f-8993-7ea541bc81c9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/f6b9b05f-bc51-4868-a108-2258da982061> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/f6b9b05f-bc51-4868-a108-2258da982061> <http://purl.org/dc/terms/description> "Both Amlodipine and Quinapril can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/f6b9b05f-bc51-4868-a108-2258da982061> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/f6c1c450-6884-4cfb-a1ab-d987672d165f> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/f6c1c450-6884-4cfb-a1ab-d987672d165f> <http://purl.org/dc/terms/description> "Both Amlodipine and Irbesartan can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/f6c1c450-6884-4cfb-a1ab-d987672d165f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/f8c33286-c26d-4943-8514-9ecdd02dd4eb> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/f8c33286-c26d-4943-8514-9ecdd02dd4eb> <http://purl.org/dc/terms/description> "Both Amlodipine and Metolazone can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/f8c33286-c26d-4943-8514-9ecdd02dd4eb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/f94b6895-5f13-4dcb-ba9c-fbdb68108395> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/f94b6895-5f13-4dcb-ba9c-fbdb68108395> <http://purl.org/dc/terms/description> "Both Amlodipine and Indapamide can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/f94b6895-5f13-4dcb-ba9c-fbdb68108395> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/fa3c1d6b-9966-47a8-b1a9-48336355e0da> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/fa3c1d6b-9966-47a8-b1a9-48336355e0da> <http://purl.org/dc/terms/description> "Both Amlodipine and Desflurane can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/fa3c1d6b-9966-47a8-b1a9-48336355e0da> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/fc50d66a-d8c8-4bb7-b57a-60d26a376b73> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/fc50d66a-d8c8-4bb7-b57a-60d26a376b73> <http://purl.org/dc/terms/description> "Both Amlodipine and Sodium oxybate can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/fc50d66a-d8c8-4bb7-b57a-60d26a376b73> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/fcc5d8b3-d22a-4517-b968-c2a84e8a1395> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/fcc5d8b3-d22a-4517-b968-c2a84e8a1395> <http://purl.org/dc/terms/description> "Both Amlodipine and Treprostinil can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/fcc5d8b3-d22a-4517-b968-c2a84e8a1395> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/fda3d1da-887c-4583-af5a-ced207cab480> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/fda3d1da-887c-4583-af5a-ced207cab480> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/fda3d1da-887c-4583-af5a-ced207cab480> <http://purl.org/dc/terms/description> "Fosamprenavir is predicted to increase the exposure to Amlodipine. Manufacturer advises monitor and adjust dose.  " .
+<http://drug.uk/interaction/detail/fda3d1da-887c-4583-af5a-ced207cab480> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/febf4aea-0978-452d-8f2c-7bd105428426> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/febf4aea-0978-452d-8f2c-7bd105428426> <http://purl.org/dc/terms/description> "Both Amlodipine and Furosemide can increase the risk of hypotension." .
+<http://drug.uk/interaction/detail/febf4aea-0978-452d-8f2c-7bd105428426> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/irbesartan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/isavuconazole> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/isocarboxazid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/isoflurane> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/isosorbide-dinitrate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/isosorbide-mononitrate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/itraconazole> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/ivosidenib-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/ketamine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/ketoconazole> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/letermovir> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/levomepromazine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/lisinopril> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/lofepramine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/lomitapide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/lorlatinib-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/loxapine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/mefloquine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/methoxyflurane> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/methyldopa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/metolazone> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/miconazole> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/minoxidil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/mitotane-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/moxonidine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/nadolol> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/nebivolol> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/nevirapine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/nicorandil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/nilotinib-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/nitrous-oxide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/nortriptyline> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/paliperidone> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/pericyazine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/phenelzine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/phenobarbital> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/phenytoin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/pimozide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/pindolol> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/posaconazole> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/pramipexole> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/prazosin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/primidone> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/prochlorperazine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/propofol> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/quetiapine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/quinagolide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/quinapril> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/ramipril> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/rifampicin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/riociguat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/risperidone> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/ritonavir> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/ropinirole> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/rotigotine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/sevoflurane> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/sildenafil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/simvastatin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/sodium-oxybate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/sotorasib-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/spironolactone> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/st-johns-wort> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/sulpiride> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/tadalafil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/telmisartan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/temsirolimus-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/terazosin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/tizanidine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/tocilizumab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/torasemide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/trandolapril> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/tranylcypromine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/treprostinil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/trifluoperazine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/trimipramine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/tucatinib-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/valsartan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/vardenafil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/vericiguat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/vernakalant> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/voriconazole> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/xipamide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .

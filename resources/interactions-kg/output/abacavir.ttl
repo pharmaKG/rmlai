@@ -1,0 +1,46 @@
+<http://drug.uk/abacavir> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/carbamazepine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/interaction/abacavir-carbamazepine> <http://drug.uk/model/interactingDrug> <http://drug.uk/abacavir> .
+<http://drug.uk/interaction/abacavir-carbamazepine> <http://drug.uk/model/interactingDrug> <http://drug.uk/carbamazepine> .
+<http://drug.uk/interaction/abacavir-carbamazepine> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/4b80492a-d6c6-4c93-a4d2-02ece50d9102> .
+<http://drug.uk/interaction/abacavir-carbamazepine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/abacavir-phenobarbital> <http://drug.uk/model/interactingDrug> <http://drug.uk/abacavir> .
+<http://drug.uk/interaction/abacavir-phenobarbital> <http://drug.uk/model/interactingDrug> <http://drug.uk/phenobarbital> .
+<http://drug.uk/interaction/abacavir-phenobarbital> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/0f7df170-d276-41f0-80d8-1b163ae5f6a6> .
+<http://drug.uk/interaction/abacavir-phenobarbital> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/abacavir-phenytoin> <http://drug.uk/model/interactingDrug> <http://drug.uk/abacavir> .
+<http://drug.uk/interaction/abacavir-phenytoin> <http://drug.uk/model/interactingDrug> <http://drug.uk/phenytoin> .
+<http://drug.uk/interaction/abacavir-phenytoin> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/8de55592-3f68-45e0-b115-beaa676b5803> .
+<http://drug.uk/interaction/abacavir-phenytoin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/abacavir-primidone> <http://drug.uk/model/interactingDrug> <http://drug.uk/abacavir> .
+<http://drug.uk/interaction/abacavir-primidone> <http://drug.uk/model/interactingDrug> <http://drug.uk/primidone> .
+<http://drug.uk/interaction/abacavir-primidone> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/66300c95-3217-42b1-8d6d-51fe84d187c5> .
+<http://drug.uk/interaction/abacavir-primidone> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/abacavir-riociguat> <http://drug.uk/model/interactingDrug> <http://drug.uk/abacavir> .
+<http://drug.uk/interaction/abacavir-riociguat> <http://drug.uk/model/interactingDrug> <http://drug.uk/riociguat> .
+<http://drug.uk/interaction/abacavir-riociguat> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/c5535355-92b5-4e1b-a79c-970f4de51e50> .
+<http://drug.uk/interaction/abacavir-riociguat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/detail/0f7df170-d276-41f0-80d8-1b163ae5f6a6> <http://drug.uk/model/evidence> "Theoretical" .
+<http://drug.uk/interaction/detail/0f7df170-d276-41f0-80d8-1b163ae5f6a6> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/0f7df170-d276-41f0-80d8-1b163ae5f6a6> <http://purl.org/dc/terms/description> "Phenobarbital is predicted to decrease the exposure to Abacavir. Manufacturer makes no recommendation.  " .
+<http://drug.uk/interaction/detail/0f7df170-d276-41f0-80d8-1b163ae5f6a6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/4b80492a-d6c6-4c93-a4d2-02ece50d9102> <http://drug.uk/model/evidence> "Theoretical" .
+<http://drug.uk/interaction/detail/4b80492a-d6c6-4c93-a4d2-02ece50d9102> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/4b80492a-d6c6-4c93-a4d2-02ece50d9102> <http://purl.org/dc/terms/description> "Carbamazepine is predicted to decrease the exposure to Abacavir. Manufacturer makes no recommendation.  " .
+<http://drug.uk/interaction/detail/4b80492a-d6c6-4c93-a4d2-02ece50d9102> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/66300c95-3217-42b1-8d6d-51fe84d187c5> <http://drug.uk/model/evidence> "Theoretical" .
+<http://drug.uk/interaction/detail/66300c95-3217-42b1-8d6d-51fe84d187c5> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/66300c95-3217-42b1-8d6d-51fe84d187c5> <http://purl.org/dc/terms/description> "Primidone is predicted to decrease the exposure to Abacavir. Manufacturer makes no recommendation.  " .
+<http://drug.uk/interaction/detail/66300c95-3217-42b1-8d6d-51fe84d187c5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/8de55592-3f68-45e0-b115-beaa676b5803> <http://drug.uk/model/evidence> "Theoretical" .
+<http://drug.uk/interaction/detail/8de55592-3f68-45e0-b115-beaa676b5803> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/8de55592-3f68-45e0-b115-beaa676b5803> <http://purl.org/dc/terms/description> "Phenytoin is predicted to decrease the exposure to Abacavir. Manufacturer makes no recommendation.  " .
+<http://drug.uk/interaction/detail/8de55592-3f68-45e0-b115-beaa676b5803> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/c5535355-92b5-4e1b-a79c-970f4de51e50> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/c5535355-92b5-4e1b-a79c-970f4de51e50> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/c5535355-92b5-4e1b-a79c-970f4de51e50> <http://purl.org/dc/terms/description> "Abacavir might increase the exposure to Riociguat. Manufacturer advises adjust dose and monitor blood pressure.  " .
+<http://drug.uk/interaction/detail/c5535355-92b5-4e1b-a79c-970f4de51e50> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/phenobarbital> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/phenytoin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/primidone> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/riociguat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .

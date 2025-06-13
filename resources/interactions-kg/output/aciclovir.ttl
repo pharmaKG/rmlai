@@ -1,0 +1,547 @@
+<http://drug.uk/aceclofenac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/aciclovir> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/amikacin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/aminophylline> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/amphotericin-b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/aspirin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/captopril> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/carboplatin-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/cefaclor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/cefadroxil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/cefalexin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/cefazolin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/cefepime> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/cefixime> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/cefotaxime> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/cefoxitin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/cefradine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/ceftazidime> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/ceftobiprole> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/ceftriaxone> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/cefuroxime> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/celecoxib> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/ciclosporin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/cidofovir> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/cisplatin-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/deferasirox> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/dexketoprofen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/etodolac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/etoricoxib> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/flurbiprofen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/ganciclovir> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/gentamicin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/ibuprofen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/ifosfamide-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/indometacin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/inotersen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/interaction/aciclovir-aceclofenac> <http://drug.uk/model/interactingDrug> <http://drug.uk/aceclofenac> .
+<http://drug.uk/interaction/aciclovir-aceclofenac> <http://drug.uk/model/interactingDrug> <http://drug.uk/aciclovir> .
+<http://drug.uk/interaction/aciclovir-aceclofenac> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/7d5d6b55-8546-4e14-aa3d-25d934dfebaf> .
+<http://drug.uk/interaction/aciclovir-aceclofenac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/aciclovir-amikacin> <http://drug.uk/model/interactingDrug> <http://drug.uk/aciclovir> .
+<http://drug.uk/interaction/aciclovir-amikacin> <http://drug.uk/model/interactingDrug> <http://drug.uk/amikacin> .
+<http://drug.uk/interaction/aciclovir-amikacin> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/e593dfea-ea3e-4cf4-a973-5848e8d83d23> .
+<http://drug.uk/interaction/aciclovir-amikacin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/aciclovir-aminophylline> <http://drug.uk/model/interactingDrug> <http://drug.uk/aciclovir> .
+<http://drug.uk/interaction/aciclovir-aminophylline> <http://drug.uk/model/interactingDrug> <http://drug.uk/aminophylline> .
+<http://drug.uk/interaction/aciclovir-aminophylline> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/5b63e833-daa1-4a0c-be71-e57d7ef8a81c> .
+<http://drug.uk/interaction/aciclovir-aminophylline> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/aciclovir-amphotericin-b> <http://drug.uk/model/interactingDrug> <http://drug.uk/aciclovir> .
+<http://drug.uk/interaction/aciclovir-amphotericin-b> <http://drug.uk/model/interactingDrug> <http://drug.uk/amphotericin-b> .
+<http://drug.uk/interaction/aciclovir-amphotericin-b> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/eba7d983-a709-4085-a2cc-b8c75d0f9433> .
+<http://drug.uk/interaction/aciclovir-amphotericin-b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/aciclovir-aspirin> <http://drug.uk/model/interactingDrug> <http://drug.uk/aciclovir> .
+<http://drug.uk/interaction/aciclovir-aspirin> <http://drug.uk/model/interactingDrug> <http://drug.uk/aspirin> .
+<http://drug.uk/interaction/aciclovir-aspirin> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/ed1fcdfb-8029-46ed-b0d3-5b76782d6d02> .
+<http://drug.uk/interaction/aciclovir-aspirin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/aciclovir-captopril> <http://drug.uk/model/interactingDrug> <http://drug.uk/aciclovir> .
+<http://drug.uk/interaction/aciclovir-captopril> <http://drug.uk/model/interactingDrug> <http://drug.uk/captopril> .
+<http://drug.uk/interaction/aciclovir-captopril> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/ee2966be-91bd-4666-9762-084e5fba7039> .
+<http://drug.uk/interaction/aciclovir-captopril> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/aciclovir-carboplatin-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/aciclovir> .
+<http://drug.uk/interaction/aciclovir-carboplatin-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/carboplatin-specialist-drug> .
+<http://drug.uk/interaction/aciclovir-carboplatin-specialist-drug> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/3bf90ad4-dace-41b7-a69a-d1a55afb5983> .
+<http://drug.uk/interaction/aciclovir-carboplatin-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/aciclovir-cefaclor> <http://drug.uk/model/interactingDrug> <http://drug.uk/aciclovir> .
+<http://drug.uk/interaction/aciclovir-cefaclor> <http://drug.uk/model/interactingDrug> <http://drug.uk/cefaclor> .
+<http://drug.uk/interaction/aciclovir-cefaclor> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/e68d74e3-14b5-49ec-a6fa-0a2b2ca30ffd> .
+<http://drug.uk/interaction/aciclovir-cefaclor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/aciclovir-cefadroxil> <http://drug.uk/model/interactingDrug> <http://drug.uk/aciclovir> .
+<http://drug.uk/interaction/aciclovir-cefadroxil> <http://drug.uk/model/interactingDrug> <http://drug.uk/cefadroxil> .
+<http://drug.uk/interaction/aciclovir-cefadroxil> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/24df7945-73ed-414d-b52d-31f4a971c8bc> .
+<http://drug.uk/interaction/aciclovir-cefadroxil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/aciclovir-cefalexin> <http://drug.uk/model/interactingDrug> <http://drug.uk/aciclovir> .
+<http://drug.uk/interaction/aciclovir-cefalexin> <http://drug.uk/model/interactingDrug> <http://drug.uk/cefalexin> .
+<http://drug.uk/interaction/aciclovir-cefalexin> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/db78a83b-f723-4198-bbf0-76f5e5f877f0> .
+<http://drug.uk/interaction/aciclovir-cefalexin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/aciclovir-cefazolin> <http://drug.uk/model/interactingDrug> <http://drug.uk/aciclovir> .
+<http://drug.uk/interaction/aciclovir-cefazolin> <http://drug.uk/model/interactingDrug> <http://drug.uk/cefazolin> .
+<http://drug.uk/interaction/aciclovir-cefazolin> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/74868764-6426-44c9-80e0-5efe23b8d727> .
+<http://drug.uk/interaction/aciclovir-cefazolin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/aciclovir-cefepime> <http://drug.uk/model/interactingDrug> <http://drug.uk/aciclovir> .
+<http://drug.uk/interaction/aciclovir-cefepime> <http://drug.uk/model/interactingDrug> <http://drug.uk/cefepime> .
+<http://drug.uk/interaction/aciclovir-cefepime> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/88a7a297-a8c8-4cee-aaab-d95c7c2b29f6> .
+<http://drug.uk/interaction/aciclovir-cefepime> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/aciclovir-cefixime> <http://drug.uk/model/interactingDrug> <http://drug.uk/aciclovir> .
+<http://drug.uk/interaction/aciclovir-cefixime> <http://drug.uk/model/interactingDrug> <http://drug.uk/cefixime> .
+<http://drug.uk/interaction/aciclovir-cefixime> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/cc718bfe-c73a-470a-8b10-740d25c84586> .
+<http://drug.uk/interaction/aciclovir-cefixime> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/aciclovir-cefotaxime> <http://drug.uk/model/interactingDrug> <http://drug.uk/aciclovir> .
+<http://drug.uk/interaction/aciclovir-cefotaxime> <http://drug.uk/model/interactingDrug> <http://drug.uk/cefotaxime> .
+<http://drug.uk/interaction/aciclovir-cefotaxime> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/907ac963-50d8-420a-a502-cca03f5e1379> .
+<http://drug.uk/interaction/aciclovir-cefotaxime> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/aciclovir-cefoxitin> <http://drug.uk/model/interactingDrug> <http://drug.uk/aciclovir> .
+<http://drug.uk/interaction/aciclovir-cefoxitin> <http://drug.uk/model/interactingDrug> <http://drug.uk/cefoxitin> .
+<http://drug.uk/interaction/aciclovir-cefoxitin> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/83d41ab4-6e9a-4074-ab08-d9a299922ef9> .
+<http://drug.uk/interaction/aciclovir-cefoxitin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/aciclovir-cefradine> <http://drug.uk/model/interactingDrug> <http://drug.uk/aciclovir> .
+<http://drug.uk/interaction/aciclovir-cefradine> <http://drug.uk/model/interactingDrug> <http://drug.uk/cefradine> .
+<http://drug.uk/interaction/aciclovir-cefradine> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/2b9d4ff7-2ff6-4f4b-a5c3-369f23cc7368> .
+<http://drug.uk/interaction/aciclovir-cefradine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/aciclovir-ceftazidime> <http://drug.uk/model/interactingDrug> <http://drug.uk/aciclovir> .
+<http://drug.uk/interaction/aciclovir-ceftazidime> <http://drug.uk/model/interactingDrug> <http://drug.uk/ceftazidime> .
+<http://drug.uk/interaction/aciclovir-ceftazidime> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/fe620733-2744-4e88-8cf2-065f7785f695> .
+<http://drug.uk/interaction/aciclovir-ceftazidime> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/aciclovir-ceftobiprole> <http://drug.uk/model/interactingDrug> <http://drug.uk/aciclovir> .
+<http://drug.uk/interaction/aciclovir-ceftobiprole> <http://drug.uk/model/interactingDrug> <http://drug.uk/ceftobiprole> .
+<http://drug.uk/interaction/aciclovir-ceftobiprole> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/3e9558f7-145d-43ef-b11d-025c15865a66> .
+<http://drug.uk/interaction/aciclovir-ceftobiprole> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/aciclovir-ceftriaxone> <http://drug.uk/model/interactingDrug> <http://drug.uk/aciclovir> .
+<http://drug.uk/interaction/aciclovir-ceftriaxone> <http://drug.uk/model/interactingDrug> <http://drug.uk/ceftriaxone> .
+<http://drug.uk/interaction/aciclovir-ceftriaxone> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/72495f2c-e118-43f0-ae21-c7cc2a0c59b8> .
+<http://drug.uk/interaction/aciclovir-ceftriaxone> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/aciclovir-cefuroxime> <http://drug.uk/model/interactingDrug> <http://drug.uk/aciclovir> .
+<http://drug.uk/interaction/aciclovir-cefuroxime> <http://drug.uk/model/interactingDrug> <http://drug.uk/cefuroxime> .
+<http://drug.uk/interaction/aciclovir-cefuroxime> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/dbd53fcb-ad82-4084-a68b-424fb4fc94d8> .
+<http://drug.uk/interaction/aciclovir-cefuroxime> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/aciclovir-celecoxib> <http://drug.uk/model/interactingDrug> <http://drug.uk/aciclovir> .
+<http://drug.uk/interaction/aciclovir-celecoxib> <http://drug.uk/model/interactingDrug> <http://drug.uk/celecoxib> .
+<http://drug.uk/interaction/aciclovir-celecoxib> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/89e34c37-de46-4ab0-85b7-31ca68489f5f> .
+<http://drug.uk/interaction/aciclovir-celecoxib> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/aciclovir-ciclosporin> <http://drug.uk/model/interactingDrug> <http://drug.uk/aciclovir> .
+<http://drug.uk/interaction/aciclovir-ciclosporin> <http://drug.uk/model/interactingDrug> <http://drug.uk/ciclosporin> .
+<http://drug.uk/interaction/aciclovir-ciclosporin> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/5b3db298-fe2a-456f-96c7-cc0a5ffbc56e> .
+<http://drug.uk/interaction/aciclovir-ciclosporin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/aciclovir-cidofovir> <http://drug.uk/model/interactingDrug> <http://drug.uk/aciclovir> .
+<http://drug.uk/interaction/aciclovir-cidofovir> <http://drug.uk/model/interactingDrug> <http://drug.uk/cidofovir> .
+<http://drug.uk/interaction/aciclovir-cidofovir> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/e4abc35d-b581-4073-9911-c49f5cccf66d> .
+<http://drug.uk/interaction/aciclovir-cidofovir> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/aciclovir-cisplatin-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/aciclovir> .
+<http://drug.uk/interaction/aciclovir-cisplatin-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/cisplatin-specialist-drug> .
+<http://drug.uk/interaction/aciclovir-cisplatin-specialist-drug> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/0bd4f7a5-5b27-4c38-9e70-daed4d141dce> .
+<http://drug.uk/interaction/aciclovir-cisplatin-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/aciclovir-deferasirox> <http://drug.uk/model/interactingDrug> <http://drug.uk/aciclovir> .
+<http://drug.uk/interaction/aciclovir-deferasirox> <http://drug.uk/model/interactingDrug> <http://drug.uk/deferasirox> .
+<http://drug.uk/interaction/aciclovir-deferasirox> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/8f77a1fa-6f1a-4b9d-93aa-c11bfd8daed7> .
+<http://drug.uk/interaction/aciclovir-deferasirox> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/aciclovir-dexketoprofen> <http://drug.uk/model/interactingDrug> <http://drug.uk/aciclovir> .
+<http://drug.uk/interaction/aciclovir-dexketoprofen> <http://drug.uk/model/interactingDrug> <http://drug.uk/dexketoprofen> .
+<http://drug.uk/interaction/aciclovir-dexketoprofen> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/9ec4d930-7e0f-49e1-ae27-74044552ada7> .
+<http://drug.uk/interaction/aciclovir-dexketoprofen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/aciclovir-etodolac> <http://drug.uk/model/interactingDrug> <http://drug.uk/aciclovir> .
+<http://drug.uk/interaction/aciclovir-etodolac> <http://drug.uk/model/interactingDrug> <http://drug.uk/etodolac> .
+<http://drug.uk/interaction/aciclovir-etodolac> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/e2d756c5-ce3e-4df7-9d2a-1a006e17befd> .
+<http://drug.uk/interaction/aciclovir-etodolac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/aciclovir-etoricoxib> <http://drug.uk/model/interactingDrug> <http://drug.uk/aciclovir> .
+<http://drug.uk/interaction/aciclovir-etoricoxib> <http://drug.uk/model/interactingDrug> <http://drug.uk/etoricoxib> .
+<http://drug.uk/interaction/aciclovir-etoricoxib> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/44a89fcf-6f32-4735-b63c-511056d9ada7> .
+<http://drug.uk/interaction/aciclovir-etoricoxib> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/aciclovir-flurbiprofen> <http://drug.uk/model/interactingDrug> <http://drug.uk/aciclovir> .
+<http://drug.uk/interaction/aciclovir-flurbiprofen> <http://drug.uk/model/interactingDrug> <http://drug.uk/flurbiprofen> .
+<http://drug.uk/interaction/aciclovir-flurbiprofen> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/19c3e5ae-216d-47dc-8e19-bb2450649be7> .
+<http://drug.uk/interaction/aciclovir-flurbiprofen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/aciclovir-ganciclovir> <http://drug.uk/model/interactingDrug> <http://drug.uk/aciclovir> .
+<http://drug.uk/interaction/aciclovir-ganciclovir> <http://drug.uk/model/interactingDrug> <http://drug.uk/ganciclovir> .
+<http://drug.uk/interaction/aciclovir-ganciclovir> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/a3463b1b-2010-404e-8691-1c857c307167> .
+<http://drug.uk/interaction/aciclovir-ganciclovir> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/aciclovir-gentamicin> <http://drug.uk/model/interactingDrug> <http://drug.uk/aciclovir> .
+<http://drug.uk/interaction/aciclovir-gentamicin> <http://drug.uk/model/interactingDrug> <http://drug.uk/gentamicin> .
+<http://drug.uk/interaction/aciclovir-gentamicin> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/684f891c-7176-47f5-8bce-69c3ab3cd708> .
+<http://drug.uk/interaction/aciclovir-gentamicin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/aciclovir-ibuprofen> <http://drug.uk/model/interactingDrug> <http://drug.uk/aciclovir> .
+<http://drug.uk/interaction/aciclovir-ibuprofen> <http://drug.uk/model/interactingDrug> <http://drug.uk/ibuprofen> .
+<http://drug.uk/interaction/aciclovir-ibuprofen> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/4bdde930-8189-47a6-8f82-b3f528cfd4ab> .
+<http://drug.uk/interaction/aciclovir-ibuprofen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/aciclovir-ifosfamide-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/aciclovir> .
+<http://drug.uk/interaction/aciclovir-ifosfamide-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/ifosfamide-specialist-drug> .
+<http://drug.uk/interaction/aciclovir-ifosfamide-specialist-drug> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/a7b208cc-bb85-4cf0-b1ff-d6dab1bdca4a> .
+<http://drug.uk/interaction/aciclovir-ifosfamide-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/aciclovir-indometacin> <http://drug.uk/model/interactingDrug> <http://drug.uk/aciclovir> .
+<http://drug.uk/interaction/aciclovir-indometacin> <http://drug.uk/model/interactingDrug> <http://drug.uk/indometacin> .
+<http://drug.uk/interaction/aciclovir-indometacin> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/8593a703-8f4c-45bb-9b86-d785415d16b2> .
+<http://drug.uk/interaction/aciclovir-indometacin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/aciclovir-inotersen> <http://drug.uk/model/interactingDrug> <http://drug.uk/aciclovir> .
+<http://drug.uk/interaction/aciclovir-inotersen> <http://drug.uk/model/interactingDrug> <http://drug.uk/inotersen> .
+<http://drug.uk/interaction/aciclovir-inotersen> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/1623def5-ccbf-43a2-b908-12937ac2b6dc> .
+<http://drug.uk/interaction/aciclovir-inotersen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/aciclovir-ketoprofen> <http://drug.uk/model/interactingDrug> <http://drug.uk/aciclovir> .
+<http://drug.uk/interaction/aciclovir-ketoprofen> <http://drug.uk/model/interactingDrug> <http://drug.uk/ketoprofen> .
+<http://drug.uk/interaction/aciclovir-ketoprofen> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/cb826f68-c38c-4d66-8746-1131cb57344e> .
+<http://drug.uk/interaction/aciclovir-ketoprofen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/aciclovir-lisinopril> <http://drug.uk/model/interactingDrug> <http://drug.uk/aciclovir> .
+<http://drug.uk/interaction/aciclovir-lisinopril> <http://drug.uk/model/interactingDrug> <http://drug.uk/lisinopril> .
+<http://drug.uk/interaction/aciclovir-lisinopril> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/d8961082-f6ce-43fd-a37b-67a8dbc403dd> .
+<http://drug.uk/interaction/aciclovir-lisinopril> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/aciclovir-mefenamic-acid> <http://drug.uk/model/interactingDrug> <http://drug.uk/aciclovir> .
+<http://drug.uk/interaction/aciclovir-mefenamic-acid> <http://drug.uk/model/interactingDrug> <http://drug.uk/mefenamic-acid> .
+<http://drug.uk/interaction/aciclovir-mefenamic-acid> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/8450d567-0bd1-43db-9f77-9f76de101625> .
+<http://drug.uk/interaction/aciclovir-mefenamic-acid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/aciclovir-meloxicam> <http://drug.uk/model/interactingDrug> <http://drug.uk/aciclovir> .
+<http://drug.uk/interaction/aciclovir-meloxicam> <http://drug.uk/model/interactingDrug> <http://drug.uk/meloxicam> .
+<http://drug.uk/interaction/aciclovir-meloxicam> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/1e79f4a4-c61c-4e25-a920-ddd50f3fe6e5> .
+<http://drug.uk/interaction/aciclovir-meloxicam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/aciclovir-mesalazine> <http://drug.uk/model/interactingDrug> <http://drug.uk/aciclovir> .
+<http://drug.uk/interaction/aciclovir-mesalazine> <http://drug.uk/model/interactingDrug> <http://drug.uk/mesalazine> .
+<http://drug.uk/interaction/aciclovir-mesalazine> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/85b08362-9cc8-45a2-8186-57fa9d22123f> .
+<http://drug.uk/interaction/aciclovir-mesalazine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/aciclovir-methotrexate> <http://drug.uk/model/interactingDrug> <http://drug.uk/aciclovir> .
+<http://drug.uk/interaction/aciclovir-methotrexate> <http://drug.uk/model/interactingDrug> <http://drug.uk/methotrexate> .
+<http://drug.uk/interaction/aciclovir-methotrexate> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/90dc7db0-9c63-4ddd-a782-ef7820908ba7> .
+<http://drug.uk/interaction/aciclovir-methotrexate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/aciclovir-nabumetone> <http://drug.uk/model/interactingDrug> <http://drug.uk/aciclovir> .
+<http://drug.uk/interaction/aciclovir-nabumetone> <http://drug.uk/model/interactingDrug> <http://drug.uk/nabumetone> .
+<http://drug.uk/interaction/aciclovir-nabumetone> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/7549ad16-40b2-47be-8676-38eeeaece79f> .
+<http://drug.uk/interaction/aciclovir-nabumetone> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/aciclovir-naproxen> <http://drug.uk/model/interactingDrug> <http://drug.uk/aciclovir> .
+<http://drug.uk/interaction/aciclovir-naproxen> <http://drug.uk/model/interactingDrug> <http://drug.uk/naproxen> .
+<http://drug.uk/interaction/aciclovir-naproxen> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/ff143357-7d4f-49ab-a233-ec7e33734dbc> .
+<http://drug.uk/interaction/aciclovir-naproxen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/aciclovir-netilmicin> <http://drug.uk/model/interactingDrug> <http://drug.uk/aciclovir> .
+<http://drug.uk/interaction/aciclovir-netilmicin> <http://drug.uk/model/interactingDrug> <http://drug.uk/netilmicin> .
+<http://drug.uk/interaction/aciclovir-netilmicin> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/01617181-4d6e-4e94-aea7-c2406a6b7db5> .
+<http://drug.uk/interaction/aciclovir-netilmicin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/aciclovir-oxaliplatin-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/aciclovir> .
+<http://drug.uk/interaction/aciclovir-oxaliplatin-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/oxaliplatin-specialist-drug> .
+<http://drug.uk/interaction/aciclovir-oxaliplatin-specialist-drug> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/fc110923-fc1d-4e67-a468-9d2fec20a82e> .
+<http://drug.uk/interaction/aciclovir-oxaliplatin-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/aciclovir-parecoxib> <http://drug.uk/model/interactingDrug> <http://drug.uk/aciclovir> .
+<http://drug.uk/interaction/aciclovir-parecoxib> <http://drug.uk/model/interactingDrug> <http://drug.uk/parecoxib> .
+<http://drug.uk/interaction/aciclovir-parecoxib> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/bb0f6164-3f25-4255-8887-3b353e2af555> .
+<http://drug.uk/interaction/aciclovir-parecoxib> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/aciclovir-pemetrexed-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/aciclovir> .
+<http://drug.uk/interaction/aciclovir-pemetrexed-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/pemetrexed-specialist-drug> .
+<http://drug.uk/interaction/aciclovir-pemetrexed-specialist-drug> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/99161f34-9817-48d0-ba2d-b19255a51e4c> .
+<http://drug.uk/interaction/aciclovir-pemetrexed-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/aciclovir-piroxicam> <http://drug.uk/model/interactingDrug> <http://drug.uk/aciclovir> .
+<http://drug.uk/interaction/aciclovir-piroxicam> <http://drug.uk/model/interactingDrug> <http://drug.uk/piroxicam> .
+<http://drug.uk/interaction/aciclovir-piroxicam> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/54f8dacb-9a50-4c0b-b02a-1f9535d72ae1> .
+<http://drug.uk/interaction/aciclovir-piroxicam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/aciclovir-quinapril> <http://drug.uk/model/interactingDrug> <http://drug.uk/aciclovir> .
+<http://drug.uk/interaction/aciclovir-quinapril> <http://drug.uk/model/interactingDrug> <http://drug.uk/quinapril> .
+<http://drug.uk/interaction/aciclovir-quinapril> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/55d6d4c0-9b48-4f7d-a5b8-c0d583b08807> .
+<http://drug.uk/interaction/aciclovir-quinapril> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/aciclovir-ramipril> <http://drug.uk/model/interactingDrug> <http://drug.uk/aciclovir> .
+<http://drug.uk/interaction/aciclovir-ramipril> <http://drug.uk/model/interactingDrug> <http://drug.uk/ramipril> .
+<http://drug.uk/interaction/aciclovir-ramipril> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/cd8653a8-5fc0-478d-b6c7-89160360fcda> .
+<http://drug.uk/interaction/aciclovir-ramipril> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/aciclovir-rifampicin> <http://drug.uk/model/interactingDrug> <http://drug.uk/aciclovir> .
+<http://drug.uk/interaction/aciclovir-rifampicin> <http://drug.uk/model/interactingDrug> <http://drug.uk/rifampicin> .
+<http://drug.uk/interaction/aciclovir-rifampicin> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/c20f5ba0-c0e6-4d55-9b0d-bccdfb68827e> .
+<http://drug.uk/interaction/aciclovir-rifampicin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/aciclovir-streptomycin> <http://drug.uk/model/interactingDrug> <http://drug.uk/aciclovir> .
+<http://drug.uk/interaction/aciclovir-streptomycin> <http://drug.uk/model/interactingDrug> <http://drug.uk/streptomycin> .
+<http://drug.uk/interaction/aciclovir-streptomycin> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/efdb85bb-9616-414e-aede-5b4090b0b2e6> .
+<http://drug.uk/interaction/aciclovir-streptomycin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/aciclovir-streptozocin-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/aciclovir> .
+<http://drug.uk/interaction/aciclovir-streptozocin-specialist-drug> <http://drug.uk/model/interactingDrug> <http://drug.uk/streptozocin-specialist-drug> .
+<http://drug.uk/interaction/aciclovir-streptozocin-specialist-drug> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/bae3442a-6f35-42ee-9f94-b4bc1c702fb5> .
+<http://drug.uk/interaction/aciclovir-streptozocin-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/aciclovir-sulfasalazine> <http://drug.uk/model/interactingDrug> <http://drug.uk/aciclovir> .
+<http://drug.uk/interaction/aciclovir-sulfasalazine> <http://drug.uk/model/interactingDrug> <http://drug.uk/sulfasalazine> .
+<http://drug.uk/interaction/aciclovir-sulfasalazine> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/842fa025-7af6-4cbf-9d5d-2f93cfeda2f7> .
+<http://drug.uk/interaction/aciclovir-sulfasalazine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/aciclovir-sulindac> <http://drug.uk/model/interactingDrug> <http://drug.uk/aciclovir> .
+<http://drug.uk/interaction/aciclovir-sulindac> <http://drug.uk/model/interactingDrug> <http://drug.uk/sulindac> .
+<http://drug.uk/interaction/aciclovir-sulindac> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/24ae92bb-6b6e-4d99-a141-b63a3675c39f> .
+<http://drug.uk/interaction/aciclovir-sulindac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/aciclovir-tacrolimus> <http://drug.uk/model/interactingDrug> <http://drug.uk/aciclovir> .
+<http://drug.uk/interaction/aciclovir-tacrolimus> <http://drug.uk/model/interactingDrug> <http://drug.uk/tacrolimus> .
+<http://drug.uk/interaction/aciclovir-tacrolimus> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/7ccf8f9e-9638-4218-b372-01c4fdddd3fa> .
+<http://drug.uk/interaction/aciclovir-tacrolimus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/aciclovir-tenofovir-disoproxil> <http://drug.uk/model/interactingDrug> <http://drug.uk/aciclovir> .
+<http://drug.uk/interaction/aciclovir-tenofovir-disoproxil> <http://drug.uk/model/interactingDrug> <http://drug.uk/tenofovir-disoproxil> .
+<http://drug.uk/interaction/aciclovir-tenofovir-disoproxil> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/d31fb215-6094-47bf-a8b4-5cb0aa272f32> .
+<http://drug.uk/interaction/aciclovir-tenofovir-disoproxil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/aciclovir-tenoxicam> <http://drug.uk/model/interactingDrug> <http://drug.uk/aciclovir> .
+<http://drug.uk/interaction/aciclovir-tenoxicam> <http://drug.uk/model/interactingDrug> <http://drug.uk/tenoxicam> .
+<http://drug.uk/interaction/aciclovir-tenoxicam> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/13fa1ebf-840a-4dac-ae15-5a09ce1f7aaa> .
+<http://drug.uk/interaction/aciclovir-tenoxicam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/aciclovir-theophylline> <http://drug.uk/model/interactingDrug> <http://drug.uk/aciclovir> .
+<http://drug.uk/interaction/aciclovir-theophylline> <http://drug.uk/model/interactingDrug> <http://drug.uk/theophylline> .
+<http://drug.uk/interaction/aciclovir-theophylline> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/b7ac7b20-257b-4e27-ba04-db9ff57faf06> .
+<http://drug.uk/interaction/aciclovir-theophylline> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/aciclovir-tiaprofenic-acid> <http://drug.uk/model/interactingDrug> <http://drug.uk/aciclovir> .
+<http://drug.uk/interaction/aciclovir-tiaprofenic-acid> <http://drug.uk/model/interactingDrug> <http://drug.uk/tiaprofenic-acid> .
+<http://drug.uk/interaction/aciclovir-tiaprofenic-acid> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/8dfd05dd-cf9d-44c7-90ed-67ba06420155> .
+<http://drug.uk/interaction/aciclovir-tiaprofenic-acid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/aciclovir-tobramycin> <http://drug.uk/model/interactingDrug> <http://drug.uk/aciclovir> .
+<http://drug.uk/interaction/aciclovir-tobramycin> <http://drug.uk/model/interactingDrug> <http://drug.uk/tobramycin> .
+<http://drug.uk/interaction/aciclovir-tobramycin> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/7389fde8-1aa2-44aa-8d30-c8541f058900> .
+<http://drug.uk/interaction/aciclovir-tobramycin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/aciclovir-tolfenamic-acid> <http://drug.uk/model/interactingDrug> <http://drug.uk/aciclovir> .
+<http://drug.uk/interaction/aciclovir-tolfenamic-acid> <http://drug.uk/model/interactingDrug> <http://drug.uk/tolfenamic-acid> .
+<http://drug.uk/interaction/aciclovir-tolfenamic-acid> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/766393b4-9642-4014-8878-9dcf70818164> .
+<http://drug.uk/interaction/aciclovir-tolfenamic-acid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/aciclovir-trandolapril> <http://drug.uk/model/interactingDrug> <http://drug.uk/aciclovir> .
+<http://drug.uk/interaction/aciclovir-trandolapril> <http://drug.uk/model/interactingDrug> <http://drug.uk/trandolapril> .
+<http://drug.uk/interaction/aciclovir-trandolapril> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/91b31a4c-d244-4d8e-a09c-f34c4bd7b786> .
+<http://drug.uk/interaction/aciclovir-trandolapril> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/aciclovir-trimethoprim> <http://drug.uk/model/interactingDrug> <http://drug.uk/aciclovir> .
+<http://drug.uk/interaction/aciclovir-trimethoprim> <http://drug.uk/model/interactingDrug> <http://drug.uk/trimethoprim> .
+<http://drug.uk/interaction/aciclovir-trimethoprim> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/cf0635a0-2ee7-4c18-8210-2f1a2bc5da31> .
+<http://drug.uk/interaction/aciclovir-trimethoprim> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/aciclovir-valaciclovir> <http://drug.uk/model/interactingDrug> <http://drug.uk/aciclovir> .
+<http://drug.uk/interaction/aciclovir-valaciclovir> <http://drug.uk/model/interactingDrug> <http://drug.uk/valaciclovir> .
+<http://drug.uk/interaction/aciclovir-valaciclovir> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/3b8d6011-3ea6-4446-8745-cbdc13f50f0a> .
+<http://drug.uk/interaction/aciclovir-valaciclovir> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/aciclovir-valganciclovir> <http://drug.uk/model/interactingDrug> <http://drug.uk/aciclovir> .
+<http://drug.uk/interaction/aciclovir-valganciclovir> <http://drug.uk/model/interactingDrug> <http://drug.uk/valganciclovir> .
+<http://drug.uk/interaction/aciclovir-valganciclovir> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/723a8025-9334-4636-952f-5f445120688a> .
+<http://drug.uk/interaction/aciclovir-valganciclovir> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/aciclovir-vancomycin> <http://drug.uk/model/interactingDrug> <http://drug.uk/aciclovir> .
+<http://drug.uk/interaction/aciclovir-vancomycin> <http://drug.uk/model/interactingDrug> <http://drug.uk/vancomycin> .
+<http://drug.uk/interaction/aciclovir-vancomycin> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/3bf519ed-1952-4a8b-9bc7-0ab1a49b87ec> .
+<http://drug.uk/interaction/aciclovir-vancomycin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/aciclovir-voclosporin> <http://drug.uk/model/interactingDrug> <http://drug.uk/aciclovir> .
+<http://drug.uk/interaction/aciclovir-voclosporin> <http://drug.uk/model/interactingDrug> <http://drug.uk/voclosporin> .
+<http://drug.uk/interaction/aciclovir-voclosporin> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/882daafe-c1dc-4b10-ae58-d28bb103bfd5> .
+<http://drug.uk/interaction/aciclovir-voclosporin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/detail/01617181-4d6e-4e94-aea7-c2406a6b7db5> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/01617181-4d6e-4e94-aea7-c2406a6b7db5> <http://purl.org/dc/terms/description> "Both Aciclovir and Netilmicin can increase the risk of nephrotoxicity." .
+<http://drug.uk/interaction/detail/01617181-4d6e-4e94-aea7-c2406a6b7db5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/0bd4f7a5-5b27-4c38-9e70-daed4d141dce> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/0bd4f7a5-5b27-4c38-9e70-daed4d141dce> <http://purl.org/dc/terms/description> "Both Aciclovir and Cisplatin can increase the risk of nephrotoxicity." .
+<http://drug.uk/interaction/detail/0bd4f7a5-5b27-4c38-9e70-daed4d141dce> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/13fa1ebf-840a-4dac-ae15-5a09ce1f7aaa> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/13fa1ebf-840a-4dac-ae15-5a09ce1f7aaa> <http://purl.org/dc/terms/description> "Both Aciclovir and Tenoxicam can increase the risk of nephrotoxicity." .
+<http://drug.uk/interaction/detail/13fa1ebf-840a-4dac-ae15-5a09ce1f7aaa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/1623def5-ccbf-43a2-b908-12937ac2b6dc> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/1623def5-ccbf-43a2-b908-12937ac2b6dc> <http://purl.org/dc/terms/description> "Both Aciclovir and Inotersen can increase the risk of nephrotoxicity." .
+<http://drug.uk/interaction/detail/1623def5-ccbf-43a2-b908-12937ac2b6dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/19c3e5ae-216d-47dc-8e19-bb2450649be7> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/19c3e5ae-216d-47dc-8e19-bb2450649be7> <http://purl.org/dc/terms/description> "Both Aciclovir and Flurbiprofen can increase the risk of nephrotoxicity." .
+<http://drug.uk/interaction/detail/19c3e5ae-216d-47dc-8e19-bb2450649be7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/1e79f4a4-c61c-4e25-a920-ddd50f3fe6e5> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/1e79f4a4-c61c-4e25-a920-ddd50f3fe6e5> <http://purl.org/dc/terms/description> "Both Aciclovir and Meloxicam can increase the risk of nephrotoxicity." .
+<http://drug.uk/interaction/detail/1e79f4a4-c61c-4e25-a920-ddd50f3fe6e5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/24ae92bb-6b6e-4d99-a141-b63a3675c39f> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/24ae92bb-6b6e-4d99-a141-b63a3675c39f> <http://purl.org/dc/terms/description> "Both Aciclovir and Sulindac can increase the risk of nephrotoxicity." .
+<http://drug.uk/interaction/detail/24ae92bb-6b6e-4d99-a141-b63a3675c39f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/24df7945-73ed-414d-b52d-31f4a971c8bc> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/24df7945-73ed-414d-b52d-31f4a971c8bc> <http://purl.org/dc/terms/description> "Both Aciclovir and Cefadroxil can increase the risk of nephrotoxicity." .
+<http://drug.uk/interaction/detail/24df7945-73ed-414d-b52d-31f4a971c8bc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/2b9d4ff7-2ff6-4f4b-a5c3-369f23cc7368> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/2b9d4ff7-2ff6-4f4b-a5c3-369f23cc7368> <http://purl.org/dc/terms/description> "Both Aciclovir and Cefradine can increase the risk of nephrotoxicity." .
+<http://drug.uk/interaction/detail/2b9d4ff7-2ff6-4f4b-a5c3-369f23cc7368> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/3b8d6011-3ea6-4446-8745-cbdc13f50f0a> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/3b8d6011-3ea6-4446-8745-cbdc13f50f0a> <http://purl.org/dc/terms/description> "Both Aciclovir and Valaciclovir can increase the risk of nephrotoxicity." .
+<http://drug.uk/interaction/detail/3b8d6011-3ea6-4446-8745-cbdc13f50f0a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/3bf519ed-1952-4a8b-9bc7-0ab1a49b87ec> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/3bf519ed-1952-4a8b-9bc7-0ab1a49b87ec> <http://purl.org/dc/terms/description> "Both Aciclovir and Vancomycin can increase the risk of nephrotoxicity." .
+<http://drug.uk/interaction/detail/3bf519ed-1952-4a8b-9bc7-0ab1a49b87ec> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/3bf90ad4-dace-41b7-a69a-d1a55afb5983> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/3bf90ad4-dace-41b7-a69a-d1a55afb5983> <http://purl.org/dc/terms/description> "Both Aciclovir and Carboplatin can increase the risk of nephrotoxicity." .
+<http://drug.uk/interaction/detail/3bf90ad4-dace-41b7-a69a-d1a55afb5983> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/3e9558f7-145d-43ef-b11d-025c15865a66> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/3e9558f7-145d-43ef-b11d-025c15865a66> <http://purl.org/dc/terms/description> "Both Aciclovir and Ceftobiprole can increase the risk of nephrotoxicity." .
+<http://drug.uk/interaction/detail/3e9558f7-145d-43ef-b11d-025c15865a66> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/44a89fcf-6f32-4735-b63c-511056d9ada7> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/44a89fcf-6f32-4735-b63c-511056d9ada7> <http://purl.org/dc/terms/description> "Both Aciclovir and Etoricoxib can increase the risk of nephrotoxicity." .
+<http://drug.uk/interaction/detail/44a89fcf-6f32-4735-b63c-511056d9ada7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/4bdde930-8189-47a6-8f82-b3f528cfd4ab> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/4bdde930-8189-47a6-8f82-b3f528cfd4ab> <http://purl.org/dc/terms/description> "Both Aciclovir and Ibuprofen can increase the risk of nephrotoxicity." .
+<http://drug.uk/interaction/detail/4bdde930-8189-47a6-8f82-b3f528cfd4ab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/54f8dacb-9a50-4c0b-b02a-1f9535d72ae1> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/54f8dacb-9a50-4c0b-b02a-1f9535d72ae1> <http://purl.org/dc/terms/description> "Both Aciclovir and Piroxicam can increase the risk of nephrotoxicity." .
+<http://drug.uk/interaction/detail/54f8dacb-9a50-4c0b-b02a-1f9535d72ae1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/55d6d4c0-9b48-4f7d-a5b8-c0d583b08807> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/55d6d4c0-9b48-4f7d-a5b8-c0d583b08807> <http://purl.org/dc/terms/description> "Both Aciclovir and Quinapril can increase the risk of nephrotoxicity." .
+<http://drug.uk/interaction/detail/55d6d4c0-9b48-4f7d-a5b8-c0d583b08807> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/5b3db298-fe2a-456f-96c7-cc0a5ffbc56e> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/5b3db298-fe2a-456f-96c7-cc0a5ffbc56e> <http://purl.org/dc/terms/description> "Both Aciclovir and Ciclosporin can increase the risk of nephrotoxicity." .
+<http://drug.uk/interaction/detail/5b3db298-fe2a-456f-96c7-cc0a5ffbc56e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/5b63e833-daa1-4a0c-be71-e57d7ef8a81c> <http://drug.uk/model/evidence> "Anecdotal" .
+<http://drug.uk/interaction/detail/5b63e833-daa1-4a0c-be71-e57d7ef8a81c> <http://drug.uk/model/severity> "Severe" .
+<http://drug.uk/interaction/detail/5b63e833-daa1-4a0c-be71-e57d7ef8a81c> <http://purl.org/dc/terms/description> "Aciclovir increases the exposure to Aminophylline. Manufacturer advises monitor and adjust dose.  " .
+<http://drug.uk/interaction/detail/5b63e833-daa1-4a0c-be71-e57d7ef8a81c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/684f891c-7176-47f5-8bce-69c3ab3cd708> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/684f891c-7176-47f5-8bce-69c3ab3cd708> <http://purl.org/dc/terms/description> "Both Aciclovir and Gentamicin can increase the risk of nephrotoxicity." .
+<http://drug.uk/interaction/detail/684f891c-7176-47f5-8bce-69c3ab3cd708> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/723a8025-9334-4636-952f-5f445120688a> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/723a8025-9334-4636-952f-5f445120688a> <http://purl.org/dc/terms/description> "Both Aciclovir and Valganciclovir can increase the risk of nephrotoxicity." .
+<http://drug.uk/interaction/detail/723a8025-9334-4636-952f-5f445120688a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/72495f2c-e118-43f0-ae21-c7cc2a0c59b8> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/72495f2c-e118-43f0-ae21-c7cc2a0c59b8> <http://purl.org/dc/terms/description> "Both Aciclovir and Ceftriaxone can increase the risk of nephrotoxicity." .
+<http://drug.uk/interaction/detail/72495f2c-e118-43f0-ae21-c7cc2a0c59b8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/7389fde8-1aa2-44aa-8d30-c8541f058900> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/7389fde8-1aa2-44aa-8d30-c8541f058900> <http://purl.org/dc/terms/description> "Both Aciclovir and Tobramycin can increase the risk of nephrotoxicity." .
+<http://drug.uk/interaction/detail/7389fde8-1aa2-44aa-8d30-c8541f058900> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/74868764-6426-44c9-80e0-5efe23b8d727> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/74868764-6426-44c9-80e0-5efe23b8d727> <http://purl.org/dc/terms/description> "Both Aciclovir and Cefazolin can increase the risk of nephrotoxicity." .
+<http://drug.uk/interaction/detail/74868764-6426-44c9-80e0-5efe23b8d727> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/7549ad16-40b2-47be-8676-38eeeaece79f> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/7549ad16-40b2-47be-8676-38eeeaece79f> <http://purl.org/dc/terms/description> "Both Aciclovir and Nabumetone can increase the risk of nephrotoxicity." .
+<http://drug.uk/interaction/detail/7549ad16-40b2-47be-8676-38eeeaece79f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/766393b4-9642-4014-8878-9dcf70818164> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/766393b4-9642-4014-8878-9dcf70818164> <http://purl.org/dc/terms/description> "Both Aciclovir and Tolfenamic acid can increase the risk of nephrotoxicity." .
+<http://drug.uk/interaction/detail/766393b4-9642-4014-8878-9dcf70818164> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/7ccf8f9e-9638-4218-b372-01c4fdddd3fa> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/7ccf8f9e-9638-4218-b372-01c4fdddd3fa> <http://purl.org/dc/terms/description> "Both Aciclovir and Tacrolimus can increase the risk of nephrotoxicity." .
+<http://drug.uk/interaction/detail/7ccf8f9e-9638-4218-b372-01c4fdddd3fa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/7d5d6b55-8546-4e14-aa3d-25d934dfebaf> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/7d5d6b55-8546-4e14-aa3d-25d934dfebaf> <http://purl.org/dc/terms/description> "Both Aciclovir and Aceclofenac can increase the risk of nephrotoxicity." .
+<http://drug.uk/interaction/detail/7d5d6b55-8546-4e14-aa3d-25d934dfebaf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/83d41ab4-6e9a-4074-ab08-d9a299922ef9> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/83d41ab4-6e9a-4074-ab08-d9a299922ef9> <http://purl.org/dc/terms/description> "Both Aciclovir and Cefoxitin can increase the risk of nephrotoxicity." .
+<http://drug.uk/interaction/detail/83d41ab4-6e9a-4074-ab08-d9a299922ef9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/842fa025-7af6-4cbf-9d5d-2f93cfeda2f7> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/842fa025-7af6-4cbf-9d5d-2f93cfeda2f7> <http://purl.org/dc/terms/description> "Both Aciclovir and Sulfasalazine can increase the risk of nephrotoxicity." .
+<http://drug.uk/interaction/detail/842fa025-7af6-4cbf-9d5d-2f93cfeda2f7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/8450d567-0bd1-43db-9f77-9f76de101625> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/8450d567-0bd1-43db-9f77-9f76de101625> <http://purl.org/dc/terms/description> "Both Aciclovir and Mefenamic acid can increase the risk of nephrotoxicity." .
+<http://drug.uk/interaction/detail/8450d567-0bd1-43db-9f77-9f76de101625> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/8593a703-8f4c-45bb-9b86-d785415d16b2> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/8593a703-8f4c-45bb-9b86-d785415d16b2> <http://purl.org/dc/terms/description> "Both Aciclovir and Indometacin can increase the risk of nephrotoxicity." .
+<http://drug.uk/interaction/detail/8593a703-8f4c-45bb-9b86-d785415d16b2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/85b08362-9cc8-45a2-8186-57fa9d22123f> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/85b08362-9cc8-45a2-8186-57fa9d22123f> <http://purl.org/dc/terms/description> "Both Aciclovir and Mesalazine can increase the risk of nephrotoxicity." .
+<http://drug.uk/interaction/detail/85b08362-9cc8-45a2-8186-57fa9d22123f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/882daafe-c1dc-4b10-ae58-d28bb103bfd5> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/882daafe-c1dc-4b10-ae58-d28bb103bfd5> <http://purl.org/dc/terms/description> "Both Aciclovir and Voclosporin can increase the risk of nephrotoxicity." .
+<http://drug.uk/interaction/detail/882daafe-c1dc-4b10-ae58-d28bb103bfd5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/88a7a297-a8c8-4cee-aaab-d95c7c2b29f6> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/88a7a297-a8c8-4cee-aaab-d95c7c2b29f6> <http://purl.org/dc/terms/description> "Both Aciclovir and Cefepime can increase the risk of nephrotoxicity." .
+<http://drug.uk/interaction/detail/88a7a297-a8c8-4cee-aaab-d95c7c2b29f6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/89e34c37-de46-4ab0-85b7-31ca68489f5f> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/89e34c37-de46-4ab0-85b7-31ca68489f5f> <http://purl.org/dc/terms/description> "Both Aciclovir and Celecoxib can increase the risk of nephrotoxicity." .
+<http://drug.uk/interaction/detail/89e34c37-de46-4ab0-85b7-31ca68489f5f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/8dfd05dd-cf9d-44c7-90ed-67ba06420155> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/8dfd05dd-cf9d-44c7-90ed-67ba06420155> <http://purl.org/dc/terms/description> "Both Aciclovir and Tiaprofenic acid can increase the risk of nephrotoxicity." .
+<http://drug.uk/interaction/detail/8dfd05dd-cf9d-44c7-90ed-67ba06420155> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/8f77a1fa-6f1a-4b9d-93aa-c11bfd8daed7> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/8f77a1fa-6f1a-4b9d-93aa-c11bfd8daed7> <http://purl.org/dc/terms/description> "Both Aciclovir and Deferasirox can increase the risk of nephrotoxicity." .
+<http://drug.uk/interaction/detail/8f77a1fa-6f1a-4b9d-93aa-c11bfd8daed7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/907ac963-50d8-420a-a502-cca03f5e1379> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/907ac963-50d8-420a-a502-cca03f5e1379> <http://purl.org/dc/terms/description> "Both Aciclovir and Cefotaxime can increase the risk of nephrotoxicity." .
+<http://drug.uk/interaction/detail/907ac963-50d8-420a-a502-cca03f5e1379> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/90dc7db0-9c63-4ddd-a782-ef7820908ba7> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/90dc7db0-9c63-4ddd-a782-ef7820908ba7> <http://purl.org/dc/terms/description> "Both Aciclovir and Methotrexate can increase the risk of nephrotoxicity." .
+<http://drug.uk/interaction/detail/90dc7db0-9c63-4ddd-a782-ef7820908ba7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/91b31a4c-d244-4d8e-a09c-f34c4bd7b786> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/91b31a4c-d244-4d8e-a09c-f34c4bd7b786> <http://purl.org/dc/terms/description> "Both Aciclovir and Trandolapril can increase the risk of nephrotoxicity." .
+<http://drug.uk/interaction/detail/91b31a4c-d244-4d8e-a09c-f34c4bd7b786> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/99161f34-9817-48d0-ba2d-b19255a51e4c> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/99161f34-9817-48d0-ba2d-b19255a51e4c> <http://purl.org/dc/terms/description> "Both Aciclovir and Pemetrexed can increase the risk of nephrotoxicity." .
+<http://drug.uk/interaction/detail/99161f34-9817-48d0-ba2d-b19255a51e4c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/9ec4d930-7e0f-49e1-ae27-74044552ada7> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/9ec4d930-7e0f-49e1-ae27-74044552ada7> <http://purl.org/dc/terms/description> "Both Aciclovir and Dexketoprofen can increase the risk of nephrotoxicity." .
+<http://drug.uk/interaction/detail/9ec4d930-7e0f-49e1-ae27-74044552ada7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/a3463b1b-2010-404e-8691-1c857c307167> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/a3463b1b-2010-404e-8691-1c857c307167> <http://purl.org/dc/terms/description> "Both Aciclovir and Ganciclovir can increase the risk of nephrotoxicity." .
+<http://drug.uk/interaction/detail/a3463b1b-2010-404e-8691-1c857c307167> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/a7b208cc-bb85-4cf0-b1ff-d6dab1bdca4a> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/a7b208cc-bb85-4cf0-b1ff-d6dab1bdca4a> <http://purl.org/dc/terms/description> "Both Aciclovir and Ifosfamide can increase the risk of nephrotoxicity." .
+<http://drug.uk/interaction/detail/a7b208cc-bb85-4cf0-b1ff-d6dab1bdca4a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/b7ac7b20-257b-4e27-ba04-db9ff57faf06> <http://drug.uk/model/evidence> "Theoretical" .
+<http://drug.uk/interaction/detail/b7ac7b20-257b-4e27-ba04-db9ff57faf06> <http://drug.uk/model/severity> "Severe" .
+<http://drug.uk/interaction/detail/b7ac7b20-257b-4e27-ba04-db9ff57faf06> <http://purl.org/dc/terms/description> "Aciclovir is predicted to increase the exposure to Theophylline. Manufacturer advises monitor and adjust dose.  " .
+<http://drug.uk/interaction/detail/b7ac7b20-257b-4e27-ba04-db9ff57faf06> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/bae3442a-6f35-42ee-9f94-b4bc1c702fb5> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/bae3442a-6f35-42ee-9f94-b4bc1c702fb5> <http://purl.org/dc/terms/description> "Both Aciclovir and Streptozocin can increase the risk of nephrotoxicity." .
+<http://drug.uk/interaction/detail/bae3442a-6f35-42ee-9f94-b4bc1c702fb5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/bb0f6164-3f25-4255-8887-3b353e2af555> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/bb0f6164-3f25-4255-8887-3b353e2af555> <http://purl.org/dc/terms/description> "Both Aciclovir and Parecoxib can increase the risk of nephrotoxicity." .
+<http://drug.uk/interaction/detail/bb0f6164-3f25-4255-8887-3b353e2af555> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/c20f5ba0-c0e6-4d55-9b0d-bccdfb68827e> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/c20f5ba0-c0e6-4d55-9b0d-bccdfb68827e> <http://purl.org/dc/terms/description> "Both Aciclovir and Rifampicin can increase the risk of nephrotoxicity." .
+<http://drug.uk/interaction/detail/c20f5ba0-c0e6-4d55-9b0d-bccdfb68827e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/cb826f68-c38c-4d66-8746-1131cb57344e> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/cb826f68-c38c-4d66-8746-1131cb57344e> <http://purl.org/dc/terms/description> "Both Aciclovir and Ketoprofen can increase the risk of nephrotoxicity." .
+<http://drug.uk/interaction/detail/cb826f68-c38c-4d66-8746-1131cb57344e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/cc718bfe-c73a-470a-8b10-740d25c84586> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/cc718bfe-c73a-470a-8b10-740d25c84586> <http://purl.org/dc/terms/description> "Both Aciclovir and Cefixime can increase the risk of nephrotoxicity." .
+<http://drug.uk/interaction/detail/cc718bfe-c73a-470a-8b10-740d25c84586> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/cd8653a8-5fc0-478d-b6c7-89160360fcda> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/cd8653a8-5fc0-478d-b6c7-89160360fcda> <http://purl.org/dc/terms/description> "Both Aciclovir and Ramipril can increase the risk of nephrotoxicity." .
+<http://drug.uk/interaction/detail/cd8653a8-5fc0-478d-b6c7-89160360fcda> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/cf0635a0-2ee7-4c18-8210-2f1a2bc5da31> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/cf0635a0-2ee7-4c18-8210-2f1a2bc5da31> <http://purl.org/dc/terms/description> "Both Aciclovir and Trimethoprim can increase the risk of nephrotoxicity." .
+<http://drug.uk/interaction/detail/cf0635a0-2ee7-4c18-8210-2f1a2bc5da31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/d31fb215-6094-47bf-a8b4-5cb0aa272f32> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/d31fb215-6094-47bf-a8b4-5cb0aa272f32> <http://purl.org/dc/terms/description> "Both Aciclovir and Tenofovir disoproxil can increase the risk of nephrotoxicity." .
+<http://drug.uk/interaction/detail/d31fb215-6094-47bf-a8b4-5cb0aa272f32> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/d8961082-f6ce-43fd-a37b-67a8dbc403dd> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/d8961082-f6ce-43fd-a37b-67a8dbc403dd> <http://purl.org/dc/terms/description> "Both Aciclovir and Lisinopril can increase the risk of nephrotoxicity." .
+<http://drug.uk/interaction/detail/d8961082-f6ce-43fd-a37b-67a8dbc403dd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/db78a83b-f723-4198-bbf0-76f5e5f877f0> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/db78a83b-f723-4198-bbf0-76f5e5f877f0> <http://purl.org/dc/terms/description> "Both Aciclovir and Cefalexin can increase the risk of nephrotoxicity." .
+<http://drug.uk/interaction/detail/db78a83b-f723-4198-bbf0-76f5e5f877f0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/dbd53fcb-ad82-4084-a68b-424fb4fc94d8> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/dbd53fcb-ad82-4084-a68b-424fb4fc94d8> <http://purl.org/dc/terms/description> "Both Aciclovir and Cefuroxime can increase the risk of nephrotoxicity." .
+<http://drug.uk/interaction/detail/dbd53fcb-ad82-4084-a68b-424fb4fc94d8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/e2d756c5-ce3e-4df7-9d2a-1a006e17befd> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/e2d756c5-ce3e-4df7-9d2a-1a006e17befd> <http://purl.org/dc/terms/description> "Both Aciclovir and Etodolac can increase the risk of nephrotoxicity." .
+<http://drug.uk/interaction/detail/e2d756c5-ce3e-4df7-9d2a-1a006e17befd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/e4abc35d-b581-4073-9911-c49f5cccf66d> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/e4abc35d-b581-4073-9911-c49f5cccf66d> <http://purl.org/dc/terms/description> "Both Aciclovir and Cidofovir can increase the risk of nephrotoxicity." .
+<http://drug.uk/interaction/detail/e4abc35d-b581-4073-9911-c49f5cccf66d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/e593dfea-ea3e-4cf4-a973-5848e8d83d23> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/e593dfea-ea3e-4cf4-a973-5848e8d83d23> <http://purl.org/dc/terms/description> "Both Aciclovir and Amikacin can increase the risk of nephrotoxicity." .
+<http://drug.uk/interaction/detail/e593dfea-ea3e-4cf4-a973-5848e8d83d23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/e68d74e3-14b5-49ec-a6fa-0a2b2ca30ffd> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/e68d74e3-14b5-49ec-a6fa-0a2b2ca30ffd> <http://purl.org/dc/terms/description> "Both Aciclovir and Cefaclor can increase the risk of nephrotoxicity." .
+<http://drug.uk/interaction/detail/e68d74e3-14b5-49ec-a6fa-0a2b2ca30ffd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/eba7d983-a709-4085-a2cc-b8c75d0f9433> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/eba7d983-a709-4085-a2cc-b8c75d0f9433> <http://purl.org/dc/terms/description> "Both Aciclovir and Amphotericin B can increase the risk of nephrotoxicity." .
+<http://drug.uk/interaction/detail/eba7d983-a709-4085-a2cc-b8c75d0f9433> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/ed1fcdfb-8029-46ed-b0d3-5b76782d6d02> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/ed1fcdfb-8029-46ed-b0d3-5b76782d6d02> <http://purl.org/dc/terms/description> "Both Aciclovir and Aspirin can increase the risk of nephrotoxicity." .
+<http://drug.uk/interaction/detail/ed1fcdfb-8029-46ed-b0d3-5b76782d6d02> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/ee2966be-91bd-4666-9762-084e5fba7039> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/ee2966be-91bd-4666-9762-084e5fba7039> <http://purl.org/dc/terms/description> "Both Aciclovir and Captopril can increase the risk of nephrotoxicity." .
+<http://drug.uk/interaction/detail/ee2966be-91bd-4666-9762-084e5fba7039> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/efdb85bb-9616-414e-aede-5b4090b0b2e6> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/efdb85bb-9616-414e-aede-5b4090b0b2e6> <http://purl.org/dc/terms/description> "Both Aciclovir and Streptomycin can increase the risk of nephrotoxicity." .
+<http://drug.uk/interaction/detail/efdb85bb-9616-414e-aede-5b4090b0b2e6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/fc110923-fc1d-4e67-a468-9d2fec20a82e> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/fc110923-fc1d-4e67-a468-9d2fec20a82e> <http://purl.org/dc/terms/description> "Both Aciclovir and Oxaliplatin can increase the risk of nephrotoxicity." .
+<http://drug.uk/interaction/detail/fc110923-fc1d-4e67-a468-9d2fec20a82e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/fe620733-2744-4e88-8cf2-065f7785f695> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/fe620733-2744-4e88-8cf2-065f7785f695> <http://purl.org/dc/terms/description> "Both Aciclovir and Ceftazidime can increase the risk of nephrotoxicity." .
+<http://drug.uk/interaction/detail/fe620733-2744-4e88-8cf2-065f7785f695> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/ff143357-7d4f-49ab-a233-ec7e33734dbc> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/ff143357-7d4f-49ab-a233-ec7e33734dbc> <http://purl.org/dc/terms/description> "Both Aciclovir and Naproxen can increase the risk of nephrotoxicity." .
+<http://drug.uk/interaction/detail/ff143357-7d4f-49ab-a233-ec7e33734dbc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/ketoprofen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/lisinopril> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/mefenamic-acid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/meloxicam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/mesalazine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/methotrexate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/nabumetone> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/naproxen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/netilmicin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/oxaliplatin-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/parecoxib> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/pemetrexed-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/piroxicam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/quinapril> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/ramipril> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/rifampicin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/streptomycin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/streptozocin-specialist-drug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/sulfasalazine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/sulindac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/tacrolimus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/tenofovir-disoproxil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/tenoxicam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/theophylline> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/tiaprofenic-acid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/tobramycin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/tolfenamic-acid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/trandolapril> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/trimethoprim> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/valaciclovir> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/valganciclovir> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/vancomycin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/voclosporin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
