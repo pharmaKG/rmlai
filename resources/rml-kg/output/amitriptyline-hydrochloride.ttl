@@ -1,0 +1,32 @@
+<http://drug.uk/amitriptyline-hydrochloride> <http://drug.uk/model/sideEffectDescription> " Common or very common\nAnticholinergic syndrome; drowsiness; QT interval prolongation\nFrequency not known\nAgranulocytosis; alopecia; anxiety; appetite abnormal; arrhythmias; asthenia; bone marrow depression; breast enlargement; cardiac conduction disorders; coma; concentration impaired; confusion; constipation; delirium; delusions; diarrhoea; dizziness; dry mouth; dysarthria; eosinophilia; epigastric distress; face oedema; galactorrhoea; gynaecomastia; hallucination; headache; hepatic disorders; hyperhidrosis; hyperpyrexia; hypertension; hyponatraemia; hypotension; leucopenia; mood altered; movement disorders; mydriasis; myocardial infarction; nausea; oral disorders; palpitations; paralytic ileus; peripheral neuropathy; photosensitivity reaction; seizure; sensation abnormal; sexual dysfunction; SIADH; skin reactions; sleep disorders; stroke; sudden cardiac death; suicidal behaviours; syncope; taste altered; testicular swelling; thrombocytopenia; tinnitus; tremor; urinary disorders; urinary tract dilation; vision disorders; vomiting; weight changes; withdrawal syndrome\nSide-effects, further information\nThe risk of side-effects is reduced by titrating slowly to the minimum effective dose (every 2–3 days). Consider using a lower starting dose in elderly patients.\nOverdose\nOverdosage with amitriptyline is associated with a relatively high rate of fatality. Symptoms of overdosage may include dry mouth, coma of varying degree, hypotension, hypothermia, hyperreflexia, extensor plantar responses, convulsions, respiratory failure, cardiac conduction defects, and arrhythmias. Dilated pupils and urinary retention also occur." .
+<http://drug.uk/amitriptyline-hydrochloride> <http://drug.uk/model/usage> <http://drug.uk/usage/breast-feeding/1cdfef2e-67b3-46a8-bcb5-7e3ec91e98db> .
+<http://drug.uk/amitriptyline-hydrochloride> <http://drug.uk/model/usage> <http://drug.uk/usage/hepatic-impairment/900926fc-00e0-407b-a447-c779fd96d0e5> .
+<http://drug.uk/amitriptyline-hydrochloride> <http://drug.uk/model/usage> <http://drug.uk/usage/normal/31e915f1-2420-4d33-a0df-849d19964589> .
+<http://drug.uk/amitriptyline-hydrochloride> <http://drug.uk/model/usage> <http://drug.uk/usage/pregnancy/db95a657-9005-4f6e-b9ec-9c3824312d17> .
+<http://drug.uk/amitriptyline-hydrochloride> <http://drug.uk/model/usage> <http://drug.uk/usage/renal-impairment/57946bfb-952e-4a90-8b19-24fcb5623154> .
+<http://drug.uk/amitriptyline-hydrochloride> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/amitriptyline-hydrochloride> <http://www.w3.org/2004/02/skos/core#prefLabel> "Amitriptyline hydrochloride" .
+<http://drug.uk/dosage/5ee06876-e6d3-4a4e-9e04-feed8da7992a> <http://drug.uk/model/group> "adult" .
+<http://drug.uk/dosage/5ee06876-e6d3-4a4e-9e04-feed8da7992a> <http://drug.uk/model/patientGroupDescription> "Adult" .
+<http://drug.uk/dosage/5ee06876-e6d3-4a4e-9e04-feed8da7992a> <http://drug.uk/model/route> "By mouth" .
+<http://drug.uk/dosage/5ee06876-e6d3-4a4e-9e04-feed8da7992a> <http://purl.org/dc/terms/description> "25 mg daily" .
+<http://drug.uk/dosage/5ee06876-e6d3-4a4e-9e04-feed8da7992a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Dosage> .
+<http://drug.uk/usage/breast-feeding/1cdfef2e-67b3-46a8-bcb5-7e3ec91e98db> <http://drug.uk/model/patientCondition> "BreastFeeding" .
+<http://drug.uk/usage/breast-feeding/1cdfef2e-67b3-46a8-bcb5-7e3ec91e98db> <http://purl.org/dc/terms/description> " The amount secreted into breast milk is too small to be harmful." .
+<http://drug.uk/usage/breast-feeding/1cdfef2e-67b3-46a8-bcb5-7e3ec91e98db> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/hepatic-impairment/900926fc-00e0-407b-a447-c779fd96d0e5> <http://drug.uk/model/patientCondition> "HepaticImpairment" .
+<http://drug.uk/usage/hepatic-impairment/900926fc-00e0-407b-a447-c779fd96d0e5> <http://purl.org/dc/terms/description> " Manufacturer advises use with caution in mild-to-moderate impairment; avoid in severe impairment." .
+<http://drug.uk/usage/hepatic-impairment/900926fc-00e0-407b-a447-c779fd96d0e5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/normal/31e915f1-2420-4d33-a0df-849d19964589> <http://drug.uk/model/dosage> <http://drug.uk/dosage/5ee06876-e6d3-4a4e-9e04-feed8da7992a> .
+<http://drug.uk/usage/normal/31e915f1-2420-4d33-a0df-849d19964589> <http://drug.uk/model/indication> "Chronic tension-type headache prophylaxis" .
+<http://drug.uk/usage/normal/31e915f1-2420-4d33-a0df-849d19964589> <http://drug.uk/model/indication> "Migraine prophylaxis" .
+<http://drug.uk/usage/normal/31e915f1-2420-4d33-a0df-849d19964589> <http://drug.uk/model/indication> "Neuropathic pain" .
+<http://drug.uk/usage/normal/31e915f1-2420-4d33-a0df-849d19964589> <http://drug.uk/model/patientCondition> "Normal" .
+<http://drug.uk/usage/normal/31e915f1-2420-4d33-a0df-849d19964589> <http://drug.uk/model/safetyLevel> "safe" .
+<http://drug.uk/usage/normal/31e915f1-2420-4d33-a0df-849d19964589> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/pregnancy/db95a657-9005-4f6e-b9ec-9c3824312d17> <http://drug.uk/model/patientCondition> "Pregnancy" .
+<http://drug.uk/usage/pregnancy/db95a657-9005-4f6e-b9ec-9c3824312d17> <http://purl.org/dc/terms/description> " Use only if potential benefit outweighs risk." .
+<http://drug.uk/usage/pregnancy/db95a657-9005-4f6e-b9ec-9c3824312d17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/renal-impairment/57946bfb-952e-4a90-8b19-24fcb5623154> <http://drug.uk/model/patientCondition> "RenalImpairment" .
+<http://drug.uk/usage/renal-impairment/57946bfb-952e-4a90-8b19-24fcb5623154> <http://purl.org/dc/terms/description> " null" .
+<http://drug.uk/usage/renal-impairment/57946bfb-952e-4a90-8b19-24fcb5623154> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .

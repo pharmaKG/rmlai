@@ -1,0 +1,30 @@
+<http://drug.uk/dosage/9cfde002-c17f-4176-8a73-00ca6318227b> <http://drug.uk/model/group> "adult" .
+<http://drug.uk/dosage/9cfde002-c17f-4176-8a73-00ca6318227b> <http://drug.uk/model/patientGroupDescription> "Adult (body-weight 77 kg and above)" .
+<http://drug.uk/dosage/9cfde002-c17f-4176-8a73-00ca6318227b> <http://drug.uk/model/route> "By subcutaneous injection" .
+<http://drug.uk/dosage/9cfde002-c17f-4176-8a73-00ca6318227b> <http://purl.org/dc/terms/description> "32.4 mg once daily." .
+<http://drug.uk/dosage/9cfde002-c17f-4176-8a73-00ca6318227b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Dosage> .
+<http://drug.uk/usage/breast-feeding/a7c8b080-d028-4928-a92e-66d2f53c09f5> <http://drug.uk/model/patientCondition> "BreastFeeding" .
+<http://drug.uk/usage/breast-feeding/a7c8b080-d028-4928-a92e-66d2f53c09f5> <http://purl.org/dc/terms/description> " Specialist sources indicate probably compatible (no information available). Degradation into small peptides and amino acids via catabolic pathways in the maternal circulation and infant gastro-intestinal tract suggests unlikely to be absorbed by, or adversely affect the breast-fed infant." .
+<http://drug.uk/usage/breast-feeding/a7c8b080-d028-4928-a92e-66d2f53c09f5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/hepatic-impairment/c6e62735-3acd-4ba7-94a5-5698f162ed56> <http://drug.uk/model/patientCondition> "HepaticImpairment" .
+<http://drug.uk/usage/hepatic-impairment/c6e62735-3acd-4ba7-94a5-5698f162ed56> <http://purl.org/dc/terms/description> " null" .
+<http://drug.uk/usage/hepatic-impairment/c6e62735-3acd-4ba7-94a5-5698f162ed56> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/normal/73681dcc-4203-469a-8588-41fa626eac56> <http://drug.uk/model/dosage> <http://drug.uk/dosage/9cfde002-c17f-4176-8a73-00ca6318227b> .
+<http://drug.uk/usage/normal/73681dcc-4203-469a-8588-41fa626eac56> <http://drug.uk/model/indication> "Myasthenia gravis (under expert supervision)" .
+<http://drug.uk/usage/normal/73681dcc-4203-469a-8588-41fa626eac56> <http://drug.uk/model/patientCondition> "Normal" .
+<http://drug.uk/usage/normal/73681dcc-4203-469a-8588-41fa626eac56> <http://drug.uk/model/safetyLevel> "safe" .
+<http://drug.uk/usage/normal/73681dcc-4203-469a-8588-41fa626eac56> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/pregnancy/6c4af8cc-5040-455e-9146-f209d282a2e8> <http://drug.uk/model/patientCondition> "Pregnancy" .
+<http://drug.uk/usage/pregnancy/6c4af8cc-5040-455e-9146-f209d282a2e8> <http://purl.org/dc/terms/description> " Use only if potential benefit outweighs risk (no information available)." .
+<http://drug.uk/usage/pregnancy/6c4af8cc-5040-455e-9146-f209d282a2e8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/renal-impairment/ccbbea17-bdfc-413a-bd6f-7a8f5fc307c5> <http://drug.uk/model/patientCondition> "RenalImpairment" .
+<http://drug.uk/usage/renal-impairment/ccbbea17-bdfc-413a-bd6f-7a8f5fc307c5> <http://purl.org/dc/terms/description> " null" .
+<http://drug.uk/usage/renal-impairment/ccbbea17-bdfc-413a-bd6f-7a8f5fc307c5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/zilucoplan> <http://drug.uk/model/sideEffectDescription> " Common or very common\nDiarrhoea; increased risk of infection; morphoea" .
+<http://drug.uk/zilucoplan> <http://drug.uk/model/usage> <http://drug.uk/usage/breast-feeding/a7c8b080-d028-4928-a92e-66d2f53c09f5> .
+<http://drug.uk/zilucoplan> <http://drug.uk/model/usage> <http://drug.uk/usage/hepatic-impairment/c6e62735-3acd-4ba7-94a5-5698f162ed56> .
+<http://drug.uk/zilucoplan> <http://drug.uk/model/usage> <http://drug.uk/usage/normal/73681dcc-4203-469a-8588-41fa626eac56> .
+<http://drug.uk/zilucoplan> <http://drug.uk/model/usage> <http://drug.uk/usage/pregnancy/6c4af8cc-5040-455e-9146-f209d282a2e8> .
+<http://drug.uk/zilucoplan> <http://drug.uk/model/usage> <http://drug.uk/usage/renal-impairment/ccbbea17-bdfc-413a-bd6f-7a8f5fc307c5> .
+<http://drug.uk/zilucoplan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/zilucoplan> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zilucoplan" .

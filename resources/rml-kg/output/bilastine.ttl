@@ -1,0 +1,30 @@
+<http://drug.uk/bilastine> <http://drug.uk/model/sideEffectDescription> " Common or very common\nDrowsiness; headache\nUncommon\nAnxiety; appetite increased; asthenia; bundle branch block; diarrhoea; dry mouth; dyspnoea; fever; gastritis; gastrointestinal discomfort; insomnia; nasal complaints; nausea; oral herpes; pre-existing condition improved; pruritus; QT interval prolongation; sinus arrhythmia; thirst; tinnitus; vertigo; weight increased\nSide-effects, further information\nNon-sedating antihistamines such as bilastine cause less sedation and psychomotor impairment than the older antihistamines, but can still occur; sedation is generally minimal. This is because non-sedating antihistamines penetrate the blood brain barrier to a much lesser extent." .
+<http://drug.uk/bilastine> <http://drug.uk/model/usage> <http://drug.uk/usage/breast-feeding/dc81a32a-2664-4f0d-b24d-85ece062cf0a> .
+<http://drug.uk/bilastine> <http://drug.uk/model/usage> <http://drug.uk/usage/hepatic-impairment/c0b63124-6cee-43a1-a168-04beae1780e9> .
+<http://drug.uk/bilastine> <http://drug.uk/model/usage> <http://drug.uk/usage/normal/1238064a-246c-40a0-ba02-4d71e48a04f4> .
+<http://drug.uk/bilastine> <http://drug.uk/model/usage> <http://drug.uk/usage/pregnancy/6a3fe1a9-fbee-42eb-b26f-14e67f67ddc5> .
+<http://drug.uk/bilastine> <http://drug.uk/model/usage> <http://drug.uk/usage/renal-impairment/ebd73cc2-3e1e-45bd-b44b-ea96a6773c68> .
+<http://drug.uk/bilastine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/bilastine> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bilastine" .
+<http://drug.uk/dosage/3c89a84d-43c1-410f-88ab-cfadfdb95a8b> <http://drug.uk/model/group> "child" .
+<http://drug.uk/dosage/3c89a84d-43c1-410f-88ab-cfadfdb95a8b> <http://drug.uk/model/patientGroupDescription> "Child 12–17 years" .
+<http://drug.uk/dosage/3c89a84d-43c1-410f-88ab-cfadfdb95a8b> <http://drug.uk/model/route> "By mouth" .
+<http://drug.uk/dosage/3c89a84d-43c1-410f-88ab-cfadfdb95a8b> <http://purl.org/dc/terms/description> "20 mg once daily." .
+<http://drug.uk/dosage/3c89a84d-43c1-410f-88ab-cfadfdb95a8b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Dosage> .
+<http://drug.uk/usage/breast-feeding/dc81a32a-2664-4f0d-b24d-85ece062cf0a> <http://drug.uk/model/patientCondition> "BreastFeeding" .
+<http://drug.uk/usage/breast-feeding/dc81a32a-2664-4f0d-b24d-85ece062cf0a> <http://purl.org/dc/terms/description> " Avoid—no information available. Most antihistamines are present in breast milk in varying amounts; although not known to be harmful, most manufacturers advise avoiding their use in mothers who are breast-feeding." .
+<http://drug.uk/usage/breast-feeding/dc81a32a-2664-4f0d-b24d-85ece062cf0a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/hepatic-impairment/c0b63124-6cee-43a1-a168-04beae1780e9> <http://drug.uk/model/patientCondition> "HepaticImpairment" .
+<http://drug.uk/usage/hepatic-impairment/c0b63124-6cee-43a1-a168-04beae1780e9> <http://purl.org/dc/terms/description> " null" .
+<http://drug.uk/usage/hepatic-impairment/c0b63124-6cee-43a1-a168-04beae1780e9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/normal/1238064a-246c-40a0-ba02-4d71e48a04f4> <http://drug.uk/model/dosage> <http://drug.uk/dosage/3c89a84d-43c1-410f-88ab-cfadfdb95a8b> .
+<http://drug.uk/usage/normal/1238064a-246c-40a0-ba02-4d71e48a04f4> <http://drug.uk/model/indication> "Symptomatic relief of allergic rhinoconjunctivitis and urticaria" .
+<http://drug.uk/usage/normal/1238064a-246c-40a0-ba02-4d71e48a04f4> <http://drug.uk/model/patientCondition> "Normal" .
+<http://drug.uk/usage/normal/1238064a-246c-40a0-ba02-4d71e48a04f4> <http://drug.uk/model/safetyLevel> "safe" .
+<http://drug.uk/usage/normal/1238064a-246c-40a0-ba02-4d71e48a04f4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/pregnancy/6a3fe1a9-fbee-42eb-b26f-14e67f67ddc5> <http://drug.uk/model/patientCondition> "Pregnancy" .
+<http://drug.uk/usage/pregnancy/6a3fe1a9-fbee-42eb-b26f-14e67f67ddc5> <http://purl.org/dc/terms/description> " Avoid—limited information available. Most manufacturers of antihistamines advise avoiding their use during pregnancy; however, there is no evidence of teratogenicity." .
+<http://drug.uk/usage/pregnancy/6a3fe1a9-fbee-42eb-b26f-14e67f67ddc5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/renal-impairment/ebd73cc2-3e1e-45bd-b44b-ea96a6773c68> <http://drug.uk/model/patientCondition> "RenalImpairment" .
+<http://drug.uk/usage/renal-impairment/ebd73cc2-3e1e-45bd-b44b-ea96a6773c68> <http://purl.org/dc/terms/description> " null" .
+<http://drug.uk/usage/renal-impairment/ebd73cc2-3e1e-45bd-b44b-ea96a6773c68> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .

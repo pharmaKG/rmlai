@@ -1,0 +1,31 @@
+<http://drug.uk/dosage/7a59626d-aa17-48d4-a038-2bc314f307b3> <http://drug.uk/model/group> "child" .
+<http://drug.uk/dosage/7a59626d-aa17-48d4-a038-2bc314f307b3> <http://drug.uk/model/patientGroupDescription> "Child 10–17 years" .
+<http://drug.uk/dosage/7a59626d-aa17-48d4-a038-2bc314f307b3> <http://drug.uk/model/route> "By mouth" .
+<http://drug.uk/dosage/7a59626d-aa17-48d4-a038-2bc314f307b3> <http://purl.org/dc/terms/description> "500 mg 4 times a day." .
+<http://drug.uk/dosage/7a59626d-aa17-48d4-a038-2bc314f307b3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Dosage> .
+<http://drug.uk/flucloxacillin> <http://drug.uk/model/sideEffectDescription> "Common or very common\nDiarrhoea; hypersensitivity; nausea; skin reactions; thrombocytopenia; vomiting\nUncommon\nArthralgia; leucopenia\nRare or very rare\nAgranulocytosis; angioedema; haemolytic anaemia; hepatic disorders; nephritis tubulointerstitial; neutropenia; pseudomembranous enterocolitis; seizure; severe cutaneous adverse reactions (SCARs)\nSide-effects, further information\nDiarrhoea frequently occurs during oral penicillin therapy. It is most common with broad-spectrum penicillins, which can cause antibiotic-associated colitis.\n General side-effects:\nRare or very rare\nFever; myalgia\nSpecific side-effects:\nCommon or very common\nWith oral use\nGastrointestinal disorders\nRare or very rare\nWith oral use\nEosinophilia\nFrequency not known\nWith oral use\nHypokalaemia; oesophageal disorder; oral pain; oropharyngeal pain; throat irritation\nWith parenteral use\nBronchospasm; coma; dyspnoea; electrolyte imbalance; erythema nodosum; hallucination; Jarisch-Herxheimer reaction; nephropathy; neurotoxicity; oral candidiasis; platelet dysfunction; purpura non-thrombocytopenic; vasculitis\nSide-effects, further information\nPotentially life-threatening hypokalaemia can occur, especially in high doses. This can be resistant to potassium supplementation. Regular monitoring of serum potassium levels is recommended when using higher doses of flucloxacillin." .
+<http://drug.uk/flucloxacillin> <http://drug.uk/model/usage> <http://drug.uk/usage/breast-feeding/5ba18b0d-c087-4842-b7d3-b144e1366786> .
+<http://drug.uk/flucloxacillin> <http://drug.uk/model/usage> <http://drug.uk/usage/hepatic-impairment/5370889f-1e15-425d-80c0-7344dee59d5b> .
+<http://drug.uk/flucloxacillin> <http://drug.uk/model/usage> <http://drug.uk/usage/normal/adb3690e-8e7d-44d0-afda-e4bce2d36f90> .
+<http://drug.uk/flucloxacillin> <http://drug.uk/model/usage> <http://drug.uk/usage/pregnancy/1b5a73e2-569e-47fc-9c07-0b9b9a402c8d> .
+<http://drug.uk/flucloxacillin> <http://drug.uk/model/usage> <http://drug.uk/usage/renal-impairment/614db87c-8687-466f-92b9-da0d66f9372b> .
+<http://drug.uk/flucloxacillin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/flucloxacillin> <http://www.w3.org/2004/02/skos/core#prefLabel> "Flucloxacillin" .
+<http://drug.uk/usage/breast-feeding/5ba18b0d-c087-4842-b7d3-b144e1366786> <http://drug.uk/model/patientCondition> "BreastFeeding" .
+<http://drug.uk/usage/breast-feeding/5ba18b0d-c087-4842-b7d3-b144e1366786> <http://purl.org/dc/terms/description> " Trace amounts in milk, but appropriate to use." .
+<http://drug.uk/usage/breast-feeding/5ba18b0d-c087-4842-b7d3-b144e1366786> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/hepatic-impairment/5370889f-1e15-425d-80c0-7344dee59d5b> <http://drug.uk/model/patientCondition> "HepaticImpairment" .
+<http://drug.uk/usage/hepatic-impairment/5370889f-1e15-425d-80c0-7344dee59d5b> <http://purl.org/dc/terms/description> " Manufacturer advises caution; including in those with risk factors for hepatic reactions." .
+<http://drug.uk/usage/hepatic-impairment/5370889f-1e15-425d-80c0-7344dee59d5b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/normal/adb3690e-8e7d-44d0-afda-e4bce2d36f90> <http://drug.uk/model/dosage> <http://drug.uk/dosage/7a59626d-aa17-48d4-a038-2bc314f307b3> .
+<http://drug.uk/usage/normal/adb3690e-8e7d-44d0-afda-e4bce2d36f90> <http://drug.uk/model/indication> "Adjunct in pneumonia" .
+<http://drug.uk/usage/normal/adb3690e-8e7d-44d0-afda-e4bce2d36f90> <http://drug.uk/model/indication> "Infections due to beta-lactamase-producing staphylococci including otitis externa" .
+<http://drug.uk/usage/normal/adb3690e-8e7d-44d0-afda-e4bce2d36f90> <http://drug.uk/model/patientCondition> "Normal" .
+<http://drug.uk/usage/normal/adb3690e-8e7d-44d0-afda-e4bce2d36f90> <http://drug.uk/model/safetyLevel> "safe" .
+<http://drug.uk/usage/normal/adb3690e-8e7d-44d0-afda-e4bce2d36f90> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/pregnancy/1b5a73e2-569e-47fc-9c07-0b9b9a402c8d> <http://drug.uk/model/patientCondition> "Pregnancy" .
+<http://drug.uk/usage/pregnancy/1b5a73e2-569e-47fc-9c07-0b9b9a402c8d> <http://purl.org/dc/terms/description> " Not known to be harmful." .
+<http://drug.uk/usage/pregnancy/1b5a73e2-569e-47fc-9c07-0b9b9a402c8d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/renal-impairment/614db87c-8687-466f-92b9-da0d66f9372b> <http://drug.uk/model/patientCondition> "RenalImpairment" .
+<http://drug.uk/usage/renal-impairment/614db87c-8687-466f-92b9-da0d66f9372b> <http://purl.org/dc/terms/description> " Accumulation of sodium from injection can occur in patients with renal failure.\nWith intravenous use:\nHigh doses may cause nephrotoxicity or neurotoxicity.\nDose adjustments\nIn adults:\nReduce dose or increase dose interval if creatinine clearance less than 10 mL/minute (consult product literature).\nIn children:\nExpert sources advise use normal dose every 8 hours if estimated glomerular filtration rate less than 10 mL/minute/1.73 m^2." .
+<http://drug.uk/usage/renal-impairment/614db87c-8687-466f-92b9-da0d66f9372b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .

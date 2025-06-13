@@ -1,0 +1,31 @@
+<http://drug.uk/co-trimoxazole> <http://drug.uk/model/sideEffectDescription> " Common or very common\nDiarrhoea; electrolyte imbalance; fungal overgrowth; headache; nausea; skin reactions\nUncommon\nVomiting\nRare or very rare\nAgranulocytosis; angioedema; aplastic anaemia; appetite decreased; arthralgia; ataxia; cough; depression; dizziness; dyspnoea; eosinophilia; fever; haemolysis; haemolytic anaemia; hallucination; hepatic disorders; hypoglycaemia; leucopenia; megaloblastic anaemia; meningitis aseptic; metabolic acidosis; methaemoglobinaemia; myalgia; myocarditis allergic; nephritis tubulointerstitial; neutropenia; oral disorders; pancreatitis; peripheral neuropathy; photosensitivity reaction; pseudomembranous enterocolitis; renal impairment; renal tubular acidosis; respiratory disorders; rhabdomyolysis; seizure; serum sickness; severe cutaneous adverse reactions (SCARs); systemic lupus erythematosus (SLE); thrombocytopenia; tinnitus; uveitis; vasculitis; vertigo\nFrequency not known\nHaemophagocytic lymphohistiocytosis; psychotic disorder\nSide-effects, further information\nCo-trimoxazole is associated with rare but serious side effects. Discontinue immediately if blood disorders (including leucopenia, thrombocytopenia, megaloblastic anaemia, eosinophilia, haemophagocytic lymphohistiocytosis) or rash/skin reactions (including Stevens-Johnson syndrome, toxic epidermal necrolysis, acute generalised exanthematous pustulosis, drug reaction with eosinophilia and systemic symptoms) develop." .
+<http://drug.uk/co-trimoxazole> <http://drug.uk/model/usage> <http://drug.uk/usage/breast-feeding/15d179ca-795a-47c8-b0a8-041f6a308851> .
+<http://drug.uk/co-trimoxazole> <http://drug.uk/model/usage> <http://drug.uk/usage/hepatic-impairment/eaa0fe85-3966-41c9-a18e-065d89973c47> .
+<http://drug.uk/co-trimoxazole> <http://drug.uk/model/usage> <http://drug.uk/usage/normal/a8c8afa9-846d-489e-98c7-7eb197b11aa0> .
+<http://drug.uk/co-trimoxazole> <http://drug.uk/model/usage> <http://drug.uk/usage/pregnancy/ab1e720e-2bff-47dd-be25-e737c27d8d85> .
+<http://drug.uk/co-trimoxazole> <http://drug.uk/model/usage> <http://drug.uk/usage/renal-impairment/9d137d78-a9b3-4671-9e1e-09c36218f32a> .
+<http://drug.uk/co-trimoxazole> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/co-trimoxazole> <http://www.w3.org/2004/02/skos/core#prefLabel> "Co-trimoxazole" .
+<http://drug.uk/dosage/0ca0c8a9-f3b2-451d-9de7-ebd59e6099d5> <http://drug.uk/model/group> "adult" .
+<http://drug.uk/dosage/0ca0c8a9-f3b2-451d-9de7-ebd59e6099d5> <http://drug.uk/model/patientGroupDescription> "Adult" .
+<http://drug.uk/dosage/0ca0c8a9-f3b2-451d-9de7-ebd59e6099d5> <http://drug.uk/model/route> "By mouth" .
+<http://drug.uk/dosage/0ca0c8a9-f3b2-451d-9de7-ebd59e6099d5> <http://purl.org/dc/terms/description> "960 mg twice daily." .
+<http://drug.uk/dosage/0ca0c8a9-f3b2-451d-9de7-ebd59e6099d5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Dosage> .
+<http://drug.uk/usage/breast-feeding/15d179ca-795a-47c8-b0a8-041f6a308851> <http://drug.uk/model/patientCondition> "BreastFeeding" .
+<http://drug.uk/usage/breast-feeding/15d179ca-795a-47c8-b0a8-041f6a308851> <http://purl.org/dc/terms/description> " Small risk of kernicterus in jaundiced infants and of haemolysis in G6PD-deficient infants (due to sulfamethoxazole)." .
+<http://drug.uk/usage/breast-feeding/15d179ca-795a-47c8-b0a8-041f6a308851> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/hepatic-impairment/eaa0fe85-3966-41c9-a18e-065d89973c47> <http://drug.uk/model/patientCondition> "HepaticImpairment" .
+<http://drug.uk/usage/hepatic-impairment/eaa0fe85-3966-41c9-a18e-065d89973c47> <http://purl.org/dc/terms/description> " Manufacturer advises avoid in severe liver disease." .
+<http://drug.uk/usage/hepatic-impairment/eaa0fe85-3966-41c9-a18e-065d89973c47> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/normal/a8c8afa9-846d-489e-98c7-7eb197b11aa0> <http://drug.uk/model/dosage> <http://drug.uk/dosage/0ca0c8a9-f3b2-451d-9de7-ebd59e6099d5> .
+<http://drug.uk/usage/normal/a8c8afa9-846d-489e-98c7-7eb197b11aa0> <http://drug.uk/model/indication> "Moderate diabetic foot infection" .
+<http://drug.uk/usage/normal/a8c8afa9-846d-489e-98c7-7eb197b11aa0> <http://drug.uk/model/indication> "Severe diabetic foot infection" .
+<http://drug.uk/usage/normal/a8c8afa9-846d-489e-98c7-7eb197b11aa0> <http://drug.uk/model/patientCondition> "Normal" .
+<http://drug.uk/usage/normal/a8c8afa9-846d-489e-98c7-7eb197b11aa0> <http://drug.uk/model/safetyLevel> "safe" .
+<http://drug.uk/usage/normal/a8c8afa9-846d-489e-98c7-7eb197b11aa0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/pregnancy/ab1e720e-2bff-47dd-be25-e737c27d8d85> <http://drug.uk/model/patientCondition> "Pregnancy" .
+<http://drug.uk/usage/pregnancy/ab1e720e-2bff-47dd-be25-e737c27d8d85> <http://purl.org/dc/terms/description> " Teratogenic risk in first trimester (trimethoprim a folate antagonist).\nNeonatal haemolysis and methaemoglobinaemia in third trimester; fear of increased risk of kernicterus in neonates appears to be unfounded." .
+<http://drug.uk/usage/pregnancy/ab1e720e-2bff-47dd-be25-e737c27d8d85> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/renal-impairment/9d137d78-a9b3-4671-9e1e-09c36218f32a> <http://drug.uk/model/patientCondition> "RenalImpairment" .
+<http://drug.uk/usage/renal-impairment/9d137d78-a9b3-4671-9e1e-09c36218f32a> <http://purl.org/dc/terms/description> " Avoid if creatinine clearance less than 15 mL/minute or in severe insufficiency where plasma-sulfamethoxazole concentration cannot be monitored.\nMonitor plasma-sulfamethoxazole concentrations (consult product literature).\nDose adjustments\nIn adults:\nUse half normal dose if creatinine clearance 15–30 mL/minute.\nIn children:\nUse half normal dose if creatinine clearance 15–30 mL/minute (consult product literature)." .
+<http://drug.uk/usage/renal-impairment/9d137d78-a9b3-4671-9e1e-09c36218f32a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .

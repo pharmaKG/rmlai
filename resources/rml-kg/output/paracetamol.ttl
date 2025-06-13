@@ -1,0 +1,31 @@
+<http://drug.uk/dosage/ab33b98c-efda-4c73-bc1a-89c434d62a83> <http://drug.uk/model/group> "adult" .
+<http://drug.uk/dosage/ab33b98c-efda-4c73-bc1a-89c434d62a83> <http://drug.uk/model/patientGroupDescription> "Adult" .
+<http://drug.uk/dosage/ab33b98c-efda-4c73-bc1a-89c434d62a83> <http://drug.uk/model/route> "By mouth" .
+<http://drug.uk/dosage/ab33b98c-efda-4c73-bc1a-89c434d62a83> <http://purl.org/dc/terms/description> "up to 1 g, every 6 hours" .
+<http://drug.uk/dosage/ab33b98c-efda-4c73-bc1a-89c434d62a83> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Dosage> .
+<http://drug.uk/paracetamol> <http://drug.uk/model/sideEffectDescription> " General side-effects:\nRare or very rare\nThrombocytopenia\nSpecific side-effects:\nCommon or very common\nWith rectal use\nAnorectal erythema\nRare or very rare\nWith intravenous use\nHypersensitivity; hypotension; leucopenia; malaise; neutropenia\nWith rectal use\nAngioedema; liver injury; severe cutaneous adverse reactions (SCARs); skin reactions\nFrequency not known\nWith intravenous use\nFlushing; skin reactions; tachycardia\nWith oral use\nAgranulocytosis; bronchospasm; hepatic function abnormal; rash; severe cutaneous adverse reactions (SCARs)\nWith rectal use\nAgranulocytosis; blood disorder\nOverdose\nLiver damage and less frequently renal damage can occur following overdose.\nNausea and vomiting, the only early features of poisoning, usually settle within 24 hours. Persistence beyond this time, often associated with the onset of right subcostal pain and tenderness, usually indicates development of hepatic necrosis." .
+<http://drug.uk/paracetamol> <http://drug.uk/model/usage> <http://drug.uk/usage/breast-feeding/a1ea795d-6e97-413b-81ba-32acddd18959> .
+<http://drug.uk/paracetamol> <http://drug.uk/model/usage> <http://drug.uk/usage/hepatic-impairment/37b6a7e4-b915-4ba1-adfe-bdeddc1b0f6d> .
+<http://drug.uk/paracetamol> <http://drug.uk/model/usage> <http://drug.uk/usage/normal/e32fb437-ac30-4fb4-9f09-593da466a3e2> .
+<http://drug.uk/paracetamol> <http://drug.uk/model/usage> <http://drug.uk/usage/pregnancy/da36716a-e315-4354-8ab3-f15fe7ef1bf8> .
+<http://drug.uk/paracetamol> <http://drug.uk/model/usage> <http://drug.uk/usage/renal-impairment/8ec30528-b69d-440c-bb22-08976ef32833> .
+<http://drug.uk/paracetamol> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/paracetamol> <http://www.w3.org/2004/02/skos/core#prefLabel> "Paracetamol" .
+<http://drug.uk/usage/breast-feeding/a1ea795d-6e97-413b-81ba-32acddd18959> <http://drug.uk/model/patientCondition> "BreastFeeding" .
+<http://drug.uk/usage/breast-feeding/a1ea795d-6e97-413b-81ba-32acddd18959> <http://purl.org/dc/terms/description> " Amount too small to be harmful." .
+<http://drug.uk/usage/breast-feeding/a1ea795d-6e97-413b-81ba-32acddd18959> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/hepatic-impairment/37b6a7e4-b915-4ba1-adfe-bdeddc1b0f6d> <http://drug.uk/model/patientCondition> "HepaticImpairment" .
+<http://drug.uk/usage/hepatic-impairment/37b6a7e4-b915-4ba1-adfe-bdeddc1b0f6d> <http://purl.org/dc/terms/description> " Manufacturer advises caution (increased risk of toxicity)." .
+<http://drug.uk/usage/hepatic-impairment/37b6a7e4-b915-4ba1-adfe-bdeddc1b0f6d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/normal/e32fb437-ac30-4fb4-9f09-593da466a3e2> <http://drug.uk/model/dosage> <http://drug.uk/dosage/ab33b98c-efda-4c73-bc1a-89c434d62a83> .
+<http://drug.uk/usage/normal/e32fb437-ac30-4fb4-9f09-593da466a3e2> <http://drug.uk/model/indication> "Mild to moderate pain" .
+<http://drug.uk/usage/normal/e32fb437-ac30-4fb4-9f09-593da466a3e2> <http://drug.uk/model/indication> "Pyrexia" .
+<http://drug.uk/usage/normal/e32fb437-ac30-4fb4-9f09-593da466a3e2> <http://drug.uk/model/patientCondition> "Normal" .
+<http://drug.uk/usage/normal/e32fb437-ac30-4fb4-9f09-593da466a3e2> <http://drug.uk/model/safetyLevel> "safe" .
+<http://drug.uk/usage/normal/e32fb437-ac30-4fb4-9f09-593da466a3e2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/pregnancy/da36716a-e315-4354-8ab3-f15fe7ef1bf8> <http://drug.uk/model/patientCondition> "Pregnancy" .
+<http://drug.uk/usage/pregnancy/da36716a-e315-4354-8ab3-f15fe7ef1bf8> <http://purl.org/dc/terms/description> " Not known to be harmful." .
+<http://drug.uk/usage/pregnancy/da36716a-e315-4354-8ab3-f15fe7ef1bf8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/renal-impairment/8ec30528-b69d-440c-bb22-08976ef32833> <http://drug.uk/model/patientCondition> "RenalImpairment" .
+<http://drug.uk/usage/renal-impairment/8ec30528-b69d-440c-bb22-08976ef32833> <http://purl.org/dc/terms/description> " Caution in severe impairment (consult product literature).\nDose adjustments\nWith intravenous use:\nIncrease infusion dose interval to at least every 6 hours if creatinine clearance 30 mL/minute or less." .
+<http://drug.uk/usage/renal-impairment/8ec30528-b69d-440c-bb22-08976ef32833> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
