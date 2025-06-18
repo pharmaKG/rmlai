@@ -1,0 +1,59 @@
+@prefix drug: 	<http://drug.uk/model/> .
+@prefix drug-interaction: 	<http://drug.uk/interaction/model/> .
+@prefix dct:    <http://purl.org/dc/terms/>.
+@prefix xsd:    <http://www.w3.org/2001/XMLSchema#>.
+@prefix foaf:   <http://xmlns.com/foaf/0.1/>.
+@prefix adms:   <http://www.w3.org/ns/adms#>.
+@prefix rdf:    <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs:   <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix owl:    <http://www.w3.org/2002/07/owl#>.
+@prefix skos:   <http://www.w3.org/2004/02/skos/core#>.
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+
+<http://drug.uk/interaction/model>
+	a owl:Ontology ;
+	owl:imports rdf: ;
+	owl:imports dct: ;
+	rdfs:label "Drug Interaction Ontology"@en ;
+	rdfs:comment "Drug Interaction Ontology"@en ;
+.
+
+drug-interaction:interactingDrug
+    a rdf:Property ;
+    a owl:ObjectProperty ;
+    rdfs:comment "This property represents the interacting drugs."@en ;
+    rdfs:label "subjectDrug"@en ;
+    rdfs:isDefinedBy drug-interaction: ;
+    rdfs:domain drug-interaction:DrugInteraction ;
+    rdfs:range drug:Drug ;
+.
+
+drug-interaction:interactionDetail
+     a rdf:Property ;
+     a owl:ObjectProperty ;
+     rdfs:comment "This property represents the details of the drug interaction."@en ;
+     rdfs:label "interactionDetail"@en ;
+     rdfs:isDefinedBy drug-interaction: ;
+     rdfs:domain drug-interaction:DrugInteraction ;
+     rdfs:range drug-interaction:InteractionDetail ;
+.
+
+drug-interaction:severity
+    a rdf:Property ;
+    a owl:DatatypeProperty ;
+    rdfs:comment "This property represents the severity of drug interaction."@en ;
+    rdfs:label "severity"@en ;
+    rdfs:isDefinedBy drug-interaction: ;
+    rdfs:domain drug-interaction:InteractionDetail ;
+    rdfs:range xsd:string ;
+.
+
+drug-interaction:evidence
+    a rdf:Property ;
+    a owl:DatatypeProperty ;
+    rdfs:comment "This property represents the evidence type of the drug interaction."@en ;
+    rdfs:label "evidence"@en ;
+    rdfs:isDefinedBy drug: ;
+    rdfs:domain drug:InteractionDetail ;
+    rdfs:range xsd:string ;
+.

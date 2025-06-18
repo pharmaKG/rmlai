@@ -1,0 +1,3605 @@
+{
+    "interactions": [
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "abrocitinib",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Abrocitinib might increase the exposure to Ciclosporin. Manufacturer advises caution.  ",
+                    "severity": "Moderate",
+                    "id": "63293369-cc25-4ceb-a0ee-85034e2472c4",
+                    "parentId": "10acc092-9971-42d9-bb67-b50a178a0a1a"
+                }
+            ],
+            "id": "10acc092-9971-42d9-bb67-b50a178a0a1a",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "aceclofenac",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Ciclosporin and Aceclofenac can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "af439a31-2ed7-45fb-913a-1d0334342da7",
+                    "parentId": "7f763153-57b1-4788-bda9-36cf521c3a21"
+                },
+                {
+                    "evidence": null,
+                    "description": "Both Ciclosporin and Aceclofenac can increase the risk of hyperkalaemia (hyperkalaemia is particularly notable when ACE inhibitors or angiotensin-II receptor antagonists are given with spironolactone or eplerenone).",
+                    "severity": "Normal",
+                    "id": "7e8067aa-3c1a-47a6-af67-e4530d51479f",
+                    "parentId": "7f763153-57b1-4788-bda9-36cf521c3a21"
+                }
+            ],
+            "id": "7f763153-57b1-4788-bda9-36cf521c3a21",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "aciclovir",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Ciclosporin and Aciclovir can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "3e2d6a74-fe64-4b10-b474-1458be71f0d3",
+                    "parentId": "604bdf65-093d-4105-9c93-6f54b15438b4"
+                }
+            ],
+            "id": "604bdf65-093d-4105-9c93-6f54b15438b4",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "afatinib-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Ciclosporin is predicted to increase the exposure to Afatinib. Manufacturer advises separating administration\u2014consult product literature.  ",
+                    "severity": "Moderate",
+                    "id": "f526e2c3-664c-48e7-aa81-6bbcf2c4223a",
+                    "parentId": "17f3d175-6842-47fd-83bd-0348345e173c"
+                }
+            ],
+            "id": "17f3d175-6842-47fd-83bd-0348345e173c",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "aliskiren",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Ciclosporin markedly increases the exposure to Aliskiren. Manufacturer advises avoid.  ",
+                    "severity": "Severe",
+                    "id": "c7f660df-665d-4850-8b7f-7b5d546478fc",
+                    "parentId": "2e512c7b-6939-44ed-9612-f21ea70fb774"
+                },
+                {
+                    "evidence": null,
+                    "description": "Both Ciclosporin and Aliskiren can increase the risk of hyperkalaemia (hyperkalaemia is particularly notable when ACE inhibitors or angiotensin-II receptor antagonists are given with spironolactone or eplerenone).",
+                    "severity": "Normal",
+                    "id": "1794eede-4f6a-4d40-aad9-837826c6613e",
+                    "parentId": "2e512c7b-6939-44ed-9612-f21ea70fb774"
+                }
+            ],
+            "id": "2e512c7b-6939-44ed-9612-f21ea70fb774",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "alpelisib-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Ciclosporin is predicted to increase the exposure to Alpelisib. Manufacturer advises caution and monitor for toxicity.  ",
+                    "severity": "Moderate",
+                    "id": "66bde2a2-5bc0-4bfd-a646-0aa813d86574",
+                    "parentId": "47b295ae-2440-412a-8dbc-333a0c6962b0"
+                }
+            ],
+            "id": "47b295ae-2440-412a-8dbc-333a0c6962b0",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "ambrisentan",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Ciclosporin moderately increases the exposure to Ambrisentan. Manufacturer advises adjust Ambrisentan dose and monitor.  ",
+                    "severity": "Moderate",
+                    "id": "b9a73dfc-c8f5-435c-941a-fbdd123d2d0d",
+                    "parentId": "10e0cf12-793a-4a44-b8c2-81b4c51d27e9"
+                }
+            ],
+            "id": "10e0cf12-793a-4a44-b8c2-81b4c51d27e9",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "amikacin",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Ciclosporin and Amikacin can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "c5c5eae7-8f7d-4d2e-b94a-0e7f8bc8fcd7",
+                    "parentId": "51ab7474-f39d-4916-913c-4ee1861a7329"
+                }
+            ],
+            "id": "51ab7474-f39d-4916-913c-4ee1861a7329",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "amphotericin-b",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Ciclosporin and Amphotericin B can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "63e7ff11-d020-4c2f-8925-f330e0c5243f",
+                    "parentId": "45a7bd05-f723-4cbf-8f95-89bdf751ea78"
+                }
+            ],
+            "id": "45a7bd05-f723-4cbf-8f95-89bdf751ea78",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "apalutamide",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Apalutamide decreases the concentration of Ciclosporin. Manufacturer advises caution.  ",
+                    "severity": "Severe",
+                    "id": "32ca1636-1ceb-41ac-a2b0-645223a7d7c6",
+                    "parentId": "509b0a52-8fb3-4c9e-8e5c-331455acdd11"
+                }
+            ],
+            "id": "509b0a52-8fb3-4c9e-8e5c-331455acdd11",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "apixaban",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Ciclosporin is predicted to increase the exposure to Apixaban. Manufacturer makes no recommendation.  ",
+                    "severity": "Moderate",
+                    "id": "384fdd9a-c567-44f7-ba94-268de2b6a574",
+                    "parentId": "ac9bf322-bd5e-4ff1-832e-661e76eec4e3"
+                }
+            ],
+            "id": "ac9bf322-bd5e-4ff1-832e-661e76eec4e3",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "aprepitant",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Aprepitant is predicted to increase the concentration of Ciclosporin. Manufacturer advises caution.  ",
+                    "severity": "Severe",
+                    "id": "abdfef49-7218-4797-8eff-1452cac71c19",
+                    "parentId": "b790797d-e4fb-4985-ac35-2664fe6731f2"
+                }
+            ],
+            "id": "b790797d-e4fb-4985-ac35-2664fe6731f2",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "aspirin",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Ciclosporin and Aspirin can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "f62f02cb-0afe-4536-9b77-57fe8a48304e",
+                    "parentId": "252c3cde-915b-44d0-a86f-f55f593fde1f"
+                }
+            ],
+            "id": "252c3cde-915b-44d0-a86f-f55f593fde1f",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "atazanavir",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Atazanavir increases the concentration of Ciclosporin. Manufacturer advises caution.  ",
+                    "severity": "Severe",
+                    "id": "61c47a20-a1e9-4de7-9467-305b84fb18d3",
+                    "parentId": "2ddf9fbe-f603-4aec-849a-6a22731f5012"
+                }
+            ],
+            "id": "2ddf9fbe-f603-4aec-849a-6a22731f5012",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "atogepant",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Ciclosporin is predicted to increase the exposure to Atogepant. Manufacturer advises adjust Atogepant dose.  ",
+                    "severity": "Moderate",
+                    "id": "22e41961-dda2-464b-9489-9caa075e901b",
+                    "parentId": "e3a9b409-0d32-448a-8d2e-010ba947dff7"
+                }
+            ],
+            "id": "e3a9b409-0d32-448a-8d2e-010ba947dff7",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "atorvastatin",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Ciclosporin markedly to very markedly increases the exposure to Atorvastatin. Manufacturer advises avoid or adjust Atorvastatin dose.  ",
+                    "severity": "Severe",
+                    "id": "1ca9c776-f570-4d1b-b73a-9854110d4120",
+                    "parentId": "041d1cdf-bcc0-4d6e-af1d-440c0f4731b1"
+                }
+            ],
+            "id": "041d1cdf-bcc0-4d6e-af1d-440c0f4731b1",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "bacillus-calmette-guerin-vaccine",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Bacillus Calmette-Gu\u00e9rin vaccine is predicted to increase the risk of generalised infection (possibly life-threatening) when given with Ciclosporin. UKHSA advises avoid (refer to Green Book).  ",
+                    "severity": "Severe",
+                    "id": "fa9d67c7-663a-43ad-9e25-e036b291d4be",
+                    "parentId": "4a3eb9d4-8d2a-4913-a641-1d818075b594"
+                }
+            ],
+            "id": "4a3eb9d4-8d2a-4913-a641-1d818075b594",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "baricitinib",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Baricitinib is predicted to enhance the risk of immunosuppression when given with Ciclosporin. Manufacturer advises caution or avoid\u2014consult product literature.  ",
+                    "severity": "Severe",
+                    "id": "42da7149-1f3e-45ea-a0d9-60494751dc87",
+                    "parentId": "a7696014-76ca-4870-9cca-35c3d6ac8365"
+                }
+            ],
+            "id": "a7696014-76ca-4870-9cca-35c3d6ac8365",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "bezafibrate",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Bezafibrate is predicted to increase the risk of nephrotoxicity when given with Ciclosporin. Manufacturer advises monitor renal function.  ",
+                    "severity": "Severe",
+                    "id": "3dc40f56-68be-4bae-a6c6-352f613dd2c5",
+                    "parentId": "7cb4df87-0efd-483e-a55e-22ef60e2cd43"
+                }
+            ],
+            "id": "7cb4df87-0efd-483e-a55e-22ef60e2cd43",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "blinatumomab-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Blinatumomab is predicted to transiently increase the exposure to Ciclosporin. Manufacturer advises monitor and adjust dose.  ",
+                    "severity": "Moderate",
+                    "id": "038fd9cc-3fd1-4fca-9530-5c40f5387bc6",
+                    "parentId": "5ccdeed5-1589-4964-97c8-5f34011d41c6"
+                }
+            ],
+            "id": "5ccdeed5-1589-4964-97c8-5f34011d41c6",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "bosentan",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Bosentan moderately decreases the exposure to Ciclosporin and Ciclosporin moderately increases the exposure to Bosentan. Manufacturer advises avoid.  ",
+                    "severity": "Severe",
+                    "id": "9d5cd313-35f7-4df1-9928-0fee1c4011b0",
+                    "parentId": "9d012b96-a8b2-4a73-a9aa-ce8b8b841a2a"
+                }
+            ],
+            "id": "9d012b96-a8b2-4a73-a9aa-ce8b8b841a2a",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "brentuximab-vedotin-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Ciclosporin increases the risk of neutropenia when given with Brentuximab vedotin. Manufacturer advises monitor and adjust dose.  ",
+                    "severity": "Severe",
+                    "id": "f04ffea0-fd80-489f-b733-95d7c64cb5d4",
+                    "parentId": "1f774b3f-fb85-47fc-8d26-733d83aa562c"
+                }
+            ],
+            "id": "1f774b3f-fb85-47fc-8d26-733d83aa562c",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "brigatinib-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Brigatinib might decrease the exposure to Ciclosporin. Manufacturer advises avoid.  ",
+                    "severity": "Moderate",
+                    "id": "105c6b1b-45b5-40a5-a71e-4d6f24dde7c2",
+                    "parentId": "4397d377-2a6a-49e9-a473-42c67bbeefb9"
+                }
+            ],
+            "id": "4397d377-2a6a-49e9-a473-42c67bbeefb9",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "bromfenac",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Ciclosporin and Bromfenac can increase the risk of hyperkalaemia (hyperkalaemia is particularly notable when ACE inhibitors or angiotensin-II receptor antagonists are given with spironolactone or eplerenone).",
+                    "severity": "Normal",
+                    "id": "1fd8bf18-a0f9-42f7-951c-95792d38ec70",
+                    "parentId": "486ff630-ef6c-4ddd-aa97-44d783c6c900"
+                }
+            ],
+            "id": "486ff630-ef6c-4ddd-aa97-44d783c6c900",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "bulevirtide",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Ciclosporin is predicted to affect the efficacy of Bulevirtide and Bulevirtide is predicted to increase the exposure to Ciclosporin. Manufacturer advises avoid.  ",
+                    "severity": "Severe",
+                    "id": "eafeb4fd-0b6e-443b-aa85-56a65cd043f9",
+                    "parentId": "31c5414d-f6a0-45d5-9066-32520305ac95"
+                }
+            ],
+            "id": "31c5414d-f6a0-45d5-9066-32520305ac95",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "cannabidiol",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Cannabidiol is predicted to increase the concentration of Ciclosporin. Manufacturer advises monitor and adjust dose.  ",
+                    "severity": "Severe",
+                    "id": "ed402a56-a70e-4f29-8903-ee2c76e6e365",
+                    "parentId": "40bc5c42-6603-4b59-a952-eb8f4e3e3e86"
+                }
+            ],
+            "id": "40bc5c42-6603-4b59-a952-eb8f4e3e3e86",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "capivasertib-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Ciclosporin is predicted to increase the exposure to Capivasertib. Manufacturer advises adjust dose.  ",
+                    "severity": "Moderate",
+                    "id": "f75c1175-ecc3-40c6-9016-38550d10dc7e",
+                    "parentId": "6227132f-3e04-4988-8bd3-cefde7b7ad43"
+                }
+            ],
+            "id": "6227132f-3e04-4988-8bd3-cefde7b7ad43",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "captopril",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Ciclosporin and Captopril can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "a2658fcf-33b0-4635-94d3-a4a3c719327b",
+                    "parentId": "8c55876f-19da-4b94-a001-fc70fbb1a085"
+                },
+                {
+                    "evidence": null,
+                    "description": "Both Ciclosporin and Captopril can increase the risk of hyperkalaemia (hyperkalaemia is particularly notable when ACE inhibitors or angiotensin-II receptor antagonists are given with spironolactone or eplerenone).",
+                    "severity": "Normal",
+                    "id": "c3ff2580-66f6-4af6-8409-93e186643585",
+                    "parentId": "8c55876f-19da-4b94-a001-fc70fbb1a085"
+                }
+            ],
+            "id": "8c55876f-19da-4b94-a001-fc70fbb1a085",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "carbamazepine",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Carbamazepine decreases the concentration of Ciclosporin. Manufacturer advises caution.  ",
+                    "severity": "Severe",
+                    "id": "e245553f-680b-4dc2-949e-8507324a1a36",
+                    "parentId": "5e97fddf-772d-4148-879e-f99e0b8b748d"
+                }
+            ],
+            "id": "5e97fddf-772d-4148-879e-f99e0b8b748d",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "carboplatin-specialist-drug",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Ciclosporin and Carboplatin can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "051750d1-616d-409c-bdd0-93ceea81f703",
+                    "parentId": "af56f75d-5640-425c-a5ab-9b044f5d29fb"
+                }
+            ],
+            "id": "af56f75d-5640-425c-a5ab-9b044f5d29fb",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "caspofungin",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Ciclosporin slightly increases the exposure to Caspofungin. Manufacturer advises monitor liver function.  ",
+                    "severity": "Severe",
+                    "id": "dd9d52f6-299e-4e36-88b6-47767711e448",
+                    "parentId": "ef440fcf-de09-4a8e-93c5-aea4de51bf15"
+                }
+            ],
+            "id": "ef440fcf-de09-4a8e-93c5-aea4de51bf15",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "cefaclor",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Ciclosporin and Cefaclor can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "adb9af3a-5f0d-4474-8830-3fe47217b840",
+                    "parentId": "0bf074c9-98fb-4735-b37e-f14e033fdec2"
+                }
+            ],
+            "id": "0bf074c9-98fb-4735-b37e-f14e033fdec2",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "cefadroxil",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Ciclosporin and Cefadroxil can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "c433e4b2-6fab-4a98-98a2-95b5bf921789",
+                    "parentId": "3ff58c64-11cf-4d44-aec0-f83e168cb945"
+                }
+            ],
+            "id": "3ff58c64-11cf-4d44-aec0-f83e168cb945",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "cefalexin",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Ciclosporin and Cefalexin can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "de54d21d-2f74-4228-93d1-a877988ba1f5",
+                    "parentId": "a4ce0249-4d0f-43c0-accb-15019265e974"
+                }
+            ],
+            "id": "a4ce0249-4d0f-43c0-accb-15019265e974",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "cefazolin",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Ciclosporin and Cefazolin can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "ef45caf4-5ef4-4672-9291-2d0023754d69",
+                    "parentId": "5bbbfd9a-ed67-4a44-85cc-d58670ad5589"
+                }
+            ],
+            "id": "5bbbfd9a-ed67-4a44-85cc-d58670ad5589",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "cefepime",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Ciclosporin and Cefepime can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "8b73583e-1102-4840-970a-9d6f1160b653",
+                    "parentId": "dd73faa3-61aa-4968-80fb-e48441d11b8b"
+                }
+            ],
+            "id": "dd73faa3-61aa-4968-80fb-e48441d11b8b",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "cefixime",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Ciclosporin and Cefixime can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "9d0a3902-f3dc-4b03-8043-74cd00cffca7",
+                    "parentId": "fdb0ab13-a9a3-40d4-b4ec-d1b19dde22e0"
+                }
+            ],
+            "id": "fdb0ab13-a9a3-40d4-b4ec-d1b19dde22e0",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "cefotaxime",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Ciclosporin and Cefotaxime can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "b4cbca21-abad-4ca6-a986-e4bdedcb783d",
+                    "parentId": "0a09768f-94c1-4a98-9cf4-edc8248c22f9"
+                }
+            ],
+            "id": "0a09768f-94c1-4a98-9cf4-edc8248c22f9",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "cefoxitin",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Ciclosporin and Cefoxitin can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "19f6a09d-9838-4b64-8c2c-778748ea1d00",
+                    "parentId": "cb6c782e-cde9-4721-b1ea-f500e182d23d"
+                }
+            ],
+            "id": "cb6c782e-cde9-4721-b1ea-f500e182d23d",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "cefradine",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Ciclosporin and Cefradine can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "f69160aa-08f0-41e2-9cd3-50a9fd055bf5",
+                    "parentId": "5b0714dc-609e-48a5-b3eb-f2e756ba8f67"
+                }
+            ],
+            "id": "5b0714dc-609e-48a5-b3eb-f2e756ba8f67",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "ceftazidime",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Ciclosporin and Ceftazidime can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "303c91f9-a15e-43a5-beac-3e27f3e90eff",
+                    "parentId": "9181ef33-870b-4eea-9ef4-f7871b047c80"
+                }
+            ],
+            "id": "9181ef33-870b-4eea-9ef4-f7871b047c80",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "ceftobiprole",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Ciclosporin and Ceftobiprole can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "fcaacf54-9237-4fa3-b95f-c8ecf42db03e",
+                    "parentId": "b2e0200a-c8cf-4581-b4a0-ee6f8548c88d"
+                }
+            ],
+            "id": "b2e0200a-c8cf-4581-b4a0-ee6f8548c88d",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "ceftriaxone",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Ciclosporin and Ceftriaxone can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "506c93f6-4b36-4843-83b6-0338d556cdc5",
+                    "parentId": "ab844617-b595-493d-b00e-05d7fa616263"
+                }
+            ],
+            "id": "ab844617-b595-493d-b00e-05d7fa616263",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "cefuroxime",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Ciclosporin and Cefuroxime can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "db594973-7355-4a09-b72f-69db727306b8",
+                    "parentId": "e2d5e601-ed0c-4069-8e71-53ca1b88dc74"
+                }
+            ],
+            "id": "e2d5e601-ed0c-4069-8e71-53ca1b88dc74",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "celecoxib",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Ciclosporin and Celecoxib can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "7f3347cb-89ee-4457-b3bd-35413b97ac99",
+                    "parentId": "ed907025-5481-436f-85c7-0ef010038e03"
+                },
+                {
+                    "evidence": null,
+                    "description": "Both Ciclosporin and Celecoxib can increase the risk of hyperkalaemia (hyperkalaemia is particularly notable when ACE inhibitors or angiotensin-II receptor antagonists are given with spironolactone or eplerenone).",
+                    "severity": "Normal",
+                    "id": "64972009-a607-4619-9731-1a3691664212",
+                    "parentId": "ed907025-5481-436f-85c7-0ef010038e03"
+                }
+            ],
+            "id": "ed907025-5481-436f-85c7-0ef010038e03",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "ceritinib-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Ceritinib increases the concentration of Ciclosporin. Manufacturer advises caution.  ",
+                    "severity": "Severe",
+                    "id": "18625890-dc8c-43c2-9071-2421e8deec6b",
+                    "parentId": "923f05fe-fcee-4d03-b653-d5bb1e5a7a12"
+                }
+            ],
+            "id": "923f05fe-fcee-4d03-b653-d5bb1e5a7a12",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "chenodeoxycholic-acid",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Ciclosporin is predicted to affect the efficacy of Chenodeoxycholic acid. Manufacturer advises monitor and adjust dose.  ",
+                    "severity": "Moderate",
+                    "id": "5e32643e-085e-474a-8ce6-06eb7c8a5acc",
+                    "parentId": "f634747b-ed72-4803-a29f-fe08744310df"
+                }
+            ],
+            "id": "f634747b-ed72-4803-a29f-fe08744310df",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "cholera-vaccine-live",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Cholera vaccine (live) is predicted to increase the risk of generalised infection (possibly life-threatening) when given with Ciclosporin. UKHSA advises avoid (refer to Green Book).  ",
+                    "severity": "Severe",
+                    "id": "6437e1cd-7f14-4856-bd6b-319e5e389a0e",
+                    "parentId": "e7a20448-8712-48aa-9904-df946b7c97c5"
+                }
+            ],
+            "id": "e7a20448-8712-48aa-9904-df946b7c97c5",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "cholic-acid",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Ciclosporin affects the concentration of Cholic acid. Manufacturer advises avoid.  ",
+                    "severity": "Moderate",
+                    "id": "483053ca-93f8-4957-8c61-e6a755e0e1dd",
+                    "parentId": "795eb285-d589-499f-8cab-473e289ee3d7"
+                }
+            ],
+            "id": "795eb285-d589-499f-8cab-473e289ee3d7",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "cidofovir",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Ciclosporin and Cidofovir can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "99426647-168e-48bb-b8b4-fbfb68610f4d",
+                    "parentId": "a6941f78-738a-4532-bc0a-bb642ab61897"
+                }
+            ],
+            "id": "a6941f78-738a-4532-bc0a-bb642ab61897",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "cimetidine",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Cimetidine increases the concentration of Ciclosporin. Manufacturer advises caution and monitor renal function.  ",
+                    "severity": "Mild",
+                    "id": "1ebfb751-d7d5-4165-a029-79f20a67099b",
+                    "parentId": "69c0b7f0-85b9-4625-9e77-66709d4a7860"
+                }
+            ],
+            "id": "69c0b7f0-85b9-4625-9e77-66709d4a7860",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "cisplatin-specialist-drug",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Ciclosporin and Cisplatin can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "8265c6c1-5041-4f12-a759-02630b84026f",
+                    "parentId": "b847d410-bbfe-41fc-b556-1e3b476c4411"
+                }
+            ],
+            "id": "b847d410-bbfe-41fc-b556-1e3b476c4411",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "cladribine",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Ciclosporin is predicted to increase the exposure to Cladribine. Manufacturer advises avoid or adjust dose.  ",
+                    "severity": "Moderate",
+                    "id": "9606633b-62ae-4e30-bbfd-b5308531c504",
+                    "parentId": "fc280954-2936-467d-9d73-41d9f2ee2979"
+                }
+            ],
+            "id": "fc280954-2936-467d-9d73-41d9f2ee2979",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "clarithromycin",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Clarithromycin increases the concentration of Ciclosporin. Manufacturer advises caution.  ",
+                    "severity": "Severe",
+                    "id": "c05af5fd-8ed9-49ab-a0b9-3448f15571ec",
+                    "parentId": "bae32486-2951-47be-9d07-f3898d0226dd"
+                }
+            ],
+            "id": "bae32486-2951-47be-9d07-f3898d0226dd",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "cobicistat",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Cobicistat increases the concentration of Ciclosporin. Manufacturer advises caution.  ",
+                    "severity": "Severe",
+                    "id": "1745d528-fe98-4d7d-bea7-3519ea3e9d72",
+                    "parentId": "b1938e64-0f66-417b-9df6-d2fe22e4f10c"
+                }
+            ],
+            "id": "b1938e64-0f66-417b-9df6-d2fe22e4f10c",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "colchicine",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Ciclosporin increases the exposure to Colchicine. Manufacturer advises avoid P-glycoprotein inhibitors or adjust Colchicine dose.  ",
+                    "severity": "Severe",
+                    "id": "6c690836-82f4-40c6-9f21-89568ae0128b",
+                    "parentId": "f0c27e5d-bbcf-422b-b6a5-d0185204cd41"
+                }
+            ],
+            "id": "f0c27e5d-bbcf-422b-b6a5-d0185204cd41",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "crizotinib-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Crizotinib is predicted to increase the concentration of Ciclosporin. Manufacturer advises caution.  ",
+                    "severity": "Severe",
+                    "id": "5e2c7cdd-a4da-4e78-873c-54f646a59c19",
+                    "parentId": "0563bc3c-0726-4439-9208-48675096b14d"
+                }
+            ],
+            "id": "0563bc3c-0726-4439-9208-48675096b14d",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "daptomycin",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Ciclosporin is predicted to increase the risk of rhabdomyolysis when given with Daptomycin. Manufacturer advises monitor.  ",
+                    "severity": "Severe",
+                    "id": "d213f75a-6118-4d5b-89f8-8148854789dc",
+                    "parentId": "d5f07cfd-328c-49bd-9204-8e608f6e7add"
+                }
+            ],
+            "id": "d5f07cfd-328c-49bd-9204-8e608f6e7add",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "daridorexant",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Ciclosporin is predicted to increase the exposure to Daridorexant. Manufacturer advises adjust Daridorexant dose.  ",
+                    "severity": "Unknown",
+                    "id": "e1ff9596-20d6-4654-84d0-9969e2383128",
+                    "parentId": "96ff854e-4660-4ef0-b59a-8697da65a1f9"
+                }
+            ],
+            "id": "96ff854e-4660-4ef0-b59a-8697da65a1f9",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "darifenacin",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Ciclosporin is predicted to increase the exposure to Darifenacin. Manufacturer advises avoid.  ",
+                    "severity": "Moderate",
+                    "id": "e6e14e0f-59da-4458-8ce6-df06cffdfc66",
+                    "parentId": "524b3f74-e31c-4130-9512-588088b43cc8"
+                }
+            ],
+            "id": "524b3f74-e31c-4130-9512-588088b43cc8",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "darunavir",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Darunavir increases the concentration of Ciclosporin. Manufacturer advises caution.  ",
+                    "severity": "Severe",
+                    "id": "558d1033-2310-4ab9-9a84-843b5a3d3afe",
+                    "parentId": "63281370-a470-42bf-afd5-af584b0a6f88"
+                }
+            ],
+            "id": "63281370-a470-42bf-afd5-af584b0a6f88",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "daunorubicin-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Ciclosporin increases the concentration of Daunorubicin. Manufacturer makes no recommendation.  ",
+                    "severity": "Severe",
+                    "id": "fceec886-86e1-4121-a9a1-03004e3b4427",
+                    "parentId": "b76cdfca-dedf-4498-88c9-0ea26b604346"
+                }
+            ],
+            "id": "b76cdfca-dedf-4498-88c9-0ea26b604346",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "deferasirox",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Ciclosporin and Deferasirox can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "61995d63-84cd-4f48-990e-361dfc1d9996",
+                    "parentId": "1a313119-33a5-4f6e-b378-dc1c652747cf"
+                }
+            ],
+            "id": "1a313119-33a5-4f6e-b378-dc1c652747cf",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "dengue-vaccine",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Dengue vaccine is predicted to increase the risk of generalised infection (possibly life-threatening) when given with Ciclosporin. UKHSA advises avoid (refer to Green Book).  ",
+                    "severity": "Severe",
+                    "id": "02365991-8082-48b0-815c-173ae623637b",
+                    "parentId": "84ec9a9d-cef8-4db7-b8e0-56eb79679fc0"
+                }
+            ],
+            "id": "84ec9a9d-cef8-4db7-b8e0-56eb79679fc0",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "dexketoprofen",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Ciclosporin and Dexketoprofen can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "9a52565f-3350-4678-86f9-b289924dc1f3",
+                    "parentId": "eac49491-31a7-4444-aa1e-0274da9ff877"
+                },
+                {
+                    "evidence": null,
+                    "description": "Both Ciclosporin and Dexketoprofen can increase the risk of hyperkalaemia (hyperkalaemia is particularly notable when ACE inhibitors or angiotensin-II receptor antagonists are given with spironolactone or eplerenone).",
+                    "severity": "Normal",
+                    "id": "789cb389-0a5a-4247-a5b7-94fa5eeb97a0",
+                    "parentId": "eac49491-31a7-4444-aa1e-0274da9ff877"
+                }
+            ],
+            "id": "eac49491-31a7-4444-aa1e-0274da9ff877",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "dexrazoxane",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Dexrazoxane might increase the risk of immunosuppression when given with Ciclosporin. Manufacturer advises caution.  ",
+                    "severity": "Severe",
+                    "id": "986af364-49f8-430d-980a-c5e8d4e79051",
+                    "parentId": "3d75f481-2140-44bf-ba5f-85da17971642"
+                }
+            ],
+            "id": "3d75f481-2140-44bf-ba5f-85da17971642",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "digoxin",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Ciclosporin increases the concentration of Digoxin. Manufacturer advises monitor and adjust dose.  ",
+                    "severity": "Severe",
+                    "id": "252e3d0c-0afd-4fc9-ac5e-8266ed5229a1",
+                    "parentId": "1418a5b9-a390-4d4a-bbd8-6ab56937241d"
+                }
+            ],
+            "id": "1418a5b9-a390-4d4a-bbd8-6ab56937241d",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "docetaxel-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Ciclosporin increases the concentration of Docetaxel (oral). Manufacturer makes no recommendation.  ",
+                    "severity": "Unknown",
+                    "id": "4d5e6a34-f289-4fd1-ad5f-5bd38ce343c3",
+                    "parentId": "1309b8a3-57a7-4040-9559-23fae71be8be"
+                }
+            ],
+            "id": "1309b8a3-57a7-4040-9559-23fae71be8be",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "doxycycline",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Doxycycline is predicted to increase the concentration of Ciclosporin. Manufacturer advises monitor.  ",
+                    "severity": "Severe",
+                    "id": "94dabedb-d780-4e62-8d30-7295e8982f9b",
+                    "parentId": "e46e2b89-d3e2-4217-ae4c-99af9816e1b2"
+                }
+            ],
+            "id": "e46e2b89-d3e2-4217-ae4c-99af9816e1b2",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "dronedarone",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Dronedarone is predicted to increase the concentration of Ciclosporin. Manufacturer advises caution.  ",
+                    "severity": "Severe",
+                    "id": "fced9f12-bb01-4ee3-a594-b53df00a6c0d",
+                    "parentId": "1c334aec-c394-4687-bf2b-7d49a05f323f"
+                }
+            ],
+            "id": "1c334aec-c394-4687-bf2b-7d49a05f323f",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "drospirenone",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Ciclosporin and Drospirenone can increase the risk of hyperkalaemia (hyperkalaemia is particularly notable when ACE inhibitors or angiotensin-II receptor antagonists are given with spironolactone or eplerenone).",
+                    "severity": "Normal",
+                    "id": "469bb741-1b6b-4425-ae27-1b23e12726b4",
+                    "parentId": "f3df0d42-8b97-4080-ba30-fc7476293260"
+                }
+            ],
+            "id": "f3df0d42-8b97-4080-ba30-fc7476293260",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "edoxaban",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Ciclosporin slightly increases the exposure to Edoxaban. Manufacturer advises adjust Edoxaban dose.  ",
+                    "severity": "Severe",
+                    "id": "73726303-2380-4a74-925e-9c21d02e0b87",
+                    "parentId": "6076c7d7-6a00-47c9-ad0c-d57c0931e385"
+                }
+            ],
+            "id": "6076c7d7-6a00-47c9-ad0c-d57c0931e385",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "efavirenz",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Efavirenz decreases the concentration of Ciclosporin. Manufacturer advises monitor concentration and adjust dose.  ",
+                    "severity": "Moderate",
+                    "id": "e973ed5a-651a-42f3-bde7-aa102b67e870",
+                    "parentId": "89dc77be-e12f-43af-b260-76320d4e203d"
+                }
+            ],
+            "id": "89dc77be-e12f-43af-b260-76320d4e203d",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "elacestrant",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Ciclosporin is predicted to increase the exposure to Elacestrant. Manufacturer advises avoid or adjust Elacestrant dose.  ",
+                    "severity": "Severe",
+                    "id": "6e6338ad-7985-4986-99f5-165fe3861ad8",
+                    "parentId": "0986f1e2-9bb1-4a51-9084-bcc15105afa7"
+                }
+            ],
+            "id": "0986f1e2-9bb1-4a51-9084-bcc15105afa7",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "elranatamab-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Elranatamab might affect the exposure to Ciclosporin. Manufacturer advises monitor and adjust dose.  ",
+                    "severity": "Moderate",
+                    "id": "aa5b9f22-6bd1-43f3-b1c3-5a51b7c7238b",
+                    "parentId": "7835bc2b-b8e5-4c4b-9e7f-7d91714e07dd"
+                }
+            ],
+            "id": "7835bc2b-b8e5-4c4b-9e7f-7d91714e07dd",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "eltrombopag",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Ciclosporin causes a small decrease in the exposure to Eltrombopag. Manufacturer advises monitor platelet count and adjust dose.  ",
+                    "severity": "Moderate",
+                    "id": "f638495c-b2a6-4ab9-83b9-0abff1fcd1c6",
+                    "parentId": "0827015c-394b-4cb1-aad1-3ae1abe5ecc0"
+                }
+            ],
+            "id": "0827015c-394b-4cb1-aad1-3ae1abe5ecc0",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "encorafenib-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Encorafenib decreases the concentration of Ciclosporin. Manufacturer advises caution.  ",
+                    "severity": "Severe",
+                    "id": "bb426254-4849-48aa-b52b-a0379f81e2f5",
+                    "parentId": "d3f97b3d-33bc-477b-8e15-c0f6d1f827ba"
+                }
+            ],
+            "id": "d3f97b3d-33bc-477b-8e15-c0f6d1f827ba",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "enzalutamide",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Enzalutamide decreases the concentration of Ciclosporin. Manufacturer advises caution.  ",
+                    "severity": "Severe",
+                    "id": "3fde1631-ab3b-4ef5-a643-9df41f0cdbab",
+                    "parentId": "91a53d32-1e08-47e4-815f-89f17fb1c6ef"
+                }
+            ],
+            "id": "91a53d32-1e08-47e4-815f-89f17fb1c6ef",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "eplerenone",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Ciclosporin and Eplerenone can increase the risk of hyperkalaemia (hyperkalaemia is particularly notable when ACE inhibitors or angiotensin-II receptor antagonists are given with spironolactone or eplerenone).",
+                    "severity": "Normal",
+                    "id": "e298262c-1eb7-47e0-9876-993e6fa97f44",
+                    "parentId": "8407ff34-6f33-4ac7-a6ea-2354a11d14ef"
+                }
+            ],
+            "id": "8407ff34-6f33-4ac7-a6ea-2354a11d14ef",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "eprosartan",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Ciclosporin and Eprosartan can increase the risk of hyperkalaemia (hyperkalaemia is particularly notable when ACE inhibitors or angiotensin-II receptor antagonists are given with spironolactone or eplerenone).",
+                    "severity": "Normal",
+                    "id": "11c3435c-c63a-4f4a-b1b0-ba736be6d80d",
+                    "parentId": "6a5a62fa-ab4e-444c-8045-6ae438b09d25"
+                }
+            ],
+            "id": "6a5a62fa-ab4e-444c-8045-6ae438b09d25",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "erlotinib-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Ciclosporin is predicted to increase the exposure to Erlotinib. Manufacturer advises caution.  ",
+                    "severity": "Moderate",
+                    "id": "cf004ca2-e3dc-4551-8233-b6bd9d1af871",
+                    "parentId": "5b4bbef2-44ff-4b88-9704-736387a8e945"
+                }
+            ],
+            "id": "5b4bbef2-44ff-4b88-9704-736387a8e945",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "erythromycin",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Erythromycin greatly increases the exposure to Ciclosporin. Manufacturer advises avoid or monitor.  ",
+                    "severity": "Severe",
+                    "id": "f2b1e3c7-1169-43ba-baa1-3ae18ffce197",
+                    "parentId": "9ec6b868-674e-415f-a73f-a9f13724e8bc"
+                }
+            ],
+            "id": "9ec6b868-674e-415f-a73f-a9f13724e8bc",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "etodolac",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Ciclosporin and Etodolac can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "841e46d7-e7fd-4aac-910d-115dd7c914c1",
+                    "parentId": "a84fd087-a86c-4c29-97fc-2d9a7001bf98"
+                },
+                {
+                    "evidence": null,
+                    "description": "Both Ciclosporin and Etodolac can increase the risk of hyperkalaemia (hyperkalaemia is particularly notable when ACE inhibitors or angiotensin-II receptor antagonists are given with spironolactone or eplerenone).",
+                    "severity": "Normal",
+                    "id": "ea8411f6-80b2-429c-ae04-5d0d1a44a21b",
+                    "parentId": "a84fd087-a86c-4c29-97fc-2d9a7001bf98"
+                }
+            ],
+            "id": "a84fd087-a86c-4c29-97fc-2d9a7001bf98",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "etoposide-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Ciclosporin increases the exposure to Etoposide. Manufacturer advises monitor and adjust dose.  ",
+                    "severity": "Severe",
+                    "id": "4007399e-1795-4c89-938d-2e47497c4e83",
+                    "parentId": "cf713c4a-274d-424a-8e63-784e2d914698"
+                }
+            ],
+            "id": "cf713c4a-274d-424a-8e63-784e2d914698",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "etoricoxib",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Ciclosporin and Etoricoxib can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "50120899-c96e-42b1-87c1-0da226cf2310",
+                    "parentId": "90280a5e-9060-4d26-b20f-cb4a7e031d5a"
+                },
+                {
+                    "evidence": null,
+                    "description": "Both Ciclosporin and Etoricoxib can increase the risk of hyperkalaemia (hyperkalaemia is particularly notable when ACE inhibitors or angiotensin-II receptor antagonists are given with spironolactone or eplerenone).",
+                    "severity": "Normal",
+                    "id": "97c7b14a-1c43-4ec5-a086-59baece78d39",
+                    "parentId": "90280a5e-9060-4d26-b20f-cb4a7e031d5a"
+                }
+            ],
+            "id": "90280a5e-9060-4d26-b20f-cb4a7e031d5a",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "etravirine",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Etravirine is predicted to decrease the exposure to Ciclosporin. Manufacturer advises caution.  ",
+                    "severity": "Moderate",
+                    "id": "40fba12b-3f67-4bf0-a709-f1fce9e5117e",
+                    "parentId": "aa45ab81-ca0b-4e71-9801-204049094fd4"
+                }
+            ],
+            "id": "aa45ab81-ca0b-4e71-9801-204049094fd4",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "everolimus",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Ciclosporin moderately increases the exposure to Everolimus. Manufacturer advises avoid or adjust dose.  ",
+                    "severity": "Severe",
+                    "id": "e73122ba-5f03-4da3-b4b9-312fe35a672b",
+                    "parentId": "03a42954-511b-4422-8752-02a2985c12ca"
+                }
+            ],
+            "id": "03a42954-511b-4422-8752-02a2985c12ca",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "ezetimibe",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Ciclosporin moderately increases the exposure to Ezetimibe and Ezetimibe slightly increases the exposure to Ciclosporin. Manufacturer advises caution and monitor Ciclosporin concentration.  ",
+                    "severity": "Moderate",
+                    "id": "bb6dd1c8-44bd-442b-b27c-c22e36c44767",
+                    "parentId": "16afc86b-a53c-4169-86ff-9d9115634c62"
+                }
+            ],
+            "id": "16afc86b-a53c-4169-86ff-9d9115634c62",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "fenofibrate",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Fenofibrate increases the risk of nephrotoxicity when given with Ciclosporin. Manufacturer advises monitor renal function.  ",
+                    "severity": "Severe",
+                    "id": "76352b8f-983b-47a8-98c0-3f32a85d9c3a",
+                    "parentId": "b8098a0b-1d02-440e-889e-524b7a9c48da"
+                }
+            ],
+            "id": "b8098a0b-1d02-440e-889e-524b7a9c48da",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "fidaxomicin",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Ciclosporin is predicted to increase the exposure to Fidaxomicin. Manufacturer advises avoid.  ",
+                    "severity": "Moderate",
+                    "id": "77a29a48-0e98-4748-aed7-51367c46d717",
+                    "parentId": "7310dc37-4044-4103-8e4e-45f95b6a2a09"
+                }
+            ],
+            "id": "7310dc37-4044-4103-8e4e-45f95b6a2a09",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "filgotinib",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Filgotinib is predicted to increase the risk of immunosuppression when given with Ciclosporin. Manufacturer advises avoid.  ",
+                    "severity": "Severe",
+                    "id": "66f62fdd-0a76-4886-b757-0dccdcc98186",
+                    "parentId": "1dbc451d-9aab-4de2-b4f7-524c6ff829c9"
+                }
+            ],
+            "id": "1dbc451d-9aab-4de2-b4f7-524c6ff829c9",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "finerenone",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Ciclosporin and Finerenone can increase the risk of hyperkalaemia (hyperkalaemia is particularly notable when ACE inhibitors or angiotensin-II receptor antagonists are given with spironolactone or eplerenone).",
+                    "severity": "Normal",
+                    "id": "2f610ffc-1554-431b-9695-3124879a61b8",
+                    "parentId": "856eefcd-f4db-4b8d-bb63-40df741ea743"
+                }
+            ],
+            "id": "856eefcd-f4db-4b8d-bb63-40df741ea743",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "fluconazole",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Fluconazole is predicted to increase the concentration of Ciclosporin. Manufacturer advises caution.  ",
+                    "severity": "Severe",
+                    "id": "459671d6-db81-4e4f-b9d8-f92e87c6c5c4",
+                    "parentId": "d535bad3-959c-4bf8-b7da-e285e3f49272"
+                }
+            ],
+            "id": "d535bad3-959c-4bf8-b7da-e285e3f49272",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "flurbiprofen",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Ciclosporin and Flurbiprofen can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "adc7c635-9e56-4ec4-b48b-c8f90b45a062",
+                    "parentId": "d1da8c36-5ab8-4dad-bb35-3df935a9380b"
+                },
+                {
+                    "evidence": null,
+                    "description": "Both Ciclosporin and Flurbiprofen can increase the risk of hyperkalaemia (hyperkalaemia is particularly notable when ACE inhibitors or angiotensin-II receptor antagonists are given with spironolactone or eplerenone).",
+                    "severity": "Normal",
+                    "id": "b5712b7a-1c22-4d56-80a0-ef0ece9bc687",
+                    "parentId": "d1da8c36-5ab8-4dad-bb35-3df935a9380b"
+                }
+            ],
+            "id": "d1da8c36-5ab8-4dad-bb35-3df935a9380b",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "fluvastatin",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Ciclosporin moderately increases the exposure to Fluvastatin. Manufacturer advises caution.  ",
+                    "severity": "Severe",
+                    "id": "c071475e-da26-4131-a9d9-fb74b8f14399",
+                    "parentId": "7163f0d0-22e4-4ad6-8dac-7441d9c1c541"
+                }
+            ],
+            "id": "7163f0d0-22e4-4ad6-8dac-7441d9c1c541",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "fosamprenavir",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Fosamprenavir increases the concentration of Ciclosporin. Manufacturer advises caution.  ",
+                    "severity": "Severe",
+                    "id": "f537b62c-a9ee-48f8-a471-61bf209f7bdc",
+                    "parentId": "00123d9d-35d1-4906-8671-adcc39e241b3"
+                }
+            ],
+            "id": "00123d9d-35d1-4906-8671-adcc39e241b3",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "ganciclovir",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Ciclosporin and Ganciclovir can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "237013c4-77cb-4fd8-9e6c-2eb017444fcc",
+                    "parentId": "d3094900-b645-42e4-adef-dbb6858898b6"
+                }
+            ],
+            "id": "d3094900-b645-42e4-adef-dbb6858898b6",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "gentamicin",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Ciclosporin and Gentamicin can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "d91f697e-e257-4446-91ea-bb58816d078a",
+                    "parentId": "1ac9ff37-c538-41ac-a6d9-1b123083f923"
+                }
+            ],
+            "id": "1ac9ff37-c538-41ac-a6d9-1b123083f923",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "gilteritinib-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Ciclosporin is predicted to increase the exposure to Gilteritinib. Manufacturer advises caution or monitor.  ",
+                    "severity": "Moderate",
+                    "id": "fe2cc81d-652d-470c-9a38-1543c3238006",
+                    "parentId": "fe2d7698-c10b-46f1-9a28-a5983d9d1a9c"
+                }
+            ],
+            "id": "fe2d7698-c10b-46f1-9a28-a5983d9d1a9c",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "glofitamab-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Glofitamab might affect the exposure to Ciclosporin. Manufacturer advises monitor.  ",
+                    "severity": "Moderate",
+                    "id": "42c4e763-1724-4e55-9990-7e400fe6f8af",
+                    "parentId": "9cd7bd7f-d1e1-431a-b50b-3ae2f4891926"
+                }
+            ],
+            "id": "9cd7bd7f-d1e1-431a-b50b-3ae2f4891926",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "grapefruit",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Grapefruit juice increases the concentration of Ciclosporin. Manufacturer advises avoid.  ",
+                    "severity": "Severe",
+                    "id": "f57a6c17-7bc1-4394-8fcb-c1ea573b418a",
+                    "parentId": "e3db4fac-7858-4818-808f-a9733e5ddad0"
+                }
+            ],
+            "id": "e3db4fac-7858-4818-808f-a9733e5ddad0",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "ibuprofen",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Ciclosporin and Ibuprofen can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "3ce2eced-e8dd-42e6-8c0d-43d3e4f52c15",
+                    "parentId": "798437b6-090c-4e4f-935f-7e472b83c2f3"
+                },
+                {
+                    "evidence": null,
+                    "description": "Both Ciclosporin and Ibuprofen can increase the risk of hyperkalaemia (hyperkalaemia is particularly notable when ACE inhibitors or angiotensin-II receptor antagonists are given with spironolactone or eplerenone).",
+                    "severity": "Normal",
+                    "id": "42aacb4c-0fd6-40a8-a352-866416b8e579",
+                    "parentId": "798437b6-090c-4e4f-935f-7e472b83c2f3"
+                }
+            ],
+            "id": "798437b6-090c-4e4f-935f-7e472b83c2f3",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "idelalisib-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Idelalisib increases the concentration of Ciclosporin. Manufacturer advises caution.  ",
+                    "severity": "Severe",
+                    "id": "74db9f73-1e67-4c2e-a8b1-0473fb008ea8",
+                    "parentId": "ebcecd08-6a08-41ba-af0a-6dd4df78f627"
+                }
+            ],
+            "id": "ebcecd08-6a08-41ba-af0a-6dd4df78f627",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "ifosfamide-specialist-drug",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Ciclosporin and Ifosfamide can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "c51fcbaa-0712-4e33-9218-11c0291d59d7",
+                    "parentId": "536f0b4c-a9f3-43dc-8714-289cb1834fbc"
+                }
+            ],
+            "id": "536f0b4c-a9f3-43dc-8714-289cb1834fbc",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "imatinib-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Imatinib is predicted to increase the concentration of Ciclosporin. Manufacturer advises caution.  ",
+                    "severity": "Severe",
+                    "id": "dd5a37f0-7714-4509-81b1-84a1f3dd842e",
+                    "parentId": "95c5c79f-2163-46dd-a5cb-6486c02a8881"
+                }
+            ],
+            "id": "95c5c79f-2163-46dd-a5cb-6486c02a8881",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "indometacin",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Ciclosporin and Indometacin can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "3bbb212b-aba1-41e6-bf6f-625de50c5ea5",
+                    "parentId": "708ea0bb-f506-4048-84a9-fba0ee44eae3"
+                },
+                {
+                    "evidence": null,
+                    "description": "Both Ciclosporin and Indometacin can increase the risk of hyperkalaemia (hyperkalaemia is particularly notable when ACE inhibitors or angiotensin-II receptor antagonists are given with spironolactone or eplerenone).",
+                    "severity": "Normal",
+                    "id": "9f285503-6d3e-4648-9e99-b155eab3611d",
+                    "parentId": "708ea0bb-f506-4048-84a9-fba0ee44eae3"
+                }
+            ],
+            "id": "708ea0bb-f506-4048-84a9-fba0ee44eae3",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "influenza-vaccine-live",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Influenza vaccine (live) is predicted to increase the risk of generalised infection (possibly life-threatening) when given with Ciclosporin. UKHSA advises avoid (refer to Green Book).  ",
+                    "severity": "Severe",
+                    "id": "4773e727-f387-436e-9df5-5099324b1d5b",
+                    "parentId": "e8ef6c25-85fc-4ec8-91d4-03a4016da5f6"
+                }
+            ],
+            "id": "e8ef6c25-85fc-4ec8-91d4-03a4016da5f6",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "inotersen",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Ciclosporin and Inotersen can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "88b77d83-8059-45b9-8ff0-67e912ec09e1",
+                    "parentId": "2c0447e4-0b8d-442f-b33a-49b41fc5d18f"
+                }
+            ],
+            "id": "2c0447e4-0b8d-442f-b33a-49b41fc5d18f",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "irbesartan",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Ciclosporin and Irbesartan can increase the risk of hyperkalaemia (hyperkalaemia is particularly notable when ACE inhibitors or angiotensin-II receptor antagonists are given with spironolactone or eplerenone).",
+                    "severity": "Normal",
+                    "id": "d998726e-e104-4d72-8e64-e8401ab996c6",
+                    "parentId": "9ea2d591-0cd7-4990-bd72-37ca4ad1580a"
+                }
+            ],
+            "id": "9ea2d591-0cd7-4990-bd72-37ca4ad1580a",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "isavuconazole",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Isavuconazole is predicted to increase the concentration of Ciclosporin. Manufacturer advises caution.  ",
+                    "severity": "Severe",
+                    "id": "e32ea273-16a8-4d13-9f6c-ad6354a4f775",
+                    "parentId": "a68e02ad-60bd-4a3d-bdfa-548ccc8f3b65"
+                }
+            ],
+            "id": "a68e02ad-60bd-4a3d-bdfa-548ccc8f3b65",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "itraconazole",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Itraconazole increases the concentration of Ciclosporin. Manufacturer advises caution.  ",
+                    "severity": "Severe",
+                    "id": "d8cbcc4d-e2d8-49d1-a6b8-3dad6c01216c",
+                    "parentId": "dc5ced8e-bbc7-4676-a606-8e848b9be8f6"
+                }
+            ],
+            "id": "dc5ced8e-bbc7-4676-a606-8e848b9be8f6",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "ivacaftor",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Ivacaftor is predicted to increase the exposure to Ciclosporin. Manufacturer advises caution.  ",
+                    "severity": "Moderate",
+                    "id": "030df14d-b286-41eb-9e92-f6a66e81c13a",
+                    "parentId": "e00ee0d7-60a8-4849-bd08-fa1f26873636"
+                }
+            ],
+            "id": "e00ee0d7-60a8-4849-bd08-fa1f26873636",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "ivosidenib-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Ciclosporin is predicted to increase the exposure to Ivosidenib and Ivosidenib might decrease the exposure to Ciclosporin. Manufacturer advises monitor and adjust dose\u2014consult product literature.  ",
+                    "severity": "Severe",
+                    "id": "86f9150a-be80-46bc-ace6-8505dbb36496",
+                    "parentId": "3c210174-946d-41cf-8dd4-e78329df0cfc"
+                },
+                {
+                    "evidence": "Study",
+                    "description": "Ivosidenib decreases the concentration of Ciclosporin. Manufacturer advises caution.  ",
+                    "severity": "Severe",
+                    "id": "12e4e2a6-b6f5-4bfb-beb0-54f46bc99b0a",
+                    "parentId": "3c210174-946d-41cf-8dd4-e78329df0cfc"
+                }
+            ],
+            "id": "3c210174-946d-41cf-8dd4-e78329df0cfc",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "ketoconazole",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Ketoconazole increases the concentration of Ciclosporin. Manufacturer advises caution.  ",
+                    "severity": "Severe",
+                    "id": "6b3034f7-0868-41be-aa2b-0f1d2bcf4758",
+                    "parentId": "8b9be8e3-26fa-4769-ae43-9119fa605e3f"
+                }
+            ],
+            "id": "8b9be8e3-26fa-4769-ae43-9119fa605e3f",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "ketoprofen",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Ciclosporin and Ketoprofen can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "ecffc58c-caaf-4252-bc06-faed24453f46",
+                    "parentId": "3b536ca2-8b7e-491d-815b-01a84f90639b"
+                },
+                {
+                    "evidence": null,
+                    "description": "Both Ciclosporin and Ketoprofen can increase the risk of hyperkalaemia (hyperkalaemia is particularly notable when ACE inhibitors or angiotensin-II receptor antagonists are given with spironolactone or eplerenone).",
+                    "severity": "Normal",
+                    "id": "79e89d7a-7343-42b0-8e36-2cd416ab9777",
+                    "parentId": "3b536ca2-8b7e-491d-815b-01a84f90639b"
+                }
+            ],
+            "id": "3b536ca2-8b7e-491d-815b-01a84f90639b",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "lanreotide",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Lanreotide is predicted to decrease the absorption of oral Ciclosporin. Manufacturer advises adjust dose.  ",
+                    "severity": "Severe",
+                    "id": "18e220d0-127b-4c01-8799-4d9a3b45768a",
+                    "parentId": "fde74f7d-bd5e-454f-aa23-bf31c288cca7"
+                }
+            ],
+            "id": "fde74f7d-bd5e-454f-aa23-bf31c288cca7",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "lapatinib-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Ciclosporin might increase the concentration of Lapatinib. Manufacturer makes no recommendation.  ",
+                    "severity": "Severe",
+                    "id": "ed5d6e9c-160f-41cd-abf3-87e75ce890fc",
+                    "parentId": "a5a6070d-9b74-4aea-ae77-01f3a3b6b2b1"
+                }
+            ],
+            "id": "a5a6070d-9b74-4aea-ae77-01f3a3b6b2b1",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "larotrectinib-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Larotrectinib is predicted to increase the exposure to Ciclosporin. Manufacturer advises use with caution and adjust dose.  ",
+                    "severity": "Mild",
+                    "id": "a40b181d-3353-4fb4-b736-2575eec0cf08",
+                    "parentId": "ff1fe98f-7dfe-4ee1-a52e-eeae04551fde"
+                }
+            ],
+            "id": "ff1fe98f-7dfe-4ee1-a52e-eeae04551fde",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "letermovir",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Letermovir increases the exposure to Ciclosporin and Ciclosporin increases the exposure to Letermovir. Manufacturer advises monitor and adjust Letermovir dose.  ",
+                    "severity": "Severe",
+                    "id": "42320e68-5e4f-4bcb-85c1-cc040c599fbf",
+                    "parentId": "7ac647e5-47be-4f7a-99bf-26d4d141d991"
+                }
+            ],
+            "id": "7ac647e5-47be-4f7a-99bf-26d4d141d991",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "lisinopril",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Ciclosporin and Lisinopril can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "56237439-5e42-48dc-a027-e97ca51d4b16",
+                    "parentId": "d8a12d19-f7ee-43f2-8474-23bbeee5b352"
+                },
+                {
+                    "evidence": null,
+                    "description": "Both Ciclosporin and Lisinopril can increase the risk of hyperkalaemia (hyperkalaemia is particularly notable when ACE inhibitors or angiotensin-II receptor antagonists are given with spironolactone or eplerenone).",
+                    "severity": "Normal",
+                    "id": "850ec2e9-5ce6-4305-90df-9db27a010d4d",
+                    "parentId": "d8a12d19-f7ee-43f2-8474-23bbeee5b352"
+                }
+            ],
+            "id": "d8a12d19-f7ee-43f2-8474-23bbeee5b352",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "lomitapide",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Ciclosporin is predicted to increase the exposure to Lomitapide. Manufacturer advises separate administration by 12 hours.  ",
+                    "severity": "Moderate",
+                    "id": "07670195-f33d-40dc-a7bc-cc7d86e04509",
+                    "parentId": "69108cb8-f5e0-440e-a457-660955212efa"
+                }
+            ],
+            "id": "69108cb8-f5e0-440e-a457-660955212efa",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "lorlatinib-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Lorlatinib is predicted to decrease the exposure to Ciclosporin. Manufacturer advises avoid.  ",
+                    "severity": "Moderate",
+                    "id": "7fc2ba06-8621-4adc-b434-5fab994cf735",
+                    "parentId": "88eb3275-846b-4667-b684-c4ce4c0bbaa0"
+                }
+            ],
+            "id": "88eb3275-846b-4667-b684-c4ce4c0bbaa0",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "maribavir",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Maribavir is predicted to increase the exposure to Ciclosporin. Manufacturer advises monitor and adjust dose.  ",
+                    "severity": "Severe",
+                    "id": "c798dfad-008a-40eb-ac52-1edbcfe17720",
+                    "parentId": "35544cf3-fbae-4c7c-af74-0e2ae6daab6d"
+                }
+            ],
+            "id": "35544cf3-fbae-4c7c-af74-0e2ae6daab6d",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "measles-mumps-and-rubella-vaccine",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Measles, mumps and rubella vaccine is predicted to increase the risk of generalised infection (possibly life-threatening) when given with Ciclosporin. UKHSA advises avoid (refer to Green Book).  ",
+                    "severity": "Severe",
+                    "id": "b93b9978-eb5a-4b7e-8b6a-390fb9865588",
+                    "parentId": "cecb795c-2ab0-4aec-b0b5-e608e4127cb3"
+                }
+            ],
+            "id": "cecb795c-2ab0-4aec-b0b5-e608e4127cb3",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "mefenamic-acid",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Ciclosporin and Mefenamic acid can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "a0052cee-78fd-4127-ac18-b782f8796e6f",
+                    "parentId": "25720e04-fe2a-414b-a475-28daf1ddc895"
+                },
+                {
+                    "evidence": null,
+                    "description": "Both Ciclosporin and Mefenamic acid can increase the risk of hyperkalaemia (hyperkalaemia is particularly notable when ACE inhibitors or angiotensin-II receptor antagonists are given with spironolactone or eplerenone).",
+                    "severity": "Normal",
+                    "id": "fc6f3eeb-f5f3-4a1d-9211-da3b418c4598",
+                    "parentId": "25720e04-fe2a-414b-a475-28daf1ddc895"
+                }
+            ],
+            "id": "25720e04-fe2a-414b-a475-28daf1ddc895",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "meloxicam",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Ciclosporin and Meloxicam can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "27731949-e053-4ac6-8135-3ed5879dd264",
+                    "parentId": "49a1734a-bfed-458c-b2ae-17a96a83e9b2"
+                },
+                {
+                    "evidence": null,
+                    "description": "Both Ciclosporin and Meloxicam can increase the risk of hyperkalaemia (hyperkalaemia is particularly notable when ACE inhibitors or angiotensin-II receptor antagonists are given with spironolactone or eplerenone).",
+                    "severity": "Normal",
+                    "id": "2bf5882a-1fc0-4293-8bb2-3a5f7ccf1f96",
+                    "parentId": "49a1734a-bfed-458c-b2ae-17a96a83e9b2"
+                }
+            ],
+            "id": "49a1734a-bfed-458c-b2ae-17a96a83e9b2",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "mesalazine",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Ciclosporin and Mesalazine can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "1fa2bdf7-ccd5-4984-9a53-c7f9e3c8d982",
+                    "parentId": "7efb20fe-e7ec-4411-80f6-fb3bc4e57b5b"
+                }
+            ],
+            "id": "7efb20fe-e7ec-4411-80f6-fb3bc4e57b5b",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "methotrexate",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Ciclosporin and Methotrexate can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "6f32ff90-6e21-45b1-ae14-216308941967",
+                    "parentId": "ddb4b584-1c47-4ef3-bbe4-a2d0b517f10d"
+                }
+            ],
+            "id": "ddb4b584-1c47-4ef3-bbe4-a2d0b517f10d",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "metreleptin",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Metreleptin might alter the exposure to Ciclosporin. Manufacturer advises monitor concentration and adjust dose.  ",
+                    "severity": "Severe",
+                    "id": "d1f96014-27c8-4fd5-9221-4fa9214e45e4",
+                    "parentId": "c17340cb-5767-48b7-9b9d-f012ba8e1eae"
+                }
+            ],
+            "id": "c17340cb-5767-48b7-9b9d-f012ba8e1eae",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "miconazole",
+            "details": [
+                {
+                    "evidence": "Anecdotal",
+                    "description": "Miconazole increases the concentration of Ciclosporin. Manufacturer advises monitor and adjust dose.  ",
+                    "severity": "Severe",
+                    "id": "14a69293-f92b-4110-a881-bb80663ba576",
+                    "parentId": "5f0d32db-5997-4d1f-91a5-3db542f2de2b"
+                }
+            ],
+            "id": "5f0d32db-5997-4d1f-91a5-3db542f2de2b",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "midostaurin-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Anecdotal",
+                    "description": "Midostaurin might increase the concentration of Ciclosporin. Manufacturer makes no recommendation.  ",
+                    "severity": "Severe",
+                    "id": "8a685152-ac43-488a-983c-f6396def4bbd",
+                    "parentId": "4dbc7fb9-9da5-47a7-9453-3850d5c5ffe1"
+                }
+            ],
+            "id": "4dbc7fb9-9da5-47a7-9453-3850d5c5ffe1",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "mifamurtide-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Ciclosporin is predicted to decrease the efficacy of Mifamurtide. Manufacturer advises avoid.  ",
+                    "severity": "Severe",
+                    "id": "d66319ac-77f2-48f1-ac3e-a2c349f34605",
+                    "parentId": "977ea2a8-bc29-4955-bf98-57c079a90929"
+                }
+            ],
+            "id": "977ea2a8-bc29-4955-bf98-57c079a90929",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "mitotane-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Mitotane decreases the concentration of Ciclosporin. Manufacturer advises caution.  ",
+                    "severity": "Severe",
+                    "id": "a6f2a48f-03ff-4036-8d10-d6b472bc088a",
+                    "parentId": "f920ccd8-86ec-411d-9cfb-976aa3e84c4a"
+                }
+            ],
+            "id": "f920ccd8-86ec-411d-9cfb-976aa3e84c4a",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "mitoxantrone-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Ciclosporin increases the concentration of Mitoxantrone. Manufacturer makes no recommendation.  ",
+                    "severity": "Severe",
+                    "id": "d0b30928-ed94-469e-9e2a-9e5b5cb2a69e",
+                    "parentId": "731e8699-93c3-4e12-af3e-3b8222451fd2"
+                }
+            ],
+            "id": "731e8699-93c3-4e12-af3e-3b8222451fd2",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "momelotinib-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Ciclosporin is predicted to increase the exposure to Momelotinib. Manufacturer advises caution or monitor.  ",
+                    "severity": "Moderate",
+                    "id": "a2423a99-2b10-4528-a7b0-93506fdbc090",
+                    "parentId": "b45c6d36-d62c-4050-a569-fd6a160c4f07"
+                }
+            ],
+            "id": "b45c6d36-d62c-4050-a569-fd6a160c4f07",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "mosunetuzumab-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Mosunetuzumab is predicted to transiently increase the exposure to Ciclosporin. Manufacturer advises monitor and adjust dose.  ",
+                    "severity": "Moderate",
+                    "id": "d30365e4-29d3-442a-86aa-f7b54587b368",
+                    "parentId": "2f899a02-49c2-4d66-a18a-09b3f6cf2804"
+                }
+            ],
+            "id": "2f899a02-49c2-4d66-a18a-09b3f6cf2804",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "nabumetone",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Ciclosporin and Nabumetone can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "fb576e49-09e4-408e-89ce-3da77b692efb",
+                    "parentId": "bc5cd717-0518-4018-90a2-a315324355b8"
+                },
+                {
+                    "evidence": null,
+                    "description": "Both Ciclosporin and Nabumetone can increase the risk of hyperkalaemia (hyperkalaemia is particularly notable when ACE inhibitors or angiotensin-II receptor antagonists are given with spironolactone or eplerenone).",
+                    "severity": "Normal",
+                    "id": "b034b2df-7cc0-495b-b50e-58c978f8e992",
+                    "parentId": "bc5cd717-0518-4018-90a2-a315324355b8"
+                }
+            ],
+            "id": "bc5cd717-0518-4018-90a2-a315324355b8",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "nadolol",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Ciclosporin is predicted to increase the exposure to Nadolol. Manufacturer makes no recommendation.  ",
+                    "severity": "Moderate",
+                    "id": "d2e286ff-963d-4f71-adb8-957f025339d7",
+                    "parentId": "b24d5735-7978-4872-b0da-c5e9b23834b7"
+                }
+            ],
+            "id": "b24d5735-7978-4872-b0da-c5e9b23834b7",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "naldemedine",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Ciclosporin is predicted to increase the exposure to Naldemedine. Manufacturer advises monitor.  ",
+                    "severity": "Moderate",
+                    "id": "fa09bd13-6599-446f-a83d-7eed39822bbe",
+                    "parentId": "481e872d-9e78-4ca2-8af2-fb360e1804c4"
+                }
+            ],
+            "id": "481e872d-9e78-4ca2-8af2-fb360e1804c4",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "naproxen",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Ciclosporin and Naproxen can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "8cb7bcc9-4a12-447e-9c3a-d56fcd5205b8",
+                    "parentId": "33b5641d-8ac4-4b49-86e2-bfa49cee1fa7"
+                },
+                {
+                    "evidence": null,
+                    "description": "Both Ciclosporin and Naproxen can increase the risk of hyperkalaemia (hyperkalaemia is particularly notable when ACE inhibitors or angiotensin-II receptor antagonists are given with spironolactone or eplerenone).",
+                    "severity": "Normal",
+                    "id": "78b7242a-2d4d-458e-93c7-52922382192f",
+                    "parentId": "33b5641d-8ac4-4b49-86e2-bfa49cee1fa7"
+                }
+            ],
+            "id": "33b5641d-8ac4-4b49-86e2-bfa49cee1fa7",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "neratinib-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Ciclosporin is predicted to increase the exposure to Neratinib. Manufacturer advises avoid or adjust dose and monitor for gastrointestinal adverse effects\u2014consult product literature.  ",
+                    "severity": "Severe",
+                    "id": "a7f44743-7a04-45df-aa43-a717fc1fff5e",
+                    "parentId": "e3768022-7105-46cc-8261-35ea0beb3692"
+                }
+            ],
+            "id": "e3768022-7105-46cc-8261-35ea0beb3692",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "netilmicin",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Ciclosporin and Netilmicin can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "fa1f8988-fae2-4456-8061-22fca5e971d0",
+                    "parentId": "187f20a3-5686-45de-ac00-5417d9fd985e"
+                }
+            ],
+            "id": "187f20a3-5686-45de-ac00-5417d9fd985e",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "nevirapine",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Nevirapine is predicted to decrease the concentration of Ciclosporin. Manufacturer makes no recommendation.  ",
+                    "severity": "Moderate",
+                    "id": "7ca7a8ed-e044-466c-8f7d-8776c03ecbef",
+                    "parentId": "0e5bc782-3992-420f-9b72-f7fdb15913f6"
+                }
+            ],
+            "id": "0e5bc782-3992-420f-9b72-f7fdb15913f6",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "nilotinib-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Nilotinib is predicted to increase the concentration of Ciclosporin. Manufacturer advises caution.  ",
+                    "severity": "Severe",
+                    "id": "735e5b1f-fd9b-47ac-bf9e-ab49562209fa",
+                    "parentId": "b1f6e4c3-b250-4239-805b-eb1d7d28788c"
+                }
+            ],
+            "id": "b1f6e4c3-b250-4239-805b-eb1d7d28788c",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "nintedanib",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Ciclosporin is predicted to increase the exposure to Nintedanib. Manufacturer advises monitor.  ",
+                    "severity": "Moderate",
+                    "id": "49fb67d1-4feb-4129-958d-48f924b0469d",
+                    "parentId": "02aa460e-8e9a-4d3d-b58c-ad0c7c04c881"
+                }
+            ],
+            "id": "02aa460e-8e9a-4d3d-b58c-ad0c7c04c881",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "octreotide",
+            "details": [
+                {
+                    "evidence": "Anecdotal",
+                    "description": "Octreotide decreases the absorption of oral Ciclosporin. Manufacturer advises adjust Ciclosporin dose.  ",
+                    "severity": "Severe",
+                    "id": "34eac2a9-8702-428c-8c49-67106fdf2760",
+                    "parentId": "c8a8841f-da5f-4dfd-b82d-b85c827a434b"
+                }
+            ],
+            "id": "c8a8841f-da5f-4dfd-b82d-b85c827a434b",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "olaparib-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Olaparib might alter the exposure to Ciclosporin. Manufacturer advises monitor.  ",
+                    "severity": "Moderate",
+                    "id": "baee41cd-13b7-470e-88df-358612b14efa",
+                    "parentId": "8ad0cbb4-5337-413a-9b81-e06d92ea18d8"
+                }
+            ],
+            "id": "8ad0cbb4-5337-413a-9b81-e06d92ea18d8",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "oxaliplatin-specialist-drug",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Ciclosporin and Oxaliplatin can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "a35690a4-a64b-467e-8c16-21b27e871545",
+                    "parentId": "307be9b3-70ad-462b-98a4-3be1da0a8f5a"
+                }
+            ],
+            "id": "307be9b3-70ad-462b-98a4-3be1da0a8f5a",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "oxcarbazepine",
+            "details": [
+                {
+                    "evidence": "Anecdotal",
+                    "description": "Oxcarbazepine decreases the concentration of Ciclosporin. Manufacturer makes no recommendation.  ",
+                    "severity": "Severe",
+                    "id": "2eb0bfa5-cce9-4755-bbfe-f9535fb8063b",
+                    "parentId": "db602ce3-2bdd-4e62-910b-459470f623bd"
+                }
+            ],
+            "id": "db602ce3-2bdd-4e62-910b-459470f623bd",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "paclitaxel-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Ciclosporin increases the concentration of Paclitaxel. Manufacturer makes no recommendation.  ",
+                    "severity": "Severe",
+                    "id": "d59dc158-5d7f-4533-acc8-bc07c1e9e890",
+                    "parentId": "d2fb7f38-09f3-47e9-99e9-0ae744eb8b64"
+                }
+            ],
+            "id": "d2fb7f38-09f3-47e9-99e9-0ae744eb8b64",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "palbociclib-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Palbociclib is predicted to increase the exposure to Ciclosporin. Manufacturer advises adjust dose.  ",
+                    "severity": "Moderate",
+                    "id": "a8c234c9-1500-43c3-98b0-3f12a6fd19a4",
+                    "parentId": "ada3dec9-7fa5-4c58-a9ab-aacf763bd5dc"
+                }
+            ],
+            "id": "ada3dec9-7fa5-4c58-a9ab-aacf763bd5dc",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "panobinostat-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Ciclosporin is predicted to increase the exposure to Panobinostat. Manufacturer advises adjust dose.  ",
+                    "severity": "Moderate",
+                    "id": "73d90bb4-38bb-47bf-9abe-1d127d6309c9",
+                    "parentId": "17b8b21e-2619-4ce7-afd6-577c0b10f657"
+                }
+            ],
+            "id": "17b8b21e-2619-4ce7-afd6-577c0b10f657",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "parecoxib",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Ciclosporin and Parecoxib can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "c4a57e51-be42-4f61-ae24-812abd732acb",
+                    "parentId": "87b5a565-1956-408a-9101-0b0a21c51384"
+                },
+                {
+                    "evidence": null,
+                    "description": "Both Ciclosporin and Parecoxib can increase the risk of hyperkalaemia (hyperkalaemia is particularly notable when ACE inhibitors or angiotensin-II receptor antagonists are given with spironolactone or eplerenone).",
+                    "severity": "Normal",
+                    "id": "6c3e1d55-520f-430e-a6a8-934aba55a8d1",
+                    "parentId": "87b5a565-1956-408a-9101-0b0a21c51384"
+                }
+            ],
+            "id": "87b5a565-1956-408a-9101-0b0a21c51384",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "pasireotide",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Pasireotide is predicted to decrease the absorption of oral Ciclosporin. Manufacturer advises adjust dose.  ",
+                    "severity": "Severe",
+                    "id": "deb08d19-e4b9-481b-b5d5-9188a20c3fc8",
+                    "parentId": "9e6dcd7e-92fe-4ae0-9ed4-cdb949ff00fa"
+                }
+            ],
+            "id": "9e6dcd7e-92fe-4ae0-9ed4-cdb949ff00fa",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "pemetrexed-specialist-drug",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Ciclosporin and Pemetrexed can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "4d441969-f469-4198-9660-0f76b6f3f9ca",
+                    "parentId": "c5c9bb69-06dd-47f3-a3d7-e849c4ffd6d6"
+                }
+            ],
+            "id": "c5c9bb69-06dd-47f3-a3d7-e849c4ffd6d6",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "phenobarbital",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Phenobarbital decreases the concentration of Ciclosporin. Manufacturer advises caution.  ",
+                    "severity": "Severe",
+                    "id": "a8eba784-c0d8-4ced-b0f7-6e25cae98694",
+                    "parentId": "5dc9dfbb-becc-4d77-bb8b-ad078e6b173a"
+                }
+            ],
+            "id": "5dc9dfbb-becc-4d77-bb8b-ad078e6b173a",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "phenytoin",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Phenytoin decreases the concentration of Ciclosporin. Manufacturer advises caution.  ",
+                    "severity": "Severe",
+                    "id": "77e919a6-7dcb-44a2-8379-2d9b30d4b651",
+                    "parentId": "754b4ab0-b2ea-4f6b-b61a-1ccab50809d3"
+                }
+            ],
+            "id": "754b4ab0-b2ea-4f6b-b61a-1ccab50809d3",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "piroxicam",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Ciclosporin and Piroxicam can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "1145b49b-efc4-4c07-a5a2-696d4ff1acae",
+                    "parentId": "5dde5546-ccbc-46a2-8fdd-494e838c7366"
+                },
+                {
+                    "evidence": null,
+                    "description": "Both Ciclosporin and Piroxicam can increase the risk of hyperkalaemia (hyperkalaemia is particularly notable when ACE inhibitors or angiotensin-II receptor antagonists are given with spironolactone or eplerenone).",
+                    "severity": "Normal",
+                    "id": "c322d4e9-61a6-4249-a938-3250bf41ab0f",
+                    "parentId": "5dde5546-ccbc-46a2-8fdd-494e838c7366"
+                }
+            ],
+            "id": "5dde5546-ccbc-46a2-8fdd-494e838c7366",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "pitolisant",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Pitolisant is predicted to decrease the exposure to Ciclosporin. Manufacturer advises avoid.  ",
+                    "severity": "Severe",
+                    "id": "b4f966e9-8011-491a-947a-5e2264999da9",
+                    "parentId": "ddc4acd8-685a-4a7a-96d9-d1754a75557c"
+                }
+            ],
+            "id": "ddc4acd8-685a-4a7a-96d9-d1754a75557c",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "posaconazole",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Posaconazole increases the concentration of Ciclosporin. Manufacturer advises caution.  ",
+                    "severity": "Severe",
+                    "id": "dafc93ec-6eb7-4517-8e46-7252e894d67b",
+                    "parentId": "815795f8-5d96-488a-aca4-d659f4fd3710"
+                }
+            ],
+            "id": "815795f8-5d96-488a-aca4-d659f4fd3710",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "potassium-aminobenzoate",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Ciclosporin and Potassium aminobenzoate can increase the risk of hyperkalaemia (hyperkalaemia is particularly notable when ACE inhibitors or angiotensin-II receptor antagonists are given with spironolactone or eplerenone).",
+                    "severity": "Normal",
+                    "id": "bcd41060-0c80-4a80-b9e7-61d8381a626d",
+                    "parentId": "7274d48d-af95-4c75-ac08-140a5d1c97a9"
+                }
+            ],
+            "id": "7274d48d-af95-4c75-ac08-140a5d1c97a9",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "potassium-chloride",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Ciclosporin and Potassium chloride can increase the risk of hyperkalaemia (hyperkalaemia is particularly notable when ACE inhibitors or angiotensin-II receptor antagonists are given with spironolactone or eplerenone).",
+                    "severity": "Normal",
+                    "id": "01ebefa1-6850-4bf9-a070-b28724da5009",
+                    "parentId": "50bb1160-383a-45e3-bdbc-dc5f5b0a0f62"
+                }
+            ],
+            "id": "50bb1160-383a-45e3-bdbc-dc5f5b0a0f62",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "pralsetinib-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Pralsetinib might affect the exposure to Ciclosporin and Ciclosporin is predicted to increase the exposure to Pralsetinib. Manufacturer advises avoid.  ",
+                    "severity": "Moderate",
+                    "id": "043777c2-d011-4fb8-9e72-46c93eaf3124",
+                    "parentId": "4d994ec4-6f84-46d5-8f0b-71f85a891251"
+                }
+            ],
+            "id": "4d994ec4-6f84-46d5-8f0b-71f85a891251",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "primidone",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Primidone decreases the concentration of Ciclosporin. Manufacturer advises caution.  ",
+                    "severity": "Severe",
+                    "id": "3e85ebbd-fb62-4eb2-90f8-d564e61de9b4",
+                    "parentId": "817dea8c-2f76-41e0-88d0-7b41999765f6"
+                }
+            ],
+            "id": "817dea8c-2f76-41e0-88d0-7b41999765f6",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "quinapril",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Ciclosporin and Quinapril can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "5f17eae5-3841-48ca-aff4-7d87129f2995",
+                    "parentId": "04882d37-8b1c-4bee-b254-a490bda498f5"
+                },
+                {
+                    "evidence": null,
+                    "description": "Both Ciclosporin and Quinapril can increase the risk of hyperkalaemia (hyperkalaemia is particularly notable when ACE inhibitors or angiotensin-II receptor antagonists are given with spironolactone or eplerenone).",
+                    "severity": "Normal",
+                    "id": "fd9db6ef-7671-4509-968b-4a17d242907b",
+                    "parentId": "04882d37-8b1c-4bee-b254-a490bda498f5"
+                }
+            ],
+            "id": "04882d37-8b1c-4bee-b254-a490bda498f5",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "ramipril",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Ciclosporin and Ramipril can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "f771a1a8-748a-4711-bf61-9eecdacf80e0",
+                    "parentId": "06056938-ba7c-4ea4-8f3b-6cd629833413"
+                },
+                {
+                    "evidence": null,
+                    "description": "Both Ciclosporin and Ramipril can increase the risk of hyperkalaemia (hyperkalaemia is particularly notable when ACE inhibitors or angiotensin-II receptor antagonists are given with spironolactone or eplerenone).",
+                    "severity": "Normal",
+                    "id": "cc08cef5-92dd-464c-937c-5646d55b3de7",
+                    "parentId": "06056938-ba7c-4ea4-8f3b-6cd629833413"
+                }
+            ],
+            "id": "06056938-ba7c-4ea4-8f3b-6cd629833413",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "ranolazine",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Ciclosporin is predicted to increase the concentration of Ranolazine and Ranolazine is predicted to increase the concentration of Ciclosporin. Manufacturer advises caution and monitor Ciclosporin concentration.  ",
+                    "severity": "Moderate",
+                    "id": "7045bd29-30ea-40d6-856c-29a1a851818e",
+                    "parentId": "0eb80ed9-a415-4079-827c-a5cb90e4a532"
+                }
+            ],
+            "id": "0eb80ed9-a415-4079-827c-a5cb90e4a532",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "relugolix",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Ciclosporin is predicted to increase the exposure to Relugolix. Manufacturer advises avoid or take relugolix first and separate administration by at least 6 hours.  ",
+                    "severity": "Moderate",
+                    "id": "a4fb5c88-18e8-44a3-8f7b-919f89f47c40",
+                    "parentId": "ffcfcd42-a254-4ccc-bc00-9f77caad7260"
+                }
+            ],
+            "id": "ffcfcd42-a254-4ccc-bc00-9f77caad7260",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "repaglinide",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Ciclosporin moderately increases the exposure to Repaglinide. Manufacturer makes no recommendation.  ",
+                    "severity": "Moderate",
+                    "id": "bab14bee-540b-4b87-9337-653b2cf9d3fc",
+                    "parentId": "b6fa22a9-3b67-4ada-b54e-d8a71e136008"
+                }
+            ],
+            "id": "b6fa22a9-3b67-4ada-b54e-d8a71e136008",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "ribociclib-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Ribociclib is predicted to increase the exposure to Ciclosporin. Manufacturer advises use with caution and adjust dose.  ",
+                    "severity": "Moderate",
+                    "id": "253fadc0-e86d-48ed-8ebc-024739e35e1e",
+                    "parentId": "79226206-ee94-4ae6-8378-5bee49351a07"
+                }
+            ],
+            "id": "79226206-ee94-4ae6-8378-5bee49351a07",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "rifampicin",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Rifampicin decreases the concentration of Ciclosporin. Manufacturer advises caution.  ",
+                    "severity": "Severe",
+                    "id": "adee8d56-1a6e-4363-8635-73093029b0c8",
+                    "parentId": "1e8b0918-16d0-4f3a-8662-4c031f4dd616"
+                },
+                {
+                    "evidence": null,
+                    "description": "Both Ciclosporin and Rifampicin can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "b4eb81e2-0974-4754-9525-51a066c5b0b8",
+                    "parentId": "1e8b0918-16d0-4f3a-8662-4c031f4dd616"
+                }
+            ],
+            "id": "1e8b0918-16d0-4f3a-8662-4c031f4dd616",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "rifaximin",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Ciclosporin very markedly increases the exposure to Rifaximin. Manufacturer advises caution.  ",
+                    "severity": "Severe",
+                    "id": "95c3c77e-4665-4d1e-949e-cc7ea4a7d861",
+                    "parentId": "85bd6d76-d8f4-4aff-badb-9fa1862840d5"
+                }
+            ],
+            "id": "85bd6d76-d8f4-4aff-badb-9fa1862840d5",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "rimegepant",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Ciclosporin slightly increases the exposure to Rimegepant. Manufacturer advises avoid another dose of rimegepant within 48 hours of concurrent use.  ",
+                    "severity": "Moderate",
+                    "id": "d880a6a6-b165-4f9e-bf89-58b046cf98f6",
+                    "parentId": "0c8f856a-9f44-49f5-9256-e9c3aaa87e10"
+                }
+            ],
+            "id": "0c8f856a-9f44-49f5-9256-e9c3aaa87e10",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "riociguat",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Ciclosporin is predicted to increase the exposure to Riociguat. Manufacturer advises caution and monitor blood pressure.  ",
+                    "severity": "Moderate",
+                    "id": "52122238-7a9e-4e24-b50d-db60c6bf07d7",
+                    "parentId": "702132c5-ad22-4ecb-aa04-d34aa0cd8111"
+                }
+            ],
+            "id": "702132c5-ad22-4ecb-aa04-d34aa0cd8111",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "ritlecitinib",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Ritlecitinib is predicted to increase the exposure to Ciclosporin and Ciclosporin is predicted to increase the risk of generalised infection (possibly life-threatening) when given with Ritlecitinib. Manufacturer advises avoid.  ",
+                    "severity": "Severe",
+                    "id": "ecc1ecbe-b984-4307-b445-75d1ce011b66",
+                    "parentId": "1b2912dd-b249-447e-bbb6-ac50869571ec"
+                }
+            ],
+            "id": "1b2912dd-b249-447e-bbb6-ac50869571ec",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "ritonavir",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Ritonavir increases the concentration of Ciclosporin. Manufacturer advises caution.  ",
+                    "severity": "Severe",
+                    "id": "48e45d24-73f9-44d9-8127-38d39623dca7",
+                    "parentId": "3b17ba90-acb1-45db-8f42-2903730ac9b7"
+                }
+            ],
+            "id": "3b17ba90-acb1-45db-8f42-2903730ac9b7",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "rivaroxaban",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Ciclosporin slightly increases the exposure to Rivaroxaban. Manufacturer makes no recommendation.  ",
+                    "severity": "Moderate",
+                    "id": "5f548fae-866a-48a5-980a-4c9aa1ed12ec",
+                    "parentId": "b7be03d3-0352-4ad7-886f-c2214c57a807"
+                }
+            ],
+            "id": "b7be03d3-0352-4ad7-886f-c2214c57a807",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "rosuvastatin",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Ciclosporin markedly increases the exposure to Rosuvastatin. Manufacturer advises avoid.  ",
+                    "severity": "Severe",
+                    "id": "75ee633f-1220-4fa5-87c3-1b6435dbaed8",
+                    "parentId": "8f4ae0c5-da9b-4cf4-8352-123278ff40d2"
+                }
+            ],
+            "id": "8f4ae0c5-da9b-4cf4-8352-123278ff40d2",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "rotavirus-vaccine",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Rotavirus vaccine is predicted to increase the risk of generalised infection (possibly life-threatening) when given with Ciclosporin. UKHSA advises avoid (refer to Green Book).  ",
+                    "severity": "Severe",
+                    "id": "eba23477-0765-4dab-8857-04fe88cdf060",
+                    "parentId": "2daf3191-c971-4c48-badb-85bd7ca0d7bc"
+                }
+            ],
+            "id": "2daf3191-c971-4c48-badb-85bd7ca0d7bc",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "rucaparib-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Rucaparib is predicted to increase the exposure to Ciclosporin. Manufacturer advises monitor and adjust dose.  ",
+                    "severity": "Moderate",
+                    "id": "24cf3324-a299-4123-b740-7e3005dd8643",
+                    "parentId": "283484c7-2e3c-4d11-8dab-4f23f8fef962"
+                }
+            ],
+            "id": "283484c7-2e3c-4d11-8dab-4f23f8fef962",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "sarilumab",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Sarilumab potentially affects the exposure to Ciclosporin. Manufacturer advises monitor and adjust dose.  ",
+                    "severity": "Moderate",
+                    "id": "41122fcc-e2e8-48c5-a3e0-efea9d9d47e1",
+                    "parentId": "db350f81-9bb9-4abc-81dd-1bfea67ab57a"
+                }
+            ],
+            "id": "db350f81-9bb9-4abc-81dd-1bfea67ab57a",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "simvastatin",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Ciclosporin markedly to very markedly increases the exposure to Simvastatin. Manufacturer advises avoid.  ",
+                    "severity": "Severe",
+                    "id": "33b8de08-0fcb-44b7-998d-99f2dcb49d0c",
+                    "parentId": "d5cdfcd4-bb89-43e8-aee7-9bb7cf0cfa34"
+                }
+            ],
+            "id": "d5cdfcd4-bb89-43e8-aee7-9bb7cf0cfa34",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "sirolimus",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Ciclosporin moderately increases the exposure to Sirolimus. Manufacturer advises separate administration by 4 hours.  ",
+                    "severity": "Severe",
+                    "id": "278b1319-2ae7-4ebd-85cc-b619e94ea856",
+                    "parentId": "2b45f22d-b8e3-4a91-ae99-92b6f556a8ba"
+                }
+            ],
+            "id": "2b45f22d-b8e3-4a91-ae99-92b6f556a8ba",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "somapacitan",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Somapacitan might decrease the exposure to Ciclosporin. Manufacturer makes no recommendation.  ",
+                    "severity": "Severe",
+                    "id": "11be5121-5202-43a8-a29a-dbeda711736e",
+                    "parentId": "52a0a5d4-464a-4c5f-8930-d9a22c7f237f"
+                }
+            ],
+            "id": "52a0a5d4-464a-4c5f-8930-d9a22c7f237f",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "spironolactone",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Ciclosporin and Spironolactone can increase the risk of hyperkalaemia (hyperkalaemia is particularly notable when ACE inhibitors or angiotensin-II receptor antagonists are given with spironolactone or eplerenone).",
+                    "severity": "Normal",
+                    "id": "14a60d7c-30ad-4442-8a02-570a660d3f31",
+                    "parentId": "b27c495f-f73a-4462-a780-0d002b2bd3f5"
+                }
+            ],
+            "id": "b27c495f-f73a-4462-a780-0d002b2bd3f5",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "st-johns-wort",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "St John's wort decreases the concentration of Ciclosporin. Manufacturer advises avoid.  ",
+                    "severity": "Moderate",
+                    "id": "8cf5f3bb-84cb-482c-ad50-2c325b65bd46",
+                    "parentId": "a6a59f74-ae8c-4907-bfec-2c26522c3bc6"
+                }
+            ],
+            "id": "a6a59f74-ae8c-4907-bfec-2c26522c3bc6",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "streptomycin",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Ciclosporin and Streptomycin can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "a974cd3a-e014-49a8-b808-32df34b59ed2",
+                    "parentId": "bd43221c-0fae-4dbd-b6a3-83e35c5ebb87"
+                }
+            ],
+            "id": "bd43221c-0fae-4dbd-b6a3-83e35c5ebb87",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "streptozocin-specialist-drug",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Ciclosporin and Streptozocin can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "e466e65d-3292-4536-94e7-472a993754e8",
+                    "parentId": "32affa17-b1fa-4454-94a2-93c21f267a11"
+                }
+            ],
+            "id": "32affa17-b1fa-4454-94a2-93c21f267a11",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "sulfasalazine",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Ciclosporin and Sulfasalazine can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "03332dc1-8f58-4b11-a2d3-6e081a7ef141",
+                    "parentId": "3eb517e8-56de-40a3-84ad-ad02575acd5f"
+                }
+            ],
+            "id": "3eb517e8-56de-40a3-84ad-ad02575acd5f",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "sulindac",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Ciclosporin and Sulindac can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "31d938ed-a06a-4227-a423-c3227f35c347",
+                    "parentId": "1276c87f-7e54-4256-a608-af56d74b69a9"
+                },
+                {
+                    "evidence": null,
+                    "description": "Both Ciclosporin and Sulindac can increase the risk of hyperkalaemia (hyperkalaemia is particularly notable when ACE inhibitors or angiotensin-II receptor antagonists are given with spironolactone or eplerenone).",
+                    "severity": "Normal",
+                    "id": "752ce486-61e5-401e-b7bc-0beea9f727f3",
+                    "parentId": "1276c87f-7e54-4256-a608-af56d74b69a9"
+                }
+            ],
+            "id": "1276c87f-7e54-4256-a608-af56d74b69a9",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "tacrolimus",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Ciclosporin increases the concentration of Tacrolimus. Manufacturer advises avoid.  ",
+                    "severity": "Severe",
+                    "id": "015febf5-9bf1-48ca-8c91-997bc4a9a502",
+                    "parentId": "4dd9a30c-1e51-42c2-949d-b27bcd87f180"
+                },
+                {
+                    "evidence": null,
+                    "description": "Both Ciclosporin and Tacrolimus can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "8f4cb7e9-0b20-455a-9a17-f36e1f6ce521",
+                    "parentId": "4dd9a30c-1e51-42c2-949d-b27bcd87f180"
+                },
+                {
+                    "evidence": null,
+                    "description": "Both Ciclosporin and Tacrolimus can increase the risk of hyperkalaemia (hyperkalaemia is particularly notable when ACE inhibitors or angiotensin-II receptor antagonists are given with spironolactone or eplerenone).",
+                    "severity": "Normal",
+                    "id": "7392138d-191c-40e1-826c-6b5527a96dc7",
+                    "parentId": "4dd9a30c-1e51-42c2-949d-b27bcd87f180"
+                }
+            ],
+            "id": "4dd9a30c-1e51-42c2-949d-b27bcd87f180",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "talazoparib-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Ciclosporin is predicted to slightly increase the exposure to Talazoparib. Manufacturer advises avoid or adjust dose\u2014consult product literature.  ",
+                    "severity": "Severe",
+                    "id": "e231ff81-7ea2-4d3f-93ae-30d166ed3141",
+                    "parentId": "57224576-5aca-4edd-8a48-e4b17611a301"
+                }
+            ],
+            "id": "57224576-5aca-4edd-8a48-e4b17611a301",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "tebentafusp-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Tebentafusp is predicted to transiently increase the exposure to Ciclosporin. Manufacturer advises monitor and adjust dose.  ",
+                    "severity": "Moderate",
+                    "id": "d28360ce-d47d-4324-adac-59fabc4ec70f",
+                    "parentId": "e808b942-3ccc-4f65-b2c6-472f9513c72c"
+                }
+            ],
+            "id": "e808b942-3ccc-4f65-b2c6-472f9513c72c",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "teclistamab-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Teclistamab might affect the exposure to Ciclosporin. Manufacturer advises monitor.  ",
+                    "severity": "Moderate",
+                    "id": "6f6214c3-41c4-4eca-bfb7-f31975f254fe",
+                    "parentId": "d835f7ad-e2d8-41fe-8d3a-80a211998001"
+                }
+            ],
+            "id": "d835f7ad-e2d8-41fe-8d3a-80a211998001",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "telmisartan",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Ciclosporin and Telmisartan can increase the risk of hyperkalaemia (hyperkalaemia is particularly notable when ACE inhibitors or angiotensin-II receptor antagonists are given with spironolactone or eplerenone).",
+                    "severity": "Normal",
+                    "id": "2ee09674-5eb4-40a8-b602-0551e2479d37",
+                    "parentId": "b5f0380c-bdc7-490d-9b51-b2adaf64954e"
+                }
+            ],
+            "id": "b5f0380c-bdc7-490d-9b51-b2adaf64954e",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "tenofovir-alafenamide",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Ciclosporin is predicted to increase the exposure to Tenofovir alafenamide. Manufacturer makes no recommendation.  ",
+                    "severity": "Moderate",
+                    "id": "a202261f-ceba-41d3-b417-0c12cf5d4619",
+                    "parentId": "8a4a4c0d-5d6c-4b6e-94a5-ba8c8bcf1e87"
+                }
+            ],
+            "id": "8a4a4c0d-5d6c-4b6e-94a5-ba8c8bcf1e87",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "tenofovir-disoproxil",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Ciclosporin is predicted to increase the exposure to Tenofovir disoproxil. Manufacturer makes no recommendation.  ",
+                    "severity": "Moderate",
+                    "id": "add62347-998f-42b3-8b8a-d5e9f2039492",
+                    "parentId": "92e088f6-2d87-41ec-9b29-657d00211b8a"
+                },
+                {
+                    "evidence": null,
+                    "description": "Both Ciclosporin and Tenofovir disoproxil can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "7d5479dd-0424-4ae9-a050-e388f13d7fae",
+                    "parentId": "92e088f6-2d87-41ec-9b29-657d00211b8a"
+                }
+            ],
+            "id": "92e088f6-2d87-41ec-9b29-657d00211b8a",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "tenoxicam",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Ciclosporin and Tenoxicam can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "ae33387c-f89f-4765-9421-88dc84c7c85e",
+                    "parentId": "a761bab3-b5da-4376-b65c-bbfc088b6a41"
+                },
+                {
+                    "evidence": null,
+                    "description": "Both Ciclosporin and Tenoxicam can increase the risk of hyperkalaemia (hyperkalaemia is particularly notable when ACE inhibitors or angiotensin-II receptor antagonists are given with spironolactone or eplerenone).",
+                    "severity": "Normal",
+                    "id": "6d443332-35c0-4b59-b7b5-07d6a5012d90",
+                    "parentId": "a761bab3-b5da-4376-b65c-bbfc088b6a41"
+                }
+            ],
+            "id": "a761bab3-b5da-4376-b65c-bbfc088b6a41",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "tiaprofenic-acid",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Ciclosporin and Tiaprofenic acid can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "edb3756d-f042-49d3-be93-08b43559a8c6",
+                    "parentId": "f706bd93-3968-4439-85cd-25357865a5f1"
+                },
+                {
+                    "evidence": null,
+                    "description": "Both Ciclosporin and Tiaprofenic acid can increase the risk of hyperkalaemia (hyperkalaemia is particularly notable when ACE inhibitors or angiotensin-II receptor antagonists are given with spironolactone or eplerenone).",
+                    "severity": "Normal",
+                    "id": "f5ae6d6b-f90b-4d9c-bf24-7759670ef52e",
+                    "parentId": "f706bd93-3968-4439-85cd-25357865a5f1"
+                }
+            ],
+            "id": "f706bd93-3968-4439-85cd-25357865a5f1",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "ticagrelor",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Ciclosporin is predicted to increase the exposure to Ticagrelor. Manufacturer advises use with caution or avoid.  ",
+                    "severity": "Severe",
+                    "id": "c66d29e8-1666-4d81-9531-b684b830c72f",
+                    "parentId": "5e07bcdd-e017-46df-968f-509fdd26941b"
+                }
+            ],
+            "id": "5e07bcdd-e017-46df-968f-509fdd26941b",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "tigecycline",
+            "details": [
+                {
+                    "evidence": "Anecdotal",
+                    "description": "Ciclosporin might increase the exposure to Tigecycline and Tigecycline has been reported to increase the concentration of Ciclosporin. Manufacturer advises monitor Ciclosporin concentration.  ",
+                    "severity": "Severe",
+                    "id": "68a80431-980a-4352-b31e-0b1bb6c93987",
+                    "parentId": "46c0551f-1cb3-4c45-b2e9-658879422e9b"
+                }
+            ],
+            "id": "46c0551f-1cb3-4c45-b2e9-658879422e9b",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "tobramycin",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Ciclosporin and Tobramycin can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "8375d77a-0aeb-427a-87c4-0c2887233c1e",
+                    "parentId": "7e17cecc-45b3-4e58-b5fd-f17c14010564"
+                }
+            ],
+            "id": "7e17cecc-45b3-4e58-b5fd-f17c14010564",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "tocilizumab",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Tocilizumab is predicted to decrease the exposure to Ciclosporin. Manufacturer advises monitor and adjust dose.  ",
+                    "severity": "Moderate",
+                    "id": "35de343e-dec7-4b0d-b515-faafdbbcab65",
+                    "parentId": "8816407a-683c-45a2-9b88-432241ce4684"
+                }
+            ],
+            "id": "8816407a-683c-45a2-9b88-432241ce4684",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "tofacitinib",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Ciclosporin increases the exposure to Tofacitinib. Manufacturer advises avoid.  ",
+                    "severity": "Severe",
+                    "id": "35e6cb3c-0f9f-4049-9798-790695887b11",
+                    "parentId": "dd58c3b0-eb55-4305-a853-0eb33ee42a3f"
+                }
+            ],
+            "id": "dd58c3b0-eb55-4305-a853-0eb33ee42a3f",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "tolfenamic-acid",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Ciclosporin and Tolfenamic acid can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "5e0f627b-60e3-4016-bf6b-e302cadb176c",
+                    "parentId": "14a138b8-eccb-49fe-a130-5877d755d135"
+                },
+                {
+                    "evidence": null,
+                    "description": "Both Ciclosporin and Tolfenamic acid can increase the risk of hyperkalaemia (hyperkalaemia is particularly notable when ACE inhibitors or angiotensin-II receptor antagonists are given with spironolactone or eplerenone).",
+                    "severity": "Normal",
+                    "id": "dbfc05c4-6c2e-47cf-83bf-69a6282cee7c",
+                    "parentId": "14a138b8-eccb-49fe-a130-5877d755d135"
+                }
+            ],
+            "id": "14a138b8-eccb-49fe-a130-5877d755d135",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "tolvaptan",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Ciclosporin and Tolvaptan can increase the risk of hyperkalaemia (hyperkalaemia is particularly notable when ACE inhibitors or angiotensin-II receptor antagonists are given with spironolactone or eplerenone).",
+                    "severity": "Normal",
+                    "id": "2b887175-a4b9-4813-b795-8911cd74ccc2",
+                    "parentId": "080b9092-f5cd-4f40-8a91-e128902450fc"
+                }
+            ],
+            "id": "080b9092-f5cd-4f40-8a91-e128902450fc",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "topotecan-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Ciclosporin is predicted to increase the exposure to Topotecan. Manufacturer advises monitor.  ",
+                    "severity": "Severe",
+                    "id": "14954e71-71af-48ef-a65d-5ddc00ac680e",
+                    "parentId": "0efc0801-fca9-4951-a125-bc52e73ec113"
+                }
+            ],
+            "id": "0efc0801-fca9-4951-a125-bc52e73ec113",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "trametinib-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Ciclosporin is predicted to increase the concentration of Trametinib. Manufacturer advises caution.  ",
+                    "severity": "Moderate",
+                    "id": "20b7a085-8246-4451-b6d7-09fffa51e65b",
+                    "parentId": "99d10e57-3249-4644-9c6d-bbd7154916fb"
+                }
+            ],
+            "id": "99d10e57-3249-4644-9c6d-bbd7154916fb",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "trandolapril",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Ciclosporin and Trandolapril can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "f616466e-0863-4f8b-85cf-850752c1e0c9",
+                    "parentId": "2b5a76ed-d8fa-43f6-83f6-90da880ee8c9"
+                },
+                {
+                    "evidence": null,
+                    "description": "Both Ciclosporin and Trandolapril can increase the risk of hyperkalaemia (hyperkalaemia is particularly notable when ACE inhibitors or angiotensin-II receptor antagonists are given with spironolactone or eplerenone).",
+                    "severity": "Normal",
+                    "id": "a3307220-39fe-42ac-8726-922f4bbe8664",
+                    "parentId": "2b5a76ed-d8fa-43f6-83f6-90da880ee8c9"
+                }
+            ],
+            "id": "2b5a76ed-d8fa-43f6-83f6-90da880ee8c9",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "triamterene",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Ciclosporin and Triamterene can increase the risk of hyperkalaemia (hyperkalaemia is particularly notable when ACE inhibitors or angiotensin-II receptor antagonists are given with spironolactone or eplerenone).",
+                    "severity": "Normal",
+                    "id": "ca560467-57d6-4545-88ea-06d2ff2a89c9",
+                    "parentId": "d4443eba-145e-44f6-9296-8cbec53e36e1"
+                }
+            ],
+            "id": "d4443eba-145e-44f6-9296-8cbec53e36e1",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "trimethoprim",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Ciclosporin and Trimethoprim can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "25ea9dc0-bf9d-4c27-85ee-cd6a86d6b7b8",
+                    "parentId": "38bba775-17db-43da-b619-4468e51f3341"
+                },
+                {
+                    "evidence": null,
+                    "description": "Both Ciclosporin and Trimethoprim can increase the risk of hyperkalaemia (hyperkalaemia is particularly notable when ACE inhibitors or angiotensin-II receptor antagonists are given with spironolactone or eplerenone).",
+                    "severity": "Normal",
+                    "id": "7c98e854-ee84-411c-9013-f66d8d681824",
+                    "parentId": "38bba775-17db-43da-b619-4468e51f3341"
+                }
+            ],
+            "id": "38bba775-17db-43da-b619-4468e51f3341",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "tucatinib-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Tucatinib increases the concentration of Ciclosporin. Manufacturer advises caution.  ",
+                    "severity": "Severe",
+                    "id": "b099db26-993e-4199-ac17-a4b7c8173135",
+                    "parentId": "b8979103-0c00-4d4b-8583-f34201dd5e64"
+                }
+            ],
+            "id": "b8979103-0c00-4d4b-8583-f34201dd5e64",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "typhoid-vaccine-live",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Typhoid vaccine (live) is predicted to increase the risk of generalised infection (possibly life-threatening) when given with Ciclosporin. UKHSA advises avoid (refer to Green Book).  ",
+                    "severity": "Severe",
+                    "id": "29855d9f-9d3e-460c-b94a-58f5f2d6c30d",
+                    "parentId": "9f25c375-42b9-439d-814a-179031fe8c62"
+                }
+            ],
+            "id": "9f25c375-42b9-439d-814a-179031fe8c62",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "ursodeoxycholic-acid",
+            "details": [
+                {
+                    "evidence": "Anecdotal",
+                    "description": "Ursodeoxycholic acid affects the concentration of Ciclosporin. Manufacturer advises use with caution and adjust dose.  ",
+                    "severity": "Severe",
+                    "id": "576fb391-0265-4126-9d34-17bdd5fa9c13",
+                    "parentId": "dd829737-ff5b-46d1-9d45-9f8745b2020a"
+                }
+            ],
+            "id": "dd829737-ff5b-46d1-9d45-9f8745b2020a",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "valaciclovir",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Ciclosporin and Valaciclovir can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "2abd9937-4cd3-4735-9b81-e46a1c0e65a5",
+                    "parentId": "e7d1cb95-65f9-4030-a86f-9207ee3875f8"
+                }
+            ],
+            "id": "e7d1cb95-65f9-4030-a86f-9207ee3875f8",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "valganciclovir",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Ciclosporin and Valganciclovir can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "1e17df2e-f689-4b81-a44c-b501bc6f1bfe",
+                    "parentId": "679ddb7c-269a-4af6-8bf9-be0cff3a28e9"
+                }
+            ],
+            "id": "679ddb7c-269a-4af6-8bf9-be0cff3a28e9",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "valsartan",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Ciclosporin and Valsartan can increase the risk of hyperkalaemia (hyperkalaemia is particularly notable when ACE inhibitors or angiotensin-II receptor antagonists are given with spironolactone or eplerenone).",
+                    "severity": "Normal",
+                    "id": "702f5fc8-3263-436f-a0fc-48d83e2d8206",
+                    "parentId": "ccca85f7-f265-4201-823a-78f1b439a765"
+                }
+            ],
+            "id": "ccca85f7-f265-4201-823a-78f1b439a765",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "vancomycin",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Ciclosporin and Vancomycin can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "e1a57913-16f2-4820-accb-b05639b8ab0d",
+                    "parentId": "7283ec29-3465-469c-88f4-0b42f464d193"
+                }
+            ],
+            "id": "7283ec29-3465-469c-88f4-0b42f464d193",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "varicella-zoster-vaccine",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Varicella-zoster vaccine is predicted to increase the risk of generalised infection (possibly life-threatening) when given with Ciclosporin. UKHSA advises avoid (refer to Green Book).  ",
+                    "severity": "Severe",
+                    "id": "1020e3c3-3e46-44e7-b79e-d222b0302761",
+                    "parentId": "bbdd4a1f-707d-40fd-99b1-b694276cb9be"
+                }
+            ],
+            "id": "bbdd4a1f-707d-40fd-99b1-b694276cb9be",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "vemurafenib-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Ciclosporin might affect the exposure to Vemurafenib. Manufacturer makes no recommendation.  ",
+                    "severity": "Severe",
+                    "id": "3c76855a-655c-4e83-8ef8-ef16a3dff40a",
+                    "parentId": "14ad7dae-4a66-4d82-b09b-847bad63498a"
+                }
+            ],
+            "id": "14ad7dae-4a66-4d82-b09b-847bad63498a",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "venetoclax-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Ciclosporin is predicted to increase the exposure to Venetoclax. Manufacturer advises avoid or monitor for toxicity.  ",
+                    "severity": "Severe",
+                    "id": "eb70d7f4-6ac3-4ba9-ada3-0cd93af6efa8",
+                    "parentId": "e3ef10fa-728c-4e4d-b160-d5f41625c8d2"
+                }
+            ],
+            "id": "e3ef10fa-728c-4e4d-b160-d5f41625c8d2",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "vinorelbine-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Ciclosporin might increase the exposure to Vinorelbine. Manufacturer makes no recommendation.  ",
+                    "severity": "Severe",
+                    "id": "b02db6b6-c2a5-4e57-8d5a-2451b2518804",
+                    "parentId": "607d4f4b-6a49-4130-9bf3-ae5aa3215ced"
+                }
+            ],
+            "id": "607d4f4b-6a49-4130-9bf3-ae5aa3215ced",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "voclosporin",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Ciclosporin and Voclosporin can increase the risk of nephrotoxicity.",
+                    "severity": "Normal",
+                    "id": "0a156237-6283-4947-bb2e-140dad95feb0",
+                    "parentId": "d76f8876-fdad-498c-9787-b736526a84b2"
+                },
+                {
+                    "evidence": null,
+                    "description": "Both Ciclosporin and Voclosporin can increase the risk of hyperkalaemia (hyperkalaemia is particularly notable when ACE inhibitors or angiotensin-II receptor antagonists are given with spironolactone or eplerenone).",
+                    "severity": "Normal",
+                    "id": "08303c11-061c-4c3c-a487-79764a741580",
+                    "parentId": "d76f8876-fdad-498c-9787-b736526a84b2"
+                }
+            ],
+            "id": "d76f8876-fdad-498c-9787-b736526a84b2",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "voriconazole",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Voriconazole increases the concentration of Ciclosporin. Manufacturer advises caution.  ",
+                    "severity": "Severe",
+                    "id": "5b6a43d5-7932-44c0-98d6-1481e3567019",
+                    "parentId": "c8a5783f-353e-4cf2-9d4e-f65d4e29977c"
+                }
+            ],
+            "id": "c8a5783f-353e-4cf2-9d4e-f65d4e29977c",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "yellow-fever-vaccine",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Yellow fever vaccine is predicted to increase the risk of generalised infection (possibly life-threatening) when given with Ciclosporin. UKHSA advises avoid (refer to Green Book).  ",
+                    "severity": "Severe",
+                    "id": "25f7287b-e992-4870-a599-c1f8f28f9748",
+                    "parentId": "472c6c52-2329-4f98-abb4-85adc575986f"
+                }
+            ],
+            "id": "472c6c52-2329-4f98-abb4-85adc575986f",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        }
+    ],
+    "id": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a",
+    "parentId": null
+}

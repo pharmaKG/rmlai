@@ -1,0 +1,1716 @@
+{
+    "interactions": [
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "acalabrutinib-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Apixaban causes bleeding, as can Acalabrutinib ; concurrent use might increase the risk of developing this effect. Manufacturer advises use with caution or avoid.  ",
+                    "severity": "Severe",
+                    "id": "9147ea1c-2fd3-4f73-bfb2-22758495bb4d",
+                    "parentId": "ddf20450-e008-4b91-b57f-65a4df392a28"
+                }
+            ],
+            "id": "ddf20450-e008-4b91-b57f-65a4df392a28",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "aceclofenac",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Apixaban causes bleeding, as can Aceclofenac ; concurrent use might increase the risk of developing this effect. Manufacturer advises use with caution or avoid.  ",
+                    "severity": "Severe",
+                    "id": "7169f9e6-0286-4232-93d5-000370dd9882",
+                    "parentId": "97a2b390-0bca-4425-a4ad-3472fdd74beb"
+                }
+            ],
+            "id": "97a2b390-0bca-4425-a4ad-3472fdd74beb",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "acenocoumarol",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Apixaban and Acenocoumarol can increase the risk of bleeding.",
+                    "severity": "Severe",
+                    "id": "5e44fbd0-07c0-42ff-9a5f-3bf1aeab2b40",
+                    "parentId": "fa558732-0893-4972-98c4-bba8e62e0bd9"
+                }
+            ],
+            "id": "fa558732-0893-4972-98c4-bba8e62e0bd9",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "alprostadil",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Apixaban causes bleeding, as can Alprostadil ; concurrent use might increase the risk of developing this effect. Manufacturer advises use with caution or avoid.  ",
+                    "severity": "Severe",
+                    "id": "9be13dcb-2fe5-41ff-a280-b699f1bdf43e",
+                    "parentId": "dd8a9237-6dd8-46fa-a3b4-27629b00933d"
+                }
+            ],
+            "id": "dd8a9237-6dd8-46fa-a3b4-27629b00933d",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "alteplase",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Apixaban and Alteplase can increase the risk of bleeding.",
+                    "severity": "Severe",
+                    "id": "f5a64613-85a5-40e7-8427-a6cd98679caf",
+                    "parentId": "85c644b3-057e-443c-836e-bcd358fb9f3e"
+                }
+            ],
+            "id": "85c644b3-057e-443c-836e-bcd358fb9f3e",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "anagrelide-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Apixaban causes bleeding, as can Anagrelide ; concurrent use might increase the risk of developing this effect. Manufacturer advises use with caution or avoid.  ",
+                    "severity": "Severe",
+                    "id": "a67fc6ab-0350-4878-bb68-ce7875675ec6",
+                    "parentId": "bf3413bb-eadb-475d-a376-f21da631bb25"
+                }
+            ],
+            "id": "bf3413bb-eadb-475d-a376-f21da631bb25",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "apalutamide",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Apalutamide is predicted to decrease the exposure to Apixaban. Manufacturer makes no recommendation.  ",
+                    "severity": "Moderate",
+                    "id": "9709b024-2f0a-4c6d-84c0-481678724068",
+                    "parentId": "2251ce26-5ad3-4442-9335-94b908018ec4"
+                }
+            ],
+            "id": "2251ce26-5ad3-4442-9335-94b908018ec4",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "asparaginase-specialist-drug",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Apixaban and Asparaginase can increase the risk of bleeding.",
+                    "severity": "Severe",
+                    "id": "e88a21a4-51b8-43c4-9369-38a1aae6f780",
+                    "parentId": "3c2db915-ff19-4f08-8d2e-dd11b2e38ce7"
+                }
+            ],
+            "id": "3c2db915-ff19-4f08-8d2e-dd11b2e38ce7",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "aspirin",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Apixaban causes bleeding, as can Aspirin ; concurrent use might increase the risk of developing this effect. Manufacturer advises use with caution or avoid.  ",
+                    "severity": "Severe",
+                    "id": "25495058-0f1f-4387-b976-903cb008aa2f",
+                    "parentId": "039724b0-8f41-41ab-bffc-8249e921b2a3"
+                }
+            ],
+            "id": "039724b0-8f41-41ab-bffc-8249e921b2a3",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "atazanavir",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Atazanavir boosted with ritonavir is predicted to increase the exposure to Apixaban. Manufacturer makes no recommendation.  ",
+                    "severity": "Severe",
+                    "id": "4a0b57e9-96e4-4682-91f9-bc1932316abb",
+                    "parentId": "cd2e188f-628e-4ad1-9f29-a3bdb1d1697c"
+                }
+            ],
+            "id": "cd2e188f-628e-4ad1-9f29-a3bdb1d1697c",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "avapritinib-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Apixaban might increase the risk of bleeding when given with Avapritinib. Manufacturer advises monitor.  ",
+                    "severity": "Severe",
+                    "id": "5a389309-9acf-4e56-ba20-8a02f44c0689",
+                    "parentId": "e7ab5353-6cde-401e-b0f5-5a1cb8090d38"
+                }
+            ],
+            "id": "e7ab5353-6cde-401e-b0f5-5a1cb8090d38",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "axitinib-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Apixaban causes bleeding, as can Axitinib ; concurrent use might increase the risk of developing this effect. Manufacturer advises use with caution or avoid.  ",
+                    "severity": "Severe",
+                    "id": "f1d892f8-0270-406d-96f0-1e9d7889569e",
+                    "parentId": "6a5c1574-9a85-4164-8854-bda9080fb6bf"
+                }
+            ],
+            "id": "6a5c1574-9a85-4164-8854-bda9080fb6bf",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "azithromycin",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Azithromycin is predicted to increase the exposure to Apixaban. Manufacturer makes no recommendation.  ",
+                    "severity": "Moderate",
+                    "id": "71836d53-8527-4d32-87fa-a0fb35e684d8",
+                    "parentId": "90c2a9be-782c-46e7-a158-4c15329b9144"
+                }
+            ],
+            "id": "90c2a9be-782c-46e7-a158-4c15329b9144",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "bevacizumab-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Apixaban causes bleeding, as can Bevacizumab ; concurrent use might increase the risk of developing this effect. Manufacturer makes no recommendation.  ",
+                    "severity": "Severe",
+                    "id": "5fa08a58-c1aa-4515-a28d-e9425cd44dd8",
+                    "parentId": "f591f4f2-1bd8-4bd4-8b50-f4957e96f6c0"
+                }
+            ],
+            "id": "f591f4f2-1bd8-4bd4-8b50-f4957e96f6c0",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "bivalirudin",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Apixaban and Bivalirudin can increase the risk of bleeding.",
+                    "severity": "Severe",
+                    "id": "f2188d5b-5b03-403f-a5a2-3a6f56a3adf8",
+                    "parentId": "4031d91b-3f00-4050-8f33-11c0ba04c3ff"
+                }
+            ],
+            "id": "4031d91b-3f00-4050-8f33-11c0ba04c3ff",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "bosutinib-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Apixaban causes bleeding, as can Bosutinib ; concurrent use might increase the risk of developing this effect. Manufacturer advises use with caution or avoid.  ",
+                    "severity": "Severe",
+                    "id": "c0998c71-69df-4a0f-a552-10bb3595921e",
+                    "parentId": "b6524f69-21ab-4ed0-94e1-daf3aa48bd5e"
+                }
+            ],
+            "id": "b6524f69-21ab-4ed0-94e1-daf3aa48bd5e",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "bromfenac",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Apixaban causes bleeding, as can Bromfenac ; concurrent use might increase the risk of developing this effect. Manufacturer advises use with caution or avoid.  ",
+                    "severity": "Severe",
+                    "id": "5a55ba1a-8a70-46bc-a58d-26df835e934b",
+                    "parentId": "70c84c03-8e32-4dc0-a1dc-14eb66715dda"
+                }
+            ],
+            "id": "70c84c03-8e32-4dc0-a1dc-14eb66715dda",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "cabozantinib-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Apixaban causes bleeding, as can Cabozantinib ; concurrent use might increase the risk of developing this effect. Manufacturer makes no recommendation.  ",
+                    "severity": "Severe",
+                    "id": "6cd812ff-6ae2-4dd9-9f8f-7c1bf0e3386f",
+                    "parentId": "7a763976-78f3-44ab-bed5-e30eeccb2053"
+                }
+            ],
+            "id": "7a763976-78f3-44ab-bed5-e30eeccb2053",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "cangrelor",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Apixaban causes bleeding, as can Cangrelor ; concurrent use might increase the risk of developing this effect. Manufacturer advises use with caution or avoid.  ",
+                    "severity": "Severe",
+                    "id": "7d9aaba9-574b-4d55-ae92-e2b349249749",
+                    "parentId": "c93a82e8-0781-45cb-bc24-1349eb6f6d9b"
+                }
+            ],
+            "id": "c93a82e8-0781-45cb-bc24-1349eb6f6d9b",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "caplacizumab",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Apixaban causes bleeding, as can Caplacizumab ; concurrent use might increase the risk of developing this effect. Manufacturer advises monitor.  ",
+                    "severity": "Severe",
+                    "id": "dba34a0c-8194-4ae7-897c-7fac81c4867f",
+                    "parentId": "e809ab5d-7aed-4e6b-a7e1-de9eb70ba0db"
+                }
+            ],
+            "id": "e809ab5d-7aed-4e6b-a7e1-de9eb70ba0db",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "carbamazepine",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Carbamazepine is predicted to decrease the exposure to Apixaban. Manufacturer advises use with caution or avoid.  ",
+                    "severity": "Severe",
+                    "id": "78279df1-8efb-420b-a9fa-174fd31b9c3c",
+                    "parentId": "ad92eb95-197e-4a05-a76f-88c1fd70d2b5"
+                }
+            ],
+            "id": "ad92eb95-197e-4a05-a76f-88c1fd70d2b5",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "celecoxib",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Apixaban causes bleeding, as can Celecoxib ; concurrent use might increase the risk of developing this effect. Manufacturer advises use with caution or avoid.  ",
+                    "severity": "Severe",
+                    "id": "77c6eefe-b966-43ff-979b-6aaecec1334f",
+                    "parentId": "7eab05b9-6be1-44e8-820f-4552b25f21a7"
+                }
+            ],
+            "id": "7eab05b9-6be1-44e8-820f-4552b25f21a7",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "ciclosporin",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Ciclosporin is predicted to increase the exposure to Apixaban. Manufacturer makes no recommendation.  ",
+                    "severity": "Moderate",
+                    "id": "f1f736f1-8428-4e63-83c8-047d80ffa5f9",
+                    "parentId": "a7c7e1aa-1afc-40a3-a463-1365b66133e9"
+                }
+            ],
+            "id": "a7c7e1aa-1afc-40a3-a463-1365b66133e9",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "cilostazol",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Apixaban causes bleeding, as can Cilostazol ; concurrent use might increase the risk of developing this effect. Manufacturer advises use with caution or avoid.  ",
+                    "severity": "Severe",
+                    "id": "d2f271b7-5ca2-4f82-94de-bbe9a3f5f83c",
+                    "parentId": "b64a93ff-a5ce-47c2-812a-21b48a492515"
+                }
+            ],
+            "id": "b64a93ff-a5ce-47c2-812a-21b48a492515",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "citalopram",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Apixaban causes bleeding, as can Citalopram ; concurrent use might increase the risk of developing this effect. Manufacturer advises use with caution or avoid.  ",
+                    "severity": "Severe",
+                    "id": "228aed72-fe54-4bc1-90eb-a583f0ff095c",
+                    "parentId": "b95768f2-be9d-42e1-8364-660ac4031146"
+                }
+            ],
+            "id": "b95768f2-be9d-42e1-8364-660ac4031146",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "clarithromycin",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Clarithromycin slightly increases the exposure to Apixaban. Manufacturer makes no recommendation.  ",
+                    "severity": "Moderate",
+                    "id": "09685378-aa18-4c38-b0cf-7b65de103ead",
+                    "parentId": "fb6e1ff4-7ad5-468d-9e48-70370375b328"
+                }
+            ],
+            "id": "fb6e1ff4-7ad5-468d-9e48-70370375b328",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "clopidogrel",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Apixaban causes bleeding, as can Clopidogrel ; concurrent use might increase the risk of developing this effect. Manufacturer advises use with caution or avoid.  ",
+                    "severity": "Severe",
+                    "id": "52e249c9-545e-437f-a968-1be01ae79a25",
+                    "parentId": "09145eab-abae-4741-996b-b57457cab0ab"
+                }
+            ],
+            "id": "09145eab-abae-4741-996b-b57457cab0ab",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "cobicistat",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Cobicistat is predicted to increase the exposure to Apixaban. Manufacturer advises avoid.  ",
+                    "severity": "Severe",
+                    "id": "5b5db623-9a65-46b9-abc5-b94f7126b9d9",
+                    "parentId": "aea31e97-d293-46ea-b800-f3ee1668a6dc"
+                }
+            ],
+            "id": "aea31e97-d293-46ea-b800-f3ee1668a6dc",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "crisantaspase-specialist-drug",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Apixaban and Crisantaspase can increase the risk of bleeding.",
+                    "severity": "Severe",
+                    "id": "47230db3-8669-4132-b7be-dc2e1cc31d96",
+                    "parentId": "54edc42b-0f8c-4efe-8263-5a38f482bb2c"
+                }
+            ],
+            "id": "54edc42b-0f8c-4efe-8263-5a38f482bb2c",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "dapoxetine",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Apixaban causes bleeding, as can Dapoxetine ; concurrent use might increase the risk of developing this effect. Manufacturer advises use with caution or avoid.  ",
+                    "severity": "Severe",
+                    "id": "fc80e648-0a23-42ed-a247-58d9fe1f3bbd",
+                    "parentId": "124b60fd-fa10-4ba1-880f-722c5c2b6675"
+                }
+            ],
+            "id": "124b60fd-fa10-4ba1-880f-722c5c2b6675",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "darunavir",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Darunavir boosted with ritonavir or cobicistat is predicted to increase the exposure to Apixaban. Manufacturer advises avoid.  ",
+                    "severity": "Severe",
+                    "id": "82e85c6a-7619-4199-ae17-e3105ff83934",
+                    "parentId": "dcb0dc11-7a14-48e1-896e-35073fb78203"
+                }
+            ],
+            "id": "dcb0dc11-7a14-48e1-896e-35073fb78203",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "dasatinib-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Apixaban causes bleeding, as can Dasatinib ; concurrent use might increase the risk of developing this effect. Manufacturer advises use with caution or avoid.  ",
+                    "severity": "Severe",
+                    "id": "08bf785a-f332-4734-a1ba-6c08f870ed7c",
+                    "parentId": "98010bb8-58f4-4074-aa16-e74aa90c7de4"
+                }
+            ],
+            "id": "98010bb8-58f4-4074-aa16-e74aa90c7de4",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "dexketoprofen",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Apixaban causes bleeding, as can Dexketoprofen ; concurrent use might increase the risk of developing this effect. Manufacturer advises use with caution or avoid.  ",
+                    "severity": "Severe",
+                    "id": "ce030227-404a-4cd2-8faf-194bd8fb58a3",
+                    "parentId": "80b8abaa-4346-408b-b9d4-7ee9d8bcc785"
+                }
+            ],
+            "id": "80b8abaa-4346-408b-b9d4-7ee9d8bcc785",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "dipyridamole",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Apixaban causes bleeding, as can Dipyridamole ; concurrent use might increase the risk of developing this effect. Manufacturer advises use with caution or avoid.  ",
+                    "severity": "Severe",
+                    "id": "38845203-87b6-46ec-a31d-6d72c8f2d8e1",
+                    "parentId": "4523d43b-ed94-4417-913b-4aa37ddac359"
+                }
+            ],
+            "id": "4523d43b-ed94-4417-913b-4aa37ddac359",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "donanemab",
+            "details": [
+                {
+                    "evidence": "Anecdotal",
+                    "description": "Donanemab can increase the risk of brain haemorrhage when given with Apixaban. Manufacturer advises avoid.  ",
+                    "severity": "Severe",
+                    "id": "9a174749-02a6-4429-92cf-6351ebf98830",
+                    "parentId": "75600f68-14ff-4a81-9727-57c086a7987b"
+                }
+            ],
+            "id": "75600f68-14ff-4a81-9727-57c086a7987b",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "dronedarone",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Dronedarone is predicted to increase the exposure to Apixaban. Manufacturer makes no recommendation.  ",
+                    "severity": "Moderate",
+                    "id": "2ae495c7-cad5-42cb-9c20-101f32dc7485",
+                    "parentId": "9b2fcf60-23a3-40a2-bc15-d749f15ba6bd"
+                }
+            ],
+            "id": "9b2fcf60-23a3-40a2-bc15-d749f15ba6bd",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "duloxetine",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Apixaban causes bleeding, as can Duloxetine ; concurrent use might increase the risk of developing this effect. Manufacturer advises use with caution or avoid.  ",
+                    "severity": "Severe",
+                    "id": "aa6ac5c8-04c8-4136-b359-1fde80b045d9",
+                    "parentId": "7890013e-13c2-4fd2-a95b-6d2e22e173b3"
+                }
+            ],
+            "id": "7890013e-13c2-4fd2-a95b-6d2e22e173b3",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "enzalutamide",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Enzalutamide is predicted to decrease the exposure to Apixaban. Manufacturer makes no recommendation.  ",
+                    "severity": "Moderate",
+                    "id": "ce6aebc4-b565-49b8-850b-eed2328edd85",
+                    "parentId": "44a9b78b-e034-493b-912b-d7ac3e8111b2"
+                }
+            ],
+            "id": "44a9b78b-e034-493b-912b-d7ac3e8111b2",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "epoprostenol",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Apixaban causes bleeding, as can Epoprostenol ; concurrent use might increase the risk of developing this effect. Manufacturer advises use with caution or avoid.  ",
+                    "severity": "Severe",
+                    "id": "c14cf9cf-fff5-4b43-8677-5299a3b7be66",
+                    "parentId": "b9519d75-d67b-4d56-8040-04ed37190810"
+                }
+            ],
+            "id": "b9519d75-d67b-4d56-8040-04ed37190810",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "eptifibatide",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Apixaban and Eptifibatide can increase the risk of bleeding.",
+                    "severity": "Severe",
+                    "id": "07b3baee-e2a1-408d-840a-979e2137c13d",
+                    "parentId": "2533c493-5ccf-4602-a13f-f9044ea595cd"
+                }
+            ],
+            "id": "2533c493-5ccf-4602-a13f-f9044ea595cd",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "erdafitinib-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Erdafitinib is predicted to increase the exposure to Apixaban. Manufacturer advises separate administration by at least 6 hours.  ",
+                    "severity": "Moderate",
+                    "id": "7cc969ce-c372-487e-b7ef-0ebdc9d359e1",
+                    "parentId": "8d641ba9-f23a-4951-b2f6-77acd15f41a4"
+                }
+            ],
+            "id": "8d641ba9-f23a-4951-b2f6-77acd15f41a4",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "erythromycin",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Erythromycin is predicted to increase the exposure to Apixaban. Manufacturer makes no recommendation.  ",
+                    "severity": "Moderate",
+                    "id": "20d626f7-5784-4659-a890-c8674214894c",
+                    "parentId": "e3296bb2-1620-4d73-98a7-4edee573af33"
+                }
+            ],
+            "id": "e3296bb2-1620-4d73-98a7-4edee573af33",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "escitalopram",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Apixaban causes bleeding, as can Escitalopram ; concurrent use might increase the risk of developing this effect. Manufacturer advises use with caution or avoid.  ",
+                    "severity": "Severe",
+                    "id": "153ba8bc-4585-436d-86a8-1c3e293c15b4",
+                    "parentId": "74cf767f-6bde-47fa-8df1-b7743b397646"
+                }
+            ],
+            "id": "74cf767f-6bde-47fa-8df1-b7743b397646",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "etodolac",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Apixaban causes bleeding, as can Etodolac ; concurrent use might increase the risk of developing this effect. Manufacturer advises use with caution or avoid.  ",
+                    "severity": "Severe",
+                    "id": "44bc7d9b-93bb-4368-84d8-06a5707620f7",
+                    "parentId": "5282a1af-9252-482a-9da1-f232e02a2c80"
+                }
+            ],
+            "id": "5282a1af-9252-482a-9da1-f232e02a2c80",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "etoricoxib",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Apixaban causes bleeding, as can Etoricoxib ; concurrent use might increase the risk of developing this effect. Manufacturer advises use with caution or avoid.  ",
+                    "severity": "Severe",
+                    "id": "68221ef7-c2a3-4096-a6fb-afb352c33b36",
+                    "parentId": "2e8809fc-f3f4-48e9-9c9a-deefa7c376da"
+                }
+            ],
+            "id": "2e8809fc-f3f4-48e9-9c9a-deefa7c376da",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "fluconazole",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Fluconazole might increase the risk of bleeding when given with Apixaban. Manufacturer makes no recommendation.  ",
+                    "severity": "Moderate",
+                    "id": "312d9438-1141-4079-b481-e743319479c1",
+                    "parentId": "966d662e-ee16-4d6f-a9ac-e68cf15eec5b"
+                }
+            ],
+            "id": "966d662e-ee16-4d6f-a9ac-e68cf15eec5b",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "fluoxetine",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Apixaban causes bleeding, as can Fluoxetine ; concurrent use might increase the risk of developing this effect. Manufacturer advises use with caution or avoid.  ",
+                    "severity": "Severe",
+                    "id": "6dbd7800-b12d-4537-85fa-0fcccf899c65",
+                    "parentId": "b9eb214c-2f92-4850-a970-69fe063d4e7b"
+                }
+            ],
+            "id": "b9eb214c-2f92-4850-a970-69fe063d4e7b",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "flurbiprofen",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Apixaban causes bleeding, as can Flurbiprofen ; concurrent use might increase the risk of developing this effect. Manufacturer advises use with caution or avoid.  ",
+                    "severity": "Severe",
+                    "id": "7cb839d9-4ac1-42ef-8a0f-939e48e12399",
+                    "parentId": "839fc289-a48f-4800-81bd-811d59892a31"
+                }
+            ],
+            "id": "839fc289-a48f-4800-81bd-811d59892a31",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "fosamprenavir",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Fosamprenavir boosted with ritonavir is predicted to increase the exposure to Apixaban. Manufacturer makes no recommendation.  ",
+                    "severity": "Moderate",
+                    "id": "d0774a84-5352-4ba6-899a-811bf70f257a",
+                    "parentId": "7fdeeee7-61d5-4750-a4bb-8eca3b303109"
+                }
+            ],
+            "id": "7fdeeee7-61d5-4750-a4bb-8eca3b303109",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "ibrutinib-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Apixaban causes bleeding, as can Ibrutinib ; concurrent use might increase the risk of developing this effect. Manufacturer advises use with caution or avoid.  ",
+                    "severity": "Severe",
+                    "id": "be5300e9-d549-4424-82b0-099595bb4d7c",
+                    "parentId": "4c99dae7-5afb-4860-9fdb-cf3c990ce66e"
+                }
+            ],
+            "id": "4c99dae7-5afb-4860-9fdb-cf3c990ce66e",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "ibuprofen",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Apixaban causes bleeding, as can Ibuprofen ; concurrent use might increase the risk of developing this effect. Manufacturer advises use with caution or avoid.  ",
+                    "severity": "Severe",
+                    "id": "cfcacb18-2d14-4876-b491-51201c094d49",
+                    "parentId": "7c76cfab-d3ea-44a8-9298-d46fb350e508"
+                }
+            ],
+            "id": "7c76cfab-d3ea-44a8-9298-d46fb350e508",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "idelalisib-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Idelalisib is predicted to increase the exposure to Apixaban. Manufacturer makes no recommendation.  ",
+                    "severity": "Moderate",
+                    "id": "3601d7bd-35ca-45a5-aae5-409d4d730875",
+                    "parentId": "82a3c0ed-4ee1-48cc-afd8-c54f471dd0ad"
+                }
+            ],
+            "id": "82a3c0ed-4ee1-48cc-afd8-c54f471dd0ad",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "iloprost",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Apixaban causes bleeding, as can Iloprost ; concurrent use might increase the risk of developing this effect. Manufacturer advises use with caution or avoid.  ",
+                    "severity": "Severe",
+                    "id": "3106de1b-5008-47e2-80a0-7699cff14d3b",
+                    "parentId": "ce26d327-850a-4b93-a433-6e23a13e9281"
+                }
+            ],
+            "id": "ce26d327-850a-4b93-a433-6e23a13e9281",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "imatinib-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Apixaban causes bleeding, as can Imatinib ; concurrent use might increase the risk of developing this effect. Manufacturer advises use with caution or avoid.  ",
+                    "severity": "Severe",
+                    "id": "9856e3e4-ab0b-49b0-aa4e-706ba28b5a90",
+                    "parentId": "4854e154-ad1f-4b5b-9949-d8a57987b35e"
+                }
+            ],
+            "id": "4854e154-ad1f-4b5b-9949-d8a57987b35e",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "indometacin",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Apixaban causes bleeding, as can Indometacin ; concurrent use might increase the risk of developing this effect. Manufacturer advises use with caution or avoid.  ",
+                    "severity": "Severe",
+                    "id": "35f34af8-46d7-4a83-b5c6-262e0663639f",
+                    "parentId": "6abee56b-80f9-4dc9-a712-ad1db7e37142"
+                }
+            ],
+            "id": "6abee56b-80f9-4dc9-a712-ad1db7e37142",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "inotersen",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Apixaban causes bleeding, as can Inotersen ; concurrent use might increase the risk of developing this effect. Manufacturer advises caution.  ",
+                    "severity": "Severe",
+                    "id": "f1c6974b-317b-4f79-ab52-6b23b15274f9",
+                    "parentId": "2449fff2-2b13-446f-b4e3-8e303f8347a1"
+                }
+            ],
+            "id": "2449fff2-2b13-446f-b4e3-8e303f8347a1",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "ipilimumab-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Apixaban might increase the risk of gastrointestinal bleeding when given with Ipilimumab. Manufacturer advises monitor.  ",
+                    "severity": "Severe",
+                    "id": "a135d639-738a-4f99-bb06-71d296bb9f1a",
+                    "parentId": "90baa2f5-898b-4eb8-a32b-d39b8284b72a"
+                }
+            ],
+            "id": "90baa2f5-898b-4eb8-a32b-d39b8284b72a",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "itraconazole",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Itraconazole is predicted to increase the exposure to Apixaban. Manufacturer advises avoid.  ",
+                    "severity": "Severe",
+                    "id": "7c3ea236-2601-4616-99ed-a2109a69bcf7",
+                    "parentId": "8eb2f771-7c2d-4513-a3f3-f44d1afe1640"
+                }
+            ],
+            "id": "8eb2f771-7c2d-4513-a3f3-f44d1afe1640",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "ketoconazole",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Ketoconazole moderately increases the exposure to Apixaban. Manufacturer advises avoid.  ",
+                    "severity": "Severe",
+                    "id": "0919115b-d099-4588-9698-168299058594",
+                    "parentId": "3f10ca09-ab17-4d97-a95f-5f45c9461b2b"
+                }
+            ],
+            "id": "3f10ca09-ab17-4d97-a95f-5f45c9461b2b",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "ketoprofen",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Apixaban causes bleeding, as can Ketoprofen ; concurrent use might increase the risk of developing this effect. Manufacturer advises use with caution or avoid.  ",
+                    "severity": "Severe",
+                    "id": "fcbf0f53-38dc-47e7-bc3b-db153707c3e7",
+                    "parentId": "1640ef73-dc8b-4dfc-bd85-68322ef83e26"
+                }
+            ],
+            "id": "1640ef73-dc8b-4dfc-bd85-68322ef83e26",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "lapatinib-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Lapatinib is predicted to increase the exposure to Apixaban. Manufacturer makes no recommendation.  ",
+                    "severity": "Moderate",
+                    "id": "e21a1b19-5f53-423b-982a-2f2e9db99430",
+                    "parentId": "e1a97293-700b-4b57-aa17-1af30614dc52"
+                }
+            ],
+            "id": "e1a97293-700b-4b57-aa17-1af30614dc52",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "lecanemab",
+            "details": [
+                {
+                    "evidence": "Anecdotal",
+                    "description": "Lecanemab can increase the risk of brain haemorrhage when given with Apixaban. Manufacturer advises avoid.  ",
+                    "severity": "Severe",
+                    "id": "fec9078c-721b-48e9-b305-df5555a044a4",
+                    "parentId": "311dbfaa-6389-4797-9f66-0f67032fc56d"
+                }
+            ],
+            "id": "311dbfaa-6389-4797-9f66-0f67032fc56d",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "lenvatinib-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Apixaban causes bleeding, as can Lenvatinib ; concurrent use might increase the risk of developing this effect. Manufacturer advises use with caution or avoid.  ",
+                    "severity": "Severe",
+                    "id": "34ab2a4d-e938-454e-b1b9-f2a2147cca4c",
+                    "parentId": "d6cf3159-58b4-4f04-9065-45aff2787dbc"
+                }
+            ],
+            "id": "d6cf3159-58b4-4f04-9065-45aff2787dbc",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "lorlatinib-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Lorlatinib is predicted to decrease the exposure to Apixaban. Manufacturer advises use with caution or avoid.  ",
+                    "severity": "Severe",
+                    "id": "3a5ed0cd-0a17-4c26-8b09-7334b8972c29",
+                    "parentId": "fcccb55d-bef7-4a88-a9f2-5f043a202689"
+                }
+            ],
+            "id": "fcccb55d-bef7-4a88-a9f2-5f043a202689",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "mefenamic-acid",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Apixaban causes bleeding, as can Mefenamic acid ; concurrent use might increase the risk of developing this effect. Manufacturer advises use with caution or avoid.  ",
+                    "severity": "Severe",
+                    "id": "1292035e-6c6d-42f8-ad78-8d32ea56c325",
+                    "parentId": "8e027c47-4d9a-4f6d-a5b9-cbd1df2f8b13"
+                }
+            ],
+            "id": "8e027c47-4d9a-4f6d-a5b9-cbd1df2f8b13",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "meloxicam",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Apixaban causes bleeding, as can Meloxicam ; concurrent use might increase the risk of developing this effect. Manufacturer advises use with caution or avoid.  ",
+                    "severity": "Severe",
+                    "id": "841ea1d7-39be-49d6-ba13-c7f752f9527e",
+                    "parentId": "cf5c3f21-75c4-495c-9117-5a6e310d122e"
+                }
+            ],
+            "id": "cf5c3f21-75c4-495c-9117-5a6e310d122e",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "mitotane-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Mitotane is predicted to decrease the exposure to Apixaban. Manufacturer makes no recommendation.  ",
+                    "severity": "Moderate",
+                    "id": "21374ec5-6224-4258-9c52-449d8b4708fb",
+                    "parentId": "e8896b1b-f474-4184-adc0-684c0ea6810b"
+                }
+            ],
+            "id": "e8896b1b-f474-4184-adc0-684c0ea6810b",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "nabumetone",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Apixaban causes bleeding, as can Nabumetone ; concurrent use might increase the risk of developing this effect. Manufacturer advises use with caution or avoid.  ",
+                    "severity": "Severe",
+                    "id": "31c3c248-bc90-452f-b8ae-c97af2feeda4",
+                    "parentId": "239f1438-47ba-4489-b814-9fc2d1ceb17d"
+                }
+            ],
+            "id": "239f1438-47ba-4489-b814-9fc2d1ceb17d",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "naproxen",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Apixaban causes bleeding, as can Naproxen ; concurrent use might increase the risk of developing this effect. Manufacturer advises use with caution or avoid.  ",
+                    "severity": "Severe",
+                    "id": "3a0730a4-bb90-4710-81bd-10bb8887810e",
+                    "parentId": "4e772fcd-9f88-45cc-90f0-b8fe761e9d3b"
+                }
+            ],
+            "id": "4e772fcd-9f88-45cc-90f0-b8fe761e9d3b",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "neratinib-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Neratinib is predicted to increase the exposure to Apixaban. Manufacturer makes no recommendation.  ",
+                    "severity": "Moderate",
+                    "id": "2a965c7f-dbac-4191-8cfc-dff41409cdc5",
+                    "parentId": "1f743b3b-276e-4d9b-86cb-c475d54a37a7"
+                }
+            ],
+            "id": "1f743b3b-276e-4d9b-86cb-c475d54a37a7",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "nicotinic-acid",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Apixaban and Nicotinic acid can increase the risk of bleeding.",
+                    "severity": "Severe",
+                    "id": "e7e0b6a9-ddde-4c38-8a82-61974d1f1df0",
+                    "parentId": "dac69342-fcb9-4808-989f-9fb83716f0ad"
+                }
+            ],
+            "id": "dac69342-fcb9-4808-989f-9fb83716f0ad",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "nintedanib",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Apixaban causes bleeding, as can Nintedanib ; concurrent use might increase the risk of developing this effect. Manufacturer advises use with caution or avoid.  ",
+                    "severity": "Severe",
+                    "id": "53d8d82a-cee0-4ae5-b235-e05ec1f72cb8",
+                    "parentId": "4c20e829-9440-48da-ad1b-92b4536303dd"
+                }
+            ],
+            "id": "4c20e829-9440-48da-ad1b-92b4536303dd",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "omega-3-acid-ethyl-esters",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Apixaban causes bleeding, as can Omega-3-acid ethyl esters ; concurrent use might increase the risk of developing this effect. Manufacturer advises use with caution or avoid.  ",
+                    "severity": "Severe",
+                    "id": "6db44121-b545-4d70-a31e-d588efebc153",
+                    "parentId": "5d22821a-6e25-4663-972d-00f18e7949c4"
+                }
+            ],
+            "id": "5d22821a-6e25-4663-972d-00f18e7949c4",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "parecoxib",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Apixaban causes bleeding, as can Parecoxib ; concurrent use might increase the risk of developing this effect. Manufacturer advises use with caution or avoid.  ",
+                    "severity": "Severe",
+                    "id": "a5e0f17c-4dfe-421a-9899-5fd3b0107827",
+                    "parentId": "a211b66d-5640-4c7e-ae56-460fb92a902e"
+                }
+            ],
+            "id": "a211b66d-5640-4c7e-ae56-460fb92a902e",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "paroxetine",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Apixaban causes bleeding, as can Paroxetine ; concurrent use might increase the risk of developing this effect. Manufacturer advises use with caution or avoid.  ",
+                    "severity": "Severe",
+                    "id": "03a1b2a5-6b7f-498d-ba62-3b0b083f8958",
+                    "parentId": "f98d1f78-5d44-434c-8df1-783fdb547293"
+                }
+            ],
+            "id": "f98d1f78-5d44-434c-8df1-783fdb547293",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "pazopanib-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Apixaban causes bleeding, as can Pazopanib ; concurrent use might increase the risk of developing this effect. Manufacturer advises use with caution or avoid.  ",
+                    "severity": "Severe",
+                    "id": "538e7c03-cc4e-419c-bc1d-dd3e3965ff89",
+                    "parentId": "8981181d-1583-454b-ae34-e42149b93b70"
+                }
+            ],
+            "id": "8981181d-1583-454b-ae34-e42149b93b70",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "pegaspargase-specialist-drug",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Apixaban and Pegaspargase can increase the risk of bleeding.",
+                    "severity": "Severe",
+                    "id": "8026d2e5-016a-486a-944a-9d30cfefae86",
+                    "parentId": "0bea6273-394c-4a68-bff6-65f66048589d"
+                }
+            ],
+            "id": "0bea6273-394c-4a68-bff6-65f66048589d",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "phenindione",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Apixaban and Phenindione can increase the risk of bleeding.",
+                    "severity": "Severe",
+                    "id": "f84e11a9-6d4c-4daa-9b1b-efbf2bed69c7",
+                    "parentId": "0030efb8-2180-4931-b8e9-4111f1af2d43"
+                }
+            ],
+            "id": "0030efb8-2180-4931-b8e9-4111f1af2d43",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "phenobarbital",
+            "details": [
+                {
+                    "evidence": "Anecdotal",
+                    "description": "Phenobarbital is predicted to decrease the exposure to Apixaban. Manufacturer advises use with caution or avoid.  ",
+                    "severity": "Severe",
+                    "id": "6e26cd3a-63f3-4ae5-8022-3c44847d233a",
+                    "parentId": "b1e3d570-2055-4595-97e1-420d1b39ab13"
+                }
+            ],
+            "id": "b1e3d570-2055-4595-97e1-420d1b39ab13",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "phenytoin",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Phenytoin is predicted to decrease the exposure to Apixaban. Manufacturer advises use with caution or avoid.  ",
+                    "severity": "Severe",
+                    "id": "e4d7397c-84ce-4227-8ba5-e3969eb48b1b",
+                    "parentId": "a39d363e-964f-46b8-a6cb-95a429cd625e"
+                }
+            ],
+            "id": "a39d363e-964f-46b8-a6cb-95a429cd625e",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "piroxicam",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Apixaban causes bleeding, as can Piroxicam ; concurrent use might increase the risk of developing this effect. Manufacturer advises use with caution or avoid.  ",
+                    "severity": "Severe",
+                    "id": "439060cb-da48-4ac4-9e55-383bafd9beaa",
+                    "parentId": "e6f817af-4d44-48b7-9b5a-7b62fa67a816"
+                }
+            ],
+            "id": "e6f817af-4d44-48b7-9b5a-7b62fa67a816",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "ponatinib-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Apixaban causes bleeding, as can Ponatinib ; concurrent use might increase the risk of developing this effect. Manufacturer advises use with caution or avoid.  ",
+                    "severity": "Severe",
+                    "id": "d8775f8b-28ca-40ca-8c71-8a6b400ddd26",
+                    "parentId": "93e840b3-55b3-4e70-8006-92fc3db34e60"
+                }
+            ],
+            "id": "93e840b3-55b3-4e70-8006-92fc3db34e60",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "posaconazole",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Posaconazole is predicted to increase the exposure to Apixaban. Manufacturer advises avoid.  ",
+                    "severity": "Moderate",
+                    "id": "f1df39d4-0e43-4f9d-ad53-fc7ec35b4f45",
+                    "parentId": "f980f860-46fc-4cab-8b03-ad882a29390a"
+                }
+            ],
+            "id": "f980f860-46fc-4cab-8b03-ad882a29390a",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "prasugrel",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Apixaban causes bleeding, as can Prasugrel ; concurrent use might increase the risk of developing this effect. Manufacturer advises use with caution or avoid.  ",
+                    "severity": "Severe",
+                    "id": "518c885e-2a6f-40dc-a1c1-15d5df6cb05c",
+                    "parentId": "f886dfd0-e28d-4031-8854-d6b3b4eac61b"
+                }
+            ],
+            "id": "f886dfd0-e28d-4031-8854-d6b3b4eac61b",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "primidone",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Primidone is predicted to decrease the exposure to Apixaban. Manufacturer makes no recommendation.  ",
+                    "severity": "Severe",
+                    "id": "8926ef04-bf8b-4d9d-bae3-cc509a96b031",
+                    "parentId": "59c2bbf1-abee-4218-8301-01ed23739066"
+                }
+            ],
+            "id": "59c2bbf1-abee-4218-8301-01ed23739066",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "ranibizumab-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Apixaban causes bleeding, as can Ranibizumab ; concurrent use might increase the risk of developing this effect. Manufacturer makes no recommendation.  ",
+                    "severity": "Severe",
+                    "id": "49aadec0-cd5a-4e42-9b24-67c5f8be0ffa",
+                    "parentId": "57474011-17f0-4d05-8a5b-979789e683bd"
+                }
+            ],
+            "id": "57474011-17f0-4d05-8a5b-979789e683bd",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "ranolazine",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Ranolazine is predicted to increase the exposure to Apixaban. Manufacturer makes no recommendation.  ",
+                    "severity": "Moderate",
+                    "id": "030dfa2a-a073-4da7-91e3-23354adcd628",
+                    "parentId": "13e994fb-fbb6-4c42-adfb-d18702082222"
+                }
+            ],
+            "id": "13e994fb-fbb6-4c42-adfb-d18702082222",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "regorafenib-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Apixaban causes bleeding, as can Regorafenib ; concurrent use might increase the risk of developing this effect. Manufacturer advises use with caution or avoid.  ",
+                    "severity": "Severe",
+                    "id": "052f1a53-b7ae-46cb-bfbc-6e308ba5cfa9",
+                    "parentId": "6b2d92f6-2ee5-4c75-882d-2af811f0250b"
+                }
+            ],
+            "id": "6b2d92f6-2ee5-4c75-882d-2af811f0250b",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "rifampicin",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Rifampicin is predicted to decrease the exposure to Apixaban. Manufacturer advises use with caution or avoid.  ",
+                    "severity": "Severe",
+                    "id": "5726a6e9-bd27-41da-ab32-17856dc2d511",
+                    "parentId": "ce964092-c2e3-4f57-a15b-f0a821495743"
+                }
+            ],
+            "id": "ce964092-c2e3-4f57-a15b-f0a821495743",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "ritonavir",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Ritonavir is predicted to increase the exposure to Apixaban. Manufacturer advises avoid.  ",
+                    "severity": "Severe",
+                    "id": "65820da0-1781-418b-8094-acdd9eb78bc7",
+                    "parentId": "7f07611e-6e1e-4cfe-b28a-d0d1ea0a27d3"
+                }
+            ],
+            "id": "7f07611e-6e1e-4cfe-b28a-d0d1ea0a27d3",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "ruxolitinib-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Apixaban causes bleeding, as can Ruxolitinib ; concurrent use might increase the risk of developing this effect. Manufacturer makes no recommendation.  ",
+                    "severity": "Severe",
+                    "id": "2cdfe1fe-c994-416e-8802-9d28363c3abd",
+                    "parentId": "7fd82351-ad04-4ba7-89cb-5f20c80e85ef"
+                }
+            ],
+            "id": "7fd82351-ad04-4ba7-89cb-5f20c80e85ef",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "sertraline",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Apixaban causes bleeding, as can Sertraline ; concurrent use might increase the risk of developing this effect. Manufacturer advises use with caution or avoid.  ",
+                    "severity": "Severe",
+                    "id": "4b141aa4-e3ca-4378-94b8-187a80f56f57",
+                    "parentId": "73e5a831-520d-4252-b3a9-512cd43a4f6c"
+                }
+            ],
+            "id": "73e5a831-520d-4252-b3a9-512cd43a4f6c",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "sorafenib-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Apixaban causes bleeding, as can Sorafenib ; concurrent use might increase the risk of developing this effect. Manufacturer advises use with caution or avoid.  ",
+                    "severity": "Severe",
+                    "id": "2c1285bd-87be-4234-9b69-fabc42a4781f",
+                    "parentId": "7fc5973b-94ad-4bc3-bbb0-4b9ed4c8222e"
+                }
+            ],
+            "id": "7fc5973b-94ad-4bc3-bbb0-4b9ed4c8222e",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "st-johns-wort",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "St John's wort is predicted to decrease the exposure to Apixaban. Manufacturer advises use with caution or avoid.  ",
+                    "severity": "Severe",
+                    "id": "a2518934-3f88-4ee7-8a5d-8d8cc77512e9",
+                    "parentId": "d69b2a22-e7d6-4f9a-a209-c626b0769cd4"
+                }
+            ],
+            "id": "d69b2a22-e7d6-4f9a-a209-c626b0769cd4",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "streptokinase",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Apixaban and Streptokinase can increase the risk of bleeding.",
+                    "severity": "Severe",
+                    "id": "20cde728-e753-45e0-8fea-a85c8a3ab71f",
+                    "parentId": "f2994768-69f4-4b62-81c6-1be394611fbb"
+                }
+            ],
+            "id": "f2994768-69f4-4b62-81c6-1be394611fbb",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "sulindac",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Apixaban causes bleeding, as can Sulindac ; concurrent use might increase the risk of developing this effect. Manufacturer advises use with caution or avoid.  ",
+                    "severity": "Severe",
+                    "id": "3ad8612c-e881-4520-9b30-d4de79b71ba6",
+                    "parentId": "ef945fa2-75c8-44ad-be4a-f909908ade91"
+                }
+            ],
+            "id": "ef945fa2-75c8-44ad-be4a-f909908ade91",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "sunitinib-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Apixaban causes bleeding, as can Sunitinib ; concurrent use might increase the risk of developing this effect. Manufacturer advises use with caution or avoid.  ",
+                    "severity": "Severe",
+                    "id": "2dc18cb8-8972-435e-ab9f-c58783203f14",
+                    "parentId": "1c6a2493-df83-4049-909e-34681719a549"
+                }
+            ],
+            "id": "1c6a2493-df83-4049-909e-34681719a549",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "tenecteplase",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Apixaban and Tenecteplase can increase the risk of bleeding.",
+                    "severity": "Severe",
+                    "id": "1110256d-c76d-46da-88d5-969fe10e8cdb",
+                    "parentId": "21ebd8c8-4499-46cb-a1d6-68ab117812ab"
+                }
+            ],
+            "id": "21ebd8c8-4499-46cb-a1d6-68ab117812ab",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "tenoxicam",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Apixaban causes bleeding, as can Tenoxicam ; concurrent use might increase the risk of developing this effect. Manufacturer advises use with caution or avoid.  ",
+                    "severity": "Severe",
+                    "id": "e409f322-ab23-47c2-980c-da53818d12d6",
+                    "parentId": "dbe68df8-2ba8-410e-a182-585f6998932b"
+                }
+            ],
+            "id": "dbe68df8-2ba8-410e-a182-585f6998932b",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "tiaprofenic-acid",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Apixaban causes bleeding, as can Tiaprofenic acid ; concurrent use might increase the risk of developing this effect. Manufacturer advises use with caution or avoid.  ",
+                    "severity": "Severe",
+                    "id": "231db81d-2770-4df8-ab8f-1e1d687c1db1",
+                    "parentId": "56248d38-a18a-458f-a712-6ea6c6c4caa7"
+                }
+            ],
+            "id": "56248d38-a18a-458f-a712-6ea6c6c4caa7",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "ticagrelor",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Apixaban causes bleeding, as can Ticagrelor ; concurrent use might increase the risk of developing this effect. Manufacturer advises use with caution or avoid.  ",
+                    "severity": "Severe",
+                    "id": "12345174-35fc-4944-a4b2-5d81acb824d0",
+                    "parentId": "14001479-d36c-41ef-87af-27f49e2d8827"
+                }
+            ],
+            "id": "14001479-d36c-41ef-87af-27f49e2d8827",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "tirofiban",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Apixaban and Tirofiban can increase the risk of bleeding.",
+                    "severity": "Severe",
+                    "id": "ec603d04-ff45-4303-8fdf-35319a06564a",
+                    "parentId": "fd02a55b-fb42-4825-b22b-3b7a00e9ba22"
+                }
+            ],
+            "id": "fd02a55b-fb42-4825-b22b-3b7a00e9ba22",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "tolfenamic-acid",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Apixaban causes bleeding, as can Tolfenamic acid ; concurrent use might increase the risk of developing this effect. Manufacturer advises use with caution or avoid.  ",
+                    "severity": "Severe",
+                    "id": "4a3e2882-aa58-430d-8607-77cd6342cd2a",
+                    "parentId": "8ada746a-a83f-4680-a52b-42408e1e2995"
+                }
+            ],
+            "id": "8ada746a-a83f-4680-a52b-42408e1e2995",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "trametinib-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Apixaban causes bleeding, as can Trametinib ; concurrent use might increase the risk of developing this effect. Manufacturer makes no recommendation.  ",
+                    "severity": "Severe",
+                    "id": "5698e325-765c-40c5-934e-003af02a0a91",
+                    "parentId": "ab7e61c8-cb2c-4e64-8783-c9f95f735fb1"
+                }
+            ],
+            "id": "ab7e61c8-cb2c-4e64-8783-c9f95f735fb1",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "trastuzumab-emtansine-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Apixaban causes bleeding, as can Trastuzumab emtansine ; concurrent use might increase the risk of developing this effect. Manufacturer advises caution.  ",
+                    "severity": "Severe",
+                    "id": "d2f028ff-5289-452e-b142-06a19310beb2",
+                    "parentId": "147e1444-dc40-4871-ae43-b5caa1f26f9e"
+                }
+            ],
+            "id": "147e1444-dc40-4871-ae43-b5caa1f26f9e",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "treprostinil",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Apixaban causes bleeding, as can Treprostinil ; concurrent use might increase the risk of developing this effect. Manufacturer advises use with caution or avoid.  ",
+                    "severity": "Severe",
+                    "id": "846456af-0afb-428b-8248-9102a9d5e0f9",
+                    "parentId": "37dd0370-35a5-4e82-acf3-f54be8465d84"
+                }
+            ],
+            "id": "37dd0370-35a5-4e82-acf3-f54be8465d84",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "urokinase",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Apixaban and Urokinase can increase the risk of bleeding.",
+                    "severity": "Severe",
+                    "id": "79ca6a43-972c-46f9-9e04-0824ad597349",
+                    "parentId": "60798eb6-9a8b-4766-b6be-35b034e9f099"
+                }
+            ],
+            "id": "60798eb6-9a8b-4766-b6be-35b034e9f099",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "vandetanib-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Vandetanib is predicted to increase the exposure to Apixaban. Manufacturer makes no recommendation.  ",
+                    "severity": "Moderate",
+                    "id": "ba6bcba3-d56b-4402-bf25-8fb83d8c36cd",
+                    "parentId": "93f85920-fdd3-4c1e-9867-9c82801f29e0"
+                }
+            ],
+            "id": "93f85920-fdd3-4c1e-9867-9c82801f29e0",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "vemurafenib-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Vemurafenib is predicted to increase the exposure to Apixaban. Manufacturer makes no recommendation.  ",
+                    "severity": "Moderate",
+                    "id": "ccaa2ef7-67a0-4b62-aada-a7b6417d5965",
+                    "parentId": "fdde17ed-cd8a-4677-9d99-dfd008255898"
+                }
+            ],
+            "id": "fdde17ed-cd8a-4677-9d99-dfd008255898",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "venlafaxine",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Apixaban causes bleeding, as can Venlafaxine ; concurrent use might increase the risk of developing this effect. Manufacturer advises use with caution or avoid.  ",
+                    "severity": "Severe",
+                    "id": "e7757406-771d-454f-8eed-3a5f88f5f37c",
+                    "parentId": "087467ee-88bb-4b31-9dab-5b2aee189690"
+                }
+            ],
+            "id": "087467ee-88bb-4b31-9dab-5b2aee189690",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "volanesorsen",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Apixaban causes bleeding, as can Volanesorsen ; concurrent use might increase the risk of developing this effect. Manufacturer advises avoid depending on platelet count\u2014consult product literature.  ",
+                    "severity": "Severe",
+                    "id": "5d27cbd2-ca39-4327-93e2-395e4220688e",
+                    "parentId": "561feb9c-da9b-4133-83b8-66b8d79c0bd0"
+                }
+            ],
+            "id": "561feb9c-da9b-4133-83b8-66b8d79c0bd0",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "voriconazole",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Voriconazole is predicted to increase the exposure to Apixaban. Manufacturer advises avoid.  ",
+                    "severity": "Moderate",
+                    "id": "926899bd-a299-49d6-862e-3002e8a56442",
+                    "parentId": "820e5ad1-b46b-447f-a006-60ad5dfe8775"
+                }
+            ],
+            "id": "820e5ad1-b46b-447f-a006-60ad5dfe8775",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "vortioxetine",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Apixaban causes bleeding, as can Vortioxetine ; concurrent use might increase the risk of developing this effect. Manufacturer advises use with caution or avoid.  ",
+                    "severity": "Severe",
+                    "id": "92175c8c-cd34-4cd2-84f2-bef99b2ea1a4",
+                    "parentId": "f49f334a-8e14-4a0d-8df4-c2366dfed722"
+                }
+            ],
+            "id": "f49f334a-8e14-4a0d-8df4-c2366dfed722",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "zanubrutinib-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Apixaban causes bleeding, as can Zanubrutinib ; concurrent use might increase the risk of developing this effect. Manufacturer advises use with caution or avoid.  ",
+                    "severity": "Severe",
+                    "id": "69b3780e-406c-453e-b616-a6815ffffd50",
+                    "parentId": "d10ff14f-5364-4ab7-a7b6-594cf7ea2ed1"
+                }
+            ],
+            "id": "d10ff14f-5364-4ab7-a7b6-594cf7ea2ed1",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        }
+    ],
+    "id": "d6b0e661-6608-4ec5-b2a4-0dbc01057630",
+    "parentId": null
+}

@@ -1,0 +1,1952 @@
+{
+    "interactions": [
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "acipimox",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Acipimox is predicted to increase the risk of rhabdomyolysis when given with Atorvastatin. Manufacturer advises caution.  ",
+                    "severity": "Severe",
+                    "id": "54886efa-f891-40b1-aa34-b2c88c8f95c2",
+                    "parentId": "c90d24f8-a371-4a2e-916b-8292cec6f12a"
+                }
+            ],
+            "id": "c90d24f8-a371-4a2e-916b-8292cec6f12a",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "acitretin",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Atorvastatin and Acitretin can increase the risk of hepatotoxicity.",
+                    "severity": "Normal",
+                    "id": "17560c81-eac4-4772-bb1f-1d612cf81967",
+                    "parentId": "d69b748d-34b8-4762-8da1-6b44a7b8cc41"
+                }
+            ],
+            "id": "d69b748d-34b8-4762-8da1-6b44a7b8cc41",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "alcohol",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Alcohol -induced liver disease increases the risk of hepatotoxicity in those taking Atorvastatin. Manufacturer makes no recommendation.  ",
+                    "severity": "Severe",
+                    "id": "f0370ead-e2f5-428f-91dc-f8fbf6c0eb24",
+                    "parentId": "ad87bad8-a3b8-494c-a692-fa6b17a92cc3"
+                }
+            ],
+            "id": "ad87bad8-a3b8-494c-a692-fa6b17a92cc3",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "alectinib-specialist-drug",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Atorvastatin and Alectinib can increase the risk of hepatotoxicity.",
+                    "severity": "Normal",
+                    "id": "87dae5df-8284-44bb-92e1-c8483a10655b",
+                    "parentId": "c5e75cf0-7dbf-4b19-909b-1d959a449673"
+                }
+            ],
+            "id": "c5e75cf0-7dbf-4b19-909b-1d959a449673",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "aliskiren",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Atorvastatin slightly to moderately increases the exposure to Aliskiren. Manufacturer makes no recommendation.  ",
+                    "severity": "Moderate",
+                    "id": "4c6be75c-4567-4040-b0d5-ca13e334cba1",
+                    "parentId": "36754410-393a-44bb-80e7-2e1e85e9b6d4"
+                }
+            ],
+            "id": "36754410-393a-44bb-80e7-2e1e85e9b6d4",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "anidulafungin",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Atorvastatin and Anidulafungin can increase the risk of hepatotoxicity.",
+                    "severity": "Normal",
+                    "id": "ce90f584-7ab8-4ee6-bae5-10ed35eacb48",
+                    "parentId": "65befb93-accd-4bd5-bb0f-66c3b1861f5b"
+                }
+            ],
+            "id": "65befb93-accd-4bd5-bb0f-66c3b1861f5b",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "apalutamide",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Apalutamide is predicted to decrease the exposure to Atorvastatin. Manufacturer advises monitor.  ",
+                    "severity": "Moderate",
+                    "id": "82c6fc32-bbf8-440c-bd65-ff0f2f1ddf47",
+                    "parentId": "f2aeda91-fabd-47a8-8447-6c3a38c19b91"
+                }
+            ],
+            "id": "f2aeda91-fabd-47a8-8447-6c3a38c19b91",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "aprepitant",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Aprepitant is predicted to increase the exposure to Atorvastatin. Manufacturer advises monitor and adjust dose.  ",
+                    "severity": "Severe",
+                    "id": "2c0b45b0-4d10-479d-b211-270b791821fd",
+                    "parentId": "bbad3adf-099e-4e3a-801a-8b008704073b"
+                }
+            ],
+            "id": "bbad3adf-099e-4e3a-801a-8b008704073b",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "asparaginase-specialist-drug",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Atorvastatin and Asparaginase can increase the risk of hepatotoxicity.",
+                    "severity": "Normal",
+                    "id": "5aafca04-176c-470d-9dc1-83ee5afe4cba",
+                    "parentId": "5643eb49-9ea9-4e5f-adfc-4b138ad9d08a"
+                }
+            ],
+            "id": "5643eb49-9ea9-4e5f-adfc-4b138ad9d08a",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "atazanavir",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Atazanavir is predicted to increase the exposure to Atorvastatin. Manufacturer advises avoid or adjust dose and monitor rhabdomyolysis.  ",
+                    "severity": "Severe",
+                    "id": "51e21918-2be4-49b9-a4bb-12d1ef73c975",
+                    "parentId": "81bf728c-aa37-469e-a67d-abce1315b9c6"
+                }
+            ],
+            "id": "81bf728c-aa37-469e-a67d-abce1315b9c6",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "belumosudil",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Belumosudil is predicted to increase the exposure to Atorvastatin. Manufacturer advises avoid or adjust dose.  ",
+                    "severity": "Moderate",
+                    "id": "b64a7311-c069-482c-872b-72332cd3a10b",
+                    "parentId": "605e609c-fbe9-4320-9168-496962e47ae0"
+                }
+            ],
+            "id": "605e609c-fbe9-4320-9168-496962e47ae0",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "bexarotene-specialist-drug",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Atorvastatin and Bexarotene can increase the risk of hepatotoxicity.",
+                    "severity": "Normal",
+                    "id": "e1faeb4c-d1fd-4d0b-8a38-49482069cdf8",
+                    "parentId": "39d63a13-d4fd-4c1e-afab-b65e9c50535d"
+                }
+            ],
+            "id": "39d63a13-d4fd-4c1e-afab-b65e9c50535d",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "bezafibrate",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Bezafibrate increases the risk of rhabdomyolysis when given with Atorvastatin. Manufacturer advises monitor.  ",
+                    "severity": "Severe",
+                    "id": "1ff541a4-8471-45b0-99ca-2fbb1f9a39eb",
+                    "parentId": "12e8c6ae-c763-4bf9-b30b-fa41041fe806"
+                }
+            ],
+            "id": "12e8c6ae-c763-4bf9-b30b-fa41041fe806",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "bosentan",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Bosentan is predicted to decrease the exposure to Atorvastatin. Manufacturer makes no recommendation.  ",
+                    "severity": "Moderate",
+                    "id": "cadce152-9e77-4404-8a59-781f0cec5151",
+                    "parentId": "c896965d-3871-4d0d-8f47-78862fc8cb87"
+                }
+            ],
+            "id": "c896965d-3871-4d0d-8f47-78862fc8cb87",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "bulevirtide",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Bulevirtide is predicted to increase the exposure to Atorvastatin. Manufacturer advises avoid or monitor.  ",
+                    "severity": "Moderate",
+                    "id": "c10682ed-af18-4067-86f9-2e8ca6c47c0d",
+                    "parentId": "3ce7a38b-caad-4a59-912b-2cc66d2e6dab"
+                }
+            ],
+            "id": "3ce7a38b-caad-4a59-912b-2cc66d2e6dab",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "cabazitaxel-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Cabazitaxel is predicted to affect the exposure to Atorvastatin. Manufacturer advises take 12 hours before or 3 hours after Cabazitaxel.  ",
+                    "severity": "Moderate",
+                    "id": "9314f43e-8843-46a5-8fcf-bfcd1203d97d",
+                    "parentId": "d50cae31-773a-4263-9f33-dd5050788390"
+                }
+            ],
+            "id": "d50cae31-773a-4263-9f33-dd5050788390",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "capecitabine-specialist-drug",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Atorvastatin and Capecitabine can increase the risk of hepatotoxicity.",
+                    "severity": "Normal",
+                    "id": "c521f108-0b87-4762-a4c7-b45e9cb0b80a",
+                    "parentId": "c7788fc7-eee3-4ca9-b787-296390eeb9cb"
+                }
+            ],
+            "id": "c7788fc7-eee3-4ca9-b787-296390eeb9cb",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "carbamazepine",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Carbamazepine is predicted to decrease the exposure to Atorvastatin. Manufacturer advises monitor and adjust dose.  ",
+                    "severity": "Moderate",
+                    "id": "149e8e01-07ce-4275-83bc-969b26602fba",
+                    "parentId": "affb0076-e521-42e0-81ed-a20721434a5a"
+                }
+            ],
+            "id": "affb0076-e521-42e0-81ed-a20721434a5a",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "carmustine-specialist-drug",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Atorvastatin and Carmustine can increase the risk of hepatotoxicity.",
+                    "severity": "Normal",
+                    "id": "3a05bbd1-e8ba-4361-9902-eed8f3907460",
+                    "parentId": "2749ef53-b850-43d4-b026-c798890cd1cd"
+                }
+            ],
+            "id": "2749ef53-b850-43d4-b026-c798890cd1cd",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "caspofungin",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Atorvastatin and Caspofungin can increase the risk of hepatotoxicity.",
+                    "severity": "Normal",
+                    "id": "97a582d6-1335-411f-a8ae-ad3ac19f8cbb",
+                    "parentId": "8bb7da78-f715-4746-a491-718f08fdf612"
+                }
+            ],
+            "id": "8bb7da78-f715-4746-a491-718f08fdf612",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "ceftobiprole",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Ceftobiprole is predicted to increase the concentration of Atorvastatin. Manufacturer makes no recommendation.  ",
+                    "severity": "Moderate",
+                    "id": "76fc2145-6f63-4dbd-9c06-c1297ddc185a",
+                    "parentId": "3494f231-b708-4eb0-9e9e-a7cdaf9de73f"
+                }
+            ],
+            "id": "3494f231-b708-4eb0-9e9e-a7cdaf9de73f",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "cenobamate",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Cenobamate is predicted to decrease the exposure to Atorvastatin. Manufacturer makes no recommendation.  ",
+                    "severity": "Moderate",
+                    "id": "cbe63ba9-8eb1-4b13-9edb-4b89abac6f46",
+                    "parentId": "15d9443d-8040-4cec-98c9-c91179e6dca2"
+                }
+            ],
+            "id": "15d9443d-8040-4cec-98c9-c91179e6dca2",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "ceritinib-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Ceritinib is predicted to increase the exposure to Atorvastatin. Manufacturer advises avoid or adjust dose and monitor rhabdomyolysis.  ",
+                    "severity": "Severe",
+                    "id": "e073cf25-d884-45e6-9e8a-5bf52cf3729d",
+                    "parentId": "af468491-26d5-4ac0-99b2-b3733505e0d7"
+                }
+            ],
+            "id": "af468491-26d5-4ac0-99b2-b3733505e0d7",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "ciclosporin",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Ciclosporin markedly to very markedly increases the exposure to Atorvastatin. Manufacturer advises avoid or adjust Atorvastatin dose.  ",
+                    "severity": "Severe",
+                    "id": "e94490ce-d0c9-4949-8da2-091d9f032b8c",
+                    "parentId": "3ccd1879-8745-416a-bfdf-16e1957bf2fb"
+                }
+            ],
+            "id": "3ccd1879-8745-416a-bfdf-16e1957bf2fb",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "cilostazol",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Cilostazol is predicted to increase the exposure to Atorvastatin. Manufacturer advises caution.  ",
+                    "severity": "Moderate",
+                    "id": "3139dd03-8165-4bf0-a94f-76d871d543a9",
+                    "parentId": "22661adb-7fc2-4c4a-8ef1-fcde005c45b7"
+                }
+            ],
+            "id": "22661adb-7fc2-4c4a-8ef1-fcde005c45b7",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "ciprofibrate",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Ciprofibrate increases the risk of rhabdomyolysis when given with Atorvastatin. Manufacturer advises avoid or adjust dose.  ",
+                    "severity": "Severe",
+                    "id": "52f0a60b-a727-41c5-8938-ce3995b80ec8",
+                    "parentId": "72d775b0-5694-4df0-bd84-3a3c7488ef05"
+                }
+            ],
+            "id": "72d775b0-5694-4df0-bd84-3a3c7488ef05",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "clarithromycin",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Clarithromycin is predicted to increase the exposure to Atorvastatin. Manufacturer advises avoid or adjust dose and monitor rhabdomyolysis.  ",
+                    "severity": "Severe",
+                    "id": "11f365ba-f4b6-4d21-a5e6-9ab5bdc76fd2",
+                    "parentId": "492129d0-3731-41c8-9a1d-d73d2a6779ce"
+                }
+            ],
+            "id": "492129d0-3731-41c8-9a1d-d73d2a6779ce",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "clofarabine-specialist-drug",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Atorvastatin and Clofarabine can increase the risk of hepatotoxicity.",
+                    "severity": "Normal",
+                    "id": "3ed1cf0f-b9da-4d27-b523-e7c90e5efa97",
+                    "parentId": "0282451b-c352-4bfa-9e36-9baf82454edd"
+                }
+            ],
+            "id": "0282451b-c352-4bfa-9e36-9baf82454edd",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "cobicistat",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Cobicistat is predicted to increase the exposure to Atorvastatin. Manufacturer advises avoid or adjust dose and monitor rhabdomyolysis.  ",
+                    "severity": "Severe",
+                    "id": "ddc9ea1e-cccc-4d83-a512-47a71a09fd57",
+                    "parentId": "07ef3fc2-dc04-4a3f-9cbf-1b71def9285f"
+                }
+            ],
+            "id": "07ef3fc2-dc04-4a3f-9cbf-1b71def9285f",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "colchicine",
+            "details": [
+                {
+                    "evidence": "Anecdotal",
+                    "description": "Colchicine has been reported to cause rhabdomyolysis when given with Atorvastatin. Manufacturer advises caution or monitor.  ",
+                    "severity": "Severe",
+                    "id": "a468e9a1-d6f2-434e-8954-31c3d822ea24",
+                    "parentId": "45064ae1-73cc-46ef-9a45-ea3a8f0e206f"
+                }
+            ],
+            "id": "45064ae1-73cc-46ef-9a45-ea3a8f0e206f",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "crisantaspase-specialist-drug",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Atorvastatin and Crisantaspase can increase the risk of hepatotoxicity.",
+                    "severity": "Normal",
+                    "id": "2304a069-b553-468e-ae07-f06e77ca5815",
+                    "parentId": "15220947-9a5e-4f7e-a679-1f2de6e9de67"
+                }
+            ],
+            "id": "15220947-9a5e-4f7e-a679-1f2de6e9de67",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "crizotinib-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Crizotinib is predicted to increase the exposure to Atorvastatin. Manufacturer advises monitor and adjust dose.  ",
+                    "severity": "Moderate",
+                    "id": "86c1fb21-46de-4ec6-8871-be64c750df73",
+                    "parentId": "743e286e-8dee-4026-aedb-c3adafa6784c"
+                }
+            ],
+            "id": "743e286e-8dee-4026-aedb-c3adafa6784c",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "cytarabine-specialist-drug",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Atorvastatin and Cytarabine can increase the risk of hepatotoxicity.",
+                    "severity": "Normal",
+                    "id": "12363d81-ba6e-42e7-b8dc-57e0168cc688",
+                    "parentId": "c136b895-ed7b-4f06-ba5f-5f8791673b98"
+                }
+            ],
+            "id": "c136b895-ed7b-4f06-ba5f-5f8791673b98",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "dabrafenib-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Dabrafenib is predicted to decrease the exposure to Atorvastatin. Manufacturer makes no recommendation.  ",
+                    "severity": "Moderate",
+                    "id": "c8e2efe4-143b-455f-a01d-dceaae73ba06",
+                    "parentId": "0444f41c-6516-4b45-b55f-7fb3709dee67"
+                }
+            ],
+            "id": "0444f41c-6516-4b45-b55f-7fb3709dee67",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "danicopan",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Danicopan is predicted to increase the exposure to Atorvastatin. Manufacturer advises caution.  ",
+                    "severity": "Moderate",
+                    "id": "b0bd4315-8843-4e67-9552-770e6ab789a7",
+                    "parentId": "ccdf1456-8b9d-4a9c-888a-c6e1a5625de1"
+                }
+            ],
+            "id": "ccdf1456-8b9d-4a9c-888a-c6e1a5625de1",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "daptomycin",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Atorvastatin is predicted to increase the risk of rhabdomyolysis when given with Daptomycin. Manufacturer advises monitor.  ",
+                    "severity": "Severe",
+                    "id": "088f5127-315d-4f6e-bd17-af25b8c21462",
+                    "parentId": "7ce3970a-1b62-47b0-876a-bdb120521780"
+                }
+            ],
+            "id": "7ce3970a-1b62-47b0-876a-bdb120521780",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "darolutamide",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Darolutamide is predicted to increase the exposure to Atorvastatin. Manufacturer advises avoid.  ",
+                    "severity": "Severe",
+                    "id": "0cd526f2-92d4-4547-ae64-edf0210f4530",
+                    "parentId": "3b7d81ce-0649-47a4-8f20-bb2e1db7f1aa"
+                }
+            ],
+            "id": "3b7d81ce-0649-47a4-8f20-bb2e1db7f1aa",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "darunavir",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Darunavir is predicted to increase the exposure to Atorvastatin. Manufacturer advises avoid or adjust dose and monitor rhabdomyolysis.  ",
+                    "severity": "Severe",
+                    "id": "61f2784d-9e1b-4ba0-ab45-8d628b695842",
+                    "parentId": "3f1b8905-d150-4e13-9c00-3150a0d47854"
+                }
+            ],
+            "id": "3f1b8905-d150-4e13-9c00-3150a0d47854",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "decitabine-specialist-drug",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Atorvastatin and Decitabine can increase the risk of hepatotoxicity.",
+                    "severity": "Normal",
+                    "id": "9daa719f-c507-4067-a9f8-d6e39349ebdd",
+                    "parentId": "85185d7a-d06d-4c83-bbfa-6c3fc0c42226"
+                }
+            ],
+            "id": "85185d7a-d06d-4c83-bbfa-6c3fc0c42226",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "doxycycline",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Atorvastatin and Doxycycline can increase the risk of hepatotoxicity.",
+                    "severity": "Normal",
+                    "id": "f842b939-875e-4071-8b2f-15c294bcc2b0",
+                    "parentId": "aa6bfccc-082a-48f1-bada-4a305dc8dc2c"
+                }
+            ],
+            "id": "aa6bfccc-082a-48f1-bada-4a305dc8dc2c",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "dronedarone",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Dronedarone slightly increases the exposure to Atorvastatin. Manufacturer advises monitor and adjust dose.  ",
+                    "severity": "Severe",
+                    "id": "b9066cce-e72d-4ed3-bc8e-8167c465af4b",
+                    "parentId": "61f89532-8822-4c27-8c3c-95dfd89ddb54"
+                }
+            ],
+            "id": "61f89532-8822-4c27-8c3c-95dfd89ddb54",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "efavirenz",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Efavirenz is predicted to decrease the exposure to Atorvastatin. Manufacturer makes no recommendation.  ",
+                    "severity": "Moderate",
+                    "id": "de4bac8f-b66e-447c-bad0-036b8fd0b4c7",
+                    "parentId": "395faa11-c2f9-4d8d-8850-a1980214d754"
+                }
+            ],
+            "id": "395faa11-c2f9-4d8d-8850-a1980214d754",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "elafibranor",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Elafibranor might increase the risk of muscle effects when given with Atorvastatin. Manufacturer advises monitor creatine kinase.  ",
+                    "severity": "Severe",
+                    "id": "c1765b86-0eb9-4e96-bf97-de3ac65e6f6e",
+                    "parentId": "d7a000e9-cfe2-40b5-ab85-3540cbd08d8b"
+                }
+            ],
+            "id": "d7a000e9-cfe2-40b5-ab85-3540cbd08d8b",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "eltrombopag",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Eltrombopag is predicted to increase the exposure to Atorvastatin. Manufacturer advises monitor and adjust dose.  ",
+                    "severity": "Moderate",
+                    "id": "1a89d61f-c3d0-44ed-b9bd-08bd845c64dc",
+                    "parentId": "eb74e533-72dc-4ab7-97c8-0840d39b44d8"
+                }
+            ],
+            "id": "eb74e533-72dc-4ab7-97c8-0840d39b44d8",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "empagliflozin",
+            "details": [
+                {
+                    "evidence": "Anecdotal",
+                    "description": "Empagliflozin has been reported to increase the risk of muscle effects when given after Atorvastatin. Manufacturer makes no recommendation.  ",
+                    "severity": "Moderate",
+                    "id": "081bcdfd-c8d3-4804-846e-f1ac88dbf56a",
+                    "parentId": "85a2725d-e602-4248-9b56-577633a5d531"
+                }
+            ],
+            "id": "85a2725d-e602-4248-9b56-577633a5d531",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "encorafenib-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Encorafenib is predicted to increase the exposure to Atorvastatin. Manufacturer advises caution.  ",
+                    "severity": "Mild",
+                    "id": "d453d889-6287-4334-8ce3-104376ab4b3e",
+                    "parentId": "5ec2d09c-dc2a-4892-b4df-198aa26b1573"
+                }
+            ],
+            "id": "5ec2d09c-dc2a-4892-b4df-198aa26b1573",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "enzalutamide",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Enzalutamide is predicted to decrease the exposure to Atorvastatin. Manufacturer makes no recommendation.  ",
+                    "severity": "Moderate",
+                    "id": "aa4b2f73-8fc7-483f-b586-04da4322522d",
+                    "parentId": "08fef746-eece-4d01-9c80-9ee846e44a18"
+                }
+            ],
+            "id": "08fef746-eece-4d01-9c80-9ee846e44a18",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "eravacycline",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Atorvastatin and Eravacycline can increase the risk of hepatotoxicity.",
+                    "severity": "Normal",
+                    "id": "4cf576aa-a9ec-4496-8c00-801ae86e5803",
+                    "parentId": "ab91bf51-eafd-4cde-87b5-c098c7b32736"
+                }
+            ],
+            "id": "ab91bf51-eafd-4cde-87b5-c098c7b32736",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "erythromycin",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Erythromycin slightly increases the exposure to Atorvastatin. Manufacturer advises monitor and adjust dose.  ",
+                    "severity": "Severe",
+                    "id": "24dc3a3d-2869-49ad-9a52-bef75e5366a2",
+                    "parentId": "129e4cd4-891b-431c-b9bb-33db3176eabe"
+                }
+            ],
+            "id": "129e4cd4-891b-431c-b9bb-33db3176eabe",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "etravirine",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Etravirine is predicted to decrease the exposure to Atorvastatin. Manufacturer makes no recommendation.  ",
+                    "severity": "Moderate",
+                    "id": "f30141cd-6dcd-4136-b5c1-598d5b43751c",
+                    "parentId": "abf9f94b-176d-4cbf-b369-8bd02c9aa256"
+                }
+            ],
+            "id": "abf9f94b-176d-4cbf-b369-8bd02c9aa256",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "fenofibrate",
+            "details": [
+                {
+                    "evidence": "Anecdotal",
+                    "description": "Fenofibrate increases the risk of rhabdomyolysis when given with Atorvastatin. Manufacturer advises monitor and adjust Fenofibrate dose.  ",
+                    "severity": "Severe",
+                    "id": "a0080763-659a-4b13-9399-c97aa4672a0b",
+                    "parentId": "412532ec-612b-458a-8da2-3231da6d2566"
+                }
+            ],
+            "id": "412532ec-612b-458a-8da2-3231da6d2566",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "fluconazole",
+            "details": [
+                {
+                    "evidence": "Anecdotal",
+                    "description": "Fluconazole is predicted to increase the exposure to Atorvastatin. Manufacturer advises monitor and adjust dose.  ",
+                    "severity": "Severe",
+                    "id": "1b3f44ef-6ebb-4487-babb-1e85a5032e2f",
+                    "parentId": "30c83f72-9d6c-48e5-8227-02f68a39612d"
+                },
+                {
+                    "evidence": null,
+                    "description": "Both Atorvastatin and Fluconazole can increase the risk of hepatotoxicity.",
+                    "severity": "Normal",
+                    "id": "c4ab6a15-a71f-4535-b4dc-368bd734dd6b",
+                    "parentId": "30c83f72-9d6c-48e5-8227-02f68a39612d"
+                }
+            ],
+            "id": "30c83f72-9d6c-48e5-8227-02f68a39612d",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "fluorouracil",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Atorvastatin and Fluorouracil can increase the risk of hepatotoxicity.",
+                    "severity": "Normal",
+                    "id": "13a82f86-68fa-42de-8575-b534ffb522e6",
+                    "parentId": "b479639e-151c-4749-84d4-06fd210aadae"
+                }
+            ],
+            "id": "b479639e-151c-4749-84d4-06fd210aadae",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "flutamide",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Atorvastatin and Flutamide can increase the risk of hepatotoxicity.",
+                    "severity": "Normal",
+                    "id": "48e4e8bc-c770-44d3-8a9b-856af949c811",
+                    "parentId": "04691934-d3a7-48f5-8a29-bc17e48f1f97"
+                }
+            ],
+            "id": "04691934-d3a7-48f5-8a29-bc17e48f1f97",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "fosamprenavir",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Fosamprenavir is predicted to increase the exposure to Atorvastatin. Manufacturer advises avoid or adjust dose and monitor rhabdomyolysis.  ",
+                    "severity": "Severe",
+                    "id": "4d1cdf59-d536-45f1-a309-e5cbbbf3931c",
+                    "parentId": "d5d9a523-5a54-44fa-83a6-3ea6d6ec1b14"
+                }
+            ],
+            "id": "d5d9a523-5a54-44fa-83a6-3ea6d6ec1b14",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "fostamatinib",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Fostamatinib is predicted to increase the exposure to Atorvastatin. Manufacturer advises monitor and adjust dose.  ",
+                    "severity": "Moderate",
+                    "id": "861bcd39-8bed-41c2-b4fa-fb49f0731fc0",
+                    "parentId": "05336ecf-16bb-417e-bf89-33b9aba5064d"
+                }
+            ],
+            "id": "05336ecf-16bb-417e-bf89-33b9aba5064d",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "fostemsavir",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Fostemsavir is predicted to increase the exposure to Atorvastatin. Manufacturer advises adjust starting dose and monitor.  ",
+                    "severity": "Severe",
+                    "id": "22e40dcf-013a-4d0e-9c7d-4cf9901cf5e3",
+                    "parentId": "2232deb7-9907-4688-9ead-d870c5b2dfc6"
+                }
+            ],
+            "id": "2232deb7-9907-4688-9ead-d870c5b2dfc6",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "gemcitabine-specialist-drug",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Atorvastatin and Gemcitabine can increase the risk of hepatotoxicity.",
+                    "severity": "Normal",
+                    "id": "26fe8810-f9fa-42f2-bc7c-931089948466",
+                    "parentId": "640c520e-69a6-400b-a7cc-45d3b8168f0d"
+                }
+            ],
+            "id": "640c520e-69a6-400b-a7cc-45d3b8168f0d",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "gemfibrozil",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Gemfibrozil causes a small increase in the exposure to Atorvastatin. Manufacturer advises avoid.  ",
+                    "severity": "Severe",
+                    "id": "8eca9d8f-3c6d-49c8-8aff-b1caa2e77d42",
+                    "parentId": "a456ec8b-7441-403d-bc53-55bb87b7dca2"
+                }
+            ],
+            "id": "a456ec8b-7441-403d-bc53-55bb87b7dca2",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "grapefruit",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Grapefruit juice increases the exposure to Atorvastatin. Manufacturer advises caution.  ",
+                    "severity": "Mild",
+                    "id": "67b32335-7185-4f2f-a25b-f5e307fe42cf",
+                    "parentId": "2b0dcb11-2986-44c7-b730-e462247d8c4a"
+                }
+            ],
+            "id": "2b0dcb11-2986-44c7-b730-e462247d8c4a",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "idelalisib-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Idelalisib is predicted to increase the exposure to Atorvastatin. Manufacturer advises avoid or adjust dose and monitor rhabdomyolysis.  ",
+                    "severity": "Severe",
+                    "id": "54ed2ac1-a905-45d5-a3b1-18b71bd6396a",
+                    "parentId": "ca999ee6-54d7-4f9b-be6c-9dbb74a40bd0"
+                }
+            ],
+            "id": "ca999ee6-54d7-4f9b-be6c-9dbb74a40bd0",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "imatinib-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Imatinib is predicted to increase the exposure to Atorvastatin. Manufacturer advises monitor and adjust dose.  ",
+                    "severity": "Severe",
+                    "id": "65d10e26-2c72-44d7-806f-cc54a67890b0",
+                    "parentId": "10b18d51-82fe-4360-bcb6-c54971741b51"
+                }
+            ],
+            "id": "10b18d51-82fe-4360-bcb6-c54971741b51",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "isavuconazole",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Isavuconazole slightly increases the exposure to Atorvastatin. Manufacturer advises monitor adverse effects.  ",
+                    "severity": "Moderate",
+                    "id": "4b1259cd-6fe5-4dd8-94fd-acf803ff7e13",
+                    "parentId": "6c74f71b-9438-442b-b729-23034c7d52d5"
+                }
+            ],
+            "id": "6c74f71b-9438-442b-b729-23034c7d52d5",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "isoniazid",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Atorvastatin and Isoniazid can increase the risk of hepatotoxicity.",
+                    "severity": "Normal",
+                    "id": "c59d19e4-ca4a-459c-9625-e7dfeafafd96",
+                    "parentId": "5811d5a5-3f54-474d-9bee-b6c1fbac8f98"
+                }
+            ],
+            "id": "5811d5a5-3f54-474d-9bee-b6c1fbac8f98",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "isotretinoin",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Atorvastatin and Isotretinoin can increase the risk of hepatotoxicity.",
+                    "severity": "Normal",
+                    "id": "3c19c270-f770-407c-b6e8-da679c448ca5",
+                    "parentId": "5773ee8d-73ce-4fe5-a06d-0703a519a409"
+                }
+            ],
+            "id": "5773ee8d-73ce-4fe5-a06d-0703a519a409",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "itraconazole",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Itraconazole is predicted to increase the exposure to Atorvastatin. Manufacturer advises avoid or adjust dose and monitor rhabdomyolysis.  ",
+                    "severity": "Severe",
+                    "id": "fa24b49c-a6b7-446a-a317-270a12f86341",
+                    "parentId": "b3638210-c6e5-4f5d-a6a4-500e75bfbd57"
+                },
+                {
+                    "evidence": null,
+                    "description": "Both Atorvastatin and Itraconazole can increase the risk of hepatotoxicity.",
+                    "severity": "Normal",
+                    "id": "eff59574-0775-495d-940a-d527a9e04841",
+                    "parentId": "b3638210-c6e5-4f5d-a6a4-500e75bfbd57"
+                }
+            ],
+            "id": "b3638210-c6e5-4f5d-a6a4-500e75bfbd57",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "ivosidenib-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Ivosidenib is predicted to increase the exposure to Atorvastatin. Manufacturer advises use with caution or avoid.  ",
+                    "severity": "Unknown",
+                    "id": "4947a5ed-e3fe-4eb1-ba9d-94d51bc1739f",
+                    "parentId": "14d6e180-3ce4-49fd-a076-90f5735ea35b"
+                }
+            ],
+            "id": "14d6e180-3ce4-49fd-a076-90f5735ea35b",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "ketoconazole",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Ketoconazole is predicted to increase the exposure to Atorvastatin. Manufacturer advises avoid or adjust dose and monitor rhabdomyolysis.  ",
+                    "severity": "Severe",
+                    "id": "d34ae1d0-bf2e-4016-ad1a-d9901072af25",
+                    "parentId": "6ad4d52a-ddc9-4599-b6a9-5e88e4b943c1"
+                }
+            ],
+            "id": "6ad4d52a-ddc9-4599-b6a9-5e88e4b943c1",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "leflunomide",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Leflunomide is predicted to increase the exposure to Atorvastatin. Manufacturer advises caution.  ",
+                    "severity": "Moderate",
+                    "id": "f483818f-fabc-4487-8b76-3f20267933ee",
+                    "parentId": "ba09353a-7585-4937-a432-72300ee122bf"
+                }
+            ],
+            "id": "ba09353a-7585-4937-a432-72300ee122bf",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "lenalidomide-specialist-drug",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Atorvastatin and Lenalidomide can increase the risk of hepatotoxicity.",
+                    "severity": "Normal",
+                    "id": "18c2ce81-87ef-4c48-b7f9-be4023871e83",
+                    "parentId": "215f639e-38cf-46fc-8853-e647fc41581b"
+                }
+            ],
+            "id": "215f639e-38cf-46fc-8853-e647fc41581b",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "leniolisib",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Leniolisib is predicted to increase the exposure to Atorvastatin. Manufacturer advises avoid.  ",
+                    "severity": "Moderate",
+                    "id": "c3c57b92-cc07-4659-af9d-46eabda76215",
+                    "parentId": "7fb44a79-2d4c-406f-8693-8e5d4b9aa591"
+                }
+            ],
+            "id": "7fb44a79-2d4c-406f-8693-8e5d4b9aa591",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "letermovir",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Letermovir moderately increases the exposure to Atorvastatin. Manufacturer advises avoid or adjust Atorvastatin dose.  ",
+                    "severity": "Severe",
+                    "id": "ac924528-a1eb-4597-abc9-103f939a8161",
+                    "parentId": "87c67d12-ad32-4d39-85c6-d9dc1e10bbc4"
+                }
+            ],
+            "id": "87c67d12-ad32-4d39-85c6-d9dc1e10bbc4",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "lomitapide",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Lomitapide increases the exposure to Atorvastatin. Manufacturer advises adjust Lomitapide dose or separate administration by 12 hours.  ",
+                    "severity": "Mild",
+                    "id": "e00513d8-7e10-451c-a9e3-3698a8d047d2",
+                    "parentId": "a4f92936-b62c-4ac3-a573-112c325a7f0f"
+                },
+                {
+                    "evidence": null,
+                    "description": "Both Atorvastatin and Lomitapide can increase the risk of hepatotoxicity.",
+                    "severity": "Normal",
+                    "id": "97714bb7-ea7c-4ddb-a533-8b84666dbe10",
+                    "parentId": "a4f92936-b62c-4ac3-a573-112c325a7f0f"
+                }
+            ],
+            "id": "a4f92936-b62c-4ac3-a573-112c325a7f0f",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "lorlatinib-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Lorlatinib is predicted to decrease the exposure to Atorvastatin. Manufacturer makes no recommendation.  ",
+                    "severity": "Moderate",
+                    "id": "ab2c748c-5a89-490d-aaf9-1a632ebf7642",
+                    "parentId": "0a858fac-eba4-4861-92d9-9b19b6b5036d"
+                }
+            ],
+            "id": "0a858fac-eba4-4861-92d9-9b19b6b5036d",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "lymecycline",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Atorvastatin and Lymecycline can increase the risk of hepatotoxicity.",
+                    "severity": "Normal",
+                    "id": "af8ae900-fd7c-4fab-bb02-22a0404ed2f3",
+                    "parentId": "6a4e934e-396c-4705-8c28-be49b7019f9c"
+                }
+            ],
+            "id": "6a4e934e-396c-4705-8c28-be49b7019f9c",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "mercaptopurine",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Atorvastatin and Mercaptopurine can increase the risk of hepatotoxicity.",
+                    "severity": "Normal",
+                    "id": "9fdada25-50db-4e6e-a4cf-55ce97cfce5b",
+                    "parentId": "c49d139b-cd5d-4aa1-8564-2479c6aab559"
+                }
+            ],
+            "id": "c49d139b-cd5d-4aa1-8564-2479c6aab559",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "methotrexate",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Atorvastatin and Methotrexate can increase the risk of hepatotoxicity.",
+                    "severity": "Normal",
+                    "id": "cb796837-6aea-4603-beee-d101278ac283",
+                    "parentId": "31548aba-c9dd-499c-8000-29d3eeb5bdfe"
+                }
+            ],
+            "id": "31548aba-c9dd-499c-8000-29d3eeb5bdfe",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "micafungin",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Atorvastatin and Micafungin can increase the risk of hepatotoxicity.",
+                    "severity": "Normal",
+                    "id": "1ab517b0-844a-4e8b-91a2-5b95d75319c7",
+                    "parentId": "6eb0b4e6-b529-4413-ad71-de7911e8619e"
+                }
+            ],
+            "id": "6eb0b4e6-b529-4413-ad71-de7911e8619e",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "miconazole",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Miconazole (including the oral gel) might increase the exposure to Atorvastatin. Manufacturer makes no recommendation.  ",
+                    "severity": "Moderate",
+                    "id": "e9743cfe-34fa-466f-98a2-9470fb2878c4",
+                    "parentId": "e26f6d39-3f8f-4a41-ace4-8a2b124040e1"
+                }
+            ],
+            "id": "e26f6d39-3f8f-4a41-ace4-8a2b124040e1",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "minocycline",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Atorvastatin and Minocycline can increase the risk of hepatotoxicity.",
+                    "severity": "Normal",
+                    "id": "f494ee98-3c48-47dc-99ca-490f2657fddc",
+                    "parentId": "0c543778-58ce-40e4-8405-24f6cfecdb08"
+                }
+            ],
+            "id": "0c543778-58ce-40e4-8405-24f6cfecdb08",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "mitotane-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Mitotane is predicted to decrease the exposure to Atorvastatin. Manufacturer makes no recommendation.  ",
+                    "severity": "Moderate",
+                    "id": "16f1f33d-3b4e-4b1e-9cf7-6a4f8426abda",
+                    "parentId": "939daeb3-2005-4f67-bc42-d23b40b96be1"
+                }
+            ],
+            "id": "939daeb3-2005-4f67-bc42-d23b40b96be1",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "nelarabine-specialist-drug",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Atorvastatin and Nelarabine can increase the risk of hepatotoxicity.",
+                    "severity": "Normal",
+                    "id": "6592213e-bfe4-4d6e-b8aa-8ff12f37cacb",
+                    "parentId": "28be7829-a343-4d38-81b1-186d1f4ae272"
+                }
+            ],
+            "id": "28be7829-a343-4d38-81b1-186d1f4ae272",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "neratinib-specialist-drug",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Atorvastatin and Neratinib can increase the risk of hepatotoxicity.",
+                    "severity": "Normal",
+                    "id": "1e2a2aef-0841-4697-97d6-0d02347ad1f0",
+                    "parentId": "239fdf71-7985-456b-8571-b45aadb83ce5"
+                }
+            ],
+            "id": "239fdf71-7985-456b-8571-b45aadb83ce5",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "nevirapine",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Nevirapine is predicted to decrease the exposure to Atorvastatin. Manufacturer makes no recommendation.  ",
+                    "severity": "Moderate",
+                    "id": "6c3cb6cc-7977-482c-bf03-2956daa3c213",
+                    "parentId": "19e19cdf-5251-4e47-bb92-7f668b97541e"
+                },
+                {
+                    "evidence": null,
+                    "description": "Both Atorvastatin and Nevirapine can increase the risk of hepatotoxicity.",
+                    "severity": "Normal",
+                    "id": "5560d801-b36d-47ae-8dd1-f10173f8e561",
+                    "parentId": "19e19cdf-5251-4e47-bb92-7f668b97541e"
+                }
+            ],
+            "id": "19e19cdf-5251-4e47-bb92-7f668b97541e",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "nicotinic-acid",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Nicotinic acid might increase the risk of rhabdomyolysis when given with Atorvastatin. Manufacturer advises use with caution or avoid.  ",
+                    "severity": "Severe",
+                    "id": "401ae2f8-066d-4b38-b1ae-bef3b2c8da6a",
+                    "parentId": "76389c9e-03b6-4d15-9b68-27808dc0df48"
+                },
+                {
+                    "evidence": null,
+                    "description": "Both Atorvastatin and Nicotinic acid can increase the risk of hepatotoxicity.",
+                    "severity": "Normal",
+                    "id": "7413cb44-edcb-43da-ab2a-3eb257e50ef1",
+                    "parentId": "76389c9e-03b6-4d15-9b68-27808dc0df48"
+                }
+            ],
+            "id": "76389c9e-03b6-4d15-9b68-27808dc0df48",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "nilotinib-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Nilotinib is predicted to increase the exposure to Atorvastatin. Manufacturer advises monitor and adjust dose.  ",
+                    "severity": "Moderate",
+                    "id": "e5640609-3692-427f-b393-1a81613ad490",
+                    "parentId": "c4b1e2a5-417b-4bae-9c73-a95d03a25af9"
+                }
+            ],
+            "id": "c4b1e2a5-417b-4bae-9c73-a95d03a25af9",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "olaparib-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Olaparib is predicted to increase the exposure to Atorvastatin. Manufacturer advises caution.  ",
+                    "severity": "Moderate",
+                    "id": "fd38cb41-01a6-4f4f-8a3f-da42b4aae7b2",
+                    "parentId": "84652195-ffcb-4bb1-a354-4046a996c820"
+                }
+            ],
+            "id": "84652195-ffcb-4bb1-a354-4046a996c820",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "oxcarbazepine",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Oxcarbazepine is predicted to decrease the exposure to Atorvastatin. Manufacturer makes no recommendation.  ",
+                    "severity": "Moderate",
+                    "id": "d01815c7-fabb-4c60-bfc6-53db940af7b6",
+                    "parentId": "6e68aac9-ad34-4411-bddc-440ed3f0482c"
+                }
+            ],
+            "id": "6e68aac9-ad34-4411-bddc-440ed3f0482c",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "oxymetholone",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Atorvastatin and Oxymetholone can increase the risk of hepatotoxicity.",
+                    "severity": "Normal",
+                    "id": "18f2d289-9008-40db-93da-9be655a9d123",
+                    "parentId": "a8398693-1ea4-498a-a29a-264f1c6be483"
+                }
+            ],
+            "id": "a8398693-1ea4-498a-a29a-264f1c6be483",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "oxytetracycline",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Atorvastatin and Oxytetracycline can increase the risk of hepatotoxicity.",
+                    "severity": "Normal",
+                    "id": "9d3b0ca7-a26f-49c4-92da-acac7fc9f451",
+                    "parentId": "51fed5eb-0fbe-43bc-a9fc-2f9679e8e490"
+                }
+            ],
+            "id": "51fed5eb-0fbe-43bc-a9fc-2f9679e8e490",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "paracetamol",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Atorvastatin and Paracetamol can increase the risk of hepatotoxicity.",
+                    "severity": "Normal",
+                    "id": "3a517098-7f88-441a-8296-b01094fc22fb",
+                    "parentId": "fea98b99-d9d8-468f-ab3d-7d3244db8796"
+                }
+            ],
+            "id": "fea98b99-d9d8-468f-ab3d-7d3244db8796",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "pazopanib-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Pazopanib might affect the exposure to Atorvastatin. Manufacturer advises caution.  ",
+                    "severity": "Moderate",
+                    "id": "f171858c-6475-411d-9f7a-681538120864",
+                    "parentId": "6915b81c-c596-4601-963b-3840682645a2"
+                }
+            ],
+            "id": "6915b81c-c596-4601-963b-3840682645a2",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "pegaspargase-specialist-drug",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Atorvastatin and Pegaspargase can increase the risk of hepatotoxicity.",
+                    "severity": "Normal",
+                    "id": "61d2bb33-b982-48f9-be50-51461ecef802",
+                    "parentId": "d86a563d-356c-4c49-a59f-ca3d16d4f41d"
+                }
+            ],
+            "id": "d86a563d-356c-4c49-a59f-ca3d16d4f41d",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "pemetrexed-specialist-drug",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Atorvastatin and Pemetrexed can increase the risk of hepatotoxicity.",
+                    "severity": "Normal",
+                    "id": "3f76843a-0fb8-45d4-a247-cc4792b34c4e",
+                    "parentId": "9bbb7584-bbeb-4b85-809f-4e46aeff305a"
+                }
+            ],
+            "id": "9bbb7584-bbeb-4b85-809f-4e46aeff305a",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "phenobarbital",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Phenobarbital is predicted to decrease the exposure to Atorvastatin. Manufacturer makes no recommendation.  ",
+                    "severity": "Moderate",
+                    "id": "f3ba19c1-37a1-452e-a4b0-c44b2ef38a6f",
+                    "parentId": "78e28b7b-bd4e-4d8c-aa1d-6f31b94329c7"
+                }
+            ],
+            "id": "78e28b7b-bd4e-4d8c-aa1d-6f31b94329c7",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "phenytoin",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Phenytoin moderately decreases the exposure to Atorvastatin. Manufacturer makes no recommendation.  ",
+                    "severity": "Moderate",
+                    "id": "0994f517-4b20-426c-86be-916137cd157b",
+                    "parentId": "ba4d9c2a-9898-4ea7-9ca0-b708554eafd5"
+                }
+            ],
+            "id": "ba4d9c2a-9898-4ea7-9ca0-b708554eafd5",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "pomalidomide-specialist-drug",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Atorvastatin and Pomalidomide can increase the risk of hepatotoxicity.",
+                    "severity": "Normal",
+                    "id": "6ad22dde-1f86-42e0-a82d-d4fc4131550e",
+                    "parentId": "0f7c8815-57ad-45c0-844b-5ba940bf2d31"
+                }
+            ],
+            "id": "0f7c8815-57ad-45c0-844b-5ba940bf2d31",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "posaconazole",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Posaconazole is predicted to increase the exposure to Atorvastatin. Manufacturer advises avoid or adjust dose and monitor rhabdomyolysis.  ",
+                    "severity": "Severe",
+                    "id": "d02be473-c388-431d-bb5e-d86633a0607a",
+                    "parentId": "41f6a8d1-2f67-420e-a757-80b853e0d2d2"
+                }
+            ],
+            "id": "41f6a8d1-2f67-420e-a757-80b853e0d2d2",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "primidone",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Primidone is predicted to decrease the exposure to Atorvastatin. Manufacturer makes no recommendation.  ",
+                    "severity": "Moderate",
+                    "id": "f887bb54-b64e-4639-87ea-04eba82b1e64",
+                    "parentId": "13a96ebc-f2d2-4982-bdc9-239db7a66715"
+                }
+            ],
+            "id": "13a96ebc-f2d2-4982-bdc9-239db7a66715",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "pyrazinamide",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Atorvastatin and Pyrazinamide can increase the risk of hepatotoxicity.",
+                    "severity": "Normal",
+                    "id": "415e0175-c5c4-4dc2-85af-0051366a6b05",
+                    "parentId": "0d1cd2c8-eaff-4af9-ac34-8cda705f1c38"
+                }
+            ],
+            "id": "0d1cd2c8-eaff-4af9-ac34-8cda705f1c38",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "ranolazine",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Ranolazine is predicted to increase the exposure to Atorvastatin. Manufacturer makes no recommendation.  ",
+                    "severity": "Moderate",
+                    "id": "0141624c-b477-4fcf-98f6-279a346d6c27",
+                    "parentId": "b5e232ef-136c-497d-ae21-94e934a05938"
+                }
+            ],
+            "id": "b5e232ef-136c-497d-ae21-94e934a05938",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "regorafenib-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Regorafenib is predicted to increase the exposure to Atorvastatin. Manufacturer advises monitor adverse effects.  ",
+                    "severity": "Moderate",
+                    "id": "3d579cc1-6194-4175-a632-d5844240018a",
+                    "parentId": "f88d2ece-8475-4c72-b86d-1fc97b846d1b"
+                }
+            ],
+            "id": "f88d2ece-8475-4c72-b86d-1fc97b846d1b",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "rifampicin",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Rifampicin markedly decreases the exposure to Atorvastatin. Manufacturer advises take both drugs at the same time.  ",
+                    "severity": "Moderate",
+                    "id": "66c68683-88fc-4a9c-bd2b-45e79412af4d",
+                    "parentId": "8039c74c-abf6-4969-9125-e3d52af90f55"
+                }
+            ],
+            "id": "8039c74c-abf6-4969-9125-e3d52af90f55",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "ritonavir",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Ritonavir is predicted to increase the exposure to Atorvastatin. Manufacturer advises avoid or adjust dose and monitor rhabdomyolysis.  ",
+                    "severity": "Severe",
+                    "id": "3a0c7a80-b8dc-4514-9de7-80606464641e",
+                    "parentId": "3e64daa6-1660-415c-b72e-b38656ee68c0"
+                },
+                {
+                    "evidence": null,
+                    "description": "Both Atorvastatin and Ritonavir can increase the risk of hepatotoxicity.",
+                    "severity": "Normal",
+                    "id": "9e1e5da4-e0e5-432b-8458-2d3e1aeb63fd",
+                    "parentId": "3e64daa6-1660-415c-b72e-b38656ee68c0"
+                }
+            ],
+            "id": "3e64daa6-1660-415c-b72e-b38656ee68c0",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "roxadustat",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Roxadustat is predicted to increase the exposure to Atorvastatin. Manufacturer advises monitor adverse effects and adjust dose.  ",
+                    "severity": "Moderate",
+                    "id": "c42c8abc-8b88-481e-a22e-1326914898ac",
+                    "parentId": "9f8e8fa1-2cb8-48fa-989a-8310aa65f542"
+                }
+            ],
+            "id": "9f8e8fa1-2cb8-48fa-989a-8310aa65f542",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "sarilumab",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Sarilumab is predicted to decrease the exposure to Atorvastatin. Manufacturer advises caution.  ",
+                    "severity": "Moderate",
+                    "id": "010b5192-9f2a-4263-b3ba-1ec8e7647ac7",
+                    "parentId": "e2545e4a-6278-473a-8888-0400e1524291"
+                }
+            ],
+            "id": "e2545e4a-6278-473a-8888-0400e1524291",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "sotorasib-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Sotorasib is predicted to decrease the exposure to Atorvastatin. Manufacturer makes no recommendation.  ",
+                    "severity": "Moderate",
+                    "id": "a34e47d3-b27b-4566-95a3-e43f4284b65d",
+                    "parentId": "375ebcb1-fe68-478a-b6c7-e59d0fb764a3"
+                },
+                {
+                    "evidence": null,
+                    "description": "Both Atorvastatin and Sotorasib can increase the risk of hepatotoxicity.",
+                    "severity": "Normal",
+                    "id": "d4ce701c-3ae2-4d03-ac82-e6e7436731f6",
+                    "parentId": "375ebcb1-fe68-478a-b6c7-e59d0fb764a3"
+                }
+            ],
+            "id": "375ebcb1-fe68-478a-b6c7-e59d0fb764a3",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "st-johns-wort",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "St John's wort is predicted to decrease the exposure to Atorvastatin. Manufacturer makes no recommendation.  ",
+                    "severity": "Moderate",
+                    "id": "988b9570-0269-4434-94ff-7ec10c1551ad",
+                    "parentId": "8e312e6a-e3e5-4a0f-a1aa-2312517dbb77"
+                }
+            ],
+            "id": "8e312e6a-e3e5-4a0f-a1aa-2312517dbb77",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "streptozocin-specialist-drug",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Atorvastatin and Streptozocin can increase the risk of hepatotoxicity.",
+                    "severity": "Normal",
+                    "id": "9f9cd1d5-e35a-4548-9e01-eb5b64803501",
+                    "parentId": "d585b261-4c72-4209-afed-20b75d9083b7"
+                }
+            ],
+            "id": "d585b261-4c72-4209-afed-20b75d9083b7",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "talazoparib-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Atorvastatin very slightly increases the exposure to Talazoparib. Manufacturer makes no recommendation.  ",
+                    "severity": "Moderate",
+                    "id": "2e4f37d5-379c-4e89-97ab-3c94b0874e29",
+                    "parentId": "3ecdaf1d-b8ba-4ade-8e3a-cce005e3a760"
+                }
+            ],
+            "id": "3ecdaf1d-b8ba-4ade-8e3a-cce005e3a760",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "tedizolid",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Tedizolid is predicted to increase the exposure to Atorvastatin. Manufacturer advises avoid.  ",
+                    "severity": "Moderate",
+                    "id": "771b654f-46b2-4c05-b76a-fc5e7e468715",
+                    "parentId": "05572b36-a8c2-4f59-b503-e9f900914a41"
+                }
+            ],
+            "id": "05572b36-a8c2-4f59-b503-e9f900914a41",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "tepotinib-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Tepotinib might increase the exposure to Atorvastatin. Manufacturer advises monitor.  ",
+                    "severity": "Moderate",
+                    "id": "90b96b16-7f60-4217-af9b-8bab3fdfca5b",
+                    "parentId": "f985c7f2-e964-4c55-a0a1-83f3e9d91ca1"
+                }
+            ],
+            "id": "f985c7f2-e964-4c55-a0a1-83f3e9d91ca1",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "teriflunomide",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Teriflunomide is predicted to increase the exposure to Atorvastatin. Manufacturer advises caution.  ",
+                    "severity": "Moderate",
+                    "id": "935cadbf-295e-41ba-8c53-77009c9e2e51",
+                    "parentId": "bd53ed33-deda-4584-bd18-8f52a5789976"
+                }
+            ],
+            "id": "bd53ed33-deda-4584-bd18-8f52a5789976",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "tetracycline",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Atorvastatin and Tetracycline can increase the risk of hepatotoxicity.",
+                    "severity": "Normal",
+                    "id": "2c4c76c2-a2b7-4db2-835a-898e93056f64",
+                    "parentId": "48645296-0fb4-4e5c-a4ec-ba64841811a7"
+                }
+            ],
+            "id": "48645296-0fb4-4e5c-a4ec-ba64841811a7",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "thalidomide-specialist-drug",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Atorvastatin and Thalidomide can increase the risk of hepatotoxicity.",
+                    "severity": "Normal",
+                    "id": "72fb99c2-7451-4f1a-9fe4-a03f04c88ea6",
+                    "parentId": "f6cd0720-f2ce-4ac8-b3e0-7fbf3372384b"
+                }
+            ],
+            "id": "f6cd0720-f2ce-4ac8-b3e0-7fbf3372384b",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "tigecycline",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Atorvastatin and Tigecycline can increase the risk of hepatotoxicity.",
+                    "severity": "Normal",
+                    "id": "98f2f2ae-03b8-4693-a101-9bd5286046a4",
+                    "parentId": "19c71a7e-06d0-4f2d-80d6-987b17eb3014"
+                }
+            ],
+            "id": "19c71a7e-06d0-4f2d-80d6-987b17eb3014",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "tioguanine-specialist-drug",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Atorvastatin and Tioguanine can increase the risk of hepatotoxicity.",
+                    "severity": "Normal",
+                    "id": "dd9159e3-ca84-400a-a399-e3be44a5bd06",
+                    "parentId": "d9255073-1508-41c1-8920-eb465cd876b2"
+                }
+            ],
+            "id": "d9255073-1508-41c1-8920-eb465cd876b2",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "tocilizumab",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Tocilizumab is predicted to decrease the exposure to Atorvastatin. Manufacturer advises monitor and adjust dose.  ",
+                    "severity": "Moderate",
+                    "id": "0fe8ab3a-264f-4e2b-8af2-4847df68c5ed",
+                    "parentId": "070d92eb-31da-4c68-8004-07d47bf1af79"
+                }
+            ],
+            "id": "070d92eb-31da-4c68-8004-07d47bf1af79",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "trabectedin-specialist-drug",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Atorvastatin and Trabectedin can increase the risk of hepatotoxicity.",
+                    "severity": "Normal",
+                    "id": "6b229dec-2d13-43bc-977b-3e8afc6c8bfd",
+                    "parentId": "8076a264-482a-4da5-8da0-b0a7715800e8"
+                }
+            ],
+            "id": "8076a264-482a-4da5-8da0-b0a7715800e8",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "tucatinib-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Tucatinib is predicted to increase the exposure to Atorvastatin. Manufacturer advises avoid or adjust dose and monitor rhabdomyolysis.  ",
+                    "severity": "Severe",
+                    "id": "46fa6c6b-0d56-4d1b-bdcd-1b1d6a6bd2eb",
+                    "parentId": "ee036bf2-5bbb-4b2a-903c-223aa7552618"
+                }
+            ],
+            "id": "ee036bf2-5bbb-4b2a-903c-223aa7552618",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "vadadustat",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Vadadustat is predicted to increase the exposure to Atorvastatin. Manufacturer advises monitor and adjust dose.  ",
+                    "severity": "Moderate",
+                    "id": "2e25fa38-a455-43a0-8f4d-416116954070",
+                    "parentId": "0e050f6b-e8cc-48a0-ad7a-ac96591cab9b"
+                }
+            ],
+            "id": "0e050f6b-e8cc-48a0-ad7a-ac96591cab9b",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "venetoclax-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Venetoclax is predicted to increase the exposure to Atorvastatin. Manufacturer advises monitor.  ",
+                    "severity": "Moderate",
+                    "id": "e21cdffc-a902-4348-84a3-c552716385f1",
+                    "parentId": "ef7df00c-b392-4c60-8936-02ad65a98807"
+                }
+            ],
+            "id": "ef7df00c-b392-4c60-8936-02ad65a98807",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "vitamin-a",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Atorvastatin and Vitamin A can increase the risk of hepatotoxicity.",
+                    "severity": "Normal",
+                    "id": "c0ff1a36-4bdf-4c5a-aa3b-257d2a5ab1fa",
+                    "parentId": "8ec4a4ff-2ddb-4402-a6bb-3634e23f2a81"
+                }
+            ],
+            "id": "8ec4a4ff-2ddb-4402-a6bb-3634e23f2a81",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "voclosporin",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Voclosporin is predicted to increase the concentration of Atorvastatin. Manufacturer advises monitor.  ",
+                    "severity": "Moderate",
+                    "id": "69e0dd96-f5ef-4d73-84ee-4678d422eeab",
+                    "parentId": "3f9bec21-9fa9-485e-b587-5b15d7a445a0"
+                }
+            ],
+            "id": "3f9bec21-9fa9-485e-b587-5b15d7a445a0",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "voriconazole",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Voriconazole is predicted to increase the exposure to Atorvastatin. Manufacturer advises avoid or adjust dose and monitor rhabdomyolysis.  ",
+                    "severity": "Severe",
+                    "id": "198e2824-83b2-4bdc-8d4d-7babc169937d",
+                    "parentId": "e1b01fc8-1597-4d7c-907f-009cfa3a700e"
+                },
+                {
+                    "evidence": null,
+                    "description": "Both Atorvastatin and Voriconazole can increase the risk of hepatotoxicity.",
+                    "severity": "Normal",
+                    "id": "5011fe74-16d4-4730-a83d-32da049be3ca",
+                    "parentId": "e1b01fc8-1597-4d7c-907f-009cfa3a700e"
+                }
+            ],
+            "id": "e1b01fc8-1597-4d7c-907f-009cfa3a700e",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "zidovudine",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Atorvastatin and Zidovudine can increase the risk of hepatotoxicity.",
+                    "severity": "Normal",
+                    "id": "a6e86fcf-69a1-4505-9bd2-011efa83421c",
+                    "parentId": "ca60a83a-d2f5-4f84-b742-f7a4e2d7bfc4"
+                }
+            ],
+            "id": "ca60a83a-d2f5-4f84-b742-f7a4e2d7bfc4",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        }
+    ],
+    "id": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f",
+    "parentId": null
+}
