@@ -41,7 +41,7 @@ A tool for generating knowledge graphs using RML mappings and LLM (Large Languag
    deactivate
    ```
 
-Additionally, ensure Java is installed and available in your system for RML processing.
+Additionally, ensure Java is installed and available in your system for RML processing. Also, refer to the Ollama documentation to download and run `deepseek-r1:14b` locally (https://ollama.com/library/deepseek-r1).
 
 ---
 

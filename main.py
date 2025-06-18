@@ -26,7 +26,7 @@ def main():
 
 def generate_rml_kg() -> None:
     logging.info("START: RML Knowledge Graph Generation")
-    resources_dir = Path("res")
+    resources_dir = Path("resources")
     input_dir = resources_dir / "json" / "drugs"
     knowledge_graph_dir = resources_dir / "knowledge-graphs" / "rml"
 
@@ -35,7 +35,7 @@ def generate_rml_kg() -> None:
 
 def generate_rml_llm_kg() -> None:
     logging.info("START: RML LLM Knowledge Graph Generation")
-    resources_dir = Path("res")
+    resources_dir = Path("resources")
     input_dir = resources_dir / "json" / "drugs"
     knowledge_graph_dir = resources_dir / "knowledge-graphs" / "rml-llm"
 
