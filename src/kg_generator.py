@@ -101,7 +101,7 @@ def run_command(command, cwd=None) -> None:
         if result.stdout:
             logging.info(result.stdout)
     except Exception as e:
-        logging.error("COMMAND ERROR || Command: {} || Error: {}".format(str(command), str(e.stderr)))
+        logging.error("COMMAND ERROR || Command: {} || Error: {}".format(str(command), str(e)))
 
 def generate_interaction_kg(rml_working_dir) -> None:
     logging.info("START: Interactions Knowledge Graph Generation")

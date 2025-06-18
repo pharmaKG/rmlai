@@ -19,6 +19,7 @@ class StringResponse(BaseModel):
 class FloatResponse(BaseModel):
     response: float
 
+## TODO refactor
 def query_for_str(prompt) -> str:
     response: ChatResponse = chat(
         model='deepseek-r1:14b',
@@ -28,6 +29,7 @@ def query_for_str(prompt) -> str:
                 'content': prompt,
             },
         ])
+    parsed = None
     try:
         response_content = response['message']['content']
         parsed = re.search(r"</think>([\s\S]*)", response_content, flags=re.DOTALL).group(1).strip()
@@ -46,6 +48,7 @@ def query_for_list(prompt) -> List[str]:
             'content': prompt,
         },
     ])
+    parsed = None
     try:
         response_content = response['message']['content']
         parsed = re.search(r"</think>([\s\S]*)", response_content, flags=re.DOTALL).group(1).strip()
@@ -64,6 +67,7 @@ def query_for_float(prompt) -> float:
             'content': prompt,
         },
     ])
+    parsed = None
     try:
         response_content = response['message']['content']
         parsed = re.search(r"</think>([\s\S]*)", response_content, flags=re.DOTALL).group(1).strip()
