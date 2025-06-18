@@ -17,28 +17,26 @@ A tool for generating knowledge graphs using RML mappings and LLM (Large Languag
       - Generated RDF knowledge graphs
   - **`ontology/`** - RDFS ontology and SHACL constraints for drugs and interactions.
   - **`queries/`** - SPARQL queries used for evaluation.
-  - **`rml/`** - Contains:
-    - RML JAR file
-    - RML function declarations
-    - Java functions used by RML
+  - **`rml/`** - Contains RML function declarations and Java functions used by RML. Should include RMLMapper JAR file (see **Setup** step 6)
 ---
 
 ## Setup
-
-1. Open a terminal window.
-2. Create a virtual environment:
+1. Clone the project.
+2. Open a terminal window.
+3. Create a virtual environment:
    ```bash
    python -m venv .venv
    ```
-3. Activate the virtual environment:
+4. Activate the virtual environment:
    ```bash
    source .venv/bin/activate
    ```
-4. Install dependencies:
+5. Install dependencies:
    ```bash
    pip install -r requirements.txt
    ```
-5. To deactivate the virtual environment:
+6. Download RMLMapper v7.3.3 jar from `https://github.com/RMLio/rmlmapper-java/releases/tag/v7.3.3` and add it to `resources/rml` directory.
+7. To deactivate the virtual environment:
    ```bash
    deactivate
    ```
