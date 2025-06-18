@@ -1,0 +1,141 @@
+{
+    "interactions": [
+        {
+            "interactingDrugId": "flucloxacillin",
+            "interactantDrugId": "acenocoumarol",
+            "details": [
+                {
+                    "evidence": "Anecdotal",
+                    "description": "Flucloxacillin potentially alters the anticoagulant effect of Acenocoumarol. Manufacturer advises monitor INR and adjust dose.  ",
+                    "severity": "Severe",
+                    "id": "56edb439-1fae-4b9f-b2a7-17bec7dd0d72",
+                    "parentId": "cf539f47-a5e3-4bb8-989e-c935fff12f7f"
+                }
+            ],
+            "id": "cf539f47-a5e3-4bb8-989e-c935fff12f7f",
+            "parentId": "bad3ec27-a599-4fc5-9303-32874e140b57"
+        },
+        {
+            "interactingDrugId": "flucloxacillin",
+            "interactantDrugId": "everolimus",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Flucloxacillin (high-dose) might decrease the exposure to Everolimus. Manufacturer makes no recommendation.  ",
+                    "severity": "Moderate",
+                    "id": "e662d6e4-ec64-4e27-845c-0d5a4e8db1f3",
+                    "parentId": "43054b2e-8c65-448e-88fd-304b4bdcecd4"
+                }
+            ],
+            "id": "43054b2e-8c65-448e-88fd-304b4bdcecd4",
+            "parentId": "bad3ec27-a599-4fc5-9303-32874e140b57"
+        },
+        {
+            "interactingDrugId": "flucloxacillin",
+            "interactantDrugId": "isavuconazole",
+            "details": [
+                {
+                    "evidence": "Anecdotal",
+                    "description": "Flucloxacillin (particularly high-dose) might greatly decrease the concentration of Isavuconazole. Manufacturer makes no recommendation.  ",
+                    "severity": "Moderate",
+                    "id": "3aadce70-51f3-405f-a2fd-50ba2f745f6c",
+                    "parentId": "8e950236-bde2-40f7-8ea0-cc4abd3323b8"
+                }
+            ],
+            "id": "8e950236-bde2-40f7-8ea0-cc4abd3323b8",
+            "parentId": "bad3ec27-a599-4fc5-9303-32874e140b57"
+        },
+        {
+            "interactingDrugId": "flucloxacillin",
+            "interactantDrugId": "methotrexate",
+            "details": [
+                {
+                    "evidence": "Anecdotal",
+                    "description": "Flucloxacillin is predicted to increase the risk of toxicity when given with Methotrexate. Manufacturer advises monitor.  ",
+                    "severity": "Severe",
+                    "id": "212cf013-2e6c-415b-89a1-c0e417a562b9",
+                    "parentId": "b64cb393-11f8-4bf1-b401-7614fa74a1cd"
+                }
+            ],
+            "id": "b64cb393-11f8-4bf1-b401-7614fa74a1cd",
+            "parentId": "bad3ec27-a599-4fc5-9303-32874e140b57"
+        },
+        {
+            "interactingDrugId": "flucloxacillin",
+            "interactantDrugId": "paracetamol",
+            "details": [
+                {
+                    "evidence": "Anecdotal",
+                    "description": "Paracetamol has been reported to cause high anion gap metabolic acidosis when given with Flucloxacillin. Manufacturer advises caution.  ",
+                    "severity": "Severe",
+                    "id": "0a81d215-af82-4892-b9fc-414a479b19a9",
+                    "parentId": "1ace3891-ccd6-4bcb-b1c3-33282960e832"
+                }
+            ],
+            "id": "1ace3891-ccd6-4bcb-b1c3-33282960e832",
+            "parentId": "bad3ec27-a599-4fc5-9303-32874e140b57"
+        },
+        {
+            "interactingDrugId": "flucloxacillin",
+            "interactantDrugId": "phenindione",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Flucloxacillin is predicted to increase the risk of bleeding events when given with Phenindione. Manufacturer makes no recommendation.  ",
+                    "severity": "Severe",
+                    "id": "d441e9fb-8f79-4115-a10a-b0c7eb00c20f",
+                    "parentId": "5f9b1c1b-a9f8-4d2b-9522-1733db9b5880"
+                }
+            ],
+            "id": "5f9b1c1b-a9f8-4d2b-9522-1733db9b5880",
+            "parentId": "bad3ec27-a599-4fc5-9303-32874e140b57"
+        },
+        {
+            "interactingDrugId": "flucloxacillin",
+            "interactantDrugId": "posaconazole",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Flucloxacillin (particularly high-dose) might greatly decrease the concentration of Posaconazole. Manufacturer makes no recommendation.  ",
+                    "severity": "Moderate",
+                    "id": "c1494a6b-26c3-4aa9-9ead-27d698aff72e",
+                    "parentId": "46ae2e5d-39d6-4b64-8b3b-a9d6fec456ac"
+                }
+            ],
+            "id": "46ae2e5d-39d6-4b64-8b3b-a9d6fec456ac",
+            "parentId": "bad3ec27-a599-4fc5-9303-32874e140b57"
+        },
+        {
+            "interactingDrugId": "flucloxacillin",
+            "interactantDrugId": "tacrolimus",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Flucloxacillin (high-dose) might decrease the exposure to Tacrolimus. Manufacturer makes no recommendation.  ",
+                    "severity": "Moderate",
+                    "id": "19bc4ecf-ae50-4439-892f-8478eb8e4604",
+                    "parentId": "36bb2ebf-cb66-49f6-a295-8783ef5afd3c"
+                }
+            ],
+            "id": "36bb2ebf-cb66-49f6-a295-8783ef5afd3c",
+            "parentId": "bad3ec27-a599-4fc5-9303-32874e140b57"
+        },
+        {
+            "interactingDrugId": "flucloxacillin",
+            "interactantDrugId": "voriconazole",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Flucloxacillin (particularly high-dose) might greatly decrease the concentration of Voriconazole. Manufacturer advises avoid or monitor.  ",
+                    "severity": "Moderate",
+                    "id": "daee9369-5aeb-4de1-b6dc-baa6c9b75466",
+                    "parentId": "4683565b-54d2-4274-9db0-e370bb992cad"
+                }
+            ],
+            "id": "4683565b-54d2-4274-9db0-e370bb992cad",
+            "parentId": "bad3ec27-a599-4fc5-9303-32874e140b57"
+        }
+    ],
+    "id": "bad3ec27-a599-4fc5-9303-32874e140b57",
+    "parentId": null
+}

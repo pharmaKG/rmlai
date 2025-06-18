@@ -1,0 +1,81 @@
+{
+    "interactions": [
+        {
+            "interactingDrugId": "abacavir",
+            "interactantDrugId": "carbamazepine",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Carbamazepine is predicted to decrease the exposure to Abacavir. Manufacturer makes no recommendation.  ",
+                    "severity": "Moderate",
+                    "id": "4b80492a-d6c6-4c93-a4d2-02ece50d9102",
+                    "parentId": "32d7fedc-412c-407f-8df0-b1e7091ab293"
+                }
+            ],
+            "id": "32d7fedc-412c-407f-8df0-b1e7091ab293",
+            "parentId": "510aec3d-6c40-4a55-811b-0fd7218ad55c"
+        },
+        {
+            "interactingDrugId": "abacavir",
+            "interactantDrugId": "phenobarbital",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Phenobarbital is predicted to decrease the exposure to Abacavir. Manufacturer makes no recommendation.  ",
+                    "severity": "Moderate",
+                    "id": "0f7df170-d276-41f0-80d8-1b163ae5f6a6",
+                    "parentId": "1475271e-abf1-441b-a160-3548e19acbb0"
+                }
+            ],
+            "id": "1475271e-abf1-441b-a160-3548e19acbb0",
+            "parentId": "510aec3d-6c40-4a55-811b-0fd7218ad55c"
+        },
+        {
+            "interactingDrugId": "abacavir",
+            "interactantDrugId": "phenytoin",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Phenytoin is predicted to decrease the exposure to Abacavir. Manufacturer makes no recommendation.  ",
+                    "severity": "Moderate",
+                    "id": "8de55592-3f68-45e0-b115-beaa676b5803",
+                    "parentId": "a0b6b35e-4c15-4ef2-91f9-77a5d9e6f971"
+                }
+            ],
+            "id": "a0b6b35e-4c15-4ef2-91f9-77a5d9e6f971",
+            "parentId": "510aec3d-6c40-4a55-811b-0fd7218ad55c"
+        },
+        {
+            "interactingDrugId": "abacavir",
+            "interactantDrugId": "primidone",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Primidone is predicted to decrease the exposure to Abacavir. Manufacturer makes no recommendation.  ",
+                    "severity": "Moderate",
+                    "id": "66300c95-3217-42b1-8d6d-51fe84d187c5",
+                    "parentId": "8ad7a389-7275-4028-9648-9597463c5d42"
+                }
+            ],
+            "id": "8ad7a389-7275-4028-9648-9597463c5d42",
+            "parentId": "510aec3d-6c40-4a55-811b-0fd7218ad55c"
+        },
+        {
+            "interactingDrugId": "abacavir",
+            "interactantDrugId": "riociguat",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Abacavir might increase the exposure to Riociguat. Manufacturer advises adjust dose and monitor blood pressure.  ",
+                    "severity": "Moderate",
+                    "id": "c5535355-92b5-4e1b-a79c-970f4de51e50",
+                    "parentId": "bddcd8d4-40e8-4519-90d0-839f7432d3f1"
+                }
+            ],
+            "id": "bddcd8d4-40e8-4519-90d0-839f7432d3f1",
+            "parentId": "510aec3d-6c40-4a55-811b-0fd7218ad55c"
+        }
+    ],
+    "id": "510aec3d-6c40-4a55-811b-0fd7218ad55c",
+    "parentId": null
+}

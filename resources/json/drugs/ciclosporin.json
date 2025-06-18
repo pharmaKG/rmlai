@@ -1,0 +1,55 @@
+{
+    "identifier": "ciclosporin",
+    "title": "Ciclosporin",
+    "breastFeeding": {
+        "generalInfo": [],
+        "specificInfo": "Manufacturer advises avoid—present in milk.",
+        "id": "ddc82580-687a-44d4-86f1-70efd5e5f5b7",
+        "parentId": "39d876f3-2088-480c-bdaf-26bc11061225"
+    },
+    "hepaticImpairment": {
+        "generalInfo": [],
+        "specificInfo": "With systemic use:\nManufacturer advises caution in severe impairment (risk of increased exposure).\nDose adjustments\nWith systemic use:\nManufacturer advises consider dose reduction in severe impairment to maintain blood-ciclosporin concentration in target range—monitor until concentration stable.",
+        "id": "cbf07a1a-d289-488d-ab90-9006d0d7f1b5",
+        "parentId": "39d876f3-2088-480c-bdaf-26bc11061225"
+    },
+    "pregnancy": {
+        "generalInfo": [],
+        "specificInfo": "With systemic use:\nCrosses placenta; manufacturer advises avoid unless potential benefit outweighs risk—toxicity in\nanimal\nstudies.\nWhen used by eye:\nManufacturer advises avoid unless potential benefit outweighs risk—no information available.",
+        "id": "a1fa1883-fcd5-4550-8ded-ec2cb3d3bbbd",
+        "parentId": "39d876f3-2088-480c-bdaf-26bc11061225"
+    },
+    "renalImpairment": {
+        "generalInfo": [],
+        "specificInfo": "With systemic use:\nIn non-transplant indications, manufacturer advises establishing baseline renal function before initiation of treatment; if baseline function is impaired in non-transplant indications, except nephrotic syndrome—avoid.\nDose adjustments\nWith systemic use:\nIn nephrotic syndrome, manufacturer advises initial dose should not exceed 2.5 mg/kg daily in patients with baseline renal impairment.\nDuring treatment\nfor non-transplant indications, manufacturer recommends if eGFR decreases by more than 25% below baseline on more than one measurement, reduce dose by 25–50%. If the eGFR decrease from baseline exceeds 35%, further dose reduction should be considered (even if within normal range); discontinue if reduction not successful within 1 month.",
+        "id": "16b4e4bf-4266-4ac2-9384-3df3dc02498d",
+        "parentId": "39d876f3-2088-480c-bdaf-26bc11061225"
+    },
+    "sideEffects": {
+        "generalInfo": [],
+        "specificInfo": "General side-effects:\nCommon or very common\nEye inflammation\nSpecific side-effects:\nCommon or very common\nWhen used by eye (topical)\nEye discomfort; eye disorders; vision blurred\nWith oral use\nAppetite decreased; diarrhoea; electrolyte imbalance; fatigue; fever; flushing; gastrointestinal discomfort; gingival hyperplasia; hair changes; headaches; hepatic disorders; hyperglycaemia; hyperlipidaemia; hypertension; hyperuricaemia; leucopenia; muscle complaints; nausea; paraesthesia; peptic ulcer; renal impairment (renal structural changes on long-term administration); seizure; skin reactions; tremor; vomiting\nWith parenteral use\nAppetite decreased; diarrhoea; electrolyte imbalance; fatigue; fever; flushing; gastrointestinal discomfort; gingival hyperplasia; hair changes; headaches; hepatic disorders; hyperglycaemia; hyperlipidaemia; hypertension; hyperuricaemia; leucopenia; muscle complaints; nausea; paraesthesia; peptic ulcer; renal impairment (renal structural changes on long-term administration); seizure; skin reactions; tremor; vomiting\nUncommon\nWhen used by eye (topical)\nEye deposit; increased risk of infection\nWith oral use\nAnaemia; encephalopathy; oedema; thrombocytopenia; weight increased\nWith parenteral use\nAnaemia; encephalopathy; oedema; thrombocytopenia; weight increased\nRare or very rare\nWith oral use\nGynaecomastia; haemolytic anaemia; idiopathic intracranial hypertension; menstrual disorder; multifocal motor neuropathy; muscle weakness; myopathy; pancreatitis\nWith parenteral use\nGynaecomastia; haemolytic anaemia; idiopathic intracranial hypertension; menstrual disorder; multifocal motor neuropathy; muscle weakness; myopathy; pancreatitis\nFrequency not known\nWith oral use\nPain in extremity; thrombotic microangiopathy\nWith parenteral use\nPain in extremity; thrombotic microangiopathy",
+        "id": "6652d222-3e83-4b39-9209-ba2de837ae83",
+        "parentId": "39d876f3-2088-480c-bdaf-26bc11061225"
+    },
+    "therapeuticPlan": [
+        {
+            "indications": [
+                "Severe acute ulcerative colitis refractory to corticosteroid treatment"
+            ],
+            "dosages": [
+                {
+                    "patientGroup": "adult",
+                    "detailedPatientGroup": "Adult",
+                    "doseStatement": "2 mg/kg to be given over 24 hours.",
+                    "routeOfAdministration": "By intravenous infusion",
+                    "id": "df1724cf-b63c-4375-898e-32c635623cf7",
+                    "parentId": "7c9ef523-61d4-486e-ad83-59ece8f2a93b"
+                }
+            ],
+            "id": "7c9ef523-61d4-486e-ad83-59ece8f2a93b",
+            "parentId": "39d876f3-2088-480c-bdaf-26bc11061225"
+        }
+    ],
+    "id": "39d876f3-2088-480c-bdaf-26bc11061225",
+    "parentId": null
+}

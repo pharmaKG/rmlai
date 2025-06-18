@@ -1,0 +1,56 @@
+{
+    "identifier": "co-trimoxazole",
+    "title": "Co-trimoxazole",
+    "breastFeeding": {
+        "generalInfo": [],
+        "specificInfo": "Small risk of kernicterus in jaundiced infants and of haemolysis in G6PD-deficient infants (due to sulfamethoxazole).",
+        "id": "15d179ca-795a-47c8-b0a8-041f6a308851",
+        "parentId": "d628eba3-0ce1-499f-a796-9cdbb8462b8c"
+    },
+    "hepaticImpairment": {
+        "generalInfo": [],
+        "specificInfo": "Manufacturer advises avoid in severe liver disease.",
+        "id": "eaa0fe85-3966-41c9-a18e-065d89973c47",
+        "parentId": "d628eba3-0ce1-499f-a796-9cdbb8462b8c"
+    },
+    "pregnancy": {
+        "generalInfo": [],
+        "specificInfo": "Teratogenic risk in first trimester (trimethoprim a folate antagonist).\nNeonatal haemolysis and methaemoglobinaemia in third trimester; fear of increased risk of kernicterus in neonates appears to be unfounded.",
+        "id": "ab1e720e-2bff-47dd-be25-e737c27d8d85",
+        "parentId": "d628eba3-0ce1-499f-a796-9cdbb8462b8c"
+    },
+    "renalImpairment": {
+        "generalInfo": [],
+        "specificInfo": "Avoid if creatinine clearance less than 15 mL/minute or in severe insufficiency where plasma-sulfamethoxazole concentration cannot be monitored.\nMonitor plasma-sulfamethoxazole concentrations (consult product literature).\nDose adjustments\nIn adults:\nUse half normal dose if creatinine clearance 15–30 mL/minute.\nIn children:\nUse half normal dose if creatinine clearance 15–30 mL/minute (consult product literature).",
+        "id": "9d137d78-a9b3-4671-9e1e-09c36218f32a",
+        "parentId": "d628eba3-0ce1-499f-a796-9cdbb8462b8c"
+    },
+    "sideEffects": {
+        "generalInfo": [],
+        "specificInfo": "Common or very common\nDiarrhoea; electrolyte imbalance; fungal overgrowth; headache; nausea; skin reactions\nUncommon\nVomiting\nRare or very rare\nAgranulocytosis; angioedema; aplastic anaemia; appetite decreased; arthralgia; ataxia; cough; depression; dizziness; dyspnoea; eosinophilia; fever; haemolysis; haemolytic anaemia; hallucination; hepatic disorders; hypoglycaemia; leucopenia; megaloblastic anaemia; meningitis aseptic; metabolic acidosis; methaemoglobinaemia; myalgia; myocarditis allergic; nephritis tubulointerstitial; neutropenia; oral disorders; pancreatitis; peripheral neuropathy; photosensitivity reaction; pseudomembranous enterocolitis; renal impairment; renal tubular acidosis; respiratory disorders; rhabdomyolysis; seizure; serum sickness; severe cutaneous adverse reactions (SCARs); systemic lupus erythematosus (SLE); thrombocytopenia; tinnitus; uveitis; vasculitis; vertigo\nFrequency not known\nHaemophagocytic lymphohistiocytosis; psychotic disorder\nSide-effects, further information\nCo-trimoxazole is associated with rare but serious side effects. Discontinue immediately if blood disorders (including leucopenia, thrombocytopenia, megaloblastic anaemia, eosinophilia, haemophagocytic lymphohistiocytosis) or rash/skin reactions (including Stevens-Johnson syndrome, toxic epidermal necrolysis, acute generalised exanthematous pustulosis, drug reaction with eosinophilia and systemic symptoms) develop.",
+        "id": "e56d7604-58f5-43e4-b8b2-b9039c0210d7",
+        "parentId": "d628eba3-0ce1-499f-a796-9cdbb8462b8c"
+    },
+    "therapeuticPlan": [
+        {
+            "indications": [
+                "Moderate diabetic foot infection",
+                "Severe diabetic foot infection"
+            ],
+            "dosages": [
+                {
+                    "patientGroup": "adult",
+                    "detailedPatientGroup": "Adult",
+                    "doseStatement": "960 mg twice daily.",
+                    "routeOfAdministration": "By mouth",
+                    "id": "0ca0c8a9-f3b2-451d-9de7-ebd59e6099d5",
+                    "parentId": "a8c8afa9-846d-489e-98c7-7eb197b11aa0"
+                }
+            ],
+            "id": "a8c8afa9-846d-489e-98c7-7eb197b11aa0",
+            "parentId": "d628eba3-0ce1-499f-a796-9cdbb8462b8c"
+        }
+    ],
+    "id": "d628eba3-0ce1-499f-a796-9cdbb8462b8c",
+    "parentId": null
+}

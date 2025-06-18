@@ -1,0 +1,2286 @@
+{
+    "interactions": [
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "acebutolol",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Amlodipine and Acebutolol can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "231b475b-6740-49f6-9950-87e6e4e44290",
+                    "parentId": "4d6c7660-3a0d-4067-8558-4133257f0c0f"
+                }
+            ],
+            "id": "4d6c7660-3a0d-4067-8558-4133257f0c0f",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "alcohol",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Amlodipine and Alcohol can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "d787338f-0d17-4287-8ceb-43a842f430ca",
+                    "parentId": "3bf79495-89e7-4281-8edb-01c3134b5dbd"
+                }
+            ],
+            "id": "3bf79495-89e7-4281-8edb-01c3134b5dbd",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "aliskiren",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Amlodipine and Aliskiren can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "4e478dfb-706e-4dde-a8ff-3ec0bfa9dc73",
+                    "parentId": "2ebc0fdd-b495-4966-8e80-77109148964f"
+                }
+            ],
+            "id": "2ebc0fdd-b495-4966-8e80-77109148964f",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "alprostadil",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Amlodipine and Alprostadil can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "30592168-9c70-45fa-a676-28b26150e3d3",
+                    "parentId": "1f493583-f8cf-4251-bc86-e9285a4c3336"
+                }
+            ],
+            "id": "1f493583-f8cf-4251-bc86-e9285a4c3336",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "apalutamide",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Apalutamide is predicted to decrease the exposure to Amlodipine. Manufacturer advises monitor and adjust dose.  ",
+                    "severity": "Moderate",
+                    "id": "1de900f5-31ec-4c54-93f4-7b6843bb5556",
+                    "parentId": "b38b7c9f-37d0-40bb-b4cb-52d82fe8e68f"
+                }
+            ],
+            "id": "b38b7c9f-37d0-40bb-b4cb-52d82fe8e68f",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "apraclonidine",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Amlodipine and Apraclonidine can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "cc21d71e-825f-4380-b079-2befe1834573",
+                    "parentId": "e353e608-a5db-4861-a7f3-e7c8184952f3"
+                }
+            ],
+            "id": "e353e608-a5db-4861-a7f3-e7c8184952f3",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "aprepitant",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Aprepitant is predicted to increase the exposure to Amlodipine. Manufacturer advises monitor and adjust dose.  ",
+                    "severity": "Moderate",
+                    "id": "b9353005-4006-4532-bc3b-7e4c28517524",
+                    "parentId": "1a9cbea7-8165-4531-b3c9-3dbeb9742d76"
+                }
+            ],
+            "id": "1a9cbea7-8165-4531-b3c9-3dbeb9742d76",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "aripiprazole",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Amlodipine and Aripiprazole can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "6a38e173-e056-4971-9cdc-cc8e1ee31836",
+                    "parentId": "5197e45d-920a-4aef-874c-23fe41e1af1f"
+                }
+            ],
+            "id": "5197e45d-920a-4aef-874c-23fe41e1af1f",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "asenapine",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Amlodipine and Asenapine can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "f420df77-ca02-423f-8993-7ea541bc81c9",
+                    "parentId": "51b42827-34d4-4dc8-a19b-6eec73f76770"
+                }
+            ],
+            "id": "51b42827-34d4-4dc8-a19b-6eec73f76770",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "atazanavir",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Atazanavir is predicted to increase the exposure to Amlodipine. Manufacturer advises monitor and adjust dose.  ",
+                    "severity": "Moderate",
+                    "id": "a72f95cb-b80c-46d3-b2c5-db3cc0881e81",
+                    "parentId": "90336ac4-dc08-447f-89ad-103e2abc3f9b"
+                }
+            ],
+            "id": "90336ac4-dc08-447f-89ad-103e2abc3f9b",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "atenolol",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Amlodipine and Atenolol can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "b6889a9a-1a96-49dc-9d4f-66fc414cbed0",
+                    "parentId": "4b1a4208-f1da-455a-ad3d-c9e626828ad7"
+                }
+            ],
+            "id": "4b1a4208-f1da-455a-ad3d-c9e626828ad7",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "avanafil",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Amlodipine and Avanafil can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "df20e7a0-eb91-4a68-8a92-95e3dff01c7c",
+                    "parentId": "657c9a3e-be44-45c2-afad-966d9f57b8d4"
+                }
+            ],
+            "id": "657c9a3e-be44-45c2-afad-966d9f57b8d4",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "baclofen",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Amlodipine and Baclofen can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "2a7d3481-0719-4c0d-aa96-f24d860f54ee",
+                    "parentId": "dbddc329-8f41-4ed1-a45e-1d214d9ebd4b"
+                }
+            ],
+            "id": "dbddc329-8f41-4ed1-a45e-1d214d9ebd4b",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "bendroflumethiazide",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Amlodipine and Bendroflumethiazide can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "ad1e35be-68a1-4404-bd29-37deae524381",
+                    "parentId": "3e21adc5-2a9a-4a97-8e19-3fc3b80ad174"
+                }
+            ],
+            "id": "3e21adc5-2a9a-4a97-8e19-3fc3b80ad174",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "benperidol",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Amlodipine and Benperidol can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "1467bb73-404d-49b7-b198-52001765e007",
+                    "parentId": "291c0c31-36b0-4bd1-bc53-91018e8e859f"
+                }
+            ],
+            "id": "291c0c31-36b0-4bd1-bc53-91018e8e859f",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "berotralstat",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Berotralstat is predicted to increase the exposure to Amlodipine. Manufacturer advises monitor and adjust dose.  ",
+                    "severity": "Moderate",
+                    "id": "19d0a2dc-3414-412e-ad51-b8a43dfca93c",
+                    "parentId": "94b566d9-be02-4609-8938-44b861dbe5a7"
+                }
+            ],
+            "id": "94b566d9-be02-4609-8938-44b861dbe5a7",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "betaxolol",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Amlodipine and Betaxolol can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "4d026c5b-9ef6-4add-b038-e19e08542128",
+                    "parentId": "45f0c12b-fa05-482e-8805-e870007a59a0"
+                }
+            ],
+            "id": "45f0c12b-fa05-482e-8805-e870007a59a0",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "bortezomib-specialist-drug",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Amlodipine and Bortezomib can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "799a01d3-7875-49f2-87c9-25ff93945d9b",
+                    "parentId": "7c7dc626-dd15-4c99-a252-bb3c781653b2"
+                }
+            ],
+            "id": "7c7dc626-dd15-4c99-a252-bb3c781653b2",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "bosentan",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Bosentan is predicted to decrease the exposure to Amlodipine. Manufacturer advises monitor and adjust dose.  ",
+                    "severity": "Moderate",
+                    "id": "bb4a4a63-08d6-4855-8b3c-4bcc4b05533e",
+                    "parentId": "83b54e2d-886d-47bc-9a19-241cb47b8e63"
+                }
+            ],
+            "id": "83b54e2d-886d-47bc-9a19-241cb47b8e63",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "bromocriptine",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Amlodipine and Bromocriptine can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "a96247e8-8e07-4744-b7f7-871251dd1690",
+                    "parentId": "a0687557-8bd9-4b2b-99de-c4d2c8954c2b"
+                }
+            ],
+            "id": "a0687557-8bd9-4b2b-99de-c4d2c8954c2b",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "bumetanide",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Amlodipine and Bumetanide can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "371cee97-061c-4731-81f2-909feacad372",
+                    "parentId": "1a3f98b0-c1e9-4928-9d50-bfc6f2bd78a8"
+                }
+            ],
+            "id": "1a3f98b0-c1e9-4928-9d50-bfc6f2bd78a8",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "cabergoline",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Amlodipine and Cabergoline can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "9c335f71-95d2-4685-a300-e3d1abc6762b",
+                    "parentId": "9cb05cd5-a62e-4bd1-aba6-19e296d40fe2"
+                }
+            ],
+            "id": "9cb05cd5-a62e-4bd1-aba6-19e296d40fe2",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "canagliflozin",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Amlodipine and Canagliflozin can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "ed8d36f6-40d2-4732-945b-2da7618e55db",
+                    "parentId": "60584b4f-f8aa-49f9-a922-5b99947574aa"
+                }
+            ],
+            "id": "60584b4f-f8aa-49f9-a922-5b99947574aa",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "captopril",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Amlodipine and Captopril can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "a193a8e7-56f3-4f88-9c6f-ad708a7e6473",
+                    "parentId": "c31def70-adde-4bd8-a6c8-fbd228876dcf"
+                }
+            ],
+            "id": "c31def70-adde-4bd8-a6c8-fbd228876dcf",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "carbamazepine",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Carbamazepine is predicted to decrease the exposure to Amlodipine. Manufacturer advises monitor and adjust dose.  ",
+                    "severity": "Moderate",
+                    "id": "3e988500-4642-4c75-ac54-279d09270d48",
+                    "parentId": "614e3b11-3a70-4560-8fb9-c19de6760d49"
+                }
+            ],
+            "id": "614e3b11-3a70-4560-8fb9-c19de6760d49",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "cariprazine",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Amlodipine and Cariprazine can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "e1f6108a-9b35-49f1-8278-ff7bd3247e53",
+                    "parentId": "656ce5ab-697d-4f6d-a309-ec448debbe75"
+                }
+            ],
+            "id": "656ce5ab-697d-4f6d-a309-ec448debbe75",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "carvedilol",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Amlodipine and Carvedilol can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "4b2a4b7e-d1a4-4452-ae4e-e4aeb64a98b9",
+                    "parentId": "d4946fc9-0121-4d12-a31b-5d2bd9054483"
+                }
+            ],
+            "id": "d4946fc9-0121-4d12-a31b-5d2bd9054483",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "cenobamate",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Cenobamate is predicted to decrease the exposure to Amlodipine. Manufacturer advises monitor and adjust dose.  ",
+                    "severity": "Moderate",
+                    "id": "b898c45a-9dc0-4dd7-a4cb-2bb7193fd28a",
+                    "parentId": "ecee3391-0e18-4288-ba0e-425d4251a317"
+                }
+            ],
+            "id": "ecee3391-0e18-4288-ba0e-425d4251a317",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "ceritinib-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Ceritinib is predicted to increase the exposure to Amlodipine. Manufacturer advises monitor and adjust dose.  ",
+                    "severity": "Moderate",
+                    "id": "4b6cc9ae-08c0-4762-9921-dcb6b2aafc5a",
+                    "parentId": "d931cf16-4c32-4e4d-85c6-20b37f4804d7"
+                }
+            ],
+            "id": "d931cf16-4c32-4e4d-85c6-20b37f4804d7",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "chlortalidone",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Amlodipine and Chlortalidone can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "1321deff-e93b-4e1b-a911-44c11f1845bc",
+                    "parentId": "87b49a2c-6bec-4f1a-944c-19059a5be41a"
+                }
+            ],
+            "id": "87b49a2c-6bec-4f1a-944c-19059a5be41a",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "clarithromycin",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Clarithromycin is predicted to increase the exposure to Amlodipine. Manufacturer advises monitor and adjust dose.  ",
+                    "severity": "Moderate",
+                    "id": "cca5d17e-0150-4a33-92f7-5d47385b8e03",
+                    "parentId": "8d466f90-1030-46b9-83d2-5ede349dd2b9"
+                }
+            ],
+            "id": "8d466f90-1030-46b9-83d2-5ede349dd2b9",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "clozapine",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Amlodipine and Clozapine can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "2fcf17ac-f48f-4804-aced-4a4b32ad04ef",
+                    "parentId": "ebfbdd36-7642-4206-9dc2-420c6a9b4f8a"
+                }
+            ],
+            "id": "ebfbdd36-7642-4206-9dc2-420c6a9b4f8a",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "cobicistat",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Cobicistat is predicted to increase the exposure to Amlodipine. Manufacturer advises monitor and adjust dose.  ",
+                    "severity": "Moderate",
+                    "id": "67049d3f-14cb-4c58-b0bd-7867f8780791",
+                    "parentId": "808fc1a1-053c-46ce-884a-7a385d9e0a04"
+                }
+            ],
+            "id": "808fc1a1-053c-46ce-884a-7a385d9e0a04",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "crizotinib-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Crizotinib is predicted to increase the exposure to Amlodipine. Manufacturer advises monitor and adjust dose.  ",
+                    "severity": "Moderate",
+                    "id": "ebe17795-878d-406c-bff4-bd1dd97fa132",
+                    "parentId": "c2e2f31f-357b-45a0-b72f-d8d90ba184b9"
+                }
+            ],
+            "id": "c2e2f31f-357b-45a0-b72f-d8d90ba184b9",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "dabrafenib-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Dabrafenib is predicted to decrease the exposure to Amlodipine. Manufacturer advises monitor and adjust dose.  ",
+                    "severity": "Moderate",
+                    "id": "8637a329-e962-4f37-a379-f4acbbda5d2d",
+                    "parentId": "472d5ef2-871e-41ab-887f-572783e41756"
+                }
+            ],
+            "id": "472d5ef2-871e-41ab-887f-572783e41756",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "dapagliflozin",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Amlodipine and Dapagliflozin can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "4a8882be-d730-4e8d-9173-b6989482d9cf",
+                    "parentId": "205e2d3c-61ea-441f-b74f-69ed38973165"
+                }
+            ],
+            "id": "205e2d3c-61ea-441f-b74f-69ed38973165",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "darunavir",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Darunavir is predicted to increase the exposure to Amlodipine. Manufacturer advises monitor and adjust dose.  ",
+                    "severity": "Moderate",
+                    "id": "165f01d4-9544-45ec-96d4-4eb0ab9db993",
+                    "parentId": "1f32f340-076f-4b45-9263-ba05216af63c"
+                }
+            ],
+            "id": "1f32f340-076f-4b45-9263-ba05216af63c",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "desflurane",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Amlodipine and Desflurane can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "fa3c1d6b-9966-47a8-b1a9-48336355e0da",
+                    "parentId": "41f748c0-beba-4fd1-b579-d9510a7c721c"
+                }
+            ],
+            "id": "41f748c0-beba-4fd1-b579-d9510a7c721c",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "diazoxide",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Amlodipine and Diazoxide can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "e6194134-1b25-45c3-a8f9-0c58b6d52412",
+                    "parentId": "46639330-b2ba-4731-bbfa-867a7dc088e4"
+                }
+            ],
+            "id": "46639330-b2ba-4731-bbfa-867a7dc088e4",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "dipyridamole",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Amlodipine and Dipyridamole can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "7968cb4d-2c01-4d32-a27e-c48dd50c7504",
+                    "parentId": "ce70e68c-b068-4c56-8281-36abfabe5c90"
+                }
+            ],
+            "id": "ce70e68c-b068-4c56-8281-36abfabe5c90",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "doxazosin",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Amlodipine and Doxazosin can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "09d87462-a392-42b0-9249-1903dd7ee2d7",
+                    "parentId": "9e3c87e5-1513-487c-b916-ce5bb3cf8bfe"
+                }
+            ],
+            "id": "9e3c87e5-1513-487c-b916-ce5bb3cf8bfe",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "doxepin",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Amlodipine and Doxepin can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "d2f172a7-9b06-40a2-b495-f689446cd3ca",
+                    "parentId": "a9b13a61-9633-4ed1-acdf-95a24afbe42a"
+                }
+            ],
+            "id": "a9b13a61-9633-4ed1-acdf-95a24afbe42a",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "dronedarone",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Dronedarone is predicted to increase the exposure to Amlodipine. Manufacturer advises monitor and adjust dose.  ",
+                    "severity": "Moderate",
+                    "id": "458d9188-58fb-4b6a-87ce-211444149229",
+                    "parentId": "a68be84e-088d-4f3e-b040-b218782ca188"
+                }
+            ],
+            "id": "a68be84e-088d-4f3e-b040-b218782ca188",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "droperidol",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Amlodipine and Droperidol can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "2376c807-2b0b-49cb-8276-d0585cb96f92",
+                    "parentId": "1de37a50-fede-4bff-a30d-fac0bed9b8c3"
+                }
+            ],
+            "id": "1de37a50-fede-4bff-a30d-fac0bed9b8c3",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "efavirenz",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Efavirenz is predicted to decrease the exposure to Amlodipine. Manufacturer advises monitor and adjust dose.  ",
+                    "severity": "Moderate",
+                    "id": "7ef7a3de-c536-4f51-8eb7-62c3579f3c3c",
+                    "parentId": "bfc3c4bc-a1cd-4804-8d49-1f8655aa3144"
+                }
+            ],
+            "id": "bfc3c4bc-a1cd-4804-8d49-1f8655aa3144",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "empagliflozin",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Amlodipine and Empagliflozin can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "c26896eb-a9bb-45a2-a258-1e7e207eae7f",
+                    "parentId": "e6aebfd3-c72c-4147-a2bf-d1727195389e"
+                }
+            ],
+            "id": "e6aebfd3-c72c-4147-a2bf-d1727195389e",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "encorafenib-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Encorafenib is predicted to decrease the exposure to Amlodipine. Manufacturer advises monitor and adjust dose.  ",
+                    "severity": "Moderate",
+                    "id": "61a245b6-daea-40f8-8e99-8d9ed8b21ef3",
+                    "parentId": "d965fdce-b894-47c8-a2ec-1e8b9c11faab"
+                }
+            ],
+            "id": "d965fdce-b894-47c8-a2ec-1e8b9c11faab",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "enzalutamide",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Enzalutamide is predicted to decrease the exposure to Amlodipine. Manufacturer advises monitor and adjust dose.  ",
+                    "severity": "Moderate",
+                    "id": "142c0eab-2d49-497d-98aa-16db786eaa41",
+                    "parentId": "e7f3e0a5-6d90-48fe-95ef-5384ec3b256b"
+                }
+            ],
+            "id": "e7f3e0a5-6d90-48fe-95ef-5384ec3b256b",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "eplerenone",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Amlodipine and Eplerenone can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "c66b7fca-90dd-4eeb-93c0-87ca65252c8b",
+                    "parentId": "e079df9c-fefb-4ef2-8d93-101103a3914c"
+                }
+            ],
+            "id": "e079df9c-fefb-4ef2-8d93-101103a3914c",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "epoprostenol",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Amlodipine and Epoprostenol can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "37a7ad63-e9ca-4fb2-a32a-a66682dc1037",
+                    "parentId": "4ee27b17-c8b8-4fd8-b09c-cf0a2c0c0db3"
+                }
+            ],
+            "id": "4ee27b17-c8b8-4fd8-b09c-cf0a2c0c0db3",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "eprosartan",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Amlodipine and Eprosartan can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "468dd20b-0334-4533-a84b-5b106721e025",
+                    "parentId": "0efb079c-7553-4569-bf36-884373a8b4ae"
+                }
+            ],
+            "id": "0efb079c-7553-4569-bf36-884373a8b4ae",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "ertugliflozin",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Amlodipine and Ertugliflozin can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "6edacab7-bd5a-447e-9129-c8b871e763d2",
+                    "parentId": "0689310d-d125-4936-a532-6c49e7d046cf"
+                }
+            ],
+            "id": "0689310d-d125-4936-a532-6c49e7d046cf",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "erythromycin",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Erythromycin is predicted to increase the exposure to Amlodipine. Manufacturer advises monitor and adjust dose.  ",
+                    "severity": "Moderate",
+                    "id": "83be8b69-6de6-4b41-a044-a70388f136be",
+                    "parentId": "1b8ad89a-d3f2-440a-b3d9-cacde4ec1ea0"
+                }
+            ],
+            "id": "1b8ad89a-d3f2-440a-b3d9-cacde4ec1ea0",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "esketamine",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Amlodipine and Esketamine can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "304c077e-6722-419f-8ad6-87099565e061",
+                    "parentId": "0702d824-bedc-48c2-943b-96a259294a7a"
+                }
+            ],
+            "id": "0702d824-bedc-48c2-943b-96a259294a7a",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "etomidate",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Amlodipine and Etomidate can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "c4e86f9d-8641-4eb2-a79c-7d04cd60cf79",
+                    "parentId": "0e4b53bd-eacf-4ac7-b14d-3bccebb2e237"
+                }
+            ],
+            "id": "0e4b53bd-eacf-4ac7-b14d-3bccebb2e237",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "etravirine",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Etravirine is predicted to decrease the exposure to Amlodipine. Manufacturer advises monitor and adjust dose.  ",
+                    "severity": "Moderate",
+                    "id": "563c75f6-5b1e-4b99-8b6b-e89d1d8a38e4",
+                    "parentId": "45fac822-697f-4c89-b702-35a84f2b8e62"
+                }
+            ],
+            "id": "45fac822-697f-4c89-b702-35a84f2b8e62",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "fedratinib-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Fedratinib is predicted to increase the exposure to Amlodipine. Manufacturer advises monitor and adjust dose.  ",
+                    "severity": "Moderate",
+                    "id": "dbbc0d9d-bffe-45ca-be6c-a480918ffc71",
+                    "parentId": "c0e7d440-29e8-42b5-811b-8ecbfdc2be63"
+                }
+            ],
+            "id": "c0e7d440-29e8-42b5-811b-8ecbfdc2be63",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "finerenone",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Amlodipine and Finerenone can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "4e0a9050-d755-47d1-a31d-1de33d2e5978",
+                    "parentId": "fba45dcc-ad3d-417d-83a6-6b57335b9eb0"
+                }
+            ],
+            "id": "fba45dcc-ad3d-417d-83a6-6b57335b9eb0",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "fluconazole",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Fluconazole is predicted to increase the exposure to Amlodipine. Manufacturer advises monitor and adjust dose.  ",
+                    "severity": "Moderate",
+                    "id": "350168fc-5933-4dac-9eb4-59c8b9972989",
+                    "parentId": "a68e0f51-6120-41cd-bde2-d928142a423c"
+                }
+            ],
+            "id": "a68e0f51-6120-41cd-bde2-d928142a423c",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "fosamprenavir",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Fosamprenavir is predicted to increase the exposure to Amlodipine. Manufacturer advises monitor and adjust dose.  ",
+                    "severity": "Moderate",
+                    "id": "fda3d1da-887c-4583-af5a-ced207cab480",
+                    "parentId": "f6bcfa90-7e35-45ce-b2ac-c96c0201b036"
+                }
+            ],
+            "id": "f6bcfa90-7e35-45ce-b2ac-c96c0201b036",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "furosemide",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Amlodipine and Furosemide can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "febf4aea-0978-452d-8f2c-7bd105428426",
+                    "parentId": "385b28e2-70c5-4e6b-bb65-57b6a598dcac"
+                }
+            ],
+            "id": "385b28e2-70c5-4e6b-bb65-57b6a598dcac",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "glyceryl-trinitrate",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Amlodipine and Glyceryl trinitrate can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "b963376f-cdd3-455e-922a-b5a0e06f3198",
+                    "parentId": "e02efeda-7cbc-436d-8789-c832f3e07483"
+                }
+            ],
+            "id": "e02efeda-7cbc-436d-8789-c832f3e07483",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "grapefruit",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Grapefruit juice very slightly increases the exposure to Amlodipine. Manufacturer advises avoid.  ",
+                    "severity": "Mild",
+                    "id": "810d995e-ba87-492c-9a0a-20cb37ed929b",
+                    "parentId": "818fa8ba-3e8f-4204-8b0e-3d7c139ebb34"
+                }
+            ],
+            "id": "818fa8ba-3e8f-4204-8b0e-3d7c139ebb34",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "guanfacine",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Amlodipine and Guanfacine can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "651dbe12-14c8-4165-a3c1-61a5e78c3ffb",
+                    "parentId": "03663468-e207-4cec-8d0a-edbd86daee82"
+                }
+            ],
+            "id": "03663468-e207-4cec-8d0a-edbd86daee82",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "hydrochlorothiazide",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Amlodipine and Hydrochlorothiazide can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "6c9a77b2-b835-496d-a642-2c7d9df5794a",
+                    "parentId": "7b96b8bc-431a-4410-97b3-8cffe9947691"
+                }
+            ],
+            "id": "7b96b8bc-431a-4410-97b3-8cffe9947691",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "idelalisib-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Idelalisib is predicted to increase the exposure to Amlodipine. Manufacturer advises monitor and adjust dose.  ",
+                    "severity": "Moderate",
+                    "id": "5ab15bb5-92c0-4a2b-8782-1d95f06c4e23",
+                    "parentId": "a8518540-aa37-42c4-bfcf-5a7e835c403c"
+                }
+            ],
+            "id": "a8518540-aa37-42c4-bfcf-5a7e835c403c",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "iloprost",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Amlodipine and Iloprost can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "3c6f7099-797a-47d5-9d53-25a17ffd6f46",
+                    "parentId": "39c309cd-84f3-44f6-b5ab-22e655c1dcfd"
+                }
+            ],
+            "id": "39c309cd-84f3-44f6-b5ab-22e655c1dcfd",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "imatinib-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Imatinib is predicted to increase the exposure to Amlodipine. Manufacturer advises monitor and adjust dose.  ",
+                    "severity": "Moderate",
+                    "id": "dc2e9787-f30c-42a9-b267-f400953144e4",
+                    "parentId": "3ec0e42d-8c3b-4319-b821-54dd65d57723"
+                }
+            ],
+            "id": "3ec0e42d-8c3b-4319-b821-54dd65d57723",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "indapamide",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Amlodipine and Indapamide can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "f94b6895-5f13-4dcb-ba9c-fbdb68108395",
+                    "parentId": "b7d096dd-d48f-4149-acf9-2f56c9244fbc"
+                }
+            ],
+            "id": "b7d096dd-d48f-4149-acf9-2f56c9244fbc",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "indoramin",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Amlodipine and Indoramin can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "905441bb-e0c3-44f2-b45a-c4cf770d154c",
+                    "parentId": "fa40c045-b52d-420b-9f13-3b3d33fcaf42"
+                }
+            ],
+            "id": "fa40c045-b52d-420b-9f13-3b3d33fcaf42",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "irbesartan",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Amlodipine and Irbesartan can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "f6c1c450-6884-4cfb-a1ab-d987672d165f",
+                    "parentId": "ca5b5c9a-2f7f-4505-af78-717b803f4fe6"
+                }
+            ],
+            "id": "ca5b5c9a-2f7f-4505-af78-717b803f4fe6",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "isavuconazole",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Isavuconazole is predicted to increase the exposure to Amlodipine. Manufacturer advises monitor and adjust dose.  ",
+                    "severity": "Moderate",
+                    "id": "c1d16292-88de-45c9-a803-d76d0ee88687",
+                    "parentId": "a4adc855-5e37-477f-9fd4-cdf8ff518400"
+                }
+            ],
+            "id": "a4adc855-5e37-477f-9fd4-cdf8ff518400",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "isocarboxazid",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Amlodipine and Isocarboxazid can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "7c8ecf91-d728-4824-995d-9dbd3f6bdadc",
+                    "parentId": "0543e848-6d4b-47ee-8c55-4da2c1f8bde2"
+                }
+            ],
+            "id": "0543e848-6d4b-47ee-8c55-4da2c1f8bde2",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "isoflurane",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Amlodipine and Isoflurane can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "8c1cc5b5-b3d7-4b70-ad4b-e786ac1cff5e",
+                    "parentId": "1a8a3644-d907-4054-83b4-e879d4596a08"
+                }
+            ],
+            "id": "1a8a3644-d907-4054-83b4-e879d4596a08",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "isosorbide-dinitrate",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Amlodipine and Isosorbide dinitrate can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "6339cc01-61ad-4315-84e1-2140d73a2973",
+                    "parentId": "9e5c2029-caf0-4f8d-84f7-0c067b9953a9"
+                }
+            ],
+            "id": "9e5c2029-caf0-4f8d-84f7-0c067b9953a9",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "isosorbide-mononitrate",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Amlodipine and Isosorbide mononitrate can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "1e588d71-1f34-4cca-a288-dc2b5eb19e68",
+                    "parentId": "89a745c4-8460-43a0-ab61-536b3f44eef1"
+                }
+            ],
+            "id": "89a745c4-8460-43a0-ab61-536b3f44eef1",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "itraconazole",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Itraconazole is predicted to increase the exposure to Amlodipine. Manufacturer advises monitor and adjust dose.  ",
+                    "severity": "Moderate",
+                    "id": "9b1826aa-b9c3-450e-b211-5fd89327a1cd",
+                    "parentId": "22e6ce8f-dd27-42e8-ba37-73eeafdba8d8"
+                }
+            ],
+            "id": "22e6ce8f-dd27-42e8-ba37-73eeafdba8d8",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "ivosidenib-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Ivosidenib is predicted to decrease the exposure to Amlodipine. Manufacturer advises monitor and adjust dose.  ",
+                    "severity": "Moderate",
+                    "id": "b670b32d-c2d0-49f5-aac4-b65fd9bc8481",
+                    "parentId": "bf144246-cb2a-4836-b388-ab8e80301c4b"
+                }
+            ],
+            "id": "bf144246-cb2a-4836-b388-ab8e80301c4b",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "ketamine",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Amlodipine and Ketamine can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "6c4b4497-f08d-4fc7-bba2-64ca3404ab90",
+                    "parentId": "0ccd3b5b-f431-43a5-8987-40ac4fccde87"
+                }
+            ],
+            "id": "0ccd3b5b-f431-43a5-8987-40ac4fccde87",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "ketoconazole",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Ketoconazole is predicted to increase the exposure to Amlodipine. Manufacturer advises monitor and adjust dose.  ",
+                    "severity": "Moderate",
+                    "id": "8d48e5c1-3e19-4faf-b05f-398ec61c6c37",
+                    "parentId": "ef16351d-9e91-485b-8aec-78a56cf35cd2"
+                }
+            ],
+            "id": "ef16351d-9e91-485b-8aec-78a56cf35cd2",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "letermovir",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Letermovir is predicted to increase the exposure to Amlodipine. Manufacturer advises monitor and adjust dose.  ",
+                    "severity": "Moderate",
+                    "id": "59df83ef-eaca-4403-ad14-138bf6b88dca",
+                    "parentId": "82c801e7-85e6-4da0-a26b-8dc231170e03"
+                }
+            ],
+            "id": "82c801e7-85e6-4da0-a26b-8dc231170e03",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "levomepromazine",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Amlodipine and Levomepromazine can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "3d3e6e63-7918-4944-a04e-031f87ce816a",
+                    "parentId": "d1f2d7f3-d7d3-4372-b589-89e8949de0bf"
+                }
+            ],
+            "id": "d1f2d7f3-d7d3-4372-b589-89e8949de0bf",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "lisinopril",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Amlodipine and Lisinopril can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "c8fa6f1e-6cba-47ab-8be2-dec4f11ed589",
+                    "parentId": "53b7d20a-f3a9-4a39-a500-cbcd4481876e"
+                }
+            ],
+            "id": "53b7d20a-f3a9-4a39-a500-cbcd4481876e",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "lofepramine",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Amlodipine and Lofepramine can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "d21b4da8-bd47-45e4-9976-2434d1848939",
+                    "parentId": "471ab8e2-3cb0-4aec-89db-4fe773c66102"
+                }
+            ],
+            "id": "471ab8e2-3cb0-4aec-89db-4fe773c66102",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "lomitapide",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Amlodipine is predicted to increase the exposure to Lomitapide. Manufacturer advises separate administration by 12 hours.  ",
+                    "severity": "Moderate",
+                    "id": "5cadc4fa-c92e-4ffc-8e86-cced52d3a72d",
+                    "parentId": "528cc02c-dad8-4fb2-b354-3417551a43ed"
+                }
+            ],
+            "id": "528cc02c-dad8-4fb2-b354-3417551a43ed",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "lorlatinib-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Lorlatinib is predicted to decrease the exposure to Amlodipine. Manufacturer advises monitor and adjust dose.  ",
+                    "severity": "Moderate",
+                    "id": "d7dbc3bb-6e6f-4488-9a82-0cb543472717",
+                    "parentId": "6c67f146-a966-4909-a2aa-6ca62acf2a06"
+                }
+            ],
+            "id": "6c67f146-a966-4909-a2aa-6ca62acf2a06",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "loxapine",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Amlodipine and Loxapine can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "5d03831e-baf9-47e7-aa51-0844e5fcd870",
+                    "parentId": "f576822f-7845-476b-86a9-350cf1c561ab"
+                }
+            ],
+            "id": "f576822f-7845-476b-86a9-350cf1c561ab",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "mefloquine",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Mefloquine is predicted to increase the risk of bradycardia when given with Amlodipine. Manufacturer makes no recommendation.  ",
+                    "severity": "Severe",
+                    "id": "1eef524b-20da-4a5d-a429-5ff8c1f3c02d",
+                    "parentId": "3bf0b6c9-0537-4029-9a78-4818f7f40d14"
+                }
+            ],
+            "id": "3bf0b6c9-0537-4029-9a78-4818f7f40d14",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "methoxyflurane",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Amlodipine and Methoxyflurane can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "a383c7f6-2d8b-428f-bd11-a0c7d241b9ce",
+                    "parentId": "b7e032ce-ad6c-4506-a002-2ceddcf4244e"
+                }
+            ],
+            "id": "b7e032ce-ad6c-4506-a002-2ceddcf4244e",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "methyldopa",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Amlodipine and Methyldopa can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "ade6f62b-bfe4-40bd-879a-81f0c03fd490",
+                    "parentId": "8fb8d022-1eda-42a5-baa3-4602345b4026"
+                }
+            ],
+            "id": "8fb8d022-1eda-42a5-baa3-4602345b4026",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "metolazone",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Amlodipine and Metolazone can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "f8c33286-c26d-4943-8514-9ecdd02dd4eb",
+                    "parentId": "ba83d0d0-e0a9-4fa3-b08d-55bb18afac06"
+                }
+            ],
+            "id": "ba83d0d0-e0a9-4fa3-b08d-55bb18afac06",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "miconazole",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Miconazole is predicted to increase the exposure to Amlodipine. Manufacturer advises use with caution and adjust dose.  ",
+                    "severity": "Moderate",
+                    "id": "42237ff7-3554-4737-8948-968cebf2b3ac",
+                    "parentId": "e1f24d7b-a96f-4f69-b82c-c89be9977411"
+                }
+            ],
+            "id": "e1f24d7b-a96f-4f69-b82c-c89be9977411",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "minoxidil",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Amlodipine and Minoxidil can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "29830b5b-4641-4544-b625-f5e8e2d9c9a7",
+                    "parentId": "32bfab35-a977-46a2-8eb6-8a1052f3d72e"
+                }
+            ],
+            "id": "32bfab35-a977-46a2-8eb6-8a1052f3d72e",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "mitotane-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Mitotane is predicted to decrease the exposure to Amlodipine. Manufacturer advises monitor and adjust dose.  ",
+                    "severity": "Moderate",
+                    "id": "47f43a2f-356e-4089-b567-624c3e33f935",
+                    "parentId": "363de789-1845-4ae1-8f7a-ccd4a92bb36e"
+                }
+            ],
+            "id": "363de789-1845-4ae1-8f7a-ccd4a92bb36e",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "moxonidine",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Amlodipine and Moxonidine can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "ba78620a-a025-4e5b-8860-ac1ec108f8c4",
+                    "parentId": "c2035abc-adf1-40cf-9e80-5f56aa814504"
+                }
+            ],
+            "id": "c2035abc-adf1-40cf-9e80-5f56aa814504",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "nadolol",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Amlodipine and Nadolol can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "c99e1263-e3ba-46bb-8355-90610ca1b474",
+                    "parentId": "e1ee66bc-fb11-4175-9c98-09f94a4d7486"
+                }
+            ],
+            "id": "e1ee66bc-fb11-4175-9c98-09f94a4d7486",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "nebivolol",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Amlodipine and Nebivolol can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "03953591-bdfa-4976-bdc8-2389b8f9760e",
+                    "parentId": "3491ec7a-2db1-4768-b25f-2ac4b00ab144"
+                }
+            ],
+            "id": "3491ec7a-2db1-4768-b25f-2ac4b00ab144",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "nevirapine",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Nevirapine is predicted to decrease the exposure to Amlodipine. Manufacturer advises monitor and adjust dose.  ",
+                    "severity": "Moderate",
+                    "id": "07cc70d8-8404-4159-b649-5972de7a575b",
+                    "parentId": "545c59b4-0bbb-47c1-8074-9afb4dd4f16a"
+                }
+            ],
+            "id": "545c59b4-0bbb-47c1-8074-9afb4dd4f16a",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "nicorandil",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Amlodipine and Nicorandil can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "2b6c46ce-0e3d-4a42-b3ab-c408b445245f",
+                    "parentId": "1a205935-8e83-4769-b118-e8397a505e44"
+                }
+            ],
+            "id": "1a205935-8e83-4769-b118-e8397a505e44",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "nilotinib-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Nilotinib is predicted to increase the exposure to Amlodipine. Manufacturer advises monitor and adjust dose.  ",
+                    "severity": "Moderate",
+                    "id": "0f49ba5d-f6ba-4ece-bac9-a9e710891200",
+                    "parentId": "3825e108-a386-4777-9b87-d1d2f72fb545"
+                }
+            ],
+            "id": "3825e108-a386-4777-9b87-d1d2f72fb545",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "nitrous-oxide",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Amlodipine and Nitrous oxide can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "c02d90d8-8d42-4689-a457-202d4868508e",
+                    "parentId": "ba7f8ff5-7fce-42b3-a119-547eea6afab0"
+                }
+            ],
+            "id": "ba7f8ff5-7fce-42b3-a119-547eea6afab0",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "nortriptyline",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Amlodipine and Nortriptyline can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "79c8c62c-5a2e-42be-bbc5-5f9501968bc9",
+                    "parentId": "2519da21-3a14-416b-a735-9ed5ac169840"
+                }
+            ],
+            "id": "2519da21-3a14-416b-a735-9ed5ac169840",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "paliperidone",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Amlodipine and Paliperidone can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "a8ca0f98-5109-4fec-833c-18bc1541c6a7",
+                    "parentId": "ef18fc39-3255-4538-8f0f-6107c86571fb"
+                }
+            ],
+            "id": "ef18fc39-3255-4538-8f0f-6107c86571fb",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "pericyazine",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Amlodipine and Pericyazine can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "529b5d64-9f14-491b-8e6a-06e59893f7bf",
+                    "parentId": "41186837-e758-47b2-9d92-db8d9564ddf7"
+                }
+            ],
+            "id": "41186837-e758-47b2-9d92-db8d9564ddf7",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "phenelzine",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Amlodipine and Phenelzine can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "7a5b334a-d0af-4066-96c2-959a4ae4c382",
+                    "parentId": "e08eae47-64e4-4e40-b999-05f335ea3411"
+                }
+            ],
+            "id": "e08eae47-64e4-4e40-b999-05f335ea3411",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "phenobarbital",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Phenobarbital is predicted to decrease the exposure to Amlodipine. Manufacturer advises monitor and adjust dose.  ",
+                    "severity": "Moderate",
+                    "id": "09c46d64-087f-482a-9a9a-25e409beedf9",
+                    "parentId": "9a3ea75b-323a-438a-a3a3-e4d6f32b2df3"
+                }
+            ],
+            "id": "9a3ea75b-323a-438a-a3a3-e4d6f32b2df3",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "phenytoin",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Phenytoin is predicted to decrease the exposure to Amlodipine. Manufacturer advises monitor and adjust dose.  ",
+                    "severity": "Moderate",
+                    "id": "2980cbd8-a465-4c61-83c7-ac1db1e63631",
+                    "parentId": "cc7d0b26-38ef-4c0b-a8a1-50e2a028f8e8"
+                }
+            ],
+            "id": "cc7d0b26-38ef-4c0b-a8a1-50e2a028f8e8",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "pimozide",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Amlodipine and Pimozide can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "5ca61808-1fdb-49df-ac68-dbae53e6040c",
+                    "parentId": "b863d5ea-107b-4a67-b8e8-7af0ececca97"
+                }
+            ],
+            "id": "b863d5ea-107b-4a67-b8e8-7af0ececca97",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "pindolol",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Amlodipine and Pindolol can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "f17a466e-593c-4db9-9d2c-ea70a4b0d79a",
+                    "parentId": "45957204-9828-4d67-bc43-eb4f629d42b1"
+                }
+            ],
+            "id": "45957204-9828-4d67-bc43-eb4f629d42b1",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "posaconazole",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Posaconazole is predicted to increase the exposure to Amlodipine. Manufacturer advises monitor and adjust dose.  ",
+                    "severity": "Moderate",
+                    "id": "babdfe94-e670-43f5-aa27-b146bbfc8592",
+                    "parentId": "c00bef04-870b-4f71-abbf-e3b4da5df227"
+                }
+            ],
+            "id": "c00bef04-870b-4f71-abbf-e3b4da5df227",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "pramipexole",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Amlodipine and Pramipexole can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "1384852d-ec51-4b04-80b9-b7f91bd211b8",
+                    "parentId": "d51d4b56-7e03-4695-8eda-fb3718ff67ba"
+                }
+            ],
+            "id": "d51d4b56-7e03-4695-8eda-fb3718ff67ba",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "prazosin",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Amlodipine and Prazosin can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "dda824a6-1208-4b5b-82bc-5b56359e4544",
+                    "parentId": "b1ab9804-07bf-4dbb-a1d1-3a2e61cc500a"
+                }
+            ],
+            "id": "b1ab9804-07bf-4dbb-a1d1-3a2e61cc500a",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "primidone",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Primidone is predicted to decrease the exposure to Amlodipine. Manufacturer advises monitor and adjust dose.  ",
+                    "severity": "Moderate",
+                    "id": "1e38a327-1d53-4ca4-86a1-9594e791f3d6",
+                    "parentId": "e0b04b05-facc-4b80-8b4b-eef071b6df11"
+                }
+            ],
+            "id": "e0b04b05-facc-4b80-8b4b-eef071b6df11",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "prochlorperazine",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Amlodipine and Prochlorperazine can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "94706086-a45e-47cb-8d6c-24e37c4e7ab0",
+                    "parentId": "a3bae619-c717-4a04-9b02-5700a3e74ea8"
+                }
+            ],
+            "id": "a3bae619-c717-4a04-9b02-5700a3e74ea8",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "propofol",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Amlodipine and Propofol can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "81c27c9d-6239-4280-acc5-533810a6ae28",
+                    "parentId": "05f1b5aa-ead2-409d-af6c-4d3aa69487f1"
+                }
+            ],
+            "id": "05f1b5aa-ead2-409d-af6c-4d3aa69487f1",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "quetiapine",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Amlodipine and Quetiapine can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "588f970e-6777-4c71-ad19-bfefa14b61c7",
+                    "parentId": "75f6a3f7-df19-4fe0-b961-fd4ddc87f4b6"
+                }
+            ],
+            "id": "75f6a3f7-df19-4fe0-b961-fd4ddc87f4b6",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "quinagolide",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Amlodipine and Quinagolide can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "afe91313-a083-4fd9-8184-5db13ce22a43",
+                    "parentId": "21d3795f-24a1-4c64-a4eb-9686245e0190"
+                }
+            ],
+            "id": "21d3795f-24a1-4c64-a4eb-9686245e0190",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "quinapril",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Amlodipine and Quinapril can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "f6b9b05f-bc51-4868-a108-2258da982061",
+                    "parentId": "8f169f0b-0759-4095-9276-2247d8bf9ced"
+                }
+            ],
+            "id": "8f169f0b-0759-4095-9276-2247d8bf9ced",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "ramipril",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Amlodipine and Ramipril can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "16aa68d8-6f4c-4b8c-ae96-fefcb6fff599",
+                    "parentId": "de13ac7e-b0ae-4656-82e4-3fc90a32c41e"
+                }
+            ],
+            "id": "de13ac7e-b0ae-4656-82e4-3fc90a32c41e",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "rifampicin",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Rifampicin is predicted to decrease the exposure to Amlodipine. Manufacturer advises monitor and adjust dose.  ",
+                    "severity": "Moderate",
+                    "id": "9f447a04-c0fd-4a9a-b0c9-32b90fbf8804",
+                    "parentId": "073abd57-237d-4212-8395-8c04b5d7e1b3"
+                }
+            ],
+            "id": "073abd57-237d-4212-8395-8c04b5d7e1b3",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "riociguat",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Amlodipine and Riociguat can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "e9411e06-3c4e-476c-b758-d5f820328813",
+                    "parentId": "53ea86c4-2913-41e3-8a97-a276e5c673eb"
+                }
+            ],
+            "id": "53ea86c4-2913-41e3-8a97-a276e5c673eb",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "risperidone",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Amlodipine and Risperidone can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "6f0f9f78-92c6-4be5-b46e-85a83ec3c692",
+                    "parentId": "6a1fca15-5868-42db-b9b0-985bfc194d05"
+                }
+            ],
+            "id": "6a1fca15-5868-42db-b9b0-985bfc194d05",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "ritonavir",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Ritonavir is predicted to increase the exposure to Amlodipine. Manufacturer advises monitor and adjust dose.  ",
+                    "severity": "Moderate",
+                    "id": "6712997a-9bbd-4613-b6e5-a8ffaecf97e8",
+                    "parentId": "3b0d5f16-ffc8-4e57-a13f-8d0ba0f2402d"
+                }
+            ],
+            "id": "3b0d5f16-ffc8-4e57-a13f-8d0ba0f2402d",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "ropinirole",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Amlodipine and Ropinirole can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "34852f94-8017-41dc-86cb-a4e705d0a1a2",
+                    "parentId": "a94fa95b-5c71-47b9-ba4b-10565d670a91"
+                }
+            ],
+            "id": "a94fa95b-5c71-47b9-ba4b-10565d670a91",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "rotigotine",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Amlodipine and Rotigotine can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "0280f7ea-88d4-436b-b924-a6405a8c8eee",
+                    "parentId": "25a91113-d5b9-4561-a176-bf120fb358a1"
+                }
+            ],
+            "id": "25a91113-d5b9-4561-a176-bf120fb358a1",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "sevoflurane",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Amlodipine and Sevoflurane can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "a854a8df-1707-4b63-8018-72e4d5bef161",
+                    "parentId": "6bbd92e3-7bc3-4596-b0b9-20ff7d23853a"
+                }
+            ],
+            "id": "6bbd92e3-7bc3-4596-b0b9-20ff7d23853a",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "sildenafil",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Amlodipine and Sildenafil can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "4e23a20f-e960-4efc-8443-5b50a724e954",
+                    "parentId": "053c9134-cdea-4713-afd6-72cea4ab9bde"
+                }
+            ],
+            "id": "053c9134-cdea-4713-afd6-72cea4ab9bde",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "simvastatin",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Amlodipine causes a small increase in the exposure to Simvastatin. Manufacturer advises adjust Simvastatin dose.  ",
+                    "severity": "Moderate",
+                    "id": "4952b1d1-f250-4e73-8f46-460e2391f57d",
+                    "parentId": "14fa2894-84fd-494d-be54-43eab6e86e66"
+                }
+            ],
+            "id": "14fa2894-84fd-494d-be54-43eab6e86e66",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "sodium-oxybate",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Amlodipine and Sodium oxybate can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "fc50d66a-d8c8-4bb7-b57a-60d26a376b73",
+                    "parentId": "52693d60-d73f-4daf-9132-bbcbae6a4f36"
+                }
+            ],
+            "id": "52693d60-d73f-4daf-9132-bbcbae6a4f36",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "sotorasib-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Sotorasib is predicted to decrease the exposure to Amlodipine. Manufacturer advises monitor and adjust dose.  ",
+                    "severity": "Moderate",
+                    "id": "5f2341d7-72b7-44ba-b87b-357542c651ff",
+                    "parentId": "7e44f07e-e36b-4af3-a70b-f2374fcd361b"
+                }
+            ],
+            "id": "7e44f07e-e36b-4af3-a70b-f2374fcd361b",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "spironolactone",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Amlodipine and Spironolactone can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "c73ce611-eaa8-4573-acf4-00f7399eccaf",
+                    "parentId": "ff895458-eaed-4ad9-b469-6dfa9392490a"
+                }
+            ],
+            "id": "ff895458-eaed-4ad9-b469-6dfa9392490a",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "st-johns-wort",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "St John's wort is predicted to decrease the exposure to Amlodipine. Manufacturer advises monitor and adjust dose.  ",
+                    "severity": "Moderate",
+                    "id": "c81f009d-d7c8-434c-b567-a7d327cee40f",
+                    "parentId": "081ef57b-1f8f-402a-99b6-774b6ead8968"
+                }
+            ],
+            "id": "081ef57b-1f8f-402a-99b6-774b6ead8968",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "sulpiride",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Amlodipine and Sulpiride can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "3c5877cb-cc51-4b30-ab66-47a32438051d",
+                    "parentId": "82d75dd3-b211-477c-9864-b180fe75c1a8"
+                }
+            ],
+            "id": "82d75dd3-b211-477c-9864-b180fe75c1a8",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "tadalafil",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Amlodipine and Tadalafil can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "06a392cf-1036-4c79-9e23-ee0abde7e816",
+                    "parentId": "2d3114e1-24f2-4839-9b59-da9d6fa85897"
+                }
+            ],
+            "id": "2d3114e1-24f2-4839-9b59-da9d6fa85897",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "telmisartan",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Amlodipine and Telmisartan can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "c2d4b589-a3a6-497d-87b7-3b138400b956",
+                    "parentId": "e99ebe35-f1d9-4be1-bc3a-59b3bde4afe9"
+                }
+            ],
+            "id": "e99ebe35-f1d9-4be1-bc3a-59b3bde4afe9",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "temsirolimus-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Temsirolimus is predicted to increase the risk of angioedema when given with Amlodipine. Manufacturer advises caution.  ",
+                    "severity": "Moderate",
+                    "id": "29413dc7-7460-46e2-9890-173468b520e9",
+                    "parentId": "dd71bfc9-eff6-4a5b-912a-b21f5d38aa9f"
+                }
+            ],
+            "id": "dd71bfc9-eff6-4a5b-912a-b21f5d38aa9f",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "terazosin",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Amlodipine and Terazosin can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "6af63e38-8b58-4856-8c0c-405fe1492b29",
+                    "parentId": "ccdbceb0-9e03-42a9-96a8-c444b8927860"
+                }
+            ],
+            "id": "ccdbceb0-9e03-42a9-96a8-c444b8927860",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "tizanidine",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Amlodipine and Tizanidine can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "8a3fbed6-2033-4eb9-8975-e200b593cd55",
+                    "parentId": "f236b258-aa87-4d8f-ae1e-63fcf3e0456c"
+                }
+            ],
+            "id": "f236b258-aa87-4d8f-ae1e-63fcf3e0456c",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "tocilizumab",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Tocilizumab is predicted to decrease the exposure to Amlodipine. Manufacturer advises monitor and adjust dose.  ",
+                    "severity": "Moderate",
+                    "id": "e2e736eb-cf91-4ac3-981d-6c0c823b0502",
+                    "parentId": "d5e06016-c098-4435-a49b-87aa6096c9a2"
+                }
+            ],
+            "id": "d5e06016-c098-4435-a49b-87aa6096c9a2",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "torasemide",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Amlodipine and Torasemide can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "f3ea5881-7123-446e-aa9b-842171a080ee",
+                    "parentId": "a7a3d102-5bc4-4608-b87a-424b0e602d85"
+                }
+            ],
+            "id": "a7a3d102-5bc4-4608-b87a-424b0e602d85",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "trandolapril",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Amlodipine and Trandolapril can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "068d3009-2132-4464-8ff3-b0043ccec25a",
+                    "parentId": "0e026c0a-6695-4b40-951c-2d411e1aab7d"
+                }
+            ],
+            "id": "0e026c0a-6695-4b40-951c-2d411e1aab7d",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "tranylcypromine",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Amlodipine and Tranylcypromine can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "e09a0929-12b4-46a2-a62c-ba7e1c9f1d80",
+                    "parentId": "8b75f93d-f051-4980-967c-725a4919e604"
+                }
+            ],
+            "id": "8b75f93d-f051-4980-967c-725a4919e604",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "treprostinil",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Amlodipine and Treprostinil can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "fcc5d8b3-d22a-4517-b968-c2a84e8a1395",
+                    "parentId": "b0bbb768-ab20-4589-9500-029a8480c3a0"
+                }
+            ],
+            "id": "b0bbb768-ab20-4589-9500-029a8480c3a0",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "trifluoperazine",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Amlodipine and Trifluoperazine can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "dae5acb9-324a-43fa-9ce2-80919bab004b",
+                    "parentId": "8b59eb50-5dff-48d6-a45b-b3bf0f90f783"
+                }
+            ],
+            "id": "8b59eb50-5dff-48d6-a45b-b3bf0f90f783",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "trimipramine",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Amlodipine and Trimipramine can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "e36f7579-3934-46a9-9192-32ab6eb8f5f4",
+                    "parentId": "129e5cb4-4778-4a09-95bf-8102961a8f48"
+                }
+            ],
+            "id": "129e5cb4-4778-4a09-95bf-8102961a8f48",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "tucatinib-specialist-drug",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Tucatinib is predicted to increase the exposure to Amlodipine. Manufacturer advises monitor and adjust dose.  ",
+                    "severity": "Moderate",
+                    "id": "dba29291-1fa7-48c5-915d-5c795cb78f61",
+                    "parentId": "09e7663a-aabc-4e6f-b2ce-3d2e456a0cf0"
+                }
+            ],
+            "id": "09e7663a-aabc-4e6f-b2ce-3d2e456a0cf0",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "valsartan",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Amlodipine and Valsartan can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "ef6153a1-cb34-48e3-8074-63686033f63e",
+                    "parentId": "a85d84a2-b734-493b-bb36-efbe64bb1df3"
+                }
+            ],
+            "id": "a85d84a2-b734-493b-bb36-efbe64bb1df3",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "vardenafil",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Amlodipine and Vardenafil can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "c4b1b7aa-282e-4517-8c03-34f497ac3ab3",
+                    "parentId": "a285a990-7e09-47ff-bf17-6c71fff9b02b"
+                }
+            ],
+            "id": "a285a990-7e09-47ff-bf17-6c71fff9b02b",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "vericiguat",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Amlodipine and Vericiguat can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "87d2ee56-30e9-40d2-961c-c928eeb26faa",
+                    "parentId": "2456d1fe-32a5-4bee-85a3-2693ebd7d41d"
+                }
+            ],
+            "id": "2456d1fe-32a5-4bee-85a3-2693ebd7d41d",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "vernakalant",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Amlodipine and Vernakalant can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "a53aa52f-7b26-4ac4-91ca-a2001b6e7696",
+                    "parentId": "afa1576a-26eb-466d-b7b2-16f6dc3765b3"
+                }
+            ],
+            "id": "afa1576a-26eb-466d-b7b2-16f6dc3765b3",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "voriconazole",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Voriconazole is predicted to increase the exposure to Amlodipine. Manufacturer advises monitor and adjust dose.  ",
+                    "severity": "Moderate",
+                    "id": "5450dad0-8b9a-431a-9b72-30a95dda4c14",
+                    "parentId": "498467f3-4894-4b2e-8972-683a339eaa1d"
+                }
+            ],
+            "id": "498467f3-4894-4b2e-8972-683a339eaa1d",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "xipamide",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both Amlodipine and Xipamide can increase the risk of hypotension.",
+                    "severity": "Normal",
+                    "id": "6930d78f-1901-43a4-abeb-efca42589208",
+                    "parentId": "7d4cc459-f216-4336-b278-d72792d9dccc"
+                }
+            ],
+            "id": "7d4cc459-f216-4336-b278-d72792d9dccc",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        }
+    ],
+    "id": "fdbc732a-b082-4d27-8169-f1cf746ee75a",
+    "parentId": null
+}
