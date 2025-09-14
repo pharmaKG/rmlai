@@ -1,4 +1,4 @@
-# RDF Knowledge Graph Generator with RML and LLMs
+# RDF Knowledge Graph Generator
 
 A tool for generating knowledge graphs using RML mappings and LLM (Large Language Models) from semi-structured data.
 
