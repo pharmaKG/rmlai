@@ -1,0 +1,36 @@
+{
+    "interactions": [
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "betaxolol",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Combined use may cause additive blood pressure lowering effects increasing risk of hypotension and dizziness.",
+                    "severity": "Normal",
+                    "id": "4d026c5b-9ef6-4add-b038-e19e08542128",
+                    "parentId": "45f0c12b-fa05-482e-8805-e870007a59a0"
+                }
+            ],
+            "id": "45f0c12b-fa05-482e-8805-e870007a59a0",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        },
+        {
+            "interactingDrugId": "amlodipine",
+            "interactantDrugId": "carbamazepine",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Carbamazepine decreases the efficacy of amlodipine.",
+                    "severity": "Moderate",
+                    "id": "3e988500-4642-4c75-ac54-279d09270d48",
+                    "parentId": "614e3b11-3a70-4560-8fb9-c19de6760d49"
+                }
+            ],
+            "id": "614e3b11-3a70-4560-8fb9-c19de6760d49",
+            "parentId": "fdbc732a-b082-4d27-8169-f1cf746ee75a"
+        }
+    ],
+    "id": "fdbc732a-b082-4d27-8169-f1cf746ee75a",
+    "parentId": null
+}

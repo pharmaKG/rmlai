@@ -1,0 +1,18 @@
+<think>
+Alright, so I need to figure out the dosage of ciclosporin for an adult with severe psoriasis based on the provided JSON. Let me start by understanding what's given.
+
+Looking at the JSON structure, there's a section called "therapeuticPlan" which contains information about different uses and their respective dosages. Under that, I see an indication for "Severe psoriasis." That's exactly what we're looking for.
+
+Within this therapeutic plan entry, there's a dosage array with one object. The patient group is specified as "adult," which matches our query. The doseInfo field says "up to 2.5 mg/kg 2 times daily; adjust dose based on clinical response and blood levels." So the maximum dosage per kilogram of body weight is 2.5 mg, given twice a day.
+
+I need to extract just the numerical part for the dosage amount and the unit. The unit here is milligrams (mg) because it's specified as mg/kg. Since the question asks for an adult dosage, I don't have to adjust for any specific conditions like renal or hepatic impairment unless stated, but in this case, the general dosage is provided.
+
+So, putting it together, the dosage amount is 2.5 mg and the unit is per kilogram of body weight, given twice daily. But since the question asks for the dosage amount without specifying further details, I'll just provide the numerical value and unit as specified.
+</think>
+
+```json
+{
+    "dosage amount": "2.5",
+    "dosage unit": "mg/kg"
+}
+```

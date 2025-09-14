@@ -1,0 +1,96 @@
+{
+    "interactions": [
+        {
+            "interactingDrugId": "carbamazepine",
+            "interactantDrugId": "abacavir",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Carbamazepine may reduce the effectiveness of abacavir by inducing metabolic enzymes. Monitor therapy closely. Manufacturer provides no specific recommendation.",
+                    "severity": "Moderate",
+                    "id": "46e26873-47d7-40be-8dfa-f2a121c30f6a",
+                    "parentId": "9e174e07-9a3e-49e2-a315-74eab6f7cb8c"
+                }
+            ],
+            "id": "9e174e07-9a3e-49e2-a315-74eab6f7cb8c",
+            "parentId": "9e5705e4-4e30-4e11-8ed6-65b9877fb79e"
+        },
+        {
+            "interactingDrugId": "carbamazepine",
+            "interactantDrugId": "amlodipine",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Carbamazepine decreases the efficacy of amlodipine.",
+                    "severity": "Moderate",
+                    "id": "75f38877-12ec-4732-abdb-d890042ee3b9",
+                    "parentId": "24f9915f-bbef-4b73-b69c-e4978817c7b2"
+                }
+            ],
+            "id": "24f9915f-bbef-4b73-b69c-e4978817c7b2",
+            "parentId": "9e5705e4-4e30-4e11-8ed6-65b9877fb79e"
+        },
+        {
+            "interactingDrugId": "carbamazepine",
+            "interactantDrugId": "apixaban",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Carbamazepine decreases the efficacy of apixaban.",
+                    "severity": "Severe",
+                    "id": "e0e008e7-6185-4f06-b5ec-674e23eacce9",
+                    "parentId": "71ce7da6-2014-40cc-bf90-46f4b6090d35"
+                }
+            ],
+            "id": "71ce7da6-2014-40cc-bf90-46f4b6090d35",
+            "parentId": "9e5705e4-4e30-4e11-8ed6-65b9877fb79e"
+        },
+        {
+            "interactingDrugId": "carbamazepine",
+            "interactantDrugId": "atorvastatin",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Carbamazepine decreases the efficacy of atorvastatin.",
+                    "severity": "Moderate",
+                    "id": "641d6788-fecb-4f23-bf40-cd65f34e5a3e",
+                    "parentId": "eb8adf57-8708-4219-87de-9537fd6c8381"
+                }
+            ],
+            "id": "eb8adf57-8708-4219-87de-9537fd6c8381",
+            "parentId": "9e5705e4-4e30-4e11-8ed6-65b9877fb79e"
+        },
+        {
+            "interactingDrugId": "carbamazepine",
+            "interactantDrugId": "ciclosporin",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Carbamazepine decreases the efficacy of ciclosporin.",
+                    "severity": "Severe",
+                    "id": "42816466-1f6e-4195-b1a0-0a12ff94dbd3",
+                    "parentId": "b41b202c-bc3c-4073-beb5-a6bffade3af9"
+                }
+            ],
+            "id": "b41b202c-bc3c-4073-beb5-a6bffade3af9",
+            "parentId": "9e5705e4-4e30-4e11-8ed6-65b9877fb79e"
+        },
+        {
+            "interactingDrugId": "carbamazepine",
+            "interactantDrugId": "paracetamol",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Carbamazepine decreases the efficacy of paracetamol.",
+                    "severity": "Moderate",
+                    "id": "62382c96-dde3-492d-a6bc-fc2723a2c84f",
+                    "parentId": "b0909138-b50b-4fd4-8ad5-f35e12b94040"
+                }
+            ],
+            "id": "b0909138-b50b-4fd4-8ad5-f35e12b94040",
+            "parentId": "9e5705e4-4e30-4e11-8ed6-65b9877fb79e"
+        }
+    ],
+    "id": "9e5705e4-4e30-4e11-8ed6-65b9877fb79e",
+    "parentId": null
+}

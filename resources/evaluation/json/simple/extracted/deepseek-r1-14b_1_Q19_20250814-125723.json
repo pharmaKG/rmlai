@@ -1,0 +1,22 @@
+<think>
+Okay, so I need to figure out the correct dosage of carbamazepine for an adult with epilepsy. I'm not a medical expert, but I'll try to break this down step by step.
+
+First, I know that carbamazepine is an antiepileptic drug used to manage seizures. It's commonly prescribed, so there must be standard dosages. But I'm not exactly sure about the exact amounts and units.
+
+I remember hearing that medications often start with a low dose to minimize side effects and then increase as needed. So maybe carbamazepine starts at around 200 mg or something like that? I think it's taken twice a day, but I'm not certain.
+
+Wait, I should check if the dosage is based on body weight. Some drugs require calculating based on kg, but I don't know if that applies here. Maybe for adults, it's a standard dose regardless of weight?
+
+I also recall that carbamazepine can have side effects like dizziness or drowsiness, so starting low makes sense to manage these. The dosage might range from 400 mg to 800 mg per day in total, divided into two doses.
+
+So putting this together, the initial dose could be lower, maybe 200 mg twice a day, totaling 400 mg daily. Then it can be increased as needed up to higher amounts like 600 mg or even 800 mg per day. The units would be in milligrams (mg) since that's the standard for such medications.
+
+I should make sure I'm not including any extra information, just the dosage amount and unit as specified.
+</think>
+
+```json
+{
+  "dosage amount": "400-800 mg",
+  "dosage unit": "per day"
+}
+```

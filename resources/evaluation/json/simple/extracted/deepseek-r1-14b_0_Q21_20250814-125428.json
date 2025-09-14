@@ -1,0 +1,22 @@
+<think>
+Okay, so I need to figure out the dosage of cyclosporine for an adult with severe psoriasis. Hmm, where do I start? I remember that cyclosporine is an immunosuppressive drug used for conditions like psoriasis and rheumatoid arthritis when other treatments haven't worked. But I'm not exactly sure about the exact dosage.
+
+I think it's usually taken orally, maybe once a day. The starting dose might be low to avoid side effects and then adjusted based on how the patient responds. I've heard that blood levels are monitored because cyclosporine can have significant side effects, especially on the kidneys.
+
+Wait, what's the typical initial dosage? Maybe around 2.5 mg per kilogram of body weight daily? That sounds familiar. So if someone weighs 70 kg, that would be about 175 mg a day. But I'm not entirely certain if it's exactly 2.5 or maybe a bit lower.
+
+Also, the dosage might need to be adjusted based on tolerance and response. If the patient doesn't tolerate it well or if there are concerns about kidney function, the dose could be reduced. And of course, regular blood tests are important to check for any adverse effects.
+
+I should also consider that this is just a starting point. The healthcare provider would likely start low and titrate upwards as needed. So maybe the initial dosage is 2.5 mg/kg/day, but it's adjusted based on individual response and monitoring.
+
+Wait, I think I've read that the maximum dose isn't usually more than 3-4 mg/kg/day because of the risks involved. So for a 70 kg person, that would be up to 280 mg or so. But again, this varies by patient.
+
+So putting it all together, the dosage amount is based on weight, calculated as 2.5 mg per kilogram, and the unit is milligrams (mg). The answer should reflect that without extra details.
+</think>
+
+```json
+{
+  "dosage amount": "2.5 mg/kg",
+  "dosage unit": "milligram(s)"
+}
+```

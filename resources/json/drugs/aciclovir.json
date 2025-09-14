@@ -1,0 +1,61 @@
+{
+    "identifier": "aciclovir",
+    "title": "Aciclovir",
+    "breastFeeding": {
+        "generalInfo": [],
+        "specificInfo": [
+            "Aciclovir is excreted into breast milk in small amounts; unlikely to be harmful in usual doses."
+        ],
+        "id": "5b0aa324-5c8c-4634-893c-8cd57fc6f42b",
+        "parentId": "72752cad-29c5-4764-83fc-b473cbb503e4"
+    },
+    "hepaticImpairment": {
+        "generalInfo": [],
+        "specificInfo": [
+            "Use with caution in hepatic impairment."
+        ],
+        "id": "dcdf671c-dcac-4e8b-a8d7-46555c35027d",
+        "parentId": "72752cad-29c5-4764-83fc-b473cbb503e4"
+    },
+    "pregnancy": {
+        "generalInfo": [],
+        "specificInfo": [
+            "Considered safe to use during pregnancy; extensive data have not shown an increased risk of malformations or other harmful effects."
+        ],
+        "id": "077225a4-0f00-4b9e-b219-c6e9c6308c93",
+        "parentId": "72752cad-29c5-4764-83fc-b473cbb503e4"
+    },
+    "renalImpairment": {
+        "generalInfo": [],
+        "specificInfo": "Reduce dose in moderate to severe renal impairment to avoid accumulation and neurotoxicity.",
+        "id": "62cd4de4-c244-460f-8887-f25325ae20d5",
+        "parentId": "72752cad-29c5-4764-83fc-b473cbb503e4"
+    },
+    "sideEffects": {
+        "generalInfo": [],
+        "specificInfo": "Common: Vomiting; Eye pain; Photosensitivity reaction; Fever; Skin reactions; Abdominal pain; Diarrhoea; Nausea; Fatigue; Headache; Eye inflammation. Uncommon: Anaemia; Skin reactions. Rare: Acute renal failure; Drowsiness; hallucinations; tremor; agitation; encephalopathy. Frequency not known: Crystalluria",
+        "id": "10e13b3f-83f7-4e9f-a9cc-3b4c416f8311",
+        "parentId": "72752cad-29c5-4764-83fc-b473cbb503e4"
+    },
+    "therapeuticPlan": [
+        {
+            "indications": [
+                "Herpes simplex keratitis"
+            ],
+            "dosages": [
+                {
+                    "patientGroup": "adult",
+                    "detailedPatientGroup": "Adult",
+                    "doseInfo": "Apply a 1 cm ribbon of ointment five times daily into the lower conjunctival sac",
+                    "routeOfAdministration": "eye",
+                    "id": "2aa35793-0b8a-4dbf-9b14-c1f2d2da6e24",
+                    "parentId": "4274cbd3-9b5f-460f-bcbd-a2fa33c3a01f"
+                }
+            ],
+            "id": "4274cbd3-9b5f-460f-bcbd-a2fa33c3a01f",
+            "parentId": "72752cad-29c5-4764-83fc-b473cbb503e4"
+        }
+    ],
+    "id": "72752cad-29c5-4764-83fc-b473cbb503e4",
+    "parentId": null
+}

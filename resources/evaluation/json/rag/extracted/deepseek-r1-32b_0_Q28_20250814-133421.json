@@ -1,0 +1,18 @@
+<think>
+Okay, so I need to figure out the dosage of zilucoplan for an adult with Myasthenia gravis based on the provided JSON input. Let me start by understanding what's given.
+
+Looking at the JSON structure, there are several sections like breastFeeding, hepaticImpairment, pregnancy, etc., but the key part I need is under "therapeuticPlan". That section has an array of objects, each with indications and dosages.
+
+The indication here is Myasthenia gravis. Under that, in the dosages array, there's a patientGroup specified as "adult" and detailedPatientGroup as "Adult (body-weight 77 kg and above)". The doseInfo says "32.4 mg once daily", and it's administered subcutaneously.
+
+So, for an adult with Myasthenia gravis, the dosage is 32.4 mg each day via injection under the skin. I don't see any other dosages mentioned for adults in this context, so that must be the correct one.
+</think>
+
+The dosage amount is 32.4 mg and the unit is milligrams (mg) administered once daily by subcutaneous injection.
+
+```json
+{
+    "dosage amount": "32.4",
+    "dosage unit": "mg"
+}
+```

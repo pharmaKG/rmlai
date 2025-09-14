@@ -1,0 +1,18 @@
+<think>
+Okay, so I need to figure out the dosage of amlodipine for an adult with hypertension. I remember that amlodipine is a calcium channel blocker used to treat high blood pressure. But I'm not exactly sure about the specific dosages.
+
+I think it's usually taken once daily. The starting dose might be lower, maybe 5 mg or something like that. Then, depending on how the patient responds, the doctor might increase it. I've heard of higher doses like 10 mg being common. Maybe sometimes even up to 20 mg? But I'm not certain about the exact ranges.
+
+Wait, let me think again. The typical starting dose is often 5 mg once daily. If that's well-tolerated and blood pressure isn't adequately controlled, they might increase it to 10 mg. In some cases, especially if the patient has more severe hypertension or isn't responding well, the dose could go up to 20 mg. But I should double-check this because dosages can vary based on individual factors.
+
+I don't think there's a standard maximum beyond 20 mg for most patients, but it's always adjusted according to their response and tolerance. So putting it all together, the dosage amount is typically between 5 mg and 10 mg, with sometimes up to 20 mg if needed. The unit here is milligrams (mg).
+
+I should make sure I'm not missing any important details. Maybe there are specific guidelines from medical organizations about this? From what I recall, yes, the usual recommended dose starts at 5 mg and can go up as needed. So my answer should reflect that range.
+</think>
+
+```json
+{
+  "dosage amount": "5 to 10 mg",
+  "dosage unit": "milligrams (mg)"
+}
+```

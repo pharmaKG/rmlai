@@ -1,0 +1,59 @@
+{
+    "identifier": "paracetamol",
+    "title": "Paracetamol",
+    "breastFeeding": {
+        "generalInfo": [
+            "Levels in breast milk are low and adverse effects in infants are unlikely."
+        ],
+        "id": "a1ea795d-6e97-413b-81ba-32acddd18959",
+        "parentId": "14e13afc-ec0a-44e9-8e8c-ab7d30f50cbc"
+    },
+    "hepaticImpairment": {
+        "specificInfo": "Avoid high or prolonged doses; risk of hepatotoxicity is increased in severe impairment.",
+        "id": "37b6a7e4-b915-4ba1-adfe-bdeddc1b0f6d",
+        "parentId": "14e13afc-ec0a-44e9-8e8c-ab7d30f50cbc"
+    },
+    "pregnancy": {
+        "generalInfo": [
+            "Considered safe during pregnancy when used at recommended doses"
+        ],
+        "id": "da36716a-e315-4354-8ab3-f15fe7ef1bf8",
+        "parentId": "14e13afc-ec0a-44e9-8e8c-ab7d30f50cbc"
+    },
+    "renalImpairment": {
+        "generalInfo": [],
+        "specificInfo": "Dose reduction may be necessary in severe renal impairment (e.g. reduce frequency to every 6–8 hours if GFR <30 mL/min).",
+        "id": "8ec30528-b69d-440c-bb22-08976ef32833",
+        "parentId": "14e13afc-ec0a-44e9-8e8c-ab7d30f50cbc"
+    },
+    "sideEffects": {
+        "generalInfo": [],
+        "specificInfo": "Rare: Hypotension; Abnormal hepatic function; skin reactions; hypersensitivity; thrombocytopenia; Neutropenia. Frequency not known: Nausea; Vomiting; Tachycardia; Liver failure.",
+        "id": "bf6a2fa5-6694-4938-b25c-dcdc2d0ddd2c",
+        "parentId": "14e13afc-ec0a-44e9-8e8c-ab7d30f50cbc"
+    },
+    "therapeuticPlan": [
+        {
+            "indications": [
+                "Pain relief",
+                "Fever",
+                "Headache",
+                "Cold and flu symptoms"
+            ],
+            "dosages": [
+                {
+                    "patientGroup": "adult",
+                    "detailedPatientGroup": "Adult",
+                    "doseInfo": "up to 1 g every 6 hours",
+                    "routeOfAdministration": "By mouth",
+                    "id": "ab33b98c-efda-4c73-bc1a-89c434d62a83",
+                    "parentId": "e32fb437-ac30-4fb4-9f09-593da466a3e2"
+                }
+            ],
+            "id": "e32fb437-ac30-4fb4-9f09-593da466a3e2",
+            "parentId": "14e13afc-ec0a-44e9-8e8c-ab7d30f50cbc"
+        }
+    ],
+    "id": "14e13afc-ec0a-44e9-8e8c-ab7d30f50cbc",
+    "parentId": null
+}

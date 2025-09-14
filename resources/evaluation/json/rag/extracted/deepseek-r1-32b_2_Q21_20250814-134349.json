@@ -1,0 +1,22 @@
+<think>
+Okay, so I need to figure out the dosage of ciclosporin for an adult with severe psoriasis based on the provided JSON input. Let me start by understanding what the user is asking for.
+
+The user has given a JSON structure that contains information about ciclosporin, including its uses, side effects, and specific dosages for different conditions. My task is to extract the dosage details for adults with severe psoriasis.
+
+Looking at the JSON, I see there's a section called "therapeuticPlan" which includes an indication for "Severe psoriasis." Under that, there's a "dosages" array with one entry. This entry specifies the patient group as "adult," so this is exactly what we're looking for.
+
+The dosage information provided is: "up to 2.5 mg/kg 2 times daily; adjust dose based on clinical response and blood levels." The route of administration is by mouth, but since the user only asked for the amount and unit, I don't need to include that part.
+
+I should structure my answer as a plain text JSON with keys "dosage amount" and "dosage unit." From the input, the dosage amount is up to 2.5 mg per kilogram of body weight, taken twice daily. So, the amount is 2.5 mg/kg, and the unit here is mg/kg.
+
+I need to make sure I don't include any extra information or explanations, just the structured JSON with the required keys and values. Also, it's important not to use markdown formatting for the JSON; it should be plain text.
+
+So putting it all together, the dosage amount is 2.5 mg/kg, and the unit is mg/kg. I'll format this into a JSON object as specified.
+</think>
+
+```json
+{
+    "dosage amount": "up to 2.5 mg/kg",
+    "dosage unit": "mg/kg"
+}
+```

@@ -1,0 +1,20 @@
+<think>
+Okay, so I need to figure out if bilastine can be given to a 15-year-old child. Let me start by looking at the information provided in the JSON.
+
+First, I see that under the therapeutic plan section, there's an indication for allergic rhinitis and urticaria. The dosages are listed with specific patient groups. One of them is "Child (12–17 years)" which includes a 15-year-old. The dose info says 20 mg once daily, taken after food or fruit juice, by mouth.
+
+I should check if there's any information that would contraindicate its use in this age group. Looking at the pregnancy section, it mentions limited data and suggests avoiding it during pregnancy, but since we're talking about a child who isn't pregnant, that doesn't apply here.
+
+The breastfeeding section notes limited data and advises to avoid it because it's excreted in breast milk in animals. Again, this is more relevant for lactating individuals, not necessarily children unless the child is breastfeeding, which is unlikely at 15 years old.
+
+Hepatic and renal impairment sections don't have any general info listed, so there's no specific concern mentioned there. The side effects are common and uncommon but don't seem to present an immediate danger that would prevent its use in adolescents.
+
+So putting it all together, since the therapeutic plan explicitly includes children aged 12–17 years with a specified dose, bilastine can be given to a 15-year-old child.
+</think>
+
+```json
+{
+    "answer": "yes",
+    "explanation": "Bilastine is indicated for use in children aged 12-17 years, including a 15-year-old."
+}
+```

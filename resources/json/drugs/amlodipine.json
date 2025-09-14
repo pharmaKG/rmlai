@@ -1,0 +1,59 @@
+{
+    "identifier": "amlodipine",
+    "title": "Amlodipine",
+    "breastFeeding": {
+        "generalInfo": [
+            "Excretion into human milk is unknown; should be avoided."
+        ],
+        "id": "199b582b-caf3-40c2-b617-b53c0f850f2a",
+        "parentId": "7ade9ced-654e-4f06-bfb7-a18dea12dd4f"
+    },
+    "hepaticImpairment": {
+        "generalInfo": [
+            "Amlodipine is extensively metabolised by the liver; use caution."
+        ],
+        "specificInfo": "Lower starting doses may be required; monitor closely in patients with severe hepatic impairment.",
+        "id": "2e2a91cd-fdc1-4022-8225-4c608457710a",
+        "parentId": "7ade9ced-654e-4f06-bfb7-a18dea12dd4f"
+    },
+    "pregnancy": {
+        "generalInfo": [
+            "Data in human pregnancy are limited; should be avoided"
+        ],
+        "id": "288c768d-809b-4b9e-9f1f-0c2b590687a8",
+        "parentId": "7ade9ced-654e-4f06-bfb7-a18dea12dd4f"
+    },
+    "renalImpairment": {
+        "generalInfo": [],
+        "id": "c8904d2d-563f-448d-98e1-5eec6f8d2d40",
+        "parentId": "7ade9ced-654e-4f06-bfb7-a18dea12dd4f"
+    },
+    "sideEffects": {
+        "generalInfo": [],
+        "specificInfo": "Common: Ankle swelling; flushing; headache; dizziness; palpitations; Abdominal pain; muscle cramps; nausea; Fatigue Uncommon: tremor; Hypotension; rash. Rare: Gynecomastia; gingival hyperplasia; Jaundice; Hepatic dysfunction",
+        "id": "09c48a41-64f5-4ddb-adfd-21ff268ae798",
+        "parentId": "7ade9ced-654e-4f06-bfb7-a18dea12dd4f"
+    },
+    "therapeuticPlan": [
+        {
+            "indications": [
+                "Hypertension",
+                "Angina"
+            ],
+            "dosages": [
+                {
+                    "patientGroup": "adult",
+                    "detailedPatientGroup": "Adult",
+                    "doseInfo": "10 mg once daily",
+                    "routeOfAdministration": "By mouth",
+                    "id": "e7dd9c10-b239-4c5c-9da5-d7c439bb3cd9",
+                    "parentId": "9f803e4b-be60-407e-ab23-9c8b9cf70b17"
+                }
+            ],
+            "id": "9f803e4b-be60-407e-ab23-9c8b9cf70b17",
+            "parentId": "7ade9ced-654e-4f06-bfb7-a18dea12dd4f"
+        }
+    ],
+    "id": "7ade9ced-654e-4f06-bfb7-a18dea12dd4f",
+    "parentId": null
+}

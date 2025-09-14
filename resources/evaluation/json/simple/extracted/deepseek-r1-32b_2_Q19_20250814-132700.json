@@ -1,0 +1,20 @@
+<think>
+Okay, so I need to figure out the dosage of carbamazepine for an adult with epilepsy. Let me start by recalling what I know about this medication. Carbamazepine is commonly used to treat seizures, specifically partial-onset seizures and tonic-clonic seizures. It's also used for neuropathic pain like trigeminal neuralgia.
+
+I remember that dosages can vary based on the patient's condition and how they respond to the medication. Typically, it starts with a lower dose and then increases gradually. The initial dose might be around 100 mg or 200 mg per day, but I'm not entirely sure about the exact starting point.
+
+As for the maximum dosage, I think it can go up to 1200 mg daily, but that's divided into two or three doses throughout the day. It's important to take it consistently and with food to avoid stomach issues. Also, blood levels might be monitored to ensure effectiveness and safety.
+
+Wait, does the initial dose start at 100 mg once a day? Or is it higher? I think for some patients, especially those who are more sensitive or have other health conditions, the starting dose could be lower. But generally, I believe the initial recommended dose is around 200 mg per day.
+
+So putting this together, the dosage amount would start at 100-200 mg and can go up to a maximum of 1200 mg daily. The unit here is milligrams (mg). I should structure this in JSON format as specified, with "dosage amount" and "dosage unit" as keys.
+
+I need to make sure the JSON doesn't have any markdown and only includes those two keys with their respective values. Also, no extra information or explanations are needed beyond that.
+</think>
+
+```json
+{
+  "dosage amount": "100-200 mg",
+  "dosage unit": "mg"
+}
+```

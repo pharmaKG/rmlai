@@ -1,0 +1,16 @@
+<think>
+Okay, so I need to figure out the correct dosage of paracetamol for an adult with a fever. Paracetamol is also known as acetaminophen in some countries. From what I remember, it's commonly used to relieve pain and reduce fever.
+
+I think the typical dose for adults is around 500 mg to 1000 mg every 4-6 hours. But wait, I should double-check that because sometimes the dosages can vary based on different sources or health guidelines. Also, there's a maximum daily limit, right? I believe it's up to 4000 mg in 24 hours for adults.
+
+So, putting this together, each dose is usually 500 mg or 1000 mg, taken every 4-6 hours as needed. The unit would be milligrams (mg). It's important not to exceed the maximum daily dose to avoid any risk of liver damage or other side effects.
+
+I should make sure that I'm providing this information accurately and in a clear format as per the user's instructions.
+</think>
+
+```json
+{
+  "dosage amount": "500 mg to 1000 mg",
+  "dosage unit": "mg"
+}
+```

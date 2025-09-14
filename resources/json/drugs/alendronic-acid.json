@@ -1,0 +1,57 @@
+{
+    "identifier": "alendronic-acid",
+    "title": "Alendronic Acid",
+    "breastFeeding": {
+        "generalInfo": [
+            "Excretion into human milk is unknown; better to avoid."
+        ],
+        "id": "66de1cf8-7181-4be2-adc9-c4b246643168",
+        "parentId": "80cea1c9-30f1-49b9-8d4c-b1af5cd50f08"
+    },
+    "hepaticImpairment": {
+        "generalInfo": [],
+        "id": "1538443b-c3ca-45bd-b296-a0bc6029b9fc",
+        "parentId": "80cea1c9-30f1-49b9-8d4c-b1af5cd50f08"
+    },
+    "pregnancy": {
+        "generalInfo": [
+            "Not recommended during pregnancy due to limited data and potential skeletal effects on the fetus."
+        ],
+        "id": "36f1ef98-2fde-46ff-9ceb-1029182d7ad6",
+        "parentId": "80cea1c9-30f1-49b9-8d4c-b1af5cd50f08"
+    },
+    "renalImpairment": {
+        "generalInfo": [
+            "Not recommended in patients with severe renal impairment (creatinine clearance <35 mL/min)."
+        ],
+        "id": "50660691-c330-4568-a606-efe24ae1fe2a",
+        "parentId": "80cea1c9-30f1-49b9-8d4c-b1af5cd50f08"
+    },
+    "sideEffects": {
+        "generalInfo": [],
+        "specificInfo": "Common: Abdominal pain; dyspepsia; acid reflux; musculoskeletal pain; Constipation; headache; flatulence. Uncommon: Oesophageal ulcer; osteonecrosis. Uncommon: rash. Rare: Atypical femoral fractures; Hypersensitivity reactions. Frequency not known: Oesophageal stricture",
+        "id": "b458227e-477c-4e7f-9e17-780f49f72b83",
+        "parentId": "80cea1c9-30f1-49b9-8d4c-b1af5cd50f08"
+    },
+    "therapeuticPlan": [
+        {
+            "indications": [
+                "Treatment and prevention of postmenopausal osteoporosis"
+            ],
+            "dosages": [
+                {
+                    "patientGroup": "adult",
+                    "detailedPatientGroup": "Adult (female)",
+                    "doseInfo": "70 mg once weekly",
+                    "routeOfAdministration": "By mouth",
+                    "id": "f865e8d0-8e39-4f23-8c57-3aca4fcf63f4",
+                    "parentId": "53e65fe4-f36b-46d5-898f-275afd38a8b2"
+                }
+            ],
+            "id": "53e65fe4-f36b-46d5-898f-275afd38a8b2",
+            "parentId": "80cea1c9-30f1-49b9-8d4c-b1af5cd50f08"
+        }
+    ],
+    "id": "80cea1c9-30f1-49b9-8d4c-b1af5cd50f08",
+    "parentId": null
+}

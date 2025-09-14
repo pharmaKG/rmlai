@@ -1,0 +1,20 @@
+<think>
+Okay, so I need to figure out if ciclosporin is safe during pregnancy based on the provided JSON data. Let me start by looking through the information given.
+
+First, I see that there's a section specifically about pregnancy under the "pregnancy" key. The general info there says, "Use only if the potential benefit justifies the potential risk to the fetus. Ciclosporin crosses the placenta and may cause fetal harm." That sounds pretty serious. It mentions that it can cross the placenta, which means it could affect the baby.
+
+I also notice that under the "pregnancy" section, there's no mention of specific safety or alternative information. The focus is on the risk to the fetus. So, this suggests that using ciclosporin during pregnancy isn't recommended unless absolutely necessary and only after considering the benefits versus the risks.
+
+Looking elsewhere in the JSON, other sections like breastfeeding, hepatic impairment, renal impairment, and side effects don't directly address pregnancy safety but reinforce that there are significant considerations when using this drug. For example, it's excreted in breast milk, which isn't directly related to pregnancy but shows that the drug has effects beyond just the mother.
+
+The therapeutic plan section talks about indications like severe psoriasis and dosages for adults. This doesn't provide any additional info on pregnancy safety but does show how the drug is typically used, which might be relevant if a pregnant patient needs it for a condition like psoriasis.
+
+Putting this all together, the key point is that the pregnancy section explicitly states the risk to the fetus and advises using the drug only when necessary. There's no indication that it's considered safe during pregnancy. Therefore, based on the information provided, I would conclude that ciclosporin isn't safe for use during pregnancy.
+</think>
+
+```json
+{
+    "answer": "no",
+    "explanation": "Ciclosporin crosses the placenta and may cause fetal harm. Use only if the potential benefit justifies the potential risk to the fetus."
+}
+```

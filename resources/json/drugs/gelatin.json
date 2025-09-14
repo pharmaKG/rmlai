@@ -1,0 +1,57 @@
+{
+    "identifier": "gelatin",
+    "title": "Gelatin",
+    "breastFeeding": {
+        "generalInfo": [],
+        "id": "771a010e-85a4-43d1-b811-d6d8db17d62a",
+        "parentId": "635973a9-bb9c-4900-a1a1-97c290ce1e26"
+    },
+    "hepaticImpairment": {
+        "generalInfo": [],
+        "specificInfo": "Caution advised in intravenous gelatin-based plasma substitutes.",
+        "id": "2b0feab0-7054-4238-bb74-449572bdcfaa",
+        "parentId": "635973a9-bb9c-4900-a1a1-97c290ce1e26"
+    },
+    "pregnancy": {
+        "generalInfo": [
+            "Considered safe in pregnancy when used as an excipient or food-grade substance."
+        ],
+        "id": "9b03c449-2a86-411c-8cc7-eae58b6179e3",
+        "parentId": "635973a9-bb9c-4900-a1a1-97c290ce1e26"
+    },
+    "renalImpairment": {
+        "generalInfo": [],
+        "specificInfo": "Use with caution in patients with renal impairment.",
+        "id": "492aeb89-e824-4df1-8467-055f346cf9d9",
+        "parentId": "635973a9-bb9c-4900-a1a1-97c290ce1e26"
+    },
+    "sideEffects": {
+        "generalInfo": [],
+        "specificInfo": "Rare: Urticaria (Hives); Shortness of breath (dyspnoea); Excessive sweating; fever; hypotension; chills.",
+        "id": "82188d3f-30fd-4a87-9b13-0c9044c848b8",
+        "parentId": "635973a9-bb9c-4900-a1a1-97c290ce1e26"
+    },
+    "therapeuticPlan": [
+        {
+            "indications": [
+                "Low blood volume ",
+                "Pharmaceutical excipient (capsules, tablets)",
+                "Stabiliser in vaccines"
+            ],
+            "dosages": [
+                {
+                    "patientGroup": "adult",
+                    "detailedPatientGroup": "Adult",
+                    "doseInfo": "up to 1L intravenously depending on clinical need",
+                    "routeOfAdministration": "By intravenous infusion",
+                    "id": "b1625464-707d-4445-bb51-4441f7d7f331",
+                    "parentId": "90478769-e613-43b2-b2a3-1fc25076a4a4"
+                }
+            ],
+            "id": "90478769-e613-43b2-b2a3-1fc25076a4a4",
+            "parentId": "635973a9-bb9c-4900-a1a1-97c290ce1e26"
+        }
+    ],
+    "id": "635973a9-bb9c-4900-a1a1-97c290ce1e26",
+    "parentId": null
+}

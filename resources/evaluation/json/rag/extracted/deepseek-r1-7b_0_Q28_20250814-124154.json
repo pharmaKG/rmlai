@@ -1,0 +1,18 @@
+<think>
+Alright, so I need to figure out the dosage for Zilucoplan for Myasthenia gravis in adults based on the provided JSON input. Let me start by looking through the JSON data carefully.
+
+First, I see that there's a section called "therapeuticPlan" which contains information about how the drug is used. Within this, there's an entry where the indication is "Myasthenia gravis." That means this part of the JSON is relevant to what I'm looking for.
+
+Looking at the dosage details, under "dosages," there's a specific entry for adults. It mentions that the patient group is "Adult (body-weight 77 kg and above)" and the dose is "32.4 mg once daily." The route of administration is by subcutaneous injection, which makes sense given the nature of Zilucoplan.
+
+I also notice there's a "routeOfAdministration" field in this entry that specifies it's via subcutaneous injection. This adds more context about how to administer the dose correctly.
+
+So putting it all together, for an adult with Myasthenia gravis using Zilucoplan, the dosage amount is 32.4 mg and it should be administered once daily by subcutaneous injection.
+</think>
+
+```json
+{
+    "dosageAmount": "32.4 mg",
+    "dosageUnit": "once daily"
+}
+```

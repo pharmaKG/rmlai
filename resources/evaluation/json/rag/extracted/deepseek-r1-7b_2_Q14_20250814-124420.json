@@ -1,0 +1,16 @@
+<think>
+Okay, so I need to figure out the dosage amount and unit for amlodipine for hypertension in adults based on the provided JSON input. Let me start by looking through the JSON data carefully.
+
+First, I see that the main entry is under the "therapeuticPlan" key. Within that, there's an object with an "indications" array that includes "Hypertension". Next to it, there's a "dosages" array where each dosage entry has details for adults. The specific dosage information is in the "doseInfo" field: "10 mg once daily".
+
+I should make sure this is correct by checking if there are any other entries related to hypertension or adult dosages. I don't see any other entries under "indications" that mention hypertension, so it seems consistent.
+
+The unit here is milligrams (mg), which is standard for such medications. So the dosage amount is 10 mg, and the unit is milligrams.
+</think>
+
+```json
+{
+    "dosageAmount": "10",
+    "dosageUnit": "mg"
+}
+```

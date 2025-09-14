@@ -1,0 +1,20 @@
+<think>
+Alright, so I need to figure out the dosage of atorvastatin for an adult with hypercholesterolaemia based on the provided JSON. Let me start by understanding what's given.
+
+Looking at the JSON structure, there's a key called "therapeuticPlan" which contains information about indications and dosages. Under that, I see an indication for "Hypercholesterolaemia". That's exactly what we're looking for.
+
+Now, within the "dosages" array, each entry has details like patient group, dose info, etc. The patient group here is specified as both "adult" and "Adult", which matches our requirement. 
+
+The doseInfo field says "10 mg once daily, adjusted according to response". So, the dosage amount is 10 mg, and it's taken once a day. That seems straightforward.
+
+I should make sure there are no other dosages listed for hypercholesterolaemia in adults. Scanning through, I don't see any other entries, so this must be the correct one.
+
+Therefore, the answer should include "dosage amount" as 10 mg and "dosage unit" as mg.
+</think>
+
+```json
+{
+    "dosage amount": "10",
+    "dosage unit": "mg"
+}
+```

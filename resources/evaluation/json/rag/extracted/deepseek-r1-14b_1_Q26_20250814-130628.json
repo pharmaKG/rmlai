@@ -1,0 +1,12 @@
+<think>
+Alright, so the user is asking about the dosage of paracetamol for an adult with a fever. I need to figure out how much and what unit to use based on the provided JSON.
+
+Looking at the JSON, under therapeuticPlan, there's an indication for Fever. The dosages section specifies "up to 1 g every 6 hours" for adults. So the dosage amount is 1 gram, and the unit is grams.
+
+I should structure this into a plain text JSON with dosage amount and unit as keys. No extra info needed, just the facts.
+</think>
+
+{
+    "dosage amount": "1",
+    "dosage unit": "g"
+}

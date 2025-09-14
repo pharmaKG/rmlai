@@ -1,0 +1,20 @@
+<think>
+Alright, so I need to figure out the dosage of hyoscine butylbromide for an adult with gastrointestinal smooth muscle spasm based on the provided JSON. Let me start by understanding what's given.
+
+Looking at the JSON structure, there's a key called "therapeuticPlan" which contains information about indications and dosages. Under that, I see an indication for "Gastrointestinal smooth muscle spasm." That's exactly what we're looking for.
+
+Now, within the "dosages" array, each entry has details like patient group, dose info, route of administration, etc. The patient group here is specified as both "adult" and "Adult," which matches our requirement.
+
+The dosage information provided is "20 mg up to four times daily." So, the amount per dose is 20 mg, and it's taken up to four times a day. Since the question asks for the dosage amount and unit, I need to extract just those numbers without any additional context or explanations.
+
+I should make sure not to include anything else, like how often it's taken or the route of administration, unless it's part of the dosage details. But in this case, the key is "doseInfo," which gives the exact amount and frequency.
+
+So, putting it all together, the dosage amount is 20 mg, and the unit is milligrams (mg). I'll structure this into a JSON format as specified, ensuring only the required keys are present without any extra information.
+</think>
+
+```json
+{
+    "dosage amount": "20 mg",
+    "dosage unit": "mg"
+}
+```

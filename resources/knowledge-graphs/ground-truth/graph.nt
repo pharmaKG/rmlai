@@ -1,0 +1,1556 @@
+<http://drug.uk/abacavir> <http://drug.uk/model/sideEffect> "Nausea" .
+<http://drug.uk/abacavir> <http://drug.uk/model/sideEffect> "vomiting" .
+<http://drug.uk/abacavir> <http://drug.uk/model/sideEffect> "diarrhoea" .
+<http://drug.uk/abacavir> <http://drug.uk/model/sideEffect> "fatigue" .
+<http://drug.uk/abacavir> <http://drug.uk/model/sideEffect> "headache" .
+<http://drug.uk/abacavir> <http://drug.uk/model/sideEffect> "fever" .
+<http://drug.uk/abacavir> <http://drug.uk/model/sideEffect> "rash (minor)" .
+<http://drug.uk/abacavir> <http://drug.uk/model/sideEffect> "insomnia" .
+<http://drug.uk/abacavir> <http://drug.uk/model/sideEffect> "dizziness" .
+<http://drug.uk/abacavir> <http://drug.uk/model/sideEffect> "abdominal pain" .
+<http://drug.uk/abacavir> <http://drug.uk/model/sideEffect> "Lactic acidosis" .
+<http://drug.uk/abacavir> <http://drug.uk/model/sideEffect> "pancreatitis" .
+<http://drug.uk/abacavir> <http://drug.uk/model/sideEffect> "Hypersensitivity reaction" .
+<http://drug.uk/abacavir> <http://drug.uk/model/sideEffectDescription> " Common: Nausea, vomiting, diarrhoea, fatigue, headache, fever, rash (minor), insomnia, dizziness, abdominal pain. Rare: Lactic acidosis, pancreatitis. Frequency not known: Hypersensitivity reaction" .
+<http://drug.uk/abacavir> <http://drug.uk/model/usage> <http://drug.uk/usage/breast-feeding/00bc3da4-4d6b-402e-b4e7-0e9d83b6ebc5> .
+<http://drug.uk/abacavir> <http://drug.uk/model/usage> <http://drug.uk/usage/hepatic-impairment/3ec13278-6e69-4b48-9ec8-dc67e1211b0a> .
+<http://drug.uk/abacavir> <http://drug.uk/model/usage> <http://drug.uk/usage/normal/53ce5d72-af38-4503-9f7e-4b0e096fded8> .
+<http://drug.uk/abacavir> <http://drug.uk/model/usage> <http://drug.uk/usage/pregnancy/af72aad3-572e-4715-91da-6cb9bf609d99> .
+<http://drug.uk/abacavir> <http://drug.uk/model/usage> <http://drug.uk/usage/renal-impairment/b2c4218b-d973-4840-81af-ce4cd876c75c> .
+<http://drug.uk/abacavir> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/abacavir> <http://www.w3.org/2004/02/skos/core#prefLabel> "Abacavir" .
+<http://drug.uk/dosage/7aa33cd8-ef37-4702-bf4f-7bf7412c9886> <http://drug.uk/model/amount> "600.0"^^<http://www.w3.org/2001/XMLSchema#decimal> .
+<http://drug.uk/dosage/7aa33cd8-ef37-4702-bf4f-7bf7412c9886> <http://drug.uk/model/duration> "P1D"^^<http://www.w3.org/2001/XMLSchema#duration> .
+<http://drug.uk/dosage/7aa33cd8-ef37-4702-bf4f-7bf7412c9886> <http://drug.uk/model/frequency> "1.0"^^<http://www.w3.org/2001/XMLSchema#decimal> .
+<http://drug.uk/dosage/7aa33cd8-ef37-4702-bf4f-7bf7412c9886> <http://drug.uk/model/group> "adult" .
+<http://drug.uk/dosage/7aa33cd8-ef37-4702-bf4f-7bf7412c9886> <http://drug.uk/model/patientGroupDescription> "Adult" .
+<http://drug.uk/dosage/7aa33cd8-ef37-4702-bf4f-7bf7412c9886> <http://drug.uk/model/route> "By mouth" .
+<http://drug.uk/dosage/7aa33cd8-ef37-4702-bf4f-7bf7412c9886> <http://drug.uk/model/unit> "mg" .
+<http://drug.uk/dosage/7aa33cd8-ef37-4702-bf4f-7bf7412c9886> <http://purl.org/dc/terms/description> "600 mg daily" .
+<http://drug.uk/dosage/7aa33cd8-ef37-4702-bf4f-7bf7412c9886> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Dosage> .
+<http://drug.uk/usage/breast-feeding/00bc3da4-4d6b-402e-b4e7-0e9d83b6ebc5> <http://drug.uk/model/patientCondition> "BreastFeeding" .
+<http://drug.uk/usage/breast-feeding/00bc3da4-4d6b-402e-b4e7-0e9d83b6ebc5> <http://drug.uk/model/safetyLevel> "unsafe" .
+<http://drug.uk/usage/breast-feeding/00bc3da4-4d6b-402e-b4e7-0e9d83b6ebc5> <http://purl.org/dc/terms/description> "Abacavir is present in breast milk. Breastfeeding is generally not recommended for HIV-positive mothers due to the risk of transmission. null" .
+<http://drug.uk/usage/breast-feeding/00bc3da4-4d6b-402e-b4e7-0e9d83b6ebc5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/hepatic-impairment/3ec13278-6e69-4b48-9ec8-dc67e1211b0a> <http://drug.uk/model/patientCondition> "HepaticImpairment" .
+<http://drug.uk/usage/hepatic-impairment/3ec13278-6e69-4b48-9ec8-dc67e1211b0a> <http://drug.uk/model/safetyLevel> "caution" .
+<http://drug.uk/usage/hepatic-impairment/3ec13278-6e69-4b48-9ec8-dc67e1211b0a> <http://purl.org/dc/terms/description> " Avoid in moderate to severe hepatic impairment. In mild cases, dose adjustment may be considered." .
+<http://drug.uk/usage/hepatic-impairment/3ec13278-6e69-4b48-9ec8-dc67e1211b0a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/normal/53ce5d72-af38-4503-9f7e-4b0e096fded8> <http://drug.uk/model/dosage> <http://drug.uk/dosage/7aa33cd8-ef37-4702-bf4f-7bf7412c9886> .
+<http://drug.uk/usage/normal/53ce5d72-af38-4503-9f7e-4b0e096fded8> <http://drug.uk/model/indication> "HIV infection" .
+<http://drug.uk/usage/normal/53ce5d72-af38-4503-9f7e-4b0e096fded8> <http://drug.uk/model/patientCondition> "Normal" .
+<http://drug.uk/usage/normal/53ce5d72-af38-4503-9f7e-4b0e096fded8> <http://drug.uk/model/safetyLevel> "safe" .
+<http://drug.uk/usage/normal/53ce5d72-af38-4503-9f7e-4b0e096fded8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/pregnancy/af72aad3-572e-4715-91da-6cb9bf609d99> <http://drug.uk/model/patientCondition> "Pregnancy" .
+<http://drug.uk/usage/pregnancy/af72aad3-572e-4715-91da-6cb9bf609d99> <http://drug.uk/model/safetyLevel> "caution" .
+<http://drug.uk/usage/pregnancy/af72aad3-572e-4715-91da-6cb9bf609d99> <http://purl.org/dc/terms/description> "Abacavir should only be used in pregnancy if the expected benefit justifies the potential risk. Mitochondrial dysfunction has been reported in infants exposed in utero. null" .
+<http://drug.uk/usage/pregnancy/af72aad3-572e-4715-91da-6cb9bf609d99> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/renal-impairment/b2c4218b-d973-4840-81af-ce4cd876c75c> <http://drug.uk/model/patientCondition> "RenalImpairment" .
+<http://drug.uk/usage/renal-impairment/b2c4218b-d973-4840-81af-ce4cd876c75c> <http://drug.uk/model/safetyLevel> "caution" .
+<http://drug.uk/usage/renal-impairment/b2c4218b-d973-4840-81af-ce4cd876c75c> <http://purl.org/dc/terms/description> " No dose adjustment is needed in renal impairment, but use in patient with end-stage renal disease is not recommended." .
+<http://drug.uk/usage/renal-impairment/b2c4218b-d973-4840-81af-ce4cd876c75c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+
+
+
+
+
+<http://drug.uk/abaloparatide> <http://drug.uk/model/sideEffect> "Dizziness" .
+<http://drug.uk/abaloparatide> <http://drug.uk/model/sideEffect> "skin reactions" .
+<http://drug.uk/abaloparatide> <http://drug.uk/model/sideEffect> "headache" .
+<http://drug.uk/abaloparatide> <http://drug.uk/model/sideEffect> "nausea" .
+<http://drug.uk/abaloparatide> <http://drug.uk/model/sideEffect> "palpitations" .
+<http://drug.uk/abaloparatide> <http://drug.uk/model/sideEffect> "Hypercalciuria" .
+<http://drug.uk/abaloparatide> <http://drug.uk/model/sideEffect> "Diarrhoea" .
+<http://drug.uk/abaloparatide> <http://drug.uk/model/sideEffect> "hypertension" .
+<http://drug.uk/abaloparatide> <http://drug.uk/model/sideEffect> "muscle spasms" .
+<http://drug.uk/abaloparatide> <http://drug.uk/model/sideEffect> "arthralgia" .
+<http://drug.uk/abaloparatide> <http://drug.uk/model/sideEffect> "constipation" .
+<http://drug.uk/abaloparatide> <http://drug.uk/model/sideEffect> "gastrointestinal discomfort" .
+<http://drug.uk/abaloparatide> <http://drug.uk/model/sideEffect> "hyperuricaemia" .
+<http://drug.uk/abaloparatide> <http://drug.uk/model/sideEffect> "vomiting" .
+<http://drug.uk/abaloparatide> <http://drug.uk/model/sideEffect> "insomnia" .
+<http://drug.uk/abaloparatide> <http://drug.uk/model/sideEffect> "malaise" .
+<http://drug.uk/abaloparatide> <http://drug.uk/model/sideEffect> "arrhythmias" .
+<http://drug.uk/abaloparatide> <http://drug.uk/model/sideEffect> "nephrolithiasis" .
+<http://drug.uk/abaloparatide> <http://drug.uk/model/sideEffect> "hypercalcaemia" .
+<http://drug.uk/abaloparatide> <http://drug.uk/model/sideEffect> "pain" .
+<http://drug.uk/abaloparatide> <http://drug.uk/model/sideEffect> "asthenia" .
+<http://drug.uk/abaloparatide> <http://drug.uk/model/sideEffect> "Orthostatic hypotension" .
+<http://drug.uk/abaloparatide> <http://drug.uk/model/sideEffectDescription> " Common: Dizziness; skin reactions; headache; nausea; palpitations; Hypercalciuria; Diarrhoea; hypertension; muscle spasms; arthralgia; constipation; gastrointestinal discomfort; hyperuricaemia; vomiting; insomnia; malaise;  arrhythmias; nephrolithiasis; hypercalcaemia; pain; asthenia. Uncommon: Orthostatic hypotension" .
+<http://drug.uk/abaloparatide> <http://drug.uk/model/usage> <http://drug.uk/usage/breast-feeding/a81c3250-9979-48dd-aa9c-72519d56f3a4> .
+<http://drug.uk/abaloparatide> <http://drug.uk/model/usage> <http://drug.uk/usage/hepatic-impairment/c7aec1b7-e74a-42c5-b9a0-7a6399a986be> .
+<http://drug.uk/abaloparatide> <http://drug.uk/model/usage> <http://drug.uk/usage/normal/a5f30c66-a2e8-4b0f-95ea-1ba8165e4d3a> .
+<http://drug.uk/abaloparatide> <http://drug.uk/model/usage> <http://drug.uk/usage/pregnancy/a43d16b8-30b1-46e3-9613-c3fda8b03ed0> .
+<http://drug.uk/abaloparatide> <http://drug.uk/model/usage> <http://drug.uk/usage/renal-impairment/4248c897-2383-45ac-800f-23d2f31faff5> .
+<http://drug.uk/abaloparatide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/abaloparatide> <http://www.w3.org/2004/02/skos/core#prefLabel> "Abaloparatide" .
+<http://drug.uk/dosage/7e5860dc-27bf-4d90-aa93-6a9e27e19ae9> <http://drug.uk/model/amount> "80.0"^^<http://www.w3.org/2001/XMLSchema#decimal> .
+<http://drug.uk/dosage/7e5860dc-27bf-4d90-aa93-6a9e27e19ae9> <http://drug.uk/model/duration> "P1D"^^<http://www.w3.org/2001/XMLSchema#duration> .
+<http://drug.uk/dosage/7e5860dc-27bf-4d90-aa93-6a9e27e19ae9> <http://drug.uk/model/frequency> "1.0"^^<http://www.w3.org/2001/XMLSchema#decimal> .
+<http://drug.uk/dosage/7e5860dc-27bf-4d90-aa93-6a9e27e19ae9> <http://drug.uk/model/gender> "female" .
+<http://drug.uk/dosage/7e5860dc-27bf-4d90-aa93-6a9e27e19ae9> <http://drug.uk/model/group> "adult" .
+<http://drug.uk/dosage/7e5860dc-27bf-4d90-aa93-6a9e27e19ae9> <http://drug.uk/model/patientGroupDescription> "Adult (female)" .
+<http://drug.uk/dosage/7e5860dc-27bf-4d90-aa93-6a9e27e19ae9> <http://drug.uk/model/route> "subcutaneous injection" .
+<http://drug.uk/dosage/7e5860dc-27bf-4d90-aa93-6a9e27e19ae9> <http://drug.uk/model/unit> "micrograms" .
+<http://drug.uk/dosage/7e5860dc-27bf-4d90-aa93-6a9e27e19ae9> <http://purl.org/dc/terms/description> "80 micrograms once daily" .
+<http://drug.uk/dosage/7e5860dc-27bf-4d90-aa93-6a9e27e19ae9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Dosage> .
+<http://drug.uk/usage/breast-feeding/a81c3250-9979-48dd-aa9c-72519d56f3a4> <http://drug.uk/model/patientCondition> "BreastFeeding" .
+<http://drug.uk/usage/breast-feeding/a81c3250-9979-48dd-aa9c-72519d56f3a4> <http://drug.uk/model/safetyLevel> "unsafe" .
+<http://drug.uk/usage/breast-feeding/a81c3250-9979-48dd-aa9c-72519d56f3a4> <http://purl.org/dc/terms/description> "Not recommended during breastfeeding due to lack of data on excretion in human milk. null" .
+<http://drug.uk/usage/breast-feeding/a81c3250-9979-48dd-aa9c-72519d56f3a4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/hepatic-impairment/c7aec1b7-e74a-42c5-b9a0-7a6399a986be> <http://drug.uk/model/patientCondition> "HepaticImpairment" .
+<http://drug.uk/usage/hepatic-impairment/c7aec1b7-e74a-42c5-b9a0-7a6399a986be> <http://purl.org/dc/terms/description> " null" .
+<http://drug.uk/usage/hepatic-impairment/c7aec1b7-e74a-42c5-b9a0-7a6399a986be> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/normal/a5f30c66-a2e8-4b0f-95ea-1ba8165e4d3a> <http://drug.uk/model/dosage> <http://drug.uk/dosage/7e5860dc-27bf-4d90-aa93-6a9e27e19ae9> .
+<http://drug.uk/usage/normal/a5f30c66-a2e8-4b0f-95ea-1ba8165e4d3a> <http://drug.uk/model/indication> "Postmenopausal osteoporosis at high risk of fracture" .
+<http://drug.uk/usage/normal/a5f30c66-a2e8-4b0f-95ea-1ba8165e4d3a> <http://drug.uk/model/patientCondition> "Normal" .
+<http://drug.uk/usage/normal/a5f30c66-a2e8-4b0f-95ea-1ba8165e4d3a> <http://drug.uk/model/safetyLevel> "safe" .
+<http://drug.uk/usage/normal/a5f30c66-a2e8-4b0f-95ea-1ba8165e4d3a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/pregnancy/a43d16b8-30b1-46e3-9613-c3fda8b03ed0> <http://drug.uk/model/patientCondition> "Pregnancy" .
+<http://drug.uk/usage/pregnancy/a43d16b8-30b1-46e3-9613-c3fda8b03ed0> <http://drug.uk/model/safetyLevel> "unsafe" .
+<http://drug.uk/usage/pregnancy/a43d16b8-30b1-46e3-9613-c3fda8b03ed0> <http://purl.org/dc/terms/description> "Use is contraindicated during pregnancy due to potential risk to the fetus. null" .
+<http://drug.uk/usage/pregnancy/a43d16b8-30b1-46e3-9613-c3fda8b03ed0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/renal-impairment/4248c897-2383-45ac-800f-23d2f31faff5> <http://drug.uk/model/patientCondition> "RenalImpairment" .
+<http://drug.uk/usage/renal-impairment/4248c897-2383-45ac-800f-23d2f31faff5> <http://drug.uk/model/safetyLevel> "caution" .
+<http://drug.uk/usage/renal-impairment/4248c897-2383-45ac-800f-23d2f31faff5> <http://purl.org/dc/terms/description> "Limited data in renal impairment; caution advised. null" .
+<http://drug.uk/usage/renal-impairment/4248c897-2383-45ac-800f-23d2f31faff5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+
+
+
+
+
+<http://drug.uk/aciclovir> <http://drug.uk/model/sideEffect> "Vomiting" .
+<http://drug.uk/aciclovir> <http://drug.uk/model/sideEffect> "Eye pain" .
+<http://drug.uk/aciclovir> <http://drug.uk/model/sideEffect> "Photosensitivity reaction" .
+<http://drug.uk/aciclovir> <http://drug.uk/model/sideEffect> "Fever" .
+<http://drug.uk/aciclovir> <http://drug.uk/model/sideEffect> "Skin reactions" .
+<http://drug.uk/aciclovir> <http://drug.uk/model/sideEffect> "Abdominal pain" .
+<http://drug.uk/aciclovir> <http://drug.uk/model/sideEffect> "Diarrhoea" .
+<http://drug.uk/aciclovir> <http://drug.uk/model/sideEffect> "Nausea" .
+<http://drug.uk/aciclovir> <http://drug.uk/model/sideEffect> "Fatigue" .
+<http://drug.uk/aciclovir> <http://drug.uk/model/sideEffect> "Headache" .
+<http://drug.uk/aciclovir> <http://drug.uk/model/sideEffect> "Eye inflammation" .
+<http://drug.uk/aciclovir> <http://drug.uk/model/sideEffect> "Anaemia" .
+<http://drug.uk/aciclovir> <http://drug.uk/model/sideEffect> "Skin reactions" .
+<http://drug.uk/aciclovir> <http://drug.uk/model/sideEffect> "Acute renal failure" .
+<http://drug.uk/aciclovir> <http://drug.uk/model/sideEffect> "Drowsiness" .
+<http://drug.uk/aciclovir> <http://drug.uk/model/sideEffect> "hallucinations" .
+<http://drug.uk/aciclovir> <http://drug.uk/model/sideEffect> "tremor" .
+<http://drug.uk/aciclovir> <http://drug.uk/model/sideEffect> "agitation" .
+<http://drug.uk/aciclovir> <http://drug.uk/model/sideEffect> "encephalopathy" .
+<http://drug.uk/aciclovir> <http://drug.uk/model/sideEffect> "Crystalluria" .
+<http://drug.uk/aciclovir> <http://drug.uk/model/sideEffectDescription> " Common: Vomiting; Eye pain; Photosensitivity reaction; Fever; Skin reactions; Abdominal pain; Diarrhoea; Nausea; Fatigue; Headache; Eye inflammation. Uncommon: Anaemia; Skin reactions. Rare: Acute renal failure; Drowsiness; hallucinations; tremor; agitation; encephalopathy. Frequency not known: Crystalluria" .
+<http://drug.uk/aciclovir> <http://drug.uk/model/usage> <http://drug.uk/usage/breast-feeding/5b0aa324-5c8c-4634-893c-8cd57fc6f42b> .
+<http://drug.uk/aciclovir> <http://drug.uk/model/usage> <http://drug.uk/usage/hepatic-impairment/dcdf671c-dcac-4e8b-a8d7-46555c35027d> .
+<http://drug.uk/aciclovir> <http://drug.uk/model/usage> <http://drug.uk/usage/normal/4274cbd3-9b5f-460f-bcbd-a2fa33c3a01f> .
+<http://drug.uk/aciclovir> <http://drug.uk/model/usage> <http://drug.uk/usage/pregnancy/077225a4-0f00-4b9e-b219-c6e9c6308c93> .
+<http://drug.uk/aciclovir> <http://drug.uk/model/usage> <http://drug.uk/usage/renal-impairment/62cd4de4-c244-460f-8887-f25325ae20d5> .
+<http://drug.uk/aciclovir> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/aciclovir> <http://www.w3.org/2004/02/skos/core#prefLabel> "Aciclovir" .
+<http://drug.uk/dosage/2aa35793-0b8a-4dbf-9b14-c1f2d2da6e24> <http://drug.uk/model/amount> "1.0"^^<http://www.w3.org/2001/XMLSchema#decimal> .
+<http://drug.uk/dosage/2aa35793-0b8a-4dbf-9b14-c1f2d2da6e24> <http://drug.uk/model/duration> "P1D"^^<http://www.w3.org/2001/XMLSchema#duration> .
+<http://drug.uk/dosage/2aa35793-0b8a-4dbf-9b14-c1f2d2da6e24> <http://drug.uk/model/frequency> "5.0"^^<http://www.w3.org/2001/XMLSchema#decimal> .
+<http://drug.uk/dosage/2aa35793-0b8a-4dbf-9b14-c1f2d2da6e24> <http://drug.uk/model/group> "adult" .
+<http://drug.uk/dosage/2aa35793-0b8a-4dbf-9b14-c1f2d2da6e24> <http://drug.uk/model/patientGroupDescription> "Adult" .
+<http://drug.uk/dosage/2aa35793-0b8a-4dbf-9b14-c1f2d2da6e24> <http://drug.uk/model/route> "eye" .
+<http://drug.uk/dosage/2aa35793-0b8a-4dbf-9b14-c1f2d2da6e24> <http://drug.uk/model/unit> "cm" .
+<http://drug.uk/dosage/2aa35793-0b8a-4dbf-9b14-c1f2d2da6e24> <http://purl.org/dc/terms/description> "Apply a 1 cm ribbon of ointment five times daily into the lower conjunctival sac" .
+<http://drug.uk/dosage/2aa35793-0b8a-4dbf-9b14-c1f2d2da6e24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Dosage> .
+<http://drug.uk/usage/breast-feeding/5b0aa324-5c8c-4634-893c-8cd57fc6f42b> <http://drug.uk/model/patientCondition> "BreastFeeding" .
+<http://drug.uk/usage/breast-feeding/5b0aa324-5c8c-4634-893c-8cd57fc6f42b> <http://drug.uk/model/safetyLevel> "safe" .
+<http://drug.uk/usage/breast-feeding/5b0aa324-5c8c-4634-893c-8cd57fc6f42b> <http://purl.org/dc/terms/description> " Aciclovir is excreted into breast milk in small amounts; unlikely to be harmful in usual doses." .
+<http://drug.uk/usage/breast-feeding/5b0aa324-5c8c-4634-893c-8cd57fc6f42b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/hepatic-impairment/dcdf671c-dcac-4e8b-a8d7-46555c35027d> <http://drug.uk/model/patientCondition> "HepaticImpairment" .
+<http://drug.uk/usage/hepatic-impairment/dcdf671c-dcac-4e8b-a8d7-46555c35027d> <http://drug.uk/model/safetyLevel> "caution" .
+<http://drug.uk/usage/hepatic-impairment/dcdf671c-dcac-4e8b-a8d7-46555c35027d> <http://purl.org/dc/terms/description> " Use with caution in hepatic impairment." .
+<http://drug.uk/usage/hepatic-impairment/dcdf671c-dcac-4e8b-a8d7-46555c35027d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/normal/4274cbd3-9b5f-460f-bcbd-a2fa33c3a01f> <http://drug.uk/model/dosage> <http://drug.uk/dosage/2aa35793-0b8a-4dbf-9b14-c1f2d2da6e24> .
+<http://drug.uk/usage/normal/4274cbd3-9b5f-460f-bcbd-a2fa33c3a01f> <http://drug.uk/model/indication> "Herpes simplex keratitis" .
+<http://drug.uk/usage/normal/4274cbd3-9b5f-460f-bcbd-a2fa33c3a01f> <http://drug.uk/model/patientCondition> "Normal" .
+<http://drug.uk/usage/normal/4274cbd3-9b5f-460f-bcbd-a2fa33c3a01f> <http://drug.uk/model/safetyLevel> "safe" .
+<http://drug.uk/usage/normal/4274cbd3-9b5f-460f-bcbd-a2fa33c3a01f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/pregnancy/077225a4-0f00-4b9e-b219-c6e9c6308c93> <http://drug.uk/model/patientCondition> "Pregnancy" .
+<http://drug.uk/usage/pregnancy/077225a4-0f00-4b9e-b219-c6e9c6308c93> <http://drug.uk/model/safetyLevel> "safe" .
+<http://drug.uk/usage/pregnancy/077225a4-0f00-4b9e-b219-c6e9c6308c93> <http://purl.org/dc/terms/description> " Considered safe to use during pregnancy; extensive data have not shown an increased risk of malformations or other harmful effects." .
+<http://drug.uk/usage/pregnancy/077225a4-0f00-4b9e-b219-c6e9c6308c93> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/renal-impairment/62cd4de4-c244-460f-8887-f25325ae20d5> <http://drug.uk/model/patientCondition> "RenalImpairment" .
+<http://drug.uk/usage/renal-impairment/62cd4de4-c244-460f-8887-f25325ae20d5> <http://drug.uk/model/safetyLevel> "caution" .
+<http://drug.uk/usage/renal-impairment/62cd4de4-c244-460f-8887-f25325ae20d5> <http://purl.org/dc/terms/description> " Reduce dose in moderate to severe renal impairment to avoid accumulation and neurotoxicity." .
+<http://drug.uk/usage/renal-impairment/62cd4de4-c244-460f-8887-f25325ae20d5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+
+
+
+
+
+<http://drug.uk/alendronic-acid> <http://drug.uk/model/sideEffect> "Abdominal pain" .
+<http://drug.uk/alendronic-acid> <http://drug.uk/model/sideEffect> "dyspepsia" .
+<http://drug.uk/alendronic-acid> <http://drug.uk/model/sideEffect> "acid reflux" .
+<http://drug.uk/alendronic-acid> <http://drug.uk/model/sideEffect> "musculoskeletal pain" .
+<http://drug.uk/alendronic-acid> <http://drug.uk/model/sideEffect> "Constipation" .
+<http://drug.uk/alendronic-acid> <http://drug.uk/model/sideEffect> "headache" .
+<http://drug.uk/alendronic-acid> <http://drug.uk/model/sideEffect> "flatulence" .
+<http://drug.uk/alendronic-acid> <http://drug.uk/model/sideEffect> "Oesophageal ulcer" .
+<http://drug.uk/alendronic-acid> <http://drug.uk/model/sideEffect> "osteonecrosis" .
+<http://drug.uk/alendronic-acid> <http://drug.uk/model/sideEffect> "rash" .
+<http://drug.uk/alendronic-acid> <http://drug.uk/model/sideEffect> "Atypical femoral fractures" .
+<http://drug.uk/alendronic-acid> <http://drug.uk/model/sideEffect> "Hypersensitivity reactions" .
+<http://drug.uk/alendronic-acid> <http://drug.uk/model/sideEffect> "Oesophageal stricture" .
+<http://drug.uk/alendronic-acid> <http://drug.uk/model/sideEffectDescription> " Common: Abdominal pain; dyspepsia; acid reflux; musculoskeletal pain; Constipation; headache; flatulence. Uncommon: Oesophageal ulcer; osteonecrosis. Uncommon: rash. Rare: Atypical femoral fractures; Hypersensitivity reactions. Frequency not known: Oesophageal stricture" .
+<http://drug.uk/alendronic-acid> <http://drug.uk/model/usage> <http://drug.uk/usage/breast-feeding/66de1cf8-7181-4be2-adc9-c4b246643168> .
+<http://drug.uk/alendronic-acid> <http://drug.uk/model/usage> <http://drug.uk/usage/hepatic-impairment/1538443b-c3ca-45bd-b296-a0bc6029b9fc> .
+<http://drug.uk/alendronic-acid> <http://drug.uk/model/usage> <http://drug.uk/usage/normal/53e65fe4-f36b-46d5-898f-275afd38a8b2> .
+<http://drug.uk/alendronic-acid> <http://drug.uk/model/usage> <http://drug.uk/usage/pregnancy/36f1ef98-2fde-46ff-9ceb-1029182d7ad6> .
+<http://drug.uk/alendronic-acid> <http://drug.uk/model/usage> <http://drug.uk/usage/renal-impairment/50660691-c330-4568-a606-efe24ae1fe2a> .
+<http://drug.uk/alendronic-acid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/alendronic-acid> <http://www.w3.org/2004/02/skos/core#prefLabel> "Alendronic Acid" .
+<http://drug.uk/dosage/f865e8d0-8e39-4f23-8c57-3aca4fcf63f4> <http://drug.uk/model/amount> "70.0"^^<http://www.w3.org/2001/XMLSchema#decimal> .
+<http://drug.uk/dosage/f865e8d0-8e39-4f23-8c57-3aca4fcf63f4> <http://drug.uk/model/duration> "P1W"^^<http://www.w3.org/2001/XMLSchema#duration> .
+<http://drug.uk/dosage/f865e8d0-8e39-4f23-8c57-3aca4fcf63f4> <http://drug.uk/model/frequency> "1.0"^^<http://www.w3.org/2001/XMLSchema#decimal> .
+<http://drug.uk/dosage/f865e8d0-8e39-4f23-8c57-3aca4fcf63f4> <http://drug.uk/model/gender> "female" .
+<http://drug.uk/dosage/f865e8d0-8e39-4f23-8c57-3aca4fcf63f4> <http://drug.uk/model/group> "adult" .
+<http://drug.uk/dosage/f865e8d0-8e39-4f23-8c57-3aca4fcf63f4> <http://drug.uk/model/patientGroupDescription> "Adult (female)" .
+<http://drug.uk/dosage/f865e8d0-8e39-4f23-8c57-3aca4fcf63f4> <http://drug.uk/model/route> "By mouth" .
+<http://drug.uk/dosage/f865e8d0-8e39-4f23-8c57-3aca4fcf63f4> <http://drug.uk/model/unit> "mg" .
+<http://drug.uk/dosage/f865e8d0-8e39-4f23-8c57-3aca4fcf63f4> <http://purl.org/dc/terms/description> "70 mg once weekly" .
+<http://drug.uk/dosage/f865e8d0-8e39-4f23-8c57-3aca4fcf63f4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Dosage> .
+<http://drug.uk/usage/breast-feeding/66de1cf8-7181-4be2-adc9-c4b246643168> <http://drug.uk/model/patientCondition> "BreastFeeding" .
+<http://drug.uk/usage/breast-feeding/66de1cf8-7181-4be2-adc9-c4b246643168> <http://drug.uk/model/safetyLevel> "unsafe" .
+<http://drug.uk/usage/breast-feeding/66de1cf8-7181-4be2-adc9-c4b246643168> <http://purl.org/dc/terms/description> "Excretion into human milk is unknown; better to avoid. null" .
+<http://drug.uk/usage/breast-feeding/66de1cf8-7181-4be2-adc9-c4b246643168> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/hepatic-impairment/1538443b-c3ca-45bd-b296-a0bc6029b9fc> <http://drug.uk/model/patientCondition> "HepaticImpairment" .
+<http://drug.uk/usage/hepatic-impairment/1538443b-c3ca-45bd-b296-a0bc6029b9fc> <http://purl.org/dc/terms/description> " null" .
+<http://drug.uk/usage/hepatic-impairment/1538443b-c3ca-45bd-b296-a0bc6029b9fc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/normal/53e65fe4-f36b-46d5-898f-275afd38a8b2> <http://drug.uk/model/dosage> <http://drug.uk/dosage/f865e8d0-8e39-4f23-8c57-3aca4fcf63f4> .
+<http://drug.uk/usage/normal/53e65fe4-f36b-46d5-898f-275afd38a8b2> <http://drug.uk/model/indication> "Treatment and prevention of postmenopausal osteoporosis" .
+<http://drug.uk/usage/normal/53e65fe4-f36b-46d5-898f-275afd38a8b2> <http://drug.uk/model/patientCondition> "Normal" .
+<http://drug.uk/usage/normal/53e65fe4-f36b-46d5-898f-275afd38a8b2> <http://drug.uk/model/safetyLevel> "safe" .
+<http://drug.uk/usage/normal/53e65fe4-f36b-46d5-898f-275afd38a8b2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/pregnancy/36f1ef98-2fde-46ff-9ceb-1029182d7ad6> <http://drug.uk/model/patientCondition> "Pregnancy" .
+<http://drug.uk/usage/pregnancy/36f1ef98-2fde-46ff-9ceb-1029182d7ad6> <http://drug.uk/model/safetyLevel> "unsafe" .
+<http://drug.uk/usage/pregnancy/36f1ef98-2fde-46ff-9ceb-1029182d7ad6> <http://purl.org/dc/terms/description> "Not recommended during pregnancy due to limited data and potential skeletal effects on the fetus. null" .
+<http://drug.uk/usage/pregnancy/36f1ef98-2fde-46ff-9ceb-1029182d7ad6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/renal-impairment/50660691-c330-4568-a606-efe24ae1fe2a> <http://drug.uk/model/patientCondition> "RenalImpairment" .
+<http://drug.uk/usage/renal-impairment/50660691-c330-4568-a606-efe24ae1fe2a> <http://drug.uk/model/safetyLevel> "caution" .
+<http://drug.uk/usage/renal-impairment/50660691-c330-4568-a606-efe24ae1fe2a> <http://purl.org/dc/terms/description> "Not recommended in patients with severe renal impairment (creatinine clearance <35 mL/min). null" .
+<http://drug.uk/usage/renal-impairment/50660691-c330-4568-a606-efe24ae1fe2a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+
+
+
+
+
+<http://drug.uk/amitriptyline-hydrochloride> <http://drug.uk/model/sideEffect> "Drowsiness" .
+<http://drug.uk/amitriptyline-hydrochloride> <http://drug.uk/model/sideEffect> "Dry mouth" .
+<http://drug.uk/amitriptyline-hydrochloride> <http://drug.uk/model/sideEffect> "constipation" .
+<http://drug.uk/amitriptyline-hydrochloride> <http://drug.uk/model/sideEffect> "blurred vision" .
+<http://drug.uk/amitriptyline-hydrochloride> <http://drug.uk/model/sideEffect> "dizziness" .
+<http://drug.uk/amitriptyline-hydrochloride> <http://drug.uk/model/sideEffect> "Weight gain" .
+<http://drug.uk/amitriptyline-hydrochloride> <http://drug.uk/model/sideEffect> "urinary retention" .
+<http://drug.uk/amitriptyline-hydrochloride> <http://drug.uk/model/sideEffect> "Cardiac arrhythmias" .
+<http://drug.uk/amitriptyline-hydrochloride> <http://drug.uk/model/sideEffect> "Suicidal behaviour" .
+<http://drug.uk/amitriptyline-hydrochloride> <http://drug.uk/model/sideEffect> "Increased appetite" .
+<http://drug.uk/amitriptyline-hydrochloride> <http://drug.uk/model/sideEffect> "Bone marrow suppression" .
+<http://drug.uk/amitriptyline-hydrochloride> <http://drug.uk/model/sideEffect> "Confusion" .
+<http://drug.uk/amitriptyline-hydrochloride> <http://drug.uk/model/sideEffectDescription> " Common: Drowsiness; Frequency not known: Dry mouth, constipation; blurred vision; dizziness; Weight gain; urinary retention; Cardiac arrhythmias; Suicidal behaviour; Increased appetite; Bone marrow suppression; Confusion" .
+<http://drug.uk/amitriptyline-hydrochloride> <http://drug.uk/model/usage> <http://drug.uk/usage/breast-feeding/1cdfef2e-67b3-46a8-bcb5-7e3ec91e98db> .
+<http://drug.uk/amitriptyline-hydrochloride> <http://drug.uk/model/usage> <http://drug.uk/usage/hepatic-impairment/900926fc-00e0-407b-a447-c779fd96d0e5> .
+<http://drug.uk/amitriptyline-hydrochloride> <http://drug.uk/model/usage> <http://drug.uk/usage/normal/31e915f1-2420-4d33-a0df-849d19964589> .
+<http://drug.uk/amitriptyline-hydrochloride> <http://drug.uk/model/usage> <http://drug.uk/usage/pregnancy/db95a657-9005-4f6e-b9ec-9c3824312d17> .
+<http://drug.uk/amitriptyline-hydrochloride> <http://drug.uk/model/usage> <http://drug.uk/usage/renal-impairment/57946bfb-952e-4a90-8b19-24fcb5623154> .
+<http://drug.uk/amitriptyline-hydrochloride> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/amitriptyline-hydrochloride> <http://www.w3.org/2004/02/skos/core#prefLabel> "Amitriptyline Hydrochloride" .
+<http://drug.uk/dosage/5ee06876-e6d3-4a4e-9e04-feed8da7992a> <http://drug.uk/model/amount> "25.0"^^<http://www.w3.org/2001/XMLSchema#decimal> .
+<http://drug.uk/dosage/5ee06876-e6d3-4a4e-9e04-feed8da7992a> <http://drug.uk/model/duration> "P1D"^^<http://www.w3.org/2001/XMLSchema#duration> .
+<http://drug.uk/dosage/5ee06876-e6d3-4a4e-9e04-feed8da7992a> <http://drug.uk/model/frequency> "1.0"^^<http://www.w3.org/2001/XMLSchema#decimal> .
+<http://drug.uk/dosage/5ee06876-e6d3-4a4e-9e04-feed8da7992a> <http://drug.uk/model/group> "adult" .
+<http://drug.uk/dosage/5ee06876-e6d3-4a4e-9e04-feed8da7992a> <http://drug.uk/model/patientGroupDescription> "Adult" .
+<http://drug.uk/dosage/5ee06876-e6d3-4a4e-9e04-feed8da7992a> <http://drug.uk/model/route> "By mouth" .
+<http://drug.uk/dosage/5ee06876-e6d3-4a4e-9e04-feed8da7992a> <http://drug.uk/model/unit> "mg" .
+<http://drug.uk/dosage/5ee06876-e6d3-4a4e-9e04-feed8da7992a> <http://purl.org/dc/terms/description> "25 mg daily" .
+<http://drug.uk/dosage/5ee06876-e6d3-4a4e-9e04-feed8da7992a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Dosage> .
+<http://drug.uk/usage/breast-feeding/1cdfef2e-67b3-46a8-bcb5-7e3ec91e98db> <http://drug.uk/model/patientCondition> "BreastFeeding" .
+<http://drug.uk/usage/breast-feeding/1cdfef2e-67b3-46a8-bcb5-7e3ec91e98db> <http://drug.uk/model/safetyLevel> "safe" .
+<http://drug.uk/usage/breast-feeding/1cdfef2e-67b3-46a8-bcb5-7e3ec91e98db> <http://purl.org/dc/terms/description> "Excreted in small amounts into breast milk; can be used. null" .
+<http://drug.uk/usage/breast-feeding/1cdfef2e-67b3-46a8-bcb5-7e3ec91e98db> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/hepatic-impairment/900926fc-00e0-407b-a447-c779fd96d0e5> <http://drug.uk/model/patientCondition> "HepaticImpairment" .
+<http://drug.uk/usage/hepatic-impairment/900926fc-00e0-407b-a447-c779fd96d0e5> <http://drug.uk/model/safetyLevel> "caution" .
+<http://drug.uk/usage/hepatic-impairment/900926fc-00e0-407b-a447-c779fd96d0e5> <http://purl.org/dc/terms/description> " Use with caution in hepatic impairment; metabolised extensively by the liver." .
+<http://drug.uk/usage/hepatic-impairment/900926fc-00e0-407b-a447-c779fd96d0e5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/normal/31e915f1-2420-4d33-a0df-849d19964589> <http://drug.uk/model/dosage> <http://drug.uk/dosage/5ee06876-e6d3-4a4e-9e04-feed8da7992a> .
+<http://drug.uk/usage/normal/31e915f1-2420-4d33-a0df-849d19964589> <http://drug.uk/model/indication> "Neuropathic pain" .
+<http://drug.uk/usage/normal/31e915f1-2420-4d33-a0df-849d19964589> <http://drug.uk/model/patientCondition> "Normal" .
+<http://drug.uk/usage/normal/31e915f1-2420-4d33-a0df-849d19964589> <http://drug.uk/model/safetyLevel> "safe" .
+<http://drug.uk/usage/normal/31e915f1-2420-4d33-a0df-849d19964589> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/pregnancy/db95a657-9005-4f6e-b9ec-9c3824312d17> <http://drug.uk/model/patientCondition> "Pregnancy" .
+<http://drug.uk/usage/pregnancy/db95a657-9005-4f6e-b9ec-9c3824312d17> <http://drug.uk/model/safetyLevel> "caution" .
+<http://drug.uk/usage/pregnancy/db95a657-9005-4f6e-b9ec-9c3824312d17> <http://purl.org/dc/terms/description> "Use only if potential benefits outweigh risks; limited data available on safety during pregnancy. null" .
+<http://drug.uk/usage/pregnancy/db95a657-9005-4f6e-b9ec-9c3824312d17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/renal-impairment/57946bfb-952e-4a90-8b19-24fcb5623154> <http://drug.uk/model/patientCondition> "RenalImpairment" .
+<http://drug.uk/usage/renal-impairment/57946bfb-952e-4a90-8b19-24fcb5623154> <http://purl.org/dc/terms/description> " null" .
+<http://drug.uk/usage/renal-impairment/57946bfb-952e-4a90-8b19-24fcb5623154> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+
+
+
+
+
+<http://drug.uk/amlodipine> <http://drug.uk/model/sideEffect> "Ankle swelling" .
+<http://drug.uk/amlodipine> <http://drug.uk/model/sideEffect> "flushing" .
+<http://drug.uk/amlodipine> <http://drug.uk/model/sideEffect> "headache" .
+<http://drug.uk/amlodipine> <http://drug.uk/model/sideEffect> "dizziness" .
+<http://drug.uk/amlodipine> <http://drug.uk/model/sideEffect> "palpitations" .
+<http://drug.uk/amlodipine> <http://drug.uk/model/sideEffect> "Abdominal pain" .
+<http://drug.uk/amlodipine> <http://drug.uk/model/sideEffect> "muscle cramps" .
+<http://drug.uk/amlodipine> <http://drug.uk/model/sideEffect> "nausea" .
+<http://drug.uk/amlodipine> <http://drug.uk/model/sideEffect> "Fatigue tremor" .
+<http://drug.uk/amlodipine> <http://drug.uk/model/sideEffect> "Hypotension" .
+<http://drug.uk/amlodipine> <http://drug.uk/model/sideEffect> "rash" .
+<http://drug.uk/amlodipine> <http://drug.uk/model/sideEffect> "Gynecomastia" .
+<http://drug.uk/amlodipine> <http://drug.uk/model/sideEffect> "gingival hyperplasia" .
+<http://drug.uk/amlodipine> <http://drug.uk/model/sideEffect> "Jaundice" .
+<http://drug.uk/amlodipine> <http://drug.uk/model/sideEffect> "Hepatic dysfunction" .
+<http://drug.uk/amlodipine> <http://drug.uk/model/sideEffectDescription> " Common: Ankle swelling; flushing; headache; dizziness; palpitations; Abdominal pain; muscle cramps; nausea; Fatigue Uncommon: tremor; Hypotension; rash. Rare: Gynecomastia; gingival hyperplasia; Jaundice; Hepatic dysfunction" .
+<http://drug.uk/amlodipine> <http://drug.uk/model/usage> <http://drug.uk/usage/breast-feeding/199b582b-caf3-40c2-b617-b53c0f850f2a> .
+<http://drug.uk/amlodipine> <http://drug.uk/model/usage> <http://drug.uk/usage/hepatic-impairment/2e2a91cd-fdc1-4022-8225-4c608457710a> .
+<http://drug.uk/amlodipine> <http://drug.uk/model/usage> <http://drug.uk/usage/normal/9f803e4b-be60-407e-ab23-9c8b9cf70b17> .
+<http://drug.uk/amlodipine> <http://drug.uk/model/usage> <http://drug.uk/usage/pregnancy/288c768d-809b-4b9e-9f1f-0c2b590687a8> .
+<http://drug.uk/amlodipine> <http://drug.uk/model/usage> <http://drug.uk/usage/renal-impairment/c8904d2d-563f-448d-98e1-5eec6f8d2d40> .
+<http://drug.uk/amlodipine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/amlodipine> <http://www.w3.org/2004/02/skos/core#prefLabel> "Amlodipine" .
+<http://drug.uk/dosage/e7dd9c10-b239-4c5c-9da5-d7c439bb3cd9> <http://drug.uk/model/amount> "10.0"^^<http://www.w3.org/2001/XMLSchema#decimal> .
+<http://drug.uk/dosage/e7dd9c10-b239-4c5c-9da5-d7c439bb3cd9> <http://drug.uk/model/duration> "P1D"^^<http://www.w3.org/2001/XMLSchema#duration> .
+<http://drug.uk/dosage/e7dd9c10-b239-4c5c-9da5-d7c439bb3cd9> <http://drug.uk/model/frequency> "1.0"^^<http://www.w3.org/2001/XMLSchema#decimal> .
+<http://drug.uk/dosage/e7dd9c10-b239-4c5c-9da5-d7c439bb3cd9> <http://drug.uk/model/group> "adult" .
+<http://drug.uk/dosage/e7dd9c10-b239-4c5c-9da5-d7c439bb3cd9> <http://drug.uk/model/patientGroupDescription> "Adult" .
+<http://drug.uk/dosage/e7dd9c10-b239-4c5c-9da5-d7c439bb3cd9> <http://drug.uk/model/route> "By mouth" .
+<http://drug.uk/dosage/e7dd9c10-b239-4c5c-9da5-d7c439bb3cd9> <http://drug.uk/model/unit> "mg" .
+<http://drug.uk/dosage/e7dd9c10-b239-4c5c-9da5-d7c439bb3cd9> <http://purl.org/dc/terms/description> "10 mg once daily" .
+<http://drug.uk/dosage/e7dd9c10-b239-4c5c-9da5-d7c439bb3cd9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Dosage> .
+<http://drug.uk/usage/breast-feeding/199b582b-caf3-40c2-b617-b53c0f850f2a> <http://drug.uk/model/patientCondition> "BreastFeeding" .
+<http://drug.uk/usage/breast-feeding/199b582b-caf3-40c2-b617-b53c0f850f2a> <http://drug.uk/model/safetyLevel> "unsafe" .
+<http://drug.uk/usage/breast-feeding/199b582b-caf3-40c2-b617-b53c0f850f2a> <http://purl.org/dc/terms/description> "Excretion into human milk is unknown; should be avoided. null" .
+<http://drug.uk/usage/breast-feeding/199b582b-caf3-40c2-b617-b53c0f850f2a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/hepatic-impairment/2e2a91cd-fdc1-4022-8225-4c608457710a> <http://drug.uk/model/patientCondition> "HepaticImpairment" .
+<http://drug.uk/usage/hepatic-impairment/2e2a91cd-fdc1-4022-8225-4c608457710a> <http://drug.uk/model/safetyLevel> "caution" .
+<http://drug.uk/usage/hepatic-impairment/2e2a91cd-fdc1-4022-8225-4c608457710a> <http://purl.org/dc/terms/description> "Amlodipine is extensively metabolised by the liver; use caution. Lower starting doses may be required; monitor closely in patients with severe hepatic impairment." .
+<http://drug.uk/usage/hepatic-impairment/2e2a91cd-fdc1-4022-8225-4c608457710a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/normal/9f803e4b-be60-407e-ab23-9c8b9cf70b17> <http://drug.uk/model/dosage> <http://drug.uk/dosage/e7dd9c10-b239-4c5c-9da5-d7c439bb3cd9> .
+<http://drug.uk/usage/normal/9f803e4b-be60-407e-ab23-9c8b9cf70b17> <http://drug.uk/model/indication> "Angina" .
+<http://drug.uk/usage/normal/9f803e4b-be60-407e-ab23-9c8b9cf70b17> <http://drug.uk/model/indication> "Hypertension" .
+<http://drug.uk/usage/normal/9f803e4b-be60-407e-ab23-9c8b9cf70b17> <http://drug.uk/model/patientCondition> "Normal" .
+<http://drug.uk/usage/normal/9f803e4b-be60-407e-ab23-9c8b9cf70b17> <http://drug.uk/model/safetyLevel> "safe" .
+<http://drug.uk/usage/normal/9f803e4b-be60-407e-ab23-9c8b9cf70b17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/pregnancy/288c768d-809b-4b9e-9f1f-0c2b590687a8> <http://drug.uk/model/patientCondition> "Pregnancy" .
+<http://drug.uk/usage/pregnancy/288c768d-809b-4b9e-9f1f-0c2b590687a8> <http://drug.uk/model/safetyLevel> "unsafe" .
+<http://drug.uk/usage/pregnancy/288c768d-809b-4b9e-9f1f-0c2b590687a8> <http://purl.org/dc/terms/description> "Data in human pregnancy are limited; should be avoided null" .
+<http://drug.uk/usage/pregnancy/288c768d-809b-4b9e-9f1f-0c2b590687a8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/renal-impairment/c8904d2d-563f-448d-98e1-5eec6f8d2d40> <http://drug.uk/model/patientCondition> "RenalImpairment" .
+<http://drug.uk/usage/renal-impairment/c8904d2d-563f-448d-98e1-5eec6f8d2d40> <http://purl.org/dc/terms/description> " null" .
+<http://drug.uk/usage/renal-impairment/c8904d2d-563f-448d-98e1-5eec6f8d2d40> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+
+
+
+
+
+<http://drug.uk/apixaban> <http://drug.uk/model/sideEffect> "haemorrhage" .
+<http://drug.uk/apixaban> <http://drug.uk/model/sideEffect> "contusion" .
+<http://drug.uk/apixaban> <http://drug.uk/model/sideEffect> "epistaxis" .
+<http://drug.uk/apixaban> <http://drug.uk/model/sideEffect> "haematoma" .
+<http://drug.uk/apixaban> <http://drug.uk/model/sideEffect> "thrombocytopenia" .
+<http://drug.uk/apixaban> <http://drug.uk/model/sideEffect> "hypotension" .
+<http://drug.uk/apixaban> <http://drug.uk/model/sideEffect> "post procedural haematoma" .
+<http://drug.uk/apixaban> <http://drug.uk/model/sideEffectDescription> " Common: haemorrhage, contusion, epistaxis, haematoma. Uncommon: thrombocytopenia, hypotension, post procedural haematoma." .
+<http://drug.uk/apixaban> <http://drug.uk/model/usage> <http://drug.uk/usage/breast-feeding/795b697e-36ec-4a2a-be79-f9591db8d443> .
+<http://drug.uk/apixaban> <http://drug.uk/model/usage> <http://drug.uk/usage/hepatic-impairment/a7d2d220-b641-4291-b910-e23d5764fb09> .
+<http://drug.uk/apixaban> <http://drug.uk/model/usage> <http://drug.uk/usage/normal/20bcdc37-efc7-4b7a-bc8b-afba7842a7da> .
+<http://drug.uk/apixaban> <http://drug.uk/model/usage> <http://drug.uk/usage/pregnancy/7f04b09e-bd84-47a2-866c-ad56b736717b> .
+<http://drug.uk/apixaban> <http://drug.uk/model/usage> <http://drug.uk/usage/renal-impairment/d9451900-e2f4-4187-b78d-8eaedf64f4f2> .
+<http://drug.uk/apixaban> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/apixaban> <http://www.w3.org/2004/02/skos/core#prefLabel> "Apixaban" .
+<http://drug.uk/dosage/4b59244d-c27d-4be2-a954-6a793f1c7cb0> <http://drug.uk/model/amount> "10.0"^^<http://www.w3.org/2001/XMLSchema#decimal> .
+<http://drug.uk/dosage/4b59244d-c27d-4be2-a954-6a793f1c7cb0> <http://drug.uk/model/duration> "P1D"^^<http://www.w3.org/2001/XMLSchema#duration> .
+<http://drug.uk/dosage/4b59244d-c27d-4be2-a954-6a793f1c7cb0> <http://drug.uk/model/frequency> "2.0"^^<http://www.w3.org/2001/XMLSchema#decimal> .
+<http://drug.uk/dosage/4b59244d-c27d-4be2-a954-6a793f1c7cb0> <http://drug.uk/model/group> "adult" .
+<http://drug.uk/dosage/4b59244d-c27d-4be2-a954-6a793f1c7cb0> <http://drug.uk/model/patientGroupDescription> "Adult" .
+<http://drug.uk/dosage/4b59244d-c27d-4be2-a954-6a793f1c7cb0> <http://drug.uk/model/route> "By mouth" .
+<http://drug.uk/dosage/4b59244d-c27d-4be2-a954-6a793f1c7cb0> <http://drug.uk/model/unit> "mg" .
+<http://drug.uk/dosage/4b59244d-c27d-4be2-a954-6a793f1c7cb0> <http://purl.org/dc/terms/description> "10 mg taken orally twice daily for 7 days." .
+<http://drug.uk/dosage/4b59244d-c27d-4be2-a954-6a793f1c7cb0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Dosage> .
+<http://drug.uk/usage/breast-feeding/795b697e-36ec-4a2a-be79-f9591db8d443> <http://drug.uk/model/patientCondition> "BreastFeeding" .
+<http://drug.uk/usage/breast-feeding/795b697e-36ec-4a2a-be79-f9591db8d443> <http://drug.uk/model/safetyLevel> "unsafe" .
+<http://drug.uk/usage/breast-feeding/795b697e-36ec-4a2a-be79-f9591db8d443> <http://purl.org/dc/terms/description> "A risk cannot be excluded: animal studies shows presence in milk. null" .
+<http://drug.uk/usage/breast-feeding/795b697e-36ec-4a2a-be79-f9591db8d443> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/hepatic-impairment/a7d2d220-b641-4291-b910-e23d5764fb09> <http://drug.uk/model/patientCondition> "HepaticImpairment" .
+<http://drug.uk/usage/hepatic-impairment/a7d2d220-b641-4291-b910-e23d5764fb09> <http://drug.uk/model/safetyLevel> "caution" .
+<http://drug.uk/usage/hepatic-impairment/a7d2d220-b641-4291-b910-e23d5764fb09> <http://purl.org/dc/terms/description> "Use with caution in mild to moderate hepatic impairment; contraindicated in hepatic disease with coagulopathy. null" .
+<http://drug.uk/usage/hepatic-impairment/a7d2d220-b641-4291-b910-e23d5764fb09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/normal/20bcdc37-efc7-4b7a-bc8b-afba7842a7da> <http://drug.uk/model/dosage> <http://drug.uk/dosage/4b59244d-c27d-4be2-a954-6a793f1c7cb0> .
+<http://drug.uk/usage/normal/20bcdc37-efc7-4b7a-bc8b-afba7842a7da> <http://drug.uk/model/indication> "Treatment of deep-vein thrombosis" .
+<http://drug.uk/usage/normal/20bcdc37-efc7-4b7a-bc8b-afba7842a7da> <http://drug.uk/model/indication> "Treatment of pulmonary embolism" .
+<http://drug.uk/usage/normal/20bcdc37-efc7-4b7a-bc8b-afba7842a7da> <http://drug.uk/model/patientCondition> "Normal" .
+<http://drug.uk/usage/normal/20bcdc37-efc7-4b7a-bc8b-afba7842a7da> <http://drug.uk/model/safetyLevel> "safe" .
+<http://drug.uk/usage/normal/20bcdc37-efc7-4b7a-bc8b-afba7842a7da> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/pregnancy/7f04b09e-bd84-47a2-866c-ad56b736717b> <http://drug.uk/model/patientCondition> "Pregnancy" .
+<http://drug.uk/usage/pregnancy/7f04b09e-bd84-47a2-866c-ad56b736717b> <http://drug.uk/model/safetyLevel> "unsafe" .
+<http://drug.uk/usage/pregnancy/7f04b09e-bd84-47a2-866c-ad56b736717b> <http://purl.org/dc/terms/description> "Not recommended during pregnancy due to lack of sufficient human data. null" .
+<http://drug.uk/usage/pregnancy/7f04b09e-bd84-47a2-866c-ad56b736717b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/renal-impairment/d9451900-e2f4-4187-b78d-8eaedf64f4f2> <http://drug.uk/model/patientCondition> "RenalImpairment" .
+<http://drug.uk/usage/renal-impairment/d9451900-e2f4-4187-b78d-8eaedf64f4f2> <http://drug.uk/model/safetyLevel> "caution" .
+<http://drug.uk/usage/renal-impairment/d9451900-e2f4-4187-b78d-8eaedf64f4f2> <http://purl.org/dc/terms/description> "Dose adjustment may be required in moderate to severe renal impairment. null" .
+<http://drug.uk/usage/renal-impairment/d9451900-e2f4-4187-b78d-8eaedf64f4f2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+
+
+
+
+
+<http://drug.uk/atorvastatin> <http://drug.uk/model/sideEffect> "Headache" .
+<http://drug.uk/atorvastatin> <http://drug.uk/model/sideEffect> "nausea" .
+<http://drug.uk/atorvastatin> <http://drug.uk/model/sideEffect> "diarrhoea" .
+<http://drug.uk/atorvastatin> <http://drug.uk/model/sideEffect> "muscle pain" .
+<http://drug.uk/atorvastatin> <http://drug.uk/model/sideEffect> "joint pain" .
+<http://drug.uk/atorvastatin> <http://drug.uk/model/sideEffect> "Flatulence" .
+<http://drug.uk/atorvastatin> <http://drug.uk/model/sideEffect> "constipation" .
+<http://drug.uk/atorvastatin> <http://drug.uk/model/sideEffect> "Sleep disturbances" .
+<http://drug.uk/atorvastatin> <http://drug.uk/model/sideEffect> "dizziness" .
+<http://drug.uk/atorvastatin> <http://drug.uk/model/sideEffect> "Memory loss" .
+<http://drug.uk/atorvastatin> <http://drug.uk/model/sideEffect> "pancreatitis" .
+<http://drug.uk/atorvastatin> <http://drug.uk/model/sideEffect> "hepatitis" .
+<http://drug.uk/atorvastatin> <http://drug.uk/model/sideEffect> "Myopathy" .
+<http://drug.uk/atorvastatin> <http://drug.uk/model/sideEffect> "hearing loss" .
+<http://drug.uk/atorvastatin> <http://drug.uk/model/sideEffect> "depression" .
+<http://drug.uk/atorvastatin> <http://drug.uk/model/sideEffect> "Rhabdomyolysis" .
+<http://drug.uk/atorvastatin> <http://drug.uk/model/sideEffect> "Interstitial lung disease" .
+<http://drug.uk/atorvastatin> <http://drug.uk/model/sideEffectDescription> " Common: Headache; nausea; diarrhoea; muscle pain; joint pain; Flatulence; constipation; Sleep disturbances; dizziness. Uncommon: Memory loss; pancreatitis; hepatitis. Rare: Myopathy; hearing loss. Frequency not known: depression; Rhabdomyolysis; Interstitial lung disease" .
+<http://drug.uk/atorvastatin> <http://drug.uk/model/usage> <http://drug.uk/usage/breast-feeding/708c0e14-2d7d-4337-bbc1-9d817004dfb0> .
+<http://drug.uk/atorvastatin> <http://drug.uk/model/usage> <http://drug.uk/usage/hepatic-impairment/8eacc1e4-00a3-4b3e-8a53-2e8db85121d0> .
+<http://drug.uk/atorvastatin> <http://drug.uk/model/usage> <http://drug.uk/usage/normal/52d4a243-0b54-4e0b-848e-655ff708fd65> .
+<http://drug.uk/atorvastatin> <http://drug.uk/model/usage> <http://drug.uk/usage/pregnancy/7a62de41-0e97-413b-bf3d-a079fe20614a> .
+<http://drug.uk/atorvastatin> <http://drug.uk/model/usage> <http://drug.uk/usage/renal-impairment/a427cd7b-c1aa-457c-8f70-6d8f98cbf940> .
+<http://drug.uk/atorvastatin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/atorvastatin> <http://www.w3.org/2004/02/skos/core#prefLabel> "Atorvastatin" .
+<http://drug.uk/dosage/2c463e78-9d5a-4808-a4e0-625becf383d1> <http://drug.uk/model/amount> "10.0"^^<http://www.w3.org/2001/XMLSchema#decimal> .
+<http://drug.uk/dosage/2c463e78-9d5a-4808-a4e0-625becf383d1> <http://drug.uk/model/duration> "P1D"^^<http://www.w3.org/2001/XMLSchema#duration> .
+<http://drug.uk/dosage/2c463e78-9d5a-4808-a4e0-625becf383d1> <http://drug.uk/model/frequency> "1.0"^^<http://www.w3.org/2001/XMLSchema#decimal> .
+<http://drug.uk/dosage/2c463e78-9d5a-4808-a4e0-625becf383d1> <http://drug.uk/model/group> "adult" .
+<http://drug.uk/dosage/2c463e78-9d5a-4808-a4e0-625becf383d1> <http://drug.uk/model/patientGroupDescription> "Adult" .
+<http://drug.uk/dosage/2c463e78-9d5a-4808-a4e0-625becf383d1> <http://drug.uk/model/route> "By mouth" .
+<http://drug.uk/dosage/2c463e78-9d5a-4808-a4e0-625becf383d1> <http://drug.uk/model/unit> "mg" .
+<http://drug.uk/dosage/2c463e78-9d5a-4808-a4e0-625becf383d1> <http://purl.org/dc/terms/description> "10 mg once daily, adjusted according to response" .
+<http://drug.uk/dosage/2c463e78-9d5a-4808-a4e0-625becf383d1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Dosage> .
+<http://drug.uk/usage/breast-feeding/708c0e14-2d7d-4337-bbc1-9d817004dfb0> <http://drug.uk/model/patientCondition> "BreastFeeding" .
+<http://drug.uk/usage/breast-feeding/708c0e14-2d7d-4337-bbc1-9d817004dfb0> <http://drug.uk/model/safetyLevel> "unsafe" .
+<http://drug.uk/usage/breast-feeding/708c0e14-2d7d-4337-bbc1-9d817004dfb0> <http://purl.org/dc/terms/description> "Not recommended during pregnancy due to lack of sufficient data. null" .
+<http://drug.uk/usage/breast-feeding/708c0e14-2d7d-4337-bbc1-9d817004dfb0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/hepatic-impairment/8eacc1e4-00a3-4b3e-8a53-2e8db85121d0> <http://drug.uk/model/patientCondition> "HepaticImpairment" .
+<http://drug.uk/usage/hepatic-impairment/8eacc1e4-00a3-4b3e-8a53-2e8db85121d0> <http://drug.uk/model/safetyLevel> "caution" .
+<http://drug.uk/usage/hepatic-impairment/8eacc1e4-00a3-4b3e-8a53-2e8db85121d0> <http://purl.org/dc/terms/description> "Contraindicated in active liver disease or unexplained persistent elevations of serum transaminases. Avoid use in patients with active hepatic disease or unexplained persistent liver enzyme elevations." .
+<http://drug.uk/usage/hepatic-impairment/8eacc1e4-00a3-4b3e-8a53-2e8db85121d0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/normal/52d4a243-0b54-4e0b-848e-655ff708fd65> <http://drug.uk/model/dosage> <http://drug.uk/dosage/2c463e78-9d5a-4808-a4e0-625becf383d1> .
+<http://drug.uk/usage/normal/52d4a243-0b54-4e0b-848e-655ff708fd65> <http://drug.uk/model/indication> "Hypercholesterolaemia" .
+<http://drug.uk/usage/normal/52d4a243-0b54-4e0b-848e-655ff708fd65> <http://drug.uk/model/patientCondition> "Normal" .
+<http://drug.uk/usage/normal/52d4a243-0b54-4e0b-848e-655ff708fd65> <http://drug.uk/model/safetyLevel> "safe" .
+<http://drug.uk/usage/normal/52d4a243-0b54-4e0b-848e-655ff708fd65> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/pregnancy/7a62de41-0e97-413b-bf3d-a079fe20614a> <http://drug.uk/model/patientCondition> "Pregnancy" .
+<http://drug.uk/usage/pregnancy/7a62de41-0e97-413b-bf3d-a079fe20614a> <http://drug.uk/model/safetyLevel> "unsafe" .
+<http://drug.uk/usage/pregnancy/7a62de41-0e97-413b-bf3d-a079fe20614a> <http://purl.org/dc/terms/description> "Contraindicated in pregnancy; may harm the foetus. Discontinue immediately if pregnancy is detected. null" .
+<http://drug.uk/usage/pregnancy/7a62de41-0e97-413b-bf3d-a079fe20614a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/renal-impairment/a427cd7b-c1aa-457c-8f70-6d8f98cbf940> <http://drug.uk/model/patientCondition> "RenalImpairment" .
+<http://drug.uk/usage/renal-impairment/a427cd7b-c1aa-457c-8f70-6d8f98cbf940> <http://drug.uk/model/safetyLevel> "caution" .
+<http://drug.uk/usage/renal-impairment/a427cd7b-c1aa-457c-8f70-6d8f98cbf940> <http://purl.org/dc/terms/description> "Dose adjustment may be required in moderate to severe renal impairment. null" .
+<http://drug.uk/usage/renal-impairment/a427cd7b-c1aa-457c-8f70-6d8f98cbf940> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+
+
+
+
+
+<http://drug.uk/betaxolol> <http://drug.uk/model/sideEffect> "ocular discomfort" .
+<http://drug.uk/betaxolol> <http://drug.uk/model/sideEffect> "blurred vision" .
+<http://drug.uk/betaxolol> <http://drug.uk/model/sideEffect> "nausea" .
+<http://drug.uk/betaxolol> <http://drug.uk/model/sideEffect> "bradycardia(slow heartbeat) " .
+<http://drug.uk/betaxolol> <http://drug.uk/model/sideEffect> "punctate keratitis" .
+<http://drug.uk/betaxolol> <http://drug.uk/model/sideEffect> "keratitis" .
+<http://drug.uk/betaxolol> <http://drug.uk/model/sideEffect> "conjunctivitis" .
+<http://drug.uk/betaxolol> <http://drug.uk/model/sideEffect> "blepharitis" .
+<http://drug.uk/betaxolol> <http://drug.uk/model/sideEffect> "visual impairment" .
+<http://drug.uk/betaxolol> <http://drug.uk/model/sideEffect> "photophobia" .
+<http://drug.uk/betaxolol> <http://drug.uk/model/sideEffect> "dry eye" .
+<http://drug.uk/betaxolol> <http://drug.uk/model/sideEffect> "eye pain" .
+<http://drug.uk/betaxolol> <http://drug.uk/model/sideEffect> "eye strain (asthenopia)" .
+<http://drug.uk/betaxolol> <http://drug.uk/model/sideEffect> "eye pruritus" .
+<http://drug.uk/betaxolol> <http://drug.uk/model/sideEffect> "eye discharge" .
+<http://drug.uk/betaxolol> <http://drug.uk/model/sideEffect> "eyelid inflammation" .
+<http://drug.uk/betaxolol> <http://drug.uk/model/sideEffect> "ocular hyperaemia" .
+<http://drug.uk/betaxolol> <http://drug.uk/model/sideEffect> "cataract" .
+<http://drug.uk/betaxolol> <http://drug.uk/model/sideEffect> "decreased corneal sensitivity" .
+<http://drug.uk/betaxolol> <http://drug.uk/model/sideEffect> "eyelid erythema" .
+<http://drug.uk/betaxolol> <http://drug.uk/model/sideEffect> "insomnia" .
+<http://drug.uk/betaxolol> <http://drug.uk/model/sideEffect> "Hypersensitivity reactions" .
+<http://drug.uk/betaxolol> <http://drug.uk/model/sideEffect> "rash" .
+<http://drug.uk/betaxolol> <http://drug.uk/model/sideEffect> "urticaria" .
+<http://drug.uk/betaxolol> <http://drug.uk/model/sideEffect> "pruritus" .
+<http://drug.uk/betaxolol> <http://drug.uk/model/sideEffect> "anaphylaxis" .
+<http://drug.uk/betaxolol> <http://drug.uk/model/sideEffect> "angioedema" .
+<http://drug.uk/betaxolol> <http://drug.uk/model/sideEffect> "arrhythmia" .
+<http://drug.uk/betaxolol> <http://drug.uk/model/sideEffect> "asthenia" .
+<http://drug.uk/betaxolol> <http://drug.uk/model/sideEffect> "dizziness" .
+<http://drug.uk/betaxolol> <http://drug.uk/model/sideEffect> "Raynaud’s phenomenon" .
+<http://drug.uk/betaxolol> <http://drug.uk/model/sideEffect> "vomiting" .
+<http://drug.uk/betaxolol> <http://drug.uk/model/sideEffect> "diarrhoea" .
+<http://drug.uk/betaxolol> <http://drug.uk/model/sideEffect> "palpitations" .
+<http://drug.uk/betaxolol> <http://drug.uk/model/sideEffect> "Chest pain" .
+<http://drug.uk/betaxolol> <http://drug.uk/model/sideEffect> "dizziness" .
+<http://drug.uk/betaxolol> <http://drug.uk/model/sideEffectDescription> " Common: ocular discomfort; blurred vision. Uncommon: nausea; bradycardia(slow heartbeat) ; punctate keratitis; keratitis; conjunctivitis; blepharitis; visual impairment; photophobia; dry eye; eye pain; eye strain (asthenopia); eye pruritus; eye discharge; eyelid inflammation; ocular hyperaemia. Rare: cataract; decreased corneal sensitivity; eyelid erythema; insomnia. Frequency Not Known: Hypersensitivity reactions (e.g. rash, urticaria, pruritus, anaphylaxis, angioedema); arrhythmia; asthenia; dizziness (as post-marketing report); Raynaud’s phenomenon; vomiting; diarrhoea; palpitations; Chest pain; dizziness." .
+<http://drug.uk/betaxolol> <http://drug.uk/model/usage> <http://drug.uk/usage/breast-feeding/08bb83ff-0525-45d1-9941-29534504882f> .
+<http://drug.uk/betaxolol> <http://drug.uk/model/usage> <http://drug.uk/usage/hepatic-impairment/b949fdc4-b67e-4b81-97a6-84a41e826c2a> .
+<http://drug.uk/betaxolol> <http://drug.uk/model/usage> <http://drug.uk/usage/normal/9c6137c9-71ab-4c47-8d4b-80efd4eb4486> .
+<http://drug.uk/betaxolol> <http://drug.uk/model/usage> <http://drug.uk/usage/pregnancy/a32b245e-8144-48bd-ac10-492c3883abf9> .
+<http://drug.uk/betaxolol> <http://drug.uk/model/usage> <http://drug.uk/usage/renal-impairment/ba5a9a7c-d3a9-4a66-8d2a-966b4284a18f> .
+<http://drug.uk/betaxolol> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/betaxolol> <http://www.w3.org/2004/02/skos/core#prefLabel> "Betaxolol" .
+<http://drug.uk/dosage/3ec6dc11-c57a-4449-ae33-c0e10f9e810f> <http://drug.uk/model/amount> "1.0"^^<http://www.w3.org/2001/XMLSchema#decimal> .
+<http://drug.uk/dosage/3ec6dc11-c57a-4449-ae33-c0e10f9e810f> <http://drug.uk/model/duration> "P1D"^^<http://www.w3.org/2001/XMLSchema#duration> .
+<http://drug.uk/dosage/3ec6dc11-c57a-4449-ae33-c0e10f9e810f> <http://drug.uk/model/frequency> "2.0"^^<http://www.w3.org/2001/XMLSchema#decimal> .
+<http://drug.uk/dosage/3ec6dc11-c57a-4449-ae33-c0e10f9e810f> <http://drug.uk/model/group> "adult" .
+<http://drug.uk/dosage/3ec6dc11-c57a-4449-ae33-c0e10f9e810f> <http://drug.uk/model/patientGroupDescription> "Adult" .
+<http://drug.uk/dosage/3ec6dc11-c57a-4449-ae33-c0e10f9e810f> <http://drug.uk/model/route> "To eye" .
+<http://drug.uk/dosage/3ec6dc11-c57a-4449-ae33-c0e10f9e810f> <http://drug.uk/model/unit> "drop" .
+<http://drug.uk/dosage/3ec6dc11-c57a-4449-ae33-c0e10f9e810f> <http://purl.org/dc/terms/description> "1 drop of 0.5% solution in the affected eye(s) twice daily" .
+<http://drug.uk/dosage/3ec6dc11-c57a-4449-ae33-c0e10f9e810f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Dosage> .
+<http://drug.uk/usage/breast-feeding/08bb83ff-0525-45d1-9941-29534504882f> <http://drug.uk/model/patientCondition> "BreastFeeding" .
+<http://drug.uk/usage/breast-feeding/08bb83ff-0525-45d1-9941-29534504882f> <http://purl.org/dc/terms/description> " null" .
+<http://drug.uk/usage/breast-feeding/08bb83ff-0525-45d1-9941-29534504882f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/hepatic-impairment/b949fdc4-b67e-4b81-97a6-84a41e826c2a> <http://drug.uk/model/patientCondition> "HepaticImpairment" .
+<http://drug.uk/usage/hepatic-impairment/b949fdc4-b67e-4b81-97a6-84a41e826c2a> <http://purl.org/dc/terms/description> " null" .
+<http://drug.uk/usage/hepatic-impairment/b949fdc4-b67e-4b81-97a6-84a41e826c2a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/normal/9c6137c9-71ab-4c47-8d4b-80efd4eb4486> <http://drug.uk/model/dosage> <http://drug.uk/dosage/3ec6dc11-c57a-4449-ae33-c0e10f9e810f> .
+<http://drug.uk/usage/normal/9c6137c9-71ab-4c47-8d4b-80efd4eb4486> <http://drug.uk/model/indication> "Ocular hypertension" .
+<http://drug.uk/usage/normal/9c6137c9-71ab-4c47-8d4b-80efd4eb4486> <http://drug.uk/model/patientCondition> "Normal" .
+<http://drug.uk/usage/normal/9c6137c9-71ab-4c47-8d4b-80efd4eb4486> <http://drug.uk/model/safetyLevel> "safe" .
+<http://drug.uk/usage/normal/9c6137c9-71ab-4c47-8d4b-80efd4eb4486> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/pregnancy/a32b245e-8144-48bd-ac10-492c3883abf9> <http://drug.uk/model/patientCondition> "Pregnancy" .
+<http://drug.uk/usage/pregnancy/a32b245e-8144-48bd-ac10-492c3883abf9> <http://purl.org/dc/terms/description> " null" .
+<http://drug.uk/usage/pregnancy/a32b245e-8144-48bd-ac10-492c3883abf9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/renal-impairment/ba5a9a7c-d3a9-4a66-8d2a-966b4284a18f> <http://drug.uk/model/patientCondition> "RenalImpairment" .
+<http://drug.uk/usage/renal-impairment/ba5a9a7c-d3a9-4a66-8d2a-966b4284a18f> <http://purl.org/dc/terms/description> " null" .
+<http://drug.uk/usage/renal-impairment/ba5a9a7c-d3a9-4a66-8d2a-966b4284a18f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+
+
+
+
+
+
+<http://drug.uk/bilastine> <http://drug.uk/model/sideEffect> "headache" .
+<http://drug.uk/bilastine> <http://drug.uk/model/sideEffect> "drowsiness" .
+<http://drug.uk/bilastine> <http://drug.uk/model/sideEffect> "fatigue" .
+<http://drug.uk/bilastine> <http://drug.uk/model/sideEffect> "allergic conjunctivitis" .
+<http://drug.uk/bilastine> <http://drug.uk/model/sideEffect> "rhinitis" .
+<http://drug.uk/bilastine> <http://drug.uk/model/sideEffect> "dizziness" .
+<http://drug.uk/bilastine> <http://drug.uk/model/sideEffect> "abdominal pain" .
+<http://drug.uk/bilastine> <http://drug.uk/model/sideEffect> "nausea" .
+<http://drug.uk/bilastine> <http://drug.uk/model/sideEffect> "diarrhea" .
+<http://drug.uk/bilastine> <http://drug.uk/model/sideEffect> "lip swelling" .
+<http://drug.uk/bilastine> <http://drug.uk/model/sideEffect> "eczema" .
+<http://drug.uk/bilastine> <http://drug.uk/model/sideEffect> "urticaria" .
+<http://drug.uk/bilastine> <http://drug.uk/model/sideEffect> "fatigue" .
+<http://drug.uk/bilastine> <http://drug.uk/model/sideEffect> "ECG changes" .
+<http://drug.uk/bilastine> <http://drug.uk/model/sideEffect> "appetite increase" .
+<http://drug.uk/bilastine> <http://drug.uk/model/sideEffect> "weight gain" .
+<http://drug.uk/bilastine> <http://drug.uk/model/sideEffect> "anxiety" .
+<http://drug.uk/bilastine> <http://drug.uk/model/sideEffect> "insomnia" .
+<http://drug.uk/bilastine> <http://drug.uk/model/sideEffect> "dry mouth" .
+<http://drug.uk/bilastine> <http://drug.uk/model/sideEffect> "pruritus (itching)" .
+<http://drug.uk/bilastine> <http://drug.uk/model/sideEffect> "acneiform eruption" .
+<http://drug.uk/bilastine> <http://drug.uk/model/sideEffect> "dyspnoea" .
+<http://drug.uk/bilastine> <http://drug.uk/model/sideEffect> "urticaria  " .
+<http://drug.uk/bilastine> <http://drug.uk/model/sideEffect> "hypersensitivity reactions" .
+<http://drug.uk/bilastine> <http://drug.uk/model/sideEffect> "palpitations" .
+<http://drug.uk/bilastine> <http://drug.uk/model/sideEffectDescription> " Common: headache; drowsiness; fatigue; allergic conjunctivitis; rhinitis. Uncommon: dizziness; abdominal pain; nausea; diarrhea; lip swelling; eczema; urticaria; fatigue; ECG changes; appetite increase; weight gain; anxiety; insomnia; dry mouth; pruritus (itching); acneiform eruption; dyspnoea; urticaria. Frequency Not Known: hypersensitivity reactions; palpitations." .
+<http://drug.uk/bilastine> <http://drug.uk/model/usage> <http://drug.uk/usage/breast-feeding/dc81a32a-2664-4f0d-b24d-85ece062cf0a> .
+<http://drug.uk/bilastine> <http://drug.uk/model/usage> <http://drug.uk/usage/hepatic-impairment/c0b63124-6cee-43a1-a168-04beae1780e9> .
+<http://drug.uk/bilastine> <http://drug.uk/model/usage> <http://drug.uk/usage/normal/1238064a-246c-40a0-ba02-4d71e48a04f4> .
+<http://drug.uk/bilastine> <http://drug.uk/model/usage> <http://drug.uk/usage/pregnancy/6a3fe1a9-fbee-42eb-b26f-14e67f67ddc5> .
+<http://drug.uk/bilastine> <http://drug.uk/model/usage> <http://drug.uk/usage/renal-impairment/ebd73cc2-3e1e-45bd-b44b-ea96a6773c68> .
+<http://drug.uk/bilastine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/bilastine> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bilastine" .
+<http://drug.uk/dosage/3c89a84d-43c1-410f-88ab-cfadfdb95a8b> <http://drug.uk/model/ageUnit> "years" .
+<http://drug.uk/dosage/3c89a84d-43c1-410f-88ab-cfadfdb95a8b> <http://drug.uk/model/amount> "20.0"^^<http://www.w3.org/2001/XMLSchema#decimal> .
+<http://drug.uk/dosage/3c89a84d-43c1-410f-88ab-cfadfdb95a8b> <http://drug.uk/model/duration> "P1D"^^<http://www.w3.org/2001/XMLSchema#duration> .
+<http://drug.uk/dosage/3c89a84d-43c1-410f-88ab-cfadfdb95a8b> <http://drug.uk/model/frequency> "1.0"^^<http://www.w3.org/2001/XMLSchema#decimal> .
+<http://drug.uk/dosage/3c89a84d-43c1-410f-88ab-cfadfdb95a8b> <http://drug.uk/model/group> "child" .
+<http://drug.uk/dosage/3c89a84d-43c1-410f-88ab-cfadfdb95a8b> <http://drug.uk/model/maxAge> "17.0"^^<http://www.w3.org/2001/XMLSchema#decimal> .
+<http://drug.uk/dosage/3c89a84d-43c1-410f-88ab-cfadfdb95a8b> <http://drug.uk/model/minAge> "12.0"^^<http://www.w3.org/2001/XMLSchema#decimal> .
+<http://drug.uk/dosage/3c89a84d-43c1-410f-88ab-cfadfdb95a8b> <http://drug.uk/model/patientGroupDescription> "Child (12–17 years)" .
+<http://drug.uk/dosage/3c89a84d-43c1-410f-88ab-cfadfdb95a8b> <http://drug.uk/model/route> "By mouth" .
+<http://drug.uk/dosage/3c89a84d-43c1-410f-88ab-cfadfdb95a8b> <http://drug.uk/model/unit> "mg" .
+<http://drug.uk/dosage/3c89a84d-43c1-410f-88ab-cfadfdb95a8b> <http://purl.org/dc/terms/description> "20 mg once daily, taken after food or fruit juice" .
+<http://drug.uk/dosage/3c89a84d-43c1-410f-88ab-cfadfdb95a8b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Dosage> .
+<http://drug.uk/usage/breast-feeding/dc81a32a-2664-4f0d-b24d-85ece062cf0a> <http://drug.uk/model/patientCondition> "BreastFeeding" .
+<http://drug.uk/usage/breast-feeding/dc81a32a-2664-4f0d-b24d-85ece062cf0a> <http://drug.uk/model/safetyLevel> "unsafe" .
+<http://drug.uk/usage/breast-feeding/dc81a32a-2664-4f0d-b24d-85ece062cf0a> <http://purl.org/dc/terms/description> "Limited data available. Bilastine is excreted in breast milk in animals; better to avoid. null" .
+<http://drug.uk/usage/breast-feeding/dc81a32a-2664-4f0d-b24d-85ece062cf0a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/hepatic-impairment/c0b63124-6cee-43a1-a168-04beae1780e9> <http://drug.uk/model/patientCondition> "HepaticImpairment" .
+<http://drug.uk/usage/hepatic-impairment/c0b63124-6cee-43a1-a168-04beae1780e9> <http://purl.org/dc/terms/description> " null" .
+<http://drug.uk/usage/hepatic-impairment/c0b63124-6cee-43a1-a168-04beae1780e9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/normal/1238064a-246c-40a0-ba02-4d71e48a04f4> <http://drug.uk/model/dosage> <http://drug.uk/dosage/3c89a84d-43c1-410f-88ab-cfadfdb95a8b> .
+<http://drug.uk/usage/normal/1238064a-246c-40a0-ba02-4d71e48a04f4> <http://drug.uk/model/indication> "Allergic rhinitis" .
+<http://drug.uk/usage/normal/1238064a-246c-40a0-ba02-4d71e48a04f4> <http://drug.uk/model/indication> "Urticaria" .
+<http://drug.uk/usage/normal/1238064a-246c-40a0-ba02-4d71e48a04f4> <http://drug.uk/model/patientCondition> "Normal" .
+<http://drug.uk/usage/normal/1238064a-246c-40a0-ba02-4d71e48a04f4> <http://drug.uk/model/safetyLevel> "safe" .
+<http://drug.uk/usage/normal/1238064a-246c-40a0-ba02-4d71e48a04f4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/pregnancy/6a3fe1a9-fbee-42eb-b26f-14e67f67ddc5> <http://drug.uk/model/patientCondition> "Pregnancy" .
+<http://drug.uk/usage/pregnancy/6a3fe1a9-fbee-42eb-b26f-14e67f67ddc5> <http://drug.uk/model/safetyLevel> "unsafe" .
+<http://drug.uk/usage/pregnancy/6a3fe1a9-fbee-42eb-b26f-14e67f67ddc5> <http://purl.org/dc/terms/description> "Limited data in pregnancy; should be avoided. null" .
+<http://drug.uk/usage/pregnancy/6a3fe1a9-fbee-42eb-b26f-14e67f67ddc5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/renal-impairment/ebd73cc2-3e1e-45bd-b44b-ea96a6773c68> <http://drug.uk/model/patientCondition> "RenalImpairment" .
+<http://drug.uk/usage/renal-impairment/ebd73cc2-3e1e-45bd-b44b-ea96a6773c68> <http://purl.org/dc/terms/description> " null" .
+<http://drug.uk/usage/renal-impairment/ebd73cc2-3e1e-45bd-b44b-ea96a6773c68> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+
+
+
+
+
+<http://drug.uk/carbamazepine> <http://drug.uk/model/sideEffect> "Dizziness" .
+<http://drug.uk/carbamazepine> <http://drug.uk/model/sideEffect> "drowsiness" .
+<http://drug.uk/carbamazepine> <http://drug.uk/model/sideEffect> "nausea" .
+<http://drug.uk/carbamazepine> <http://drug.uk/model/sideEffect> "vomiting" .
+<http://drug.uk/carbamazepine> <http://drug.uk/model/sideEffect> "ataxia" .
+<http://drug.uk/carbamazepine> <http://drug.uk/model/sideEffect> "blurred vision" .
+<http://drug.uk/carbamazepine> <http://drug.uk/model/sideEffect> "dry mouth" .
+<http://drug.uk/carbamazepine> <http://drug.uk/model/sideEffect> "fatigue" .
+<http://drug.uk/carbamazepine> <http://drug.uk/model/sideEffect> "Hyponatraemia" .
+<http://drug.uk/carbamazepine> <http://drug.uk/model/sideEffect> "oedema" .
+<http://drug.uk/carbamazepine> <http://drug.uk/model/sideEffect> "headache" .
+<http://drug.uk/carbamazepine> <http://drug.uk/model/sideEffect> "thrombocytopenia" .
+<http://drug.uk/carbamazepine> <http://drug.uk/model/sideEffect> "leucopenia" .
+<http://drug.uk/carbamazepine> <http://drug.uk/model/sideEffect> "tremor" .
+<http://drug.uk/carbamazepine> <http://drug.uk/model/sideEffect> "constipation" .
+<http://drug.uk/carbamazepine> <http://drug.uk/model/sideEffect> "diarrhoea" .
+<http://drug.uk/carbamazepine> <http://drug.uk/model/sideEffect> "confusion" .
+<http://drug.uk/carbamazepine> <http://drug.uk/model/sideEffect> "anaemia" .
+<http://drug.uk/carbamazepine> <http://drug.uk/model/sideEffect> "agranulocytosis" .
+<http://drug.uk/carbamazepine> <http://drug.uk/model/sideEffect> "lupus-like syndrome" .
+<http://drug.uk/carbamazepine> <http://drug.uk/model/sideEffect> "pancreatitis" .
+<http://drug.uk/carbamazepine> <http://drug.uk/model/sideEffect> "arrhythmias" .
+<http://drug.uk/carbamazepine> <http://drug.uk/model/sideEffect> "hallucinations" .
+<http://drug.uk/carbamazepine> <http://drug.uk/model/sideEffect> "rash" .
+<http://drug.uk/carbamazepine> <http://drug.uk/model/sideEffect> "interstitial nephritis" .
+<http://drug.uk/carbamazepine> <http://drug.uk/model/sideEffect> "Stevens-Johnson syndrome (SJS)" .
+<http://drug.uk/carbamazepine> <http://drug.uk/model/sideEffect> "toxic epidermal necrolysis (TEN)" .
+<http://drug.uk/carbamazepine> <http://drug.uk/model/sideEffect> "DRESS syndrome" .
+<http://drug.uk/carbamazepine> <http://drug.uk/model/sideEffect> "anaphylaxis" .
+<http://drug.uk/carbamazepine> <http://drug.uk/model/sideEffect> "suicidal ideation" .
+<http://drug.uk/carbamazepine> <http://drug.uk/model/sideEffectDescription> " Common: Dizziness; drowsiness; nausea; vomiting; ataxia; blurred vision; dry mouth; fatigue; Hyponatraemia; oedema; headache; thrombocytopenia; leucopenia. Uncommon: tremor; constipation; diarrhoea. Rare: confusion; anaemia; agranulocytosis; lupus-like syndrome; pancreatitis; arrhythmias; hallucinations; rash; interstitial nephritis; Stevens-Johnson syndrome (SJS); toxic epidermal necrolysis (TEN). Frequency Not Known: DRESS syndrome; anaphylaxis; suicidal ideation." .
+<http://drug.uk/carbamazepine> <http://drug.uk/model/usage> <http://drug.uk/usage/breast-feeding/0fc6170e-a719-44b1-b3dd-f8bc64c30d4b> .
+<http://drug.uk/carbamazepine> <http://drug.uk/model/usage> <http://drug.uk/usage/hepatic-impairment/7867ea39-4bd0-4f73-8560-8dbe14ebea2a> .
+<http://drug.uk/carbamazepine> <http://drug.uk/model/usage> <http://drug.uk/usage/normal/998806c6-82f6-406f-9d1c-98884e6bde7e> .
+<http://drug.uk/carbamazepine> <http://drug.uk/model/usage> <http://drug.uk/usage/pregnancy/4ae90fec-b291-4245-9b9a-a730b90324fd> .
+<http://drug.uk/carbamazepine> <http://drug.uk/model/usage> <http://drug.uk/usage/renal-impairment/f6e855f4-01af-4e2c-ac62-32717c502b1b> .
+<http://drug.uk/carbamazepine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/carbamazepine> <http://www.w3.org/2004/02/skos/core#prefLabel> "Carbamazepine" .
+<http://drug.uk/dosage/a7fcf218-a393-46cf-8c44-0681b686bc0d> <http://drug.uk/model/ageUnit> "years" .
+<http://drug.uk/dosage/a7fcf218-a393-46cf-8c44-0681b686bc0d> <http://drug.uk/model/amount> "20.0"^^<http://www.w3.org/2001/XMLSchema#decimal> .
+<http://drug.uk/dosage/a7fcf218-a393-46cf-8c44-0681b686bc0d> <http://drug.uk/model/duration> "P1D"^^<http://www.w3.org/2001/XMLSchema#duration> .
+<http://drug.uk/dosage/a7fcf218-a393-46cf-8c44-0681b686bc0d> <http://drug.uk/model/frequency> "1.0"^^<http://www.w3.org/2001/XMLSchema#decimal> .
+<http://drug.uk/dosage/a7fcf218-a393-46cf-8c44-0681b686bc0d> <http://drug.uk/model/group> "child" .
+<http://drug.uk/dosage/a7fcf218-a393-46cf-8c44-0681b686bc0d> <http://drug.uk/model/maxAge> "11.0"^^<http://www.w3.org/2001/XMLSchema#decimal> .
+<http://drug.uk/dosage/a7fcf218-a393-46cf-8c44-0681b686bc0d> <http://drug.uk/model/minAge> "0.083"^^<http://www.w3.org/2001/XMLSchema#decimal> .
+<http://drug.uk/dosage/a7fcf218-a393-46cf-8c44-0681b686bc0d> <http://drug.uk/model/patientGroupDescription> "Child (1 month–11 years)" .
+<http://drug.uk/dosage/a7fcf218-a393-46cf-8c44-0681b686bc0d> <http://drug.uk/model/route> "By mouth" .
+<http://drug.uk/dosage/a7fcf218-a393-46cf-8c44-0681b686bc0d> <http://drug.uk/model/unit> "mg/kg" .
+<http://drug.uk/dosage/a7fcf218-a393-46cf-8c44-0681b686bc0d> <http://purl.org/dc/terms/description> "up to 20 mg/kg daily." .
+<http://drug.uk/dosage/a7fcf218-a393-46cf-8c44-0681b686bc0d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Dosage> .
+<http://drug.uk/usage/breast-feeding/0fc6170e-a719-44b1-b3dd-f8bc64c30d4b> <http://drug.uk/model/patientCondition> "BreastFeeding" .
+<http://drug.uk/usage/breast-feeding/0fc6170e-a719-44b1-b3dd-f8bc64c30d4b> <http://drug.uk/model/safetyLevel> "caution" .
+<http://drug.uk/usage/breast-feeding/0fc6170e-a719-44b1-b3dd-f8bc64c30d4b> <http://purl.org/dc/terms/description> "Present in breast milk in low concentrations. Breastfeeding is generally considered compatible, but monitor the infant. null" .
+<http://drug.uk/usage/breast-feeding/0fc6170e-a719-44b1-b3dd-f8bc64c30d4b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/hepatic-impairment/7867ea39-4bd0-4f73-8560-8dbe14ebea2a> <http://drug.uk/model/patientCondition> "HepaticImpairment" .
+<http://drug.uk/usage/hepatic-impairment/7867ea39-4bd0-4f73-8560-8dbe14ebea2a> <http://drug.uk/model/safetyLevel> "caution" .
+<http://drug.uk/usage/hepatic-impairment/7867ea39-4bd0-4f73-8560-8dbe14ebea2a> <http://purl.org/dc/terms/description> " Use with caution. Monitor liver function regularly, especially during the first few months of therapy." .
+<http://drug.uk/usage/hepatic-impairment/7867ea39-4bd0-4f73-8560-8dbe14ebea2a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/normal/998806c6-82f6-406f-9d1c-98884e6bde7e> <http://drug.uk/model/dosage> <http://drug.uk/dosage/a7fcf218-a393-46cf-8c44-0681b686bc0d> .
+<http://drug.uk/usage/normal/998806c6-82f6-406f-9d1c-98884e6bde7e> <http://drug.uk/model/indication> "Epilepsy" .
+<http://drug.uk/usage/normal/998806c6-82f6-406f-9d1c-98884e6bde7e> <http://drug.uk/model/patientCondition> "Normal" .
+<http://drug.uk/usage/normal/998806c6-82f6-406f-9d1c-98884e6bde7e> <http://drug.uk/model/safetyLevel> "safe" .
+<http://drug.uk/usage/normal/998806c6-82f6-406f-9d1c-98884e6bde7e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/pregnancy/4ae90fec-b291-4245-9b9a-a730b90324fd> <http://drug.uk/model/patientCondition> "Pregnancy" .
+<http://drug.uk/usage/pregnancy/4ae90fec-b291-4245-9b9a-a730b90324fd> <http://drug.uk/model/safetyLevel> "caution" .
+<http://drug.uk/usage/pregnancy/4ae90fec-b291-4245-9b9a-a730b90324fd> <http://purl.org/dc/terms/description> "Carbamazepine is associated with teratogenicity, including neural tube defects. Consider specialist advice and monitoring. null" .
+<http://drug.uk/usage/pregnancy/4ae90fec-b291-4245-9b9a-a730b90324fd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/renal-impairment/f6e855f4-01af-4e2c-ac62-32717c502b1b> <http://drug.uk/model/patientCondition> "RenalImpairment" .
+<http://drug.uk/usage/renal-impairment/f6e855f4-01af-4e2c-ac62-32717c502b1b> <http://drug.uk/model/safetyLevel> "caution" .
+<http://drug.uk/usage/renal-impairment/f6e855f4-01af-4e2c-ac62-32717c502b1b> <http://purl.org/dc/terms/description> " Use with caution in renal impairment. Therapeutic drug monitoring is recommended." .
+<http://drug.uk/usage/renal-impairment/f6e855f4-01af-4e2c-ac62-32717c502b1b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+
+
+
+
+
+<http://drug.uk/cefadroxil> <http://drug.uk/model/sideEffect> "Diarrhoea" .
+<http://drug.uk/cefadroxil> <http://drug.uk/model/sideEffect> "nausea" .
+<http://drug.uk/cefadroxil> <http://drug.uk/model/sideEffect> "vomiting" .
+<http://drug.uk/cefadroxil> <http://drug.uk/model/sideEffect> "abdominal pain" .
+<http://drug.uk/cefadroxil> <http://drug.uk/model/sideEffect> "dyspepsia" .
+<http://drug.uk/cefadroxil> <http://drug.uk/model/sideEffect> "rash" .
+<http://drug.uk/cefadroxil> <http://drug.uk/model/sideEffect> "urticaria" .
+<http://drug.uk/cefadroxil> <http://drug.uk/model/sideEffect> "Headache" .
+<http://drug.uk/cefadroxil> <http://drug.uk/model/sideEffect> "dizziness" .
+<http://drug.uk/cefadroxil> <http://drug.uk/model/sideEffect> "pruritus" .
+<http://drug.uk/cefadroxil> <http://drug.uk/model/sideEffect> "pseudomembranous colitis" .
+<http://drug.uk/cefadroxil> <http://drug.uk/model/sideEffect> "angioedema" .
+<http://drug.uk/cefadroxil> <http://drug.uk/model/sideEffect> "fatigue" .
+<http://drug.uk/cefadroxil> <http://drug.uk/model/sideEffect> "Haemolytic anaemia" .
+<http://drug.uk/cefadroxil> <http://drug.uk/model/sideEffect> "thrombocytopenia" .
+<http://drug.uk/cefadroxil> <http://drug.uk/model/sideEffect> "leucopenia" .
+<http://drug.uk/cefadroxil> <http://drug.uk/model/sideEffect> "interstitial nephritis" .
+<http://drug.uk/cefadroxil> <http://drug.uk/model/sideEffect> "serum sickness-like reaction" .
+<http://drug.uk/cefadroxil> <http://drug.uk/model/sideEffect> "Stevens-Johnson syndrome (SJS)" .
+<http://drug.uk/cefadroxil> <http://drug.uk/model/sideEffect> "erythema multiforme" .
+<http://drug.uk/cefadroxil> <http://drug.uk/model/sideEffectDescription> " Common: Diarrhoea; nausea; vomiting; abdominal pain; dyspepsia; rash; urticaria; Headache; dizziness; pruritus; pseudomembranous colitis. Uncommon: angioedema. Rare: fatigue; Haemolytic anaemia; thrombocytopenia; leucopenia; interstitial nephritis; serum sickness-like reaction; Stevens–Johnson syndrome (SJS); erythema multiforme." .
+<http://drug.uk/cefadroxil> <http://drug.uk/model/usage> <http://drug.uk/usage/breast-feeding/c3d3f1ed-45e6-4890-a847-5fe033f9524f> .
+<http://drug.uk/cefadroxil> <http://drug.uk/model/usage> <http://drug.uk/usage/hepatic-impairment/88ae7305-cd41-490d-8fa1-d05b35b100ab> .
+<http://drug.uk/cefadroxil> <http://drug.uk/model/usage> <http://drug.uk/usage/normal/9eba01ec-a367-4a4f-b763-7274db41356a> .
+<http://drug.uk/cefadroxil> <http://drug.uk/model/usage> <http://drug.uk/usage/pregnancy/4ba09b33-5609-49e0-87fe-7096e71f5e08> .
+<http://drug.uk/cefadroxil> <http://drug.uk/model/usage> <http://drug.uk/usage/renal-impairment/8e69836c-5152-43f4-856f-3cae8c877217> .
+<http://drug.uk/cefadroxil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/cefadroxil> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cefadroxil" .
+<http://drug.uk/dosage/2d531574-ee91-46eb-856d-ae4cbf8abcd5> <http://drug.uk/model/ageUnit> "years" .
+<http://drug.uk/dosage/2d531574-ee91-46eb-856d-ae4cbf8abcd5> <http://drug.uk/model/amount> "0.5"^^<http://www.w3.org/2001/XMLSchema#decimal> .
+<http://drug.uk/dosage/2d531574-ee91-46eb-856d-ae4cbf8abcd5> <http://drug.uk/model/duration> "PT12H"^^<http://www.w3.org/2001/XMLSchema#duration> .
+<http://drug.uk/dosage/2d531574-ee91-46eb-856d-ae4cbf8abcd5> <http://drug.uk/model/frequency> "1.0"^^<http://www.w3.org/2001/XMLSchema#decimal> .
+<http://drug.uk/dosage/2d531574-ee91-46eb-856d-ae4cbf8abcd5> <http://drug.uk/model/group> "child" .
+<http://drug.uk/dosage/2d531574-ee91-46eb-856d-ae4cbf8abcd5> <http://drug.uk/model/maxAge> "17.0"^^<http://www.w3.org/2001/XMLSchema#decimal> .
+<http://drug.uk/dosage/2d531574-ee91-46eb-856d-ae4cbf8abcd5> <http://drug.uk/model/minAge> "6.0"^^<http://www.w3.org/2001/XMLSchema#decimal> .
+<http://drug.uk/dosage/2d531574-ee91-46eb-856d-ae4cbf8abcd5> <http://drug.uk/model/minWeight> "40.0"^^<http://www.w3.org/2001/XMLSchema#decimal> .
+<http://drug.uk/dosage/2d531574-ee91-46eb-856d-ae4cbf8abcd5> <http://drug.uk/model/patientGroupDescription> "Child (6–17 years, body-weight 40 kg and above)" .
+<http://drug.uk/dosage/2d531574-ee91-46eb-856d-ae4cbf8abcd5> <http://drug.uk/model/route> "By mouth" .
+<http://drug.uk/dosage/2d531574-ee91-46eb-856d-ae4cbf8abcd5> <http://drug.uk/model/unit> "g" .
+<http://drug.uk/dosage/2d531574-ee91-46eb-856d-ae4cbf8abcd5> <http://drug.uk/model/weightUnit> "kg" .
+<http://drug.uk/dosage/2d531574-ee91-46eb-856d-ae4cbf8abcd5> <http://purl.org/dc/terms/description> "0.5g every 12 hours" .
+<http://drug.uk/dosage/2d531574-ee91-46eb-856d-ae4cbf8abcd5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Dosage> .
+<http://drug.uk/usage/breast-feeding/c3d3f1ed-45e6-4890-a847-5fe033f9524f> <http://drug.uk/model/patientCondition> "BreastFeeding" .
+<http://drug.uk/usage/breast-feeding/c3d3f1ed-45e6-4890-a847-5fe033f9524f> <http://drug.uk/model/safetyLevel> "safe" .
+<http://drug.uk/usage/breast-feeding/c3d3f1ed-45e6-4890-a847-5fe033f9524f> <http://purl.org/dc/terms/description> "Cefadroxil is excreted in breast milk in small amounts; can be used. null" .
+<http://drug.uk/usage/breast-feeding/c3d3f1ed-45e6-4890-a847-5fe033f9524f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/hepatic-impairment/88ae7305-cd41-490d-8fa1-d05b35b100ab> <http://drug.uk/model/patientCondition> "HepaticImpairment" .
+<http://drug.uk/usage/hepatic-impairment/88ae7305-cd41-490d-8fa1-d05b35b100ab> <http://purl.org/dc/terms/description> " null" .
+<http://drug.uk/usage/hepatic-impairment/88ae7305-cd41-490d-8fa1-d05b35b100ab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/normal/9eba01ec-a367-4a4f-b763-7274db41356a> <http://drug.uk/model/dosage> <http://drug.uk/dosage/2d531574-ee91-46eb-856d-ae4cbf8abcd5> .
+<http://drug.uk/usage/normal/9eba01ec-a367-4a4f-b763-7274db41356a> <http://drug.uk/model/indication> "Skin infections" .
+<http://drug.uk/usage/normal/9eba01ec-a367-4a4f-b763-7274db41356a> <http://drug.uk/model/indication> "Soft tissue infections" .
+<http://drug.uk/usage/normal/9eba01ec-a367-4a4f-b763-7274db41356a> <http://drug.uk/model/indication> "Urinary tract infections" .
+<http://drug.uk/usage/normal/9eba01ec-a367-4a4f-b763-7274db41356a> <http://drug.uk/model/patientCondition> "Normal" .
+<http://drug.uk/usage/normal/9eba01ec-a367-4a4f-b763-7274db41356a> <http://drug.uk/model/safetyLevel> "safe" .
+<http://drug.uk/usage/normal/9eba01ec-a367-4a4f-b763-7274db41356a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/pregnancy/4ba09b33-5609-49e0-87fe-7096e71f5e08> <http://drug.uk/model/patientCondition> "Pregnancy" .
+<http://drug.uk/usage/pregnancy/4ba09b33-5609-49e0-87fe-7096e71f5e08> <http://drug.uk/model/safetyLevel> "safe" .
+<http://drug.uk/usage/pregnancy/4ba09b33-5609-49e0-87fe-7096e71f5e08> <http://purl.org/dc/terms/description> " Generally considered safe in pregnancy when prescribed appropriately." .
+<http://drug.uk/usage/pregnancy/4ba09b33-5609-49e0-87fe-7096e71f5e08> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/renal-impairment/8e69836c-5152-43f4-856f-3cae8c877217> <http://drug.uk/model/patientCondition> "RenalImpairment" .
+<http://drug.uk/usage/renal-impairment/8e69836c-5152-43f4-856f-3cae8c877217> <http://drug.uk/model/safetyLevel> "caution" .
+<http://drug.uk/usage/renal-impairment/8e69836c-5152-43f4-856f-3cae8c877217> <http://purl.org/dc/terms/description> " Dose adjustment required in renal impairment; reduce dose according to creatinine clearance." .
+<http://drug.uk/usage/renal-impairment/8e69836c-5152-43f4-856f-3cae8c877217> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+
+
+
+
+
+<http://drug.uk/ciclosporin> <http://drug.uk/model/sideEffect> "Tremor" .
+<http://drug.uk/ciclosporin> <http://drug.uk/model/sideEffect> "headache" .
+<http://drug.uk/ciclosporin> <http://drug.uk/model/sideEffect> "hypertension" .
+<http://drug.uk/ciclosporin> <http://drug.uk/model/sideEffect> "hirsutism" .
+<http://drug.uk/ciclosporin> <http://drug.uk/model/sideEffect> "gingival hyperplasia" .
+<http://drug.uk/ciclosporin> <http://drug.uk/model/sideEffect> "hyperlipidaemia" .
+<http://drug.uk/ciclosporin> <http://drug.uk/model/sideEffect> "nausea" .
+<http://drug.uk/ciclosporin> <http://drug.uk/model/sideEffect> "vomiting" .
+<http://drug.uk/ciclosporin> <http://drug.uk/model/sideEffect> "diarrhoea" .
+<http://drug.uk/ciclosporin> <http://drug.uk/model/sideEffect> "abdominal pain" .
+<http://drug.uk/ciclosporin> <http://drug.uk/model/sideEffect> "renal dysfunction" .
+<http://drug.uk/ciclosporin> <http://drug.uk/model/sideEffect> "Paraesthesia" .
+<http://drug.uk/ciclosporin> <http://drug.uk/model/sideEffect> "muscle cramps" .
+<http://drug.uk/ciclosporin> <http://drug.uk/model/sideEffect> "anorexia" .
+<http://drug.uk/ciclosporin> <http://drug.uk/model/sideEffect> "hyperglycaemia" .
+<http://drug.uk/ciclosporin> <http://drug.uk/model/sideEffect> "acne" .
+<http://drug.uk/ciclosporin> <http://drug.uk/model/sideEffect> "fatigue" .
+<http://drug.uk/ciclosporin> <http://drug.uk/model/sideEffect> "confusion" .
+<http://drug.uk/ciclosporin> <http://drug.uk/model/sideEffect> "weight gain" .
+<http://drug.uk/ciclosporin> <http://drug.uk/model/sideEffect> "posterior reversible encephalopathy syndrome (PRES)" .
+<http://drug.uk/ciclosporin> <http://drug.uk/model/sideEffect> "pancreatitis" .
+<http://drug.uk/ciclosporin> <http://drug.uk/model/sideEffect> "motor neuropathy" .
+<http://drug.uk/ciclosporin> <http://drug.uk/model/sideEffect> "myopathy" .
+<http://drug.uk/ciclosporin> <http://drug.uk/model/sideEffect> "menstrual disturbances" .
+<http://drug.uk/ciclosporin> <http://drug.uk/model/sideEffect> "hearing loss" .
+<http://drug.uk/ciclosporin> <http://drug.uk/model/sideEffect> "hepatitis" .
+<http://drug.uk/ciclosporin> <http://drug.uk/model/sideEffectDescription> " Common: Tremor; headache; hypertension; hirsutism; gingival hyperplasia; hyperlipidaemia; nausea; vomiting; diarrhoea; abdominal pain; renal dysfunction; Paraesthesia; muscle cramps; anorexia; hyperglycaemia; acne; fatigue. Uncommon: confusion; weight gain; posterior reversible encephalopathy syndrome (PRES). Rare: pancreatitis; motor neuropathy; myopathy; menstrual disturbances. Frequency Not Known: hearing loss; hepatitis." .
+<http://drug.uk/ciclosporin> <http://drug.uk/model/usage> <http://drug.uk/usage/breast-feeding/ddc82580-687a-44d4-86f1-70efd5e5f5b7> .
+<http://drug.uk/ciclosporin> <http://drug.uk/model/usage> <http://drug.uk/usage/hepatic-impairment/cbf07a1a-d289-488d-ab90-9006d0d7f1b5> .
+<http://drug.uk/ciclosporin> <http://drug.uk/model/usage> <http://drug.uk/usage/normal/7c9ef523-61d4-486e-ad83-59ece8f2a93b> .
+<http://drug.uk/ciclosporin> <http://drug.uk/model/usage> <http://drug.uk/usage/pregnancy/a1fa1883-fcd5-4550-8ded-ec2cb3d3bbbd> .
+<http://drug.uk/ciclosporin> <http://drug.uk/model/usage> <http://drug.uk/usage/renal-impairment/16b4e4bf-4266-4ac2-9384-3df3dc02498d> .
+<http://drug.uk/ciclosporin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/ciclosporin> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ciclosporin" .
+<http://drug.uk/dosage/df1724cf-b63c-4375-898e-32c635623cf7> <http://drug.uk/model/amount> "2.5"^^<http://www.w3.org/2001/XMLSchema#decimal> .
+<http://drug.uk/dosage/df1724cf-b63c-4375-898e-32c635623cf7> <http://drug.uk/model/duration> "P1D"^^<http://www.w3.org/2001/XMLSchema#duration> .
+<http://drug.uk/dosage/df1724cf-b63c-4375-898e-32c635623cf7> <http://drug.uk/model/frequency> "2.0"^^<http://www.w3.org/2001/XMLSchema#decimal> .
+<http://drug.uk/dosage/df1724cf-b63c-4375-898e-32c635623cf7> <http://drug.uk/model/group> "adult" .
+<http://drug.uk/dosage/df1724cf-b63c-4375-898e-32c635623cf7> <http://drug.uk/model/patientGroupDescription> "Adult" .
+<http://drug.uk/dosage/df1724cf-b63c-4375-898e-32c635623cf7> <http://drug.uk/model/route> "By mouth" .
+<http://drug.uk/dosage/df1724cf-b63c-4375-898e-32c635623cf7> <http://drug.uk/model/unit> "mg/kg" .
+<http://drug.uk/dosage/df1724cf-b63c-4375-898e-32c635623cf7> <http://purl.org/dc/terms/description> "up to 2.5 mg/kg 2 times daily; adjust dose based on clinical response and blood levels" .
+<http://drug.uk/dosage/df1724cf-b63c-4375-898e-32c635623cf7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Dosage> .
+<http://drug.uk/usage/breast-feeding/ddc82580-687a-44d4-86f1-70efd5e5f5b7> <http://drug.uk/model/patientCondition> "BreastFeeding" .
+<http://drug.uk/usage/breast-feeding/ddc82580-687a-44d4-86f1-70efd5e5f5b7> <http://drug.uk/model/safetyLevel> "unsafe" .
+<http://drug.uk/usage/breast-feeding/ddc82580-687a-44d4-86f1-70efd5e5f5b7> <http://purl.org/dc/terms/description> "Ciclosporin is excreted in breast milk. Breastfeeding is generally not recommended during treatment. null" .
+<http://drug.uk/usage/breast-feeding/ddc82580-687a-44d4-86f1-70efd5e5f5b7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/hepatic-impairment/cbf07a1a-d289-488d-ab90-9006d0d7f1b5> <http://drug.uk/model/patientCondition> "HepaticImpairment" .
+<http://drug.uk/usage/hepatic-impairment/cbf07a1a-d289-488d-ab90-9006d0d7f1b5> <http://drug.uk/model/safetyLevel> "caution" .
+<http://drug.uk/usage/hepatic-impairment/cbf07a1a-d289-488d-ab90-9006d0d7f1b5> <http://purl.org/dc/terms/description> " Dose adjustment and close monitoring of ciclosporin levels are recommended in moderate to severe hepatic impairment." .
+<http://drug.uk/usage/hepatic-impairment/cbf07a1a-d289-488d-ab90-9006d0d7f1b5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/normal/7c9ef523-61d4-486e-ad83-59ece8f2a93b> <http://drug.uk/model/dosage> <http://drug.uk/dosage/df1724cf-b63c-4375-898e-32c635623cf7> .
+<http://drug.uk/usage/normal/7c9ef523-61d4-486e-ad83-59ece8f2a93b> <http://drug.uk/model/indication> "Severe psoriasis" .
+<http://drug.uk/usage/normal/7c9ef523-61d4-486e-ad83-59ece8f2a93b> <http://drug.uk/model/patientCondition> "Normal" .
+<http://drug.uk/usage/normal/7c9ef523-61d4-486e-ad83-59ece8f2a93b> <http://drug.uk/model/safetyLevel> "safe" .
+<http://drug.uk/usage/normal/7c9ef523-61d4-486e-ad83-59ece8f2a93b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/pregnancy/a1fa1883-fcd5-4550-8ded-ec2cb3d3bbbd> <http://drug.uk/model/patientCondition> "Pregnancy" .
+<http://drug.uk/usage/pregnancy/a1fa1883-fcd5-4550-8ded-ec2cb3d3bbbd> <http://drug.uk/model/safetyLevel> "caution" .
+<http://drug.uk/usage/pregnancy/a1fa1883-fcd5-4550-8ded-ec2cb3d3bbbd> <http://purl.org/dc/terms/description> "Use only if the potential benefit justifies the potential risk to the fetus. Ciclosporin crosses the placenta and may cause fetal harm. null" .
+<http://drug.uk/usage/pregnancy/a1fa1883-fcd5-4550-8ded-ec2cb3d3bbbd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/renal-impairment/16b4e4bf-4266-4ac2-9384-3df3dc02498d> <http://drug.uk/model/patientCondition> "RenalImpairment" .
+<http://drug.uk/usage/renal-impairment/16b4e4bf-4266-4ac2-9384-3df3dc02498d> <http://drug.uk/model/safetyLevel> "caution" .
+<http://drug.uk/usage/renal-impairment/16b4e4bf-4266-4ac2-9384-3df3dc02498d> <http://purl.org/dc/terms/description> " Avoid overdose, adjust dose and monitor serum ciclosporin concentrations regularly." .
+<http://drug.uk/usage/renal-impairment/16b4e4bf-4266-4ac2-9384-3df3dc02498d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+
+
+
+
+
+<http://drug.uk/co-trimoxazole> <http://drug.uk/model/sideEffect> "Nausea" .
+<http://drug.uk/co-trimoxazole> <http://drug.uk/model/sideEffect> "diarrhoea" .
+<http://drug.uk/co-trimoxazole> <http://drug.uk/model/sideEffect> "rash" .
+<http://drug.uk/co-trimoxazole> <http://drug.uk/model/sideEffect> "hyperkalaemia" .
+<http://drug.uk/co-trimoxazole> <http://drug.uk/model/sideEffect> "Headache" .
+<http://drug.uk/co-trimoxazole> <http://drug.uk/model/sideEffect> "dizziness" .
+<http://drug.uk/co-trimoxazole> <http://drug.uk/model/sideEffect> "vomiting" .
+<http://drug.uk/co-trimoxazole> <http://drug.uk/model/sideEffect> "pruritus" .
+<http://drug.uk/co-trimoxazole> <http://drug.uk/model/sideEffect> "loss of appetite" .
+<http://drug.uk/co-trimoxazole> <http://drug.uk/model/sideEffect> "photosensitivity" .
+<http://drug.uk/co-trimoxazole> <http://drug.uk/model/sideEffect> "agranulocytosis" .
+<http://drug.uk/co-trimoxazole> <http://drug.uk/model/sideEffect> "thrombocytopenia" .
+<http://drug.uk/co-trimoxazole> <http://drug.uk/model/sideEffect> "haemolytic anaemia" .
+<http://drug.uk/co-trimoxazole> <http://drug.uk/model/sideEffect> "aplastic anaemia" .
+<http://drug.uk/co-trimoxazole> <http://drug.uk/model/sideEffect> "aseptic meningitis" .
+<http://drug.uk/co-trimoxazole> <http://drug.uk/model/sideEffect> "pancreatitis" .
+<http://drug.uk/co-trimoxazole> <http://drug.uk/model/sideEffect> "interstitial nephritis" .
+<http://drug.uk/co-trimoxazole> <http://drug.uk/model/sideEffect> "Stevens-Johnson syndrome (SJS)" .
+<http://drug.uk/co-trimoxazole> <http://drug.uk/model/sideEffect> "toxic epidermal necrolysis (TEN)" .
+<http://drug.uk/co-trimoxazole> <http://drug.uk/model/sideEffect> "erythema multiforme" .
+<http://drug.uk/co-trimoxazole> <http://drug.uk/model/sideEffect> "serum sickness" .
+<http://drug.uk/co-trimoxazole> <http://drug.uk/model/sideEffect> "drug reaction with eosinophilia and systemic symptoms (DRESS)" .
+<http://drug.uk/co-trimoxazole> <http://drug.uk/model/sideEffectDescription> " Common: Nausea; diarrhoea; rash; hyperkalaemia; Headache; dizziness; Uncommon: vomiting; pruritus. Rare: loss of appetite; photosensitivity;  agranulocytosis, thrombocytopenia, haemolytic anaemia, aplastic anaemia; aseptic meningitis; pancreatitis; interstitial nephritis; Stevens–Johnson syndrome (SJS); toxic epidermal necrolysis (TEN); erythema multiforme; serum sickness. Frequency Not Known: drug reaction with eosinophilia and systemic symptoms (DRESS)." .
+<http://drug.uk/co-trimoxazole> <http://drug.uk/model/usage> <http://drug.uk/usage/breast-feeding/15d179ca-795a-47c8-b0a8-041f6a308851> .
+<http://drug.uk/co-trimoxazole> <http://drug.uk/model/usage> <http://drug.uk/usage/hepatic-impairment/eaa0fe85-3966-41c9-a18e-065d89973c47> .
+<http://drug.uk/co-trimoxazole> <http://drug.uk/model/usage> <http://drug.uk/usage/normal/a8c8afa9-846d-489e-98c7-7eb197b11aa0> .
+<http://drug.uk/co-trimoxazole> <http://drug.uk/model/usage> <http://drug.uk/usage/pregnancy/ab1e720e-2bff-47dd-be25-e737c27d8d85> .
+<http://drug.uk/co-trimoxazole> <http://drug.uk/model/usage> <http://drug.uk/usage/renal-impairment/9d137d78-a9b3-4671-9e1e-09c36218f32a> .
+<http://drug.uk/co-trimoxazole> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/co-trimoxazole> <http://www.w3.org/2004/02/skos/core#prefLabel> "Co-trimoxazole" .
+<http://drug.uk/dosage/0ca0c8a9-f3b2-451d-9de7-ebd59e6099d5> <http://drug.uk/model/amount> "960.0"^^<http://www.w3.org/2001/XMLSchema#decimal> .
+<http://drug.uk/dosage/0ca0c8a9-f3b2-451d-9de7-ebd59e6099d5> <http://drug.uk/model/duration> "PT12H"^^<http://www.w3.org/2001/XMLSchema#duration> .
+<http://drug.uk/dosage/0ca0c8a9-f3b2-451d-9de7-ebd59e6099d5> <http://drug.uk/model/frequency> "1.0"^^<http://www.w3.org/2001/XMLSchema#decimal> .
+<http://drug.uk/dosage/0ca0c8a9-f3b2-451d-9de7-ebd59e6099d5> <http://drug.uk/model/group> "adult" .
+<http://drug.uk/dosage/0ca0c8a9-f3b2-451d-9de7-ebd59e6099d5> <http://drug.uk/model/patientGroupDescription> "Adult" .
+<http://drug.uk/dosage/0ca0c8a9-f3b2-451d-9de7-ebd59e6099d5> <http://drug.uk/model/route> "By mouth" .
+<http://drug.uk/dosage/0ca0c8a9-f3b2-451d-9de7-ebd59e6099d5> <http://drug.uk/model/unit> "mg" .
+<http://drug.uk/dosage/0ca0c8a9-f3b2-451d-9de7-ebd59e6099d5> <http://purl.org/dc/terms/description> "960 mg every 12 hours" .
+<http://drug.uk/dosage/0ca0c8a9-f3b2-451d-9de7-ebd59e6099d5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Dosage> .
+<http://drug.uk/usage/breast-feeding/15d179ca-795a-47c8-b0a8-041f6a308851> <http://drug.uk/model/patientCondition> "BreastFeeding" .
+<http://drug.uk/usage/breast-feeding/15d179ca-795a-47c8-b0a8-041f6a308851> <http://drug.uk/model/safetyLevel> "caution" .
+<http://drug.uk/usage/breast-feeding/15d179ca-795a-47c8-b0a8-041f6a308851> <http://purl.org/dc/terms/description> "May cause complications in jaundiced neonates and infants. null" .
+<http://drug.uk/usage/breast-feeding/15d179ca-795a-47c8-b0a8-041f6a308851> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/hepatic-impairment/eaa0fe85-3966-41c9-a18e-065d89973c47> <http://drug.uk/model/patientCondition> "HepaticImpairment" .
+<http://drug.uk/usage/hepatic-impairment/eaa0fe85-3966-41c9-a18e-065d89973c47> <http://drug.uk/model/safetyLevel> "caution" .
+<http://drug.uk/usage/hepatic-impairment/eaa0fe85-3966-41c9-a18e-065d89973c47> <http://purl.org/dc/terms/description> " Better to avoid in severe hepatic impairment." .
+<http://drug.uk/usage/hepatic-impairment/eaa0fe85-3966-41c9-a18e-065d89973c47> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/normal/a8c8afa9-846d-489e-98c7-7eb197b11aa0> <http://drug.uk/model/dosage> <http://drug.uk/dosage/0ca0c8a9-f3b2-451d-9de7-ebd59e6099d5> .
+<http://drug.uk/usage/normal/a8c8afa9-846d-489e-98c7-7eb197b11aa0> <http://drug.uk/model/indication> "Leg ulcer infection" .
+<http://drug.uk/usage/normal/a8c8afa9-846d-489e-98c7-7eb197b11aa0> <http://drug.uk/model/patientCondition> "Normal" .
+<http://drug.uk/usage/normal/a8c8afa9-846d-489e-98c7-7eb197b11aa0> <http://drug.uk/model/safetyLevel> "safe" .
+<http://drug.uk/usage/normal/a8c8afa9-846d-489e-98c7-7eb197b11aa0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/pregnancy/ab1e720e-2bff-47dd-be25-e737c27d8d85> <http://drug.uk/model/patientCondition> "Pregnancy" .
+<http://drug.uk/usage/pregnancy/ab1e720e-2bff-47dd-be25-e737c27d8d85> <http://drug.uk/model/safetyLevel> "caution" .
+<http://drug.uk/usage/pregnancy/ab1e720e-2bff-47dd-be25-e737c27d8d85> <http://purl.org/dc/terms/description> "Avoid in the first trimester due to potential teratogenicity; use only if clearly needed later in pregnancy. null" .
+<http://drug.uk/usage/pregnancy/ab1e720e-2bff-47dd-be25-e737c27d8d85> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/renal-impairment/9d137d78-a9b3-4671-9e1e-09c36218f32a> <http://drug.uk/model/patientCondition> "RenalImpairment" .
+<http://drug.uk/usage/renal-impairment/9d137d78-a9b3-4671-9e1e-09c36218f32a> <http://drug.uk/model/safetyLevel> "caution" .
+<http://drug.uk/usage/renal-impairment/9d137d78-a9b3-4671-9e1e-09c36218f32a> <http://purl.org/dc/terms/description> " Reduce dose in moderate to severe renal impairment." .
+<http://drug.uk/usage/renal-impairment/9d137d78-a9b3-4671-9e1e-09c36218f32a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+
+
+
+
+
+<http://drug.uk/dosage/7a59626d-aa17-48d4-a038-2bc314f307b3> <http://drug.uk/model/ageUnit> "years" .
+<http://drug.uk/dosage/7a59626d-aa17-48d4-a038-2bc314f307b3> <http://drug.uk/model/amount> "500.0"^^<http://www.w3.org/2001/XMLSchema#decimal> .
+<http://drug.uk/dosage/7a59626d-aa17-48d4-a038-2bc314f307b3> <http://drug.uk/model/duration> "PT6H"^^<http://www.w3.org/2001/XMLSchema#duration> .
+<http://drug.uk/dosage/7a59626d-aa17-48d4-a038-2bc314f307b3> <http://drug.uk/model/frequency> "1.0"^^<http://www.w3.org/2001/XMLSchema#decimal> .
+<http://drug.uk/dosage/7a59626d-aa17-48d4-a038-2bc314f307b3> <http://drug.uk/model/group> "child" .
+<http://drug.uk/dosage/7a59626d-aa17-48d4-a038-2bc314f307b3> <http://drug.uk/model/maxAge> "17.0"^^<http://www.w3.org/2001/XMLSchema#decimal> .
+<http://drug.uk/dosage/7a59626d-aa17-48d4-a038-2bc314f307b3> <http://drug.uk/model/minAge> "10.0"^^<http://www.w3.org/2001/XMLSchema#decimal> .
+<http://drug.uk/dosage/7a59626d-aa17-48d4-a038-2bc314f307b3> <http://drug.uk/model/patientGroupDescription> "Child (10-17 years)" .
+<http://drug.uk/dosage/7a59626d-aa17-48d4-a038-2bc314f307b3> <http://drug.uk/model/route> "By mouth" .
+<http://drug.uk/dosage/7a59626d-aa17-48d4-a038-2bc314f307b3> <http://drug.uk/model/unit> "mg" .
+<http://drug.uk/dosage/7a59626d-aa17-48d4-a038-2bc314f307b3> <http://purl.org/dc/terms/description> "500 mg every 6 hours orally" .
+<http://drug.uk/dosage/7a59626d-aa17-48d4-a038-2bc314f307b3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Dosage> .
+<http://drug.uk/flucloxacillin> <http://drug.uk/model/sideEffect> "Nausea" .
+<http://drug.uk/flucloxacillin> <http://drug.uk/model/sideEffect> "Vomiting" .
+<http://drug.uk/flucloxacillin> <http://drug.uk/model/sideEffect> "Diarrhoea" .
+<http://drug.uk/flucloxacillin> <http://drug.uk/model/sideEffect> "Thrombocytopenia" .
+<http://drug.uk/flucloxacillin> <http://drug.uk/model/sideEffect> "Rash" .
+<http://drug.uk/flucloxacillin> <http://drug.uk/model/sideEffect> "Urticaria (hives)" .
+<http://drug.uk/flucloxacillin> <http://drug.uk/model/sideEffect> "Purpura" .
+<http://drug.uk/flucloxacillin> <http://drug.uk/model/sideEffect> "Arthralgia" .
+<http://drug.uk/flucloxacillin> <http://drug.uk/model/sideEffect> "Fever" .
+<http://drug.uk/flucloxacillin> <http://drug.uk/model/sideEffect> "Cholestatic jaundice" .
+<http://drug.uk/flucloxacillin> <http://drug.uk/model/sideEffect> "Hepatitis" .
+<http://drug.uk/flucloxacillin> <http://drug.uk/model/sideEffect> "Neutropenia" .
+<http://drug.uk/flucloxacillin> <http://drug.uk/model/sideEffect> "Agranulocytosis" .
+<http://drug.uk/flucloxacillin> <http://drug.uk/model/sideEffect> "Haemolytic anaemia" .
+<http://drug.uk/flucloxacillin> <http://drug.uk/model/sideEffect> "Anaphylactic shock" .
+<http://drug.uk/flucloxacillin> <http://drug.uk/model/sideEffect> "Angioedema" .
+<http://drug.uk/flucloxacillin> <http://drug.uk/model/sideEffect> "Erythema multiforme" .
+<http://drug.uk/flucloxacillin> <http://drug.uk/model/sideEffect> "Stevens-Johnson syndrome" .
+<http://drug.uk/flucloxacillin> <http://drug.uk/model/sideEffect> "Toxic epidermal necrolysis" .
+<http://drug.uk/flucloxacillin> <http://drug.uk/model/sideEffect> "Interstitial nephritis" .
+<http://drug.uk/flucloxacillin> <http://drug.uk/model/sideEffect> "Convulsions" .
+<http://drug.uk/flucloxacillin> <http://drug.uk/model/sideEffect> "Myalgia" .
+<http://drug.uk/flucloxacillin> <http://drug.uk/model/sideEffect> "Pseudomembranous colitis" .
+<http://drug.uk/flucloxacillin> <http://drug.uk/model/sideEffect> "Acute generalized exanthematous pustulosis (AGEP)" .
+<http://drug.uk/flucloxacillin> <http://drug.uk/model/sideEffect> "Oesophageal pain" .
+<http://drug.uk/flucloxacillin> <http://drug.uk/model/sideEffect> "Hypokalaemia" .
+<http://drug.uk/flucloxacillin> <http://drug.uk/model/sideEffectDescription> " Common: Nausea; Vomiting; Diarrhoea; Thrombocytopenia. Uncommon: Rash; Urticaria (hives); Purpura; Arthralgia. Rare: Fever; Cholestatic jaundice; Hepatitis; Neutropenia; Agranulocytosis; Haemolytic anaemia; Anaphylactic shock; Angioedema; Erythema multiforme; Stevens-Johnson syndrome; Toxic epidermal necrolysis; Interstitial nephritis; Convulsions; Myalgia; Pseudomembranous colitis. Frequency not known: Acute generalized exanthematous pustulosis (AGEP); Oesophageal pain; Hypokalaemia." .
+<http://drug.uk/flucloxacillin> <http://drug.uk/model/usage> <http://drug.uk/usage/breast-feeding/5ba18b0d-c087-4842-b7d3-b144e1366786> .
+<http://drug.uk/flucloxacillin> <http://drug.uk/model/usage> <http://drug.uk/usage/hepatic-impairment/5370889f-1e15-425d-80c0-7344dee59d5b> .
+<http://drug.uk/flucloxacillin> <http://drug.uk/model/usage> <http://drug.uk/usage/normal/adb3690e-8e7d-44d0-afda-e4bce2d36f90> .
+<http://drug.uk/flucloxacillin> <http://drug.uk/model/usage> <http://drug.uk/usage/pregnancy/1b5a73e2-569e-47fc-9c07-0b9b9a402c8d> .
+<http://drug.uk/flucloxacillin> <http://drug.uk/model/usage> <http://drug.uk/usage/renal-impairment/614db87c-8687-466f-92b9-da0d66f9372b> .
+<http://drug.uk/flucloxacillin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/flucloxacillin> <http://www.w3.org/2004/02/skos/core#prefLabel> "Flucloxacillin" .
+<http://drug.uk/usage/breast-feeding/5ba18b0d-c087-4842-b7d3-b144e1366786> <http://drug.uk/model/patientCondition> "BreastFeeding" .
+<http://drug.uk/usage/breast-feeding/5ba18b0d-c087-4842-b7d3-b144e1366786> <http://drug.uk/model/safetyLevel> "safe" .
+<http://drug.uk/usage/breast-feeding/5ba18b0d-c087-4842-b7d3-b144e1366786> <http://purl.org/dc/terms/description> "Flucloxacillin is excreted in breast milk in small amounts; unlikely to be harmful null" .
+<http://drug.uk/usage/breast-feeding/5ba18b0d-c087-4842-b7d3-b144e1366786> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/hepatic-impairment/5370889f-1e15-425d-80c0-7344dee59d5b> <http://drug.uk/model/patientCondition> "HepaticImpairment" .
+<http://drug.uk/usage/hepatic-impairment/5370889f-1e15-425d-80c0-7344dee59d5b> <http://drug.uk/model/safetyLevel> "caution" .
+<http://drug.uk/usage/hepatic-impairment/5370889f-1e15-425d-80c0-7344dee59d5b> <http://purl.org/dc/terms/description> " Use with caution in hepatic impairment; dose adjustment may be needed in severe hepatic impairment." .
+<http://drug.uk/usage/hepatic-impairment/5370889f-1e15-425d-80c0-7344dee59d5b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/normal/adb3690e-8e7d-44d0-afda-e4bce2d36f90> <http://drug.uk/model/dosage> <http://drug.uk/dosage/7a59626d-aa17-48d4-a038-2bc314f307b3> .
+<http://drug.uk/usage/normal/adb3690e-8e7d-44d0-afda-e4bce2d36f90> <http://drug.uk/model/indication> "Pneumonia" .
+<http://drug.uk/usage/normal/adb3690e-8e7d-44d0-afda-e4bce2d36f90> <http://drug.uk/model/patientCondition> "Normal" .
+<http://drug.uk/usage/normal/adb3690e-8e7d-44d0-afda-e4bce2d36f90> <http://drug.uk/model/safetyLevel> "safe" .
+<http://drug.uk/usage/normal/adb3690e-8e7d-44d0-afda-e4bce2d36f90> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/pregnancy/1b5a73e2-569e-47fc-9c07-0b9b9a402c8d> <http://drug.uk/model/patientCondition> "Pregnancy" .
+<http://drug.uk/usage/pregnancy/1b5a73e2-569e-47fc-9c07-0b9b9a402c8d> <http://drug.uk/model/safetyLevel> "safe" .
+<http://drug.uk/usage/pregnancy/1b5a73e2-569e-47fc-9c07-0b9b9a402c8d> <http://purl.org/dc/terms/description> "Generally considered safe during pregnancy when used appropriately. null" .
+<http://drug.uk/usage/pregnancy/1b5a73e2-569e-47fc-9c07-0b9b9a402c8d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/renal-impairment/614db87c-8687-466f-92b9-da0d66f9372b> <http://drug.uk/model/patientCondition> "RenalImpairment" .
+<http://drug.uk/usage/renal-impairment/614db87c-8687-466f-92b9-da0d66f9372b> <http://drug.uk/model/safetyLevel> "caution" .
+<http://drug.uk/usage/renal-impairment/614db87c-8687-466f-92b9-da0d66f9372b> <http://purl.org/dc/terms/description> " Monitor renal function and adjust dose in severe impairment." .
+<http://drug.uk/usage/renal-impairment/614db87c-8687-466f-92b9-da0d66f9372b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+
+
+
+
+
+<http://drug.uk/dosage/b1625464-707d-4445-bb51-4441f7d7f331> <http://drug.uk/model/amount> "1.0"^^<http://www.w3.org/2001/XMLSchema#decimal> .
+<http://drug.uk/dosage/b1625464-707d-4445-bb51-4441f7d7f331> <http://drug.uk/model/group> "adult" .
+<http://drug.uk/dosage/b1625464-707d-4445-bb51-4441f7d7f331> <http://drug.uk/model/patientGroupDescription> "Adult" .
+<http://drug.uk/dosage/b1625464-707d-4445-bb51-4441f7d7f331> <http://drug.uk/model/route> "By intravenous infusion" .
+<http://drug.uk/dosage/b1625464-707d-4445-bb51-4441f7d7f331> <http://drug.uk/model/unit> "L" .
+<http://drug.uk/dosage/b1625464-707d-4445-bb51-4441f7d7f331> <http://purl.org/dc/terms/description> "up to 1L intravenously depending on clinical need" .
+<http://drug.uk/dosage/b1625464-707d-4445-bb51-4441f7d7f331> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Dosage> .
+<http://drug.uk/gelatin> <http://drug.uk/model/sideEffect> "Urticaria (Hives)" .
+<http://drug.uk/gelatin> <http://drug.uk/model/sideEffect> "Shortness of breath (dyspnoea)" .
+<http://drug.uk/gelatin> <http://drug.uk/model/sideEffect> "Excessive sweating" .
+<http://drug.uk/gelatin> <http://drug.uk/model/sideEffect> "fever" .
+<http://drug.uk/gelatin> <http://drug.uk/model/sideEffect> "hypotension" .
+<http://drug.uk/gelatin> <http://drug.uk/model/sideEffect> "chills" .
+<http://drug.uk/gelatin> <http://drug.uk/model/sideEffectDescription> " Rare: Urticaria (Hives); Shortness of breath (dyspnoea); Excessive sweating; fever; hypotension; chills." .
+<http://drug.uk/gelatin> <http://drug.uk/model/usage> <http://drug.uk/usage/breast-feeding/771a010e-85a4-43d1-b811-d6d8db17d62a> .
+<http://drug.uk/gelatin> <http://drug.uk/model/usage> <http://drug.uk/usage/hepatic-impairment/2b0feab0-7054-4238-bb74-449572bdcfaa> .
+<http://drug.uk/gelatin> <http://drug.uk/model/usage> <http://drug.uk/usage/normal/90478769-e613-43b2-b2a3-1fc25076a4a4> .
+<http://drug.uk/gelatin> <http://drug.uk/model/usage> <http://drug.uk/usage/pregnancy/9b03c449-2a86-411c-8cc7-eae58b6179e3> .
+<http://drug.uk/gelatin> <http://drug.uk/model/usage> <http://drug.uk/usage/renal-impairment/492aeb89-e824-4df1-8467-055f346cf9d9> .
+<http://drug.uk/gelatin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/gelatin> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gelatin" .
+<http://drug.uk/usage/breast-feeding/771a010e-85a4-43d1-b811-d6d8db17d62a> <http://drug.uk/model/patientCondition> "BreastFeeding" .
+<http://drug.uk/usage/breast-feeding/771a010e-85a4-43d1-b811-d6d8db17d62a> <http://purl.org/dc/terms/description> " null" .
+<http://drug.uk/usage/breast-feeding/771a010e-85a4-43d1-b811-d6d8db17d62a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/hepatic-impairment/2b0feab0-7054-4238-bb74-449572bdcfaa> <http://drug.uk/model/patientCondition> "HepaticImpairment" .
+<http://drug.uk/usage/hepatic-impairment/2b0feab0-7054-4238-bb74-449572bdcfaa> <http://drug.uk/model/safetyLevel> "caution" .
+<http://drug.uk/usage/hepatic-impairment/2b0feab0-7054-4238-bb74-449572bdcfaa> <http://purl.org/dc/terms/description> " Caution advised in intravenous gelatin-based plasma substitutes." .
+<http://drug.uk/usage/hepatic-impairment/2b0feab0-7054-4238-bb74-449572bdcfaa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/normal/90478769-e613-43b2-b2a3-1fc25076a4a4> <http://drug.uk/model/dosage> <http://drug.uk/dosage/b1625464-707d-4445-bb51-4441f7d7f331> .
+<http://drug.uk/usage/normal/90478769-e613-43b2-b2a3-1fc25076a4a4> <http://drug.uk/model/indication> "Low blood volume " .
+<http://drug.uk/usage/normal/90478769-e613-43b2-b2a3-1fc25076a4a4> <http://drug.uk/model/indication> "Pharmaceutical excipient (capsules, tablets)" .
+<http://drug.uk/usage/normal/90478769-e613-43b2-b2a3-1fc25076a4a4> <http://drug.uk/model/indication> "Stabiliser in vaccines" .
+<http://drug.uk/usage/normal/90478769-e613-43b2-b2a3-1fc25076a4a4> <http://drug.uk/model/patientCondition> "Normal" .
+<http://drug.uk/usage/normal/90478769-e613-43b2-b2a3-1fc25076a4a4> <http://drug.uk/model/safetyLevel> "safe" .
+<http://drug.uk/usage/normal/90478769-e613-43b2-b2a3-1fc25076a4a4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/pregnancy/9b03c449-2a86-411c-8cc7-eae58b6179e3> <http://drug.uk/model/patientCondition> "Pregnancy" .
+<http://drug.uk/usage/pregnancy/9b03c449-2a86-411c-8cc7-eae58b6179e3> <http://drug.uk/model/safetyLevel> "safe" .
+<http://drug.uk/usage/pregnancy/9b03c449-2a86-411c-8cc7-eae58b6179e3> <http://purl.org/dc/terms/description> "Considered safe in pregnancy when used as an excipient or food-grade substance. null" .
+<http://drug.uk/usage/pregnancy/9b03c449-2a86-411c-8cc7-eae58b6179e3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/renal-impairment/492aeb89-e824-4df1-8467-055f346cf9d9> <http://drug.uk/model/patientCondition> "RenalImpairment" .
+<http://drug.uk/usage/renal-impairment/492aeb89-e824-4df1-8467-055f346cf9d9> <http://drug.uk/model/safetyLevel> "caution" .
+<http://drug.uk/usage/renal-impairment/492aeb89-e824-4df1-8467-055f346cf9d9> <http://purl.org/dc/terms/description> " Use with caution in patients with renal impairment." .
+<http://drug.uk/usage/renal-impairment/492aeb89-e824-4df1-8467-055f346cf9d9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+
+
+
+
+
+<http://drug.uk/dosage/cc2f4dd0-2c93-46f3-9997-ef823f267e6b> <http://drug.uk/model/amount> "20.0"^^<http://www.w3.org/2001/XMLSchema#decimal> .
+<http://drug.uk/dosage/cc2f4dd0-2c93-46f3-9997-ef823f267e6b> <http://drug.uk/model/duration> "P1D"^^<http://www.w3.org/2001/XMLSchema#duration> .
+<http://drug.uk/dosage/cc2f4dd0-2c93-46f3-9997-ef823f267e6b> <http://drug.uk/model/frequency> "4.0"^^<http://www.w3.org/2001/XMLSchema#decimal> .
+<http://drug.uk/dosage/cc2f4dd0-2c93-46f3-9997-ef823f267e6b> <http://drug.uk/model/group> "adult" .
+<http://drug.uk/dosage/cc2f4dd0-2c93-46f3-9997-ef823f267e6b> <http://drug.uk/model/patientGroupDescription> "Adult" .
+<http://drug.uk/dosage/cc2f4dd0-2c93-46f3-9997-ef823f267e6b> <http://drug.uk/model/route> "By mouth" .
+<http://drug.uk/dosage/cc2f4dd0-2c93-46f3-9997-ef823f267e6b> <http://drug.uk/model/unit> "mg" .
+<http://drug.uk/dosage/cc2f4dd0-2c93-46f3-9997-ef823f267e6b> <http://purl.org/dc/terms/description> "20 mg up to four times daily" .
+<http://drug.uk/dosage/cc2f4dd0-2c93-46f3-9997-ef823f267e6b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Dosage> .
+<http://drug.uk/hyoscine-butylbromide> <http://drug.uk/model/sideEffect> "Dry mouth" .
+<http://drug.uk/hyoscine-butylbromide> <http://drug.uk/model/sideEffect> "Constipation" .
+<http://drug.uk/hyoscine-butylbromide> <http://drug.uk/model/sideEffect> "Blurred vision" .
+<http://drug.uk/hyoscine-butylbromide> <http://drug.uk/model/sideEffect> "Tachycardia (fast heart rate)" .
+<http://drug.uk/hyoscine-butylbromide> <http://drug.uk/model/sideEffect> "Skin reactions" .
+<http://drug.uk/hyoscine-butylbromide> <http://drug.uk/model/sideEffect> "Drowsiness" .
+<http://drug.uk/hyoscine-butylbromide> <http://drug.uk/model/sideEffect> "Dizziness" .
+<http://drug.uk/hyoscine-butylbromide> <http://drug.uk/model/sideEffect> "Abnormal sweating" .
+<http://drug.uk/hyoscine-butylbromide> <http://drug.uk/model/sideEffect> "Urinary retention" .
+<http://drug.uk/hyoscine-butylbromide> <http://drug.uk/model/sideEffect> "Angioedema" .
+<http://drug.uk/hyoscine-butylbromide> <http://drug.uk/model/sideEffect> "hypersensitivity" .
+<http://drug.uk/hyoscine-butylbromide> <http://drug.uk/model/sideEffectDescription> " Common: Dry mouth; Constipation; Blurred vision; Tachycardia (fast heart rate); Skin reactions; Drowsiness; Dizziness. Uncommon: Abnormal sweating. Rare: Urinary retention; Angioedema. Frequency not known: hypersensitivity." .
+<http://drug.uk/hyoscine-butylbromide> <http://drug.uk/model/usage> <http://drug.uk/usage/breast-feeding/16596876-1ee2-4afe-9257-377d0f16bf28> .
+<http://drug.uk/hyoscine-butylbromide> <http://drug.uk/model/usage> <http://drug.uk/usage/hepatic-impairment/87633b73-ef38-4ba7-9a84-e77552ac0b3f> .
+<http://drug.uk/hyoscine-butylbromide> <http://drug.uk/model/usage> <http://drug.uk/usage/normal/a49aa859-44e0-4c01-969c-22b9a144baf0> .
+<http://drug.uk/hyoscine-butylbromide> <http://drug.uk/model/usage> <http://drug.uk/usage/pregnancy/42b14e7f-cdeb-4606-8cab-d8a56015c04d> .
+<http://drug.uk/hyoscine-butylbromide> <http://drug.uk/model/usage> <http://drug.uk/usage/renal-impairment/7ff05ce0-65df-496d-8dcb-c2bd8420f992> .
+<http://drug.uk/hyoscine-butylbromide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/hyoscine-butylbromide> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hyoscine butylbromide" .
+<http://drug.uk/usage/breast-feeding/16596876-1ee2-4afe-9257-377d0f16bf28> <http://drug.uk/model/patientCondition> "BreastFeeding" .
+<http://drug.uk/usage/breast-feeding/16596876-1ee2-4afe-9257-377d0f16bf28> <http://drug.uk/model/safetyLevel> "safe" .
+<http://drug.uk/usage/breast-feeding/16596876-1ee2-4afe-9257-377d0f16bf28> <http://purl.org/dc/terms/description> "likely to be safe due to minimal transfer into breast milk. null" .
+<http://drug.uk/usage/breast-feeding/16596876-1ee2-4afe-9257-377d0f16bf28> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/hepatic-impairment/87633b73-ef38-4ba7-9a84-e77552ac0b3f> <http://drug.uk/model/patientCondition> "HepaticImpairment" .
+<http://drug.uk/usage/hepatic-impairment/87633b73-ef38-4ba7-9a84-e77552ac0b3f> <http://purl.org/dc/terms/description> " null" .
+<http://drug.uk/usage/hepatic-impairment/87633b73-ef38-4ba7-9a84-e77552ac0b3f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/normal/a49aa859-44e0-4c01-969c-22b9a144baf0> <http://drug.uk/model/dosage> <http://drug.uk/dosage/cc2f4dd0-2c93-46f3-9997-ef823f267e6b> .
+<http://drug.uk/usage/normal/a49aa859-44e0-4c01-969c-22b9a144baf0> <http://drug.uk/model/indication> "Gastrointestinal smooth muscle spasm" .
+<http://drug.uk/usage/normal/a49aa859-44e0-4c01-969c-22b9a144baf0> <http://drug.uk/model/patientCondition> "Normal" .
+<http://drug.uk/usage/normal/a49aa859-44e0-4c01-969c-22b9a144baf0> <http://drug.uk/model/safetyLevel> "safe" .
+<http://drug.uk/usage/normal/a49aa859-44e0-4c01-969c-22b9a144baf0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/pregnancy/42b14e7f-cdeb-4606-8cab-d8a56015c04d> <http://drug.uk/model/patientCondition> "Pregnancy" .
+<http://drug.uk/usage/pregnancy/42b14e7f-cdeb-4606-8cab-d8a56015c04d> <http://drug.uk/model/safetyLevel> "unsafe" .
+<http://drug.uk/usage/pregnancy/42b14e7f-cdeb-4606-8cab-d8a56015c04d> <http://purl.org/dc/terms/description> "Limited human data; should be avoided. null" .
+<http://drug.uk/usage/pregnancy/42b14e7f-cdeb-4606-8cab-d8a56015c04d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/renal-impairment/7ff05ce0-65df-496d-8dcb-c2bd8420f992> <http://drug.uk/model/patientCondition> "RenalImpairment" .
+<http://drug.uk/usage/renal-impairment/7ff05ce0-65df-496d-8dcb-c2bd8420f992> <http://purl.org/dc/terms/description> " null" .
+<http://drug.uk/usage/renal-impairment/7ff05ce0-65df-496d-8dcb-c2bd8420f992> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+
+
+
+
+
+<http://drug.uk/dosage/ab33b98c-efda-4c73-bc1a-89c434d62a83> <http://drug.uk/model/amount> "1.0"^^<http://www.w3.org/2001/XMLSchema#decimal> .
+<http://drug.uk/dosage/ab33b98c-efda-4c73-bc1a-89c434d62a83> <http://drug.uk/model/duration> "PT6H"^^<http://www.w3.org/2001/XMLSchema#duration> .
+<http://drug.uk/dosage/ab33b98c-efda-4c73-bc1a-89c434d62a83> <http://drug.uk/model/frequency> "1.0"^^<http://www.w3.org/2001/XMLSchema#decimal> .
+<http://drug.uk/dosage/ab33b98c-efda-4c73-bc1a-89c434d62a83> <http://drug.uk/model/group> "adult" .
+<http://drug.uk/dosage/ab33b98c-efda-4c73-bc1a-89c434d62a83> <http://drug.uk/model/patientGroupDescription> "Adult" .
+<http://drug.uk/dosage/ab33b98c-efda-4c73-bc1a-89c434d62a83> <http://drug.uk/model/route> "By mouth" .
+<http://drug.uk/dosage/ab33b98c-efda-4c73-bc1a-89c434d62a83> <http://drug.uk/model/unit> "g" .
+<http://drug.uk/dosage/ab33b98c-efda-4c73-bc1a-89c434d62a83> <http://purl.org/dc/terms/description> "up to 1 g every 6 hours" .
+<http://drug.uk/dosage/ab33b98c-efda-4c73-bc1a-89c434d62a83> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Dosage> .
+<http://drug.uk/paracetamol> <http://drug.uk/model/sideEffect> "Hypotension" .
+<http://drug.uk/paracetamol> <http://drug.uk/model/sideEffect> "Abnormal hepatic function" .
+<http://drug.uk/paracetamol> <http://drug.uk/model/sideEffect> "skin reactions" .
+<http://drug.uk/paracetamol> <http://drug.uk/model/sideEffect> "hypersensitivity" .
+<http://drug.uk/paracetamol> <http://drug.uk/model/sideEffect> "thrombocytopenia" .
+<http://drug.uk/paracetamol> <http://drug.uk/model/sideEffect> "Neutropenia" .
+<http://drug.uk/paracetamol> <http://drug.uk/model/sideEffect> "Nausea" .
+<http://drug.uk/paracetamol> <http://drug.uk/model/sideEffect> "Vomiting" .
+<http://drug.uk/paracetamol> <http://drug.uk/model/sideEffect> "Tachycardia" .
+<http://drug.uk/paracetamol> <http://drug.uk/model/sideEffect> "Liver failure" .
+<http://drug.uk/paracetamol> <http://drug.uk/model/sideEffectDescription> " Rare: Hypotension; Abnormal hepatic function; skin reactions; hypersensitivity; thrombocytopenia; Neutropenia. Frequency not known: Nausea; Vomiting; Tachycardia; Liver failure." .
+<http://drug.uk/paracetamol> <http://drug.uk/model/usage> <http://drug.uk/usage/breast-feeding/a1ea795d-6e97-413b-81ba-32acddd18959> .
+<http://drug.uk/paracetamol> <http://drug.uk/model/usage> <http://drug.uk/usage/hepatic-impairment/37b6a7e4-b915-4ba1-adfe-bdeddc1b0f6d> .
+<http://drug.uk/paracetamol> <http://drug.uk/model/usage> <http://drug.uk/usage/normal/e32fb437-ac30-4fb4-9f09-593da466a3e2> .
+<http://drug.uk/paracetamol> <http://drug.uk/model/usage> <http://drug.uk/usage/pregnancy/da36716a-e315-4354-8ab3-f15fe7ef1bf8> .
+<http://drug.uk/paracetamol> <http://drug.uk/model/usage> <http://drug.uk/usage/renal-impairment/8ec30528-b69d-440c-bb22-08976ef32833> .
+<http://drug.uk/paracetamol> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/paracetamol> <http://www.w3.org/2004/02/skos/core#prefLabel> "Paracetamol" .
+<http://drug.uk/usage/breast-feeding/a1ea795d-6e97-413b-81ba-32acddd18959> <http://drug.uk/model/patientCondition> "BreastFeeding" .
+<http://drug.uk/usage/breast-feeding/a1ea795d-6e97-413b-81ba-32acddd18959> <http://drug.uk/model/safetyLevel> "safe" .
+<http://drug.uk/usage/breast-feeding/a1ea795d-6e97-413b-81ba-32acddd18959> <http://purl.org/dc/terms/description> "Levels in breast milk are low and adverse effects in infants are unlikely. null" .
+<http://drug.uk/usage/breast-feeding/a1ea795d-6e97-413b-81ba-32acddd18959> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/hepatic-impairment/37b6a7e4-b915-4ba1-adfe-bdeddc1b0f6d> <http://drug.uk/model/patientCondition> "HepaticImpairment" .
+<http://drug.uk/usage/hepatic-impairment/37b6a7e4-b915-4ba1-adfe-bdeddc1b0f6d> <http://drug.uk/model/safetyLevel> "caution" .
+<http://drug.uk/usage/hepatic-impairment/37b6a7e4-b915-4ba1-adfe-bdeddc1b0f6d> <http://purl.org/dc/terms/description> " Avoid high or prolonged doses; risk of hepatotoxicity is increased in severe impairment." .
+<http://drug.uk/usage/hepatic-impairment/37b6a7e4-b915-4ba1-adfe-bdeddc1b0f6d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/normal/e32fb437-ac30-4fb4-9f09-593da466a3e2> <http://drug.uk/model/dosage> <http://drug.uk/dosage/ab33b98c-efda-4c73-bc1a-89c434d62a83> .
+<http://drug.uk/usage/normal/e32fb437-ac30-4fb4-9f09-593da466a3e2> <http://drug.uk/model/indication> "Cold and flu symptoms" .
+<http://drug.uk/usage/normal/e32fb437-ac30-4fb4-9f09-593da466a3e2> <http://drug.uk/model/indication> "Fever" .
+<http://drug.uk/usage/normal/e32fb437-ac30-4fb4-9f09-593da466a3e2> <http://drug.uk/model/indication> "Headache" .
+<http://drug.uk/usage/normal/e32fb437-ac30-4fb4-9f09-593da466a3e2> <http://drug.uk/model/indication> "Pain relief" .
+<http://drug.uk/usage/normal/e32fb437-ac30-4fb4-9f09-593da466a3e2> <http://drug.uk/model/patientCondition> "Normal" .
+<http://drug.uk/usage/normal/e32fb437-ac30-4fb4-9f09-593da466a3e2> <http://drug.uk/model/safetyLevel> "safe" .
+<http://drug.uk/usage/normal/e32fb437-ac30-4fb4-9f09-593da466a3e2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/pregnancy/da36716a-e315-4354-8ab3-f15fe7ef1bf8> <http://drug.uk/model/patientCondition> "Pregnancy" .
+<http://drug.uk/usage/pregnancy/da36716a-e315-4354-8ab3-f15fe7ef1bf8> <http://drug.uk/model/safetyLevel> "safe" .
+<http://drug.uk/usage/pregnancy/da36716a-e315-4354-8ab3-f15fe7ef1bf8> <http://purl.org/dc/terms/description> "Considered safe during pregnancy when used at recommended doses null" .
+<http://drug.uk/usage/pregnancy/da36716a-e315-4354-8ab3-f15fe7ef1bf8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/renal-impairment/8ec30528-b69d-440c-bb22-08976ef32833> <http://drug.uk/model/patientCondition> "RenalImpairment" .
+<http://drug.uk/usage/renal-impairment/8ec30528-b69d-440c-bb22-08976ef32833> <http://drug.uk/model/safetyLevel> "caution" .
+<http://drug.uk/usage/renal-impairment/8ec30528-b69d-440c-bb22-08976ef32833> <http://purl.org/dc/terms/description> " Dose reduction may be necessary in severe renal impairment (e.g. reduce frequency to every 6–8 hours if GFR <30 mL/min)." .
+<http://drug.uk/usage/renal-impairment/8ec30528-b69d-440c-bb22-08976ef32833> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+
+
+
+
+
+<http://drug.uk/dosage/06c9f4e9-f655-4063-8d39-5c5aa55edabf> <http://drug.uk/model/amount> "200.0"^^<http://www.w3.org/2001/XMLSchema#decimal> .
+<http://drug.uk/dosage/06c9f4e9-f655-4063-8d39-5c5aa55edabf> <http://drug.uk/model/duration> "P1D"^^<http://www.w3.org/2001/XMLSchema#duration> .
+<http://drug.uk/dosage/06c9f4e9-f655-4063-8d39-5c5aa55edabf> <http://drug.uk/model/frequency> "3.0"^^<http://www.w3.org/2001/XMLSchema#decimal> .
+<http://drug.uk/dosage/06c9f4e9-f655-4063-8d39-5c5aa55edabf> <http://drug.uk/model/group> "adult" .
+<http://drug.uk/dosage/06c9f4e9-f655-4063-8d39-5c5aa55edabf> <http://drug.uk/model/patientGroupDescription> "Adult" .
+<http://drug.uk/dosage/06c9f4e9-f655-4063-8d39-5c5aa55edabf> <http://drug.uk/model/route> "By mouth" .
+<http://drug.uk/dosage/06c9f4e9-f655-4063-8d39-5c5aa55edabf> <http://drug.uk/model/unit> "mg" .
+<http://drug.uk/dosage/06c9f4e9-f655-4063-8d39-5c5aa55edabf> <http://purl.org/dc/terms/description> "up to 600 mg daily in 3 divided doses" .
+<http://drug.uk/dosage/06c9f4e9-f655-4063-8d39-5c5aa55edabf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Dosage> .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "Dizziness" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "Drowsiness (somnolence)" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "Increased appetite" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "Weight gain" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "Feeling different" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "Confusion" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "Memory impairment (amnesia)" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "Tremor" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "Dry mouth" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "Constipation" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "Nausea" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "Asthenia (general weakness)" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "vision disorder" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "Lethargy" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "Arthralgia" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "headache" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "insomnia" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "Peripheral edema (swelling of hands and feet)" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "Depression" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "Agitation" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "Anorgasmia" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "Myoclonus (muscle jerks)" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "hyperaesthesia" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "Tachycardia" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "Hypoglycaemia" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "Flushing" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "Rash" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "myalgia" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "Urinary incontinence" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "Dysuria" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "Neutropenia" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "Hypotension" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "Hypertension" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "anxiety" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "Pancreatitis" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "Dysphagia" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "Oliguria" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "Rhabdomyolysis" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "Suicidal behavior" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "Stevens-Johnson syndrome" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffect> "Vision loss" .
+<http://drug.uk/pregabalin> <http://drug.uk/model/sideEffectDescription> " Common: Dizziness; Drowsiness (somnolence); Increased appetite; Weight gain; Feeling different; Confusion; Memory impairment (amnesia); Tremor; Dry mouth; Constipation; Nausea; Asthenia (general weakness); vision disorder; Lethargy; Arthralgia; headache; insomnia. Uncommon: Peripheral edema (swelling of hands and feet); Depression; Agitation; Anorgasmia; Myoclonus (muscle jerks); hyperaesthesia; Tachycardia; Hypoglycaemia; Flushing; Rash; myalgia; ; Urinary incontinence; Dysuria; Neutropenia; Hypotension; Hypertension; anxiety. Rare: Pancreatitis; Dysphagia; Oliguria; Rhabdomyolysis; Suicidal behavior; Stevens-Johnson syndrome; Vision loss." .
+<http://drug.uk/pregabalin> <http://drug.uk/model/usage> <http://drug.uk/usage/breast-feeding/3b2f9ce1-fb74-446a-b430-8fabf49badf1> .
+<http://drug.uk/pregabalin> <http://drug.uk/model/usage> <http://drug.uk/usage/hepatic-impairment/ac6c8ee8-b274-4beb-b11a-3c6f224f459a> .
+<http://drug.uk/pregabalin> <http://drug.uk/model/usage> <http://drug.uk/usage/normal/de14920a-eb04-4c7c-a81b-e6f7ae845c62> .
+<http://drug.uk/pregabalin> <http://drug.uk/model/usage> <http://drug.uk/usage/pregnancy/7f221110-c6a1-4737-a1e1-e472b468b71c> .
+<http://drug.uk/pregabalin> <http://drug.uk/model/usage> <http://drug.uk/usage/renal-impairment/b4420d23-456c-4d1e-8f48-353d8c8d1074> .
+<http://drug.uk/pregabalin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/pregabalin> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pregabalin" .
+<http://drug.uk/usage/breast-feeding/3b2f9ce1-fb74-446a-b430-8fabf49badf1> <http://drug.uk/model/patientCondition> "BreastFeeding" .
+<http://drug.uk/usage/breast-feeding/3b2f9ce1-fb74-446a-b430-8fabf49badf1> <http://purl.org/dc/terms/description> " null" .
+<http://drug.uk/usage/breast-feeding/3b2f9ce1-fb74-446a-b430-8fabf49badf1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/hepatic-impairment/ac6c8ee8-b274-4beb-b11a-3c6f224f459a> <http://drug.uk/model/patientCondition> "HepaticImpairment" .
+<http://drug.uk/usage/hepatic-impairment/ac6c8ee8-b274-4beb-b11a-3c6f224f459a> <http://purl.org/dc/terms/description> " null" .
+<http://drug.uk/usage/hepatic-impairment/ac6c8ee8-b274-4beb-b11a-3c6f224f459a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/normal/de14920a-eb04-4c7c-a81b-e6f7ae845c62> <http://drug.uk/model/dosage> <http://drug.uk/dosage/06c9f4e9-f655-4063-8d39-5c5aa55edabf> .
+<http://drug.uk/usage/normal/de14920a-eb04-4c7c-a81b-e6f7ae845c62> <http://drug.uk/model/indication> "Generalised anxiety disorder" .
+<http://drug.uk/usage/normal/de14920a-eb04-4c7c-a81b-e6f7ae845c62> <http://drug.uk/model/indication> "Neuropathic pain" .
+<http://drug.uk/usage/normal/de14920a-eb04-4c7c-a81b-e6f7ae845c62> <http://drug.uk/model/patientCondition> "Normal" .
+<http://drug.uk/usage/normal/de14920a-eb04-4c7c-a81b-e6f7ae845c62> <http://drug.uk/model/safetyLevel> "safe" .
+<http://drug.uk/usage/normal/de14920a-eb04-4c7c-a81b-e6f7ae845c62> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/pregnancy/7f221110-c6a1-4737-a1e1-e472b468b71c> <http://drug.uk/model/patientCondition> "Pregnancy" .
+<http://drug.uk/usage/pregnancy/7f221110-c6a1-4737-a1e1-e472b468b71c> <http://drug.uk/model/safetyLevel> "unsafe" .
+<http://drug.uk/usage/pregnancy/7f221110-c6a1-4737-a1e1-e472b468b71c> <http://purl.org/dc/terms/description> "Avoid use during pregnancy unless clearly necessary. null" .
+<http://drug.uk/usage/pregnancy/7f221110-c6a1-4737-a1e1-e472b468b71c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/renal-impairment/b4420d23-456c-4d1e-8f48-353d8c8d1074> <http://drug.uk/model/patientCondition> "RenalImpairment" .
+<http://drug.uk/usage/renal-impairment/b4420d23-456c-4d1e-8f48-353d8c8d1074> <http://drug.uk/model/safetyLevel> "caution" .
+<http://drug.uk/usage/renal-impairment/b4420d23-456c-4d1e-8f48-353d8c8d1074> <http://purl.org/dc/terms/description> " Dose adjustment is required in renal impairment based on creatinine clearance." .
+<http://drug.uk/usage/renal-impairment/b4420d23-456c-4d1e-8f48-353d8c8d1074> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+
+
+
+
+
+<http://drug.uk/dosage/9cfde002-c17f-4176-8a73-00ca6318227b> <http://drug.uk/model/amount> "32.4"^^<http://www.w3.org/2001/XMLSchema#decimal> .
+<http://drug.uk/dosage/9cfde002-c17f-4176-8a73-00ca6318227b> <http://drug.uk/model/duration> "P1D"^^<http://www.w3.org/2001/XMLSchema#duration> .
+<http://drug.uk/dosage/9cfde002-c17f-4176-8a73-00ca6318227b> <http://drug.uk/model/frequency> "1.0"^^<http://www.w3.org/2001/XMLSchema#decimal> .
+<http://drug.uk/dosage/9cfde002-c17f-4176-8a73-00ca6318227b> <http://drug.uk/model/group> "adult" .
+<http://drug.uk/dosage/9cfde002-c17f-4176-8a73-00ca6318227b> <http://drug.uk/model/minWeight> "77.0"^^<http://www.w3.org/2001/XMLSchema#decimal> .
+<http://drug.uk/dosage/9cfde002-c17f-4176-8a73-00ca6318227b> <http://drug.uk/model/patientGroupDescription> "Adult (body-weight 77 kg and above)" .
+<http://drug.uk/dosage/9cfde002-c17f-4176-8a73-00ca6318227b> <http://drug.uk/model/route> "By subcutaneous injection" .
+<http://drug.uk/dosage/9cfde002-c17f-4176-8a73-00ca6318227b> <http://drug.uk/model/unit> "mg" .
+<http://drug.uk/dosage/9cfde002-c17f-4176-8a73-00ca6318227b> <http://drug.uk/model/weightUnit> "kg" .
+<http://drug.uk/dosage/9cfde002-c17f-4176-8a73-00ca6318227b> <http://purl.org/dc/terms/description> "32.4 mg once daily" .
+<http://drug.uk/dosage/9cfde002-c17f-4176-8a73-00ca6318227b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Dosage> .
+<http://drug.uk/usage/breast-feeding/a7c8b080-d028-4928-a92e-66d2f53c09f5> <http://drug.uk/model/patientCondition> "BreastFeeding" .
+<http://drug.uk/usage/breast-feeding/a7c8b080-d028-4928-a92e-66d2f53c09f5> <http://drug.uk/model/safetyLevel> "caution" .
+<http://drug.uk/usage/breast-feeding/a7c8b080-d028-4928-a92e-66d2f53c09f5> <http://purl.org/dc/terms/description> "It is unknown whether zilucoplan is excreted in human milk. A risk to the breastfed child cannot be excluded. null" .
+<http://drug.uk/usage/breast-feeding/a7c8b080-d028-4928-a92e-66d2f53c09f5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/hepatic-impairment/c6e62735-3acd-4ba7-94a5-5698f162ed56> <http://drug.uk/model/patientCondition> "HepaticImpairment" .
+<http://drug.uk/usage/hepatic-impairment/c6e62735-3acd-4ba7-94a5-5698f162ed56> <http://purl.org/dc/terms/description> " null" .
+<http://drug.uk/usage/hepatic-impairment/c6e62735-3acd-4ba7-94a5-5698f162ed56> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/normal/73681dcc-4203-469a-8588-41fa626eac56> <http://drug.uk/model/dosage> <http://drug.uk/dosage/9cfde002-c17f-4176-8a73-00ca6318227b> .
+<http://drug.uk/usage/normal/73681dcc-4203-469a-8588-41fa626eac56> <http://drug.uk/model/indication> "Myasthenia gravis" .
+<http://drug.uk/usage/normal/73681dcc-4203-469a-8588-41fa626eac56> <http://drug.uk/model/patientCondition> "Normal" .
+<http://drug.uk/usage/normal/73681dcc-4203-469a-8588-41fa626eac56> <http://drug.uk/model/safetyLevel> "safe" .
+<http://drug.uk/usage/normal/73681dcc-4203-469a-8588-41fa626eac56> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/pregnancy/6c4af8cc-5040-455e-9146-f209d282a2e8> <http://drug.uk/model/patientCondition> "Pregnancy" .
+<http://drug.uk/usage/pregnancy/6c4af8cc-5040-455e-9146-f209d282a2e8> <http://drug.uk/model/safetyLevel> "caution" .
+<http://drug.uk/usage/pregnancy/6c4af8cc-5040-455e-9146-f209d282a2e8> <http://purl.org/dc/terms/description> "There are no adequate data from the use of zilucoplan in pregnant women. Use only if clearly needed. null" .
+<http://drug.uk/usage/pregnancy/6c4af8cc-5040-455e-9146-f209d282a2e8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/usage/renal-impairment/ccbbea17-bdfc-413a-bd6f-7a8f5fc307c5> <http://drug.uk/model/patientCondition> "RenalImpairment" .
+<http://drug.uk/usage/renal-impairment/ccbbea17-bdfc-413a-bd6f-7a8f5fc307c5> <http://purl.org/dc/terms/description> " null" .
+<http://drug.uk/usage/renal-impairment/ccbbea17-bdfc-413a-bd6f-7a8f5fc307c5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Usage> .
+<http://drug.uk/zilucoplan> <http://drug.uk/model/sideEffect> "Injection site reactions" .
+<http://drug.uk/zilucoplan> <http://drug.uk/model/sideEffect> "upper respiratory tract infection" .
+<http://drug.uk/zilucoplan> <http://drug.uk/model/sideEffect> "diarrhoea" .
+<http://drug.uk/zilucoplan> <http://drug.uk/model/sideEffectDescription> " Common: Injection site reactions; upper respiratory tract infection; diarrhoea" .
+<http://drug.uk/zilucoplan> <http://drug.uk/model/usage> <http://drug.uk/usage/breast-feeding/a7c8b080-d028-4928-a92e-66d2f53c09f5> .
+<http://drug.uk/zilucoplan> <http://drug.uk/model/usage> <http://drug.uk/usage/hepatic-impairment/c6e62735-3acd-4ba7-94a5-5698f162ed56> .
+<http://drug.uk/zilucoplan> <http://drug.uk/model/usage> <http://drug.uk/usage/normal/73681dcc-4203-469a-8588-41fa626eac56> .
+<http://drug.uk/zilucoplan> <http://drug.uk/model/usage> <http://drug.uk/usage/pregnancy/6c4af8cc-5040-455e-9146-f209d282a2e8> .
+<http://drug.uk/zilucoplan> <http://drug.uk/model/usage> <http://drug.uk/usage/renal-impairment/ccbbea17-bdfc-413a-bd6f-7a8f5fc307c5> .
+<http://drug.uk/zilucoplan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/zilucoplan> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zilucoplan" .
+
+
+
+
+
+
+<http://drug.uk/abacavir> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/carbamazepine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/interaction/abacavir-carbamazepine> <http://drug.uk/model/interactingDrug> <http://drug.uk/abacavir> .
+<http://drug.uk/interaction/abacavir-carbamazepine> <http://drug.uk/model/interactingDrug> <http://drug.uk/carbamazepine> .
+<http://drug.uk/interaction/abacavir-carbamazepine> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/1a2b3c4d-5e6f-7a8b-9c0d-123456789abc> .
+<http://drug.uk/interaction/abacavir-carbamazepine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/detail/1a2b3c4d-5e6f-7a8b-9c0d-123456789abc> <http://drug.uk/model/evidence> "Theoretical" .
+<http://drug.uk/interaction/detail/1a2b3c4d-5e6f-7a8b-9c0d-123456789abc> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/1a2b3c4d-5e6f-7a8b-9c0d-123456789abc> <http://purl.org/dc/terms/description> "Carbamazepine may reduce the effectiveness of abacavir by inducing metabolic enzymes. Monitor therapy closely. Manufacturer provides no specific recommendation." .
+<http://drug.uk/interaction/detail/1a2b3c4d-5e6f-7a8b-9c0d-123456789abc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+
+
+<http://drug.uk/aciclovir> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/cefadroxil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/ciclosporin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/interaction/aciclovir-cefadroxil> <http://drug.uk/model/interactingDrug> <http://drug.uk/aciclovir> .
+<http://drug.uk/interaction/aciclovir-cefadroxil> <http://drug.uk/model/interactingDrug> <http://drug.uk/cefadroxil> .
+<http://drug.uk/interaction/aciclovir-cefadroxil> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/24df7945-73ed-414d-b52d-31f4a971c8bc> .
+<http://drug.uk/interaction/aciclovir-cefadroxil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/aciclovir-ciclosporin> <http://drug.uk/model/interactingDrug> <http://drug.uk/aciclovir> .
+<http://drug.uk/interaction/aciclovir-ciclosporin> <http://drug.uk/model/interactingDrug> <http://drug.uk/ciclosporin> .
+<http://drug.uk/interaction/aciclovir-ciclosporin> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/5b3db298-fe2a-456f-96c7-cc0a5ffbc56e> .
+<http://drug.uk/interaction/aciclovir-ciclosporin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/detail/24df7945-73ed-414d-b52d-31f4a971c8bc> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/24df7945-73ed-414d-b52d-31f4a971c8bc> <http://purl.org/dc/terms/description> "Concurrent use of aciclovir and cefadroxil may increase risk of nephrotoxicity due to additive renal elimination burden, and cefadroxil may decrease aciclovir excretion, possibly increasing exposure." .
+<http://drug.uk/interaction/detail/24df7945-73ed-414d-b52d-31f4a971c8bc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/5b3db298-fe2a-456f-96c7-cc0a5ffbc56e> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/5b3db298-fe2a-456f-96c7-cc0a5ffbc56e> <http://purl.org/dc/terms/description> "Concurrent use of aciclovir and ciclosporin increases risk of nephrotoxicity due to additive renal burden. Aciclovir may also increase ciclosporin levels by reducing its renal clearance." .
+<http://drug.uk/interaction/detail/5b3db298-fe2a-456f-96c7-cc0a5ffbc56e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+
+
+<http://drug.uk/amitriptyline-hydrochloride> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/amlodipine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/betaxolol> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/carbamazepine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/interaction/amitriptyline-hydrochloride-amlodipine> <http://drug.uk/model/interactingDrug> <http://drug.uk/amitriptyline-hydrochloride> .
+<http://drug.uk/interaction/amitriptyline-hydrochloride-amlodipine> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amitriptyline-hydrochloride-amlodipine> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/c2bf9a1f-c600-41b2-beba-e5ae159012c4> .
+<http://drug.uk/interaction/amitriptyline-hydrochloride-amlodipine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amitriptyline-hydrochloride-betaxolol> <http://drug.uk/model/interactingDrug> <http://drug.uk/amitriptyline-hydrochloride> .
+<http://drug.uk/interaction/amitriptyline-hydrochloride-betaxolol> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/amitriptyline-hydrochloride-betaxolol> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/304d82e2-52e8-4123-946e-3f8cd764ff86> .
+<http://drug.uk/interaction/amitriptyline-hydrochloride-betaxolol> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amitriptyline-hydrochloride-carbamazepine> <http://drug.uk/model/interactingDrug> <http://drug.uk/amitriptyline-hydrochloride> .
+<http://drug.uk/interaction/amitriptyline-hydrochloride-carbamazepine> <http://drug.uk/model/interactingDrug> <http://drug.uk/carbamazepine> .
+<http://drug.uk/interaction/amitriptyline-hydrochloride-carbamazepine> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/653ea9c2-3668-4b24-9db7-3692fa097255> .
+<http://drug.uk/interaction/amitriptyline-hydrochloride-carbamazepine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amitriptyline-hydrochloride-pregabalin> <http://drug.uk/model/interactingDrug> <http://drug.uk/amitriptyline-hydrochloride> .
+<http://drug.uk/interaction/amitriptyline-hydrochloride-pregabalin> <http://drug.uk/model/interactingDrug> <http://drug.uk/pregabalin> .
+<http://drug.uk/interaction/amitriptyline-hydrochloride-pregabalin> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/88ff9c53-9573-4e6a-8348-96f593060f2f> .
+<http://drug.uk/interaction/amitriptyline-hydrochloride-pregabalin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/detail/304d82e2-52e8-4123-946e-3f8cd764ff86> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/304d82e2-52e8-4123-946e-3f8cd764ff86> <http://purl.org/dc/terms/description> "Concomitant use may cause additive blood pressure lowering effects, increasing risk of hypotension, dizziness, and fainting." .
+<http://drug.uk/interaction/detail/304d82e2-52e8-4123-946e-3f8cd764ff86> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/653ea9c2-3668-4b24-9db7-3692fa097255> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/653ea9c2-3668-4b24-9db7-3692fa097255> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/653ea9c2-3668-4b24-9db7-3692fa097255> <http://purl.org/dc/terms/description> "Carbamazepine decreases the therapeutic efficacy of Amitriptyline." .
+<http://drug.uk/interaction/detail/653ea9c2-3668-4b24-9db7-3692fa097255> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/88ff9c53-9573-4e6a-8348-96f593060f2f> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/88ff9c53-9573-4e6a-8348-96f593060f2f> <http://purl.org/dc/terms/description> "Concomitant use may cause additive central nervous system depression leading to increased sedation, dizziness, confusion, and risk of falls." .
+<http://drug.uk/interaction/detail/88ff9c53-9573-4e6a-8348-96f593060f2f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/c2bf9a1f-c600-41b2-beba-e5ae159012c4> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/c2bf9a1f-c600-41b2-beba-e5ae159012c4> <http://purl.org/dc/terms/description> "Concomitant use may cause additive blood pressure lowering effects, increasing risk of hypotension and dizziness." .
+<http://drug.uk/interaction/detail/c2bf9a1f-c600-41b2-beba-e5ae159012c4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/pregabalin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+
+
+<http://drug.uk/amlodipine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/betaxolol> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/carbamazepine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/interaction/amlodipine-betaxolol> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-betaxolol> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/amlodipine-betaxolol> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/4d026c5b-9ef6-4add-b038-e19e08542128> .
+<http://drug.uk/interaction/amlodipine-betaxolol> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/amlodipine-carbamazepine> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/amlodipine-carbamazepine> <http://drug.uk/model/interactingDrug> <http://drug.uk/carbamazepine> .
+<http://drug.uk/interaction/amlodipine-carbamazepine> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/3e988500-4642-4c75-ac54-279d09270d48> .
+<http://drug.uk/interaction/amlodipine-carbamazepine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/detail/3e988500-4642-4c75-ac54-279d09270d48> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/3e988500-4642-4c75-ac54-279d09270d48> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/3e988500-4642-4c75-ac54-279d09270d48> <http://purl.org/dc/terms/description> "Carbamazepine decreases the efficacy of amlodipine." .
+<http://drug.uk/interaction/detail/3e988500-4642-4c75-ac54-279d09270d48> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/4d026c5b-9ef6-4add-b038-e19e08542128> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/4d026c5b-9ef6-4add-b038-e19e08542128> <http://purl.org/dc/terms/description> "Combined use may cause additive blood pressure lowering effects increasing risk of hypotension and dizziness." .
+<http://drug.uk/interaction/detail/4d026c5b-9ef6-4add-b038-e19e08542128> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+
+
+<http://drug.uk/apixaban> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/carbamazepine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/ciclosporin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/interaction/apixaban-carbamazepine> <http://drug.uk/model/interactingDrug> <http://drug.uk/apixaban> .
+<http://drug.uk/interaction/apixaban-carbamazepine> <http://drug.uk/model/interactingDrug> <http://drug.uk/carbamazepine> .
+<http://drug.uk/interaction/apixaban-carbamazepine> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/78279df1-8efb-420b-a9fa-174fd31b9c3c> .
+<http://drug.uk/interaction/apixaban-carbamazepine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/apixaban-ciclosporin> <http://drug.uk/model/interactingDrug> <http://drug.uk/apixaban> .
+<http://drug.uk/interaction/apixaban-ciclosporin> <http://drug.uk/model/interactingDrug> <http://drug.uk/ciclosporin> .
+<http://drug.uk/interaction/apixaban-ciclosporin> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/f1f736f1-8428-4e63-83c8-047d80ffa5f9> .
+<http://drug.uk/interaction/apixaban-ciclosporin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/detail/78279df1-8efb-420b-a9fa-174fd31b9c3c> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/78279df1-8efb-420b-a9fa-174fd31b9c3c> <http://drug.uk/model/severity> "Severe" .
+<http://drug.uk/interaction/detail/78279df1-8efb-420b-a9fa-174fd31b9c3c> <http://purl.org/dc/terms/description> "Carbamazepine decreases the efficacy of apixaban." .
+<http://drug.uk/interaction/detail/78279df1-8efb-420b-a9fa-174fd31b9c3c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/f1f736f1-8428-4e63-83c8-047d80ffa5f9> <http://drug.uk/model/evidence> "Theoretical" .
+<http://drug.uk/interaction/detail/f1f736f1-8428-4e63-83c8-047d80ffa5f9> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/f1f736f1-8428-4e63-83c8-047d80ffa5f9> <http://purl.org/dc/terms/description> "Ciclosporin can increased plasma concentrations of apixaban and elevate bleeding risk." .
+<http://drug.uk/interaction/detail/f1f736f1-8428-4e63-83c8-047d80ffa5f9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+
+
+<http://drug.uk/atorvastatin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/carbamazepine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/ciclosporin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/interaction/atorvastatin-carbamazepine> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-carbamazepine> <http://drug.uk/model/interactingDrug> <http://drug.uk/carbamazepine> .
+<http://drug.uk/interaction/atorvastatin-carbamazepine> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/149e8e01-07ce-4275-83bc-969b26602fba> .
+<http://drug.uk/interaction/atorvastatin-carbamazepine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-ciclosporin> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-ciclosporin> <http://drug.uk/model/interactingDrug> <http://drug.uk/ciclosporin> .
+<http://drug.uk/interaction/atorvastatin-ciclosporin> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/e94490ce-d0c9-4949-8da2-091d9f032b8c> .
+<http://drug.uk/interaction/atorvastatin-ciclosporin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/atorvastatin-paracetamol> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/atorvastatin-paracetamol> <http://drug.uk/model/interactingDrug> <http://drug.uk/paracetamol> .
+<http://drug.uk/interaction/atorvastatin-paracetamol> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/3a517098-7f88-441a-8296-b01094fc22fb> .
+<http://drug.uk/interaction/atorvastatin-paracetamol> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/detail/149e8e01-07ce-4275-83bc-969b26602fba> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/149e8e01-07ce-4275-83bc-969b26602fba> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/149e8e01-07ce-4275-83bc-969b26602fba> <http://purl.org/dc/terms/description> "Carbamazepine decreases the efficacy of atorvastatin." .
+<http://drug.uk/interaction/detail/149e8e01-07ce-4275-83bc-969b26602fba> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/3a517098-7f88-441a-8296-b01094fc22fb> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/3a517098-7f88-441a-8296-b01094fc22fb> <http://purl.org/dc/terms/description> "Both atorvastatin and paracetamol can independently increase the hepatotoxicity risk." .
+<http://drug.uk/interaction/detail/3a517098-7f88-441a-8296-b01094fc22fb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/e94490ce-d0c9-4949-8da2-091d9f032b8c> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/e94490ce-d0c9-4949-8da2-091d9f032b8c> <http://drug.uk/model/severity> "Severe" .
+<http://drug.uk/interaction/detail/e94490ce-d0c9-4949-8da2-091d9f032b8c> <http://purl.org/dc/terms/description> "Ciclosporin increases atorvastatin plasma level and raises the risk of myopathy and rhabdomyolysis." .
+<http://drug.uk/interaction/detail/e94490ce-d0c9-4949-8da2-091d9f032b8c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/paracetamol> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+
+
+<http://drug.uk/amlodipine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/betaxolol> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/interaction/betaxolol-amlodipine> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/betaxolol-amlodipine> <http://drug.uk/model/interactingDrug> <http://drug.uk/betaxolol> .
+<http://drug.uk/interaction/betaxolol-amlodipine> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/e4d1f5d1-8a4b-490c-9754-97cf700a93a8> .
+<http://drug.uk/interaction/betaxolol-amlodipine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/detail/e4d1f5d1-8a4b-490c-9754-97cf700a93a8> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/e4d1f5d1-8a4b-490c-9754-97cf700a93a8> <http://purl.org/dc/terms/description> "Combined use may cause additive blood pressure lowering effects increasing risk of hypotension and dizziness." .
+<http://drug.uk/interaction/detail/e4d1f5d1-8a4b-490c-9754-97cf700a93a8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+
+
+<http://drug.uk/abacavir> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/amlodipine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/apixaban> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/atorvastatin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/carbamazepine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/ciclosporin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/interaction/carbamazepine-abacavir> <http://drug.uk/model/interactingDrug> <http://drug.uk/abacavir> .
+<http://drug.uk/interaction/carbamazepine-abacavir> <http://drug.uk/model/interactingDrug> <http://drug.uk/carbamazepine> .
+<http://drug.uk/interaction/carbamazepine-abacavir> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/46e26873-47d7-40be-8dfa-f2a121c30f6a> .
+<http://drug.uk/interaction/carbamazepine-abacavir> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/carbamazepine-amlodipine> <http://drug.uk/model/interactingDrug> <http://drug.uk/amlodipine> .
+<http://drug.uk/interaction/carbamazepine-amlodipine> <http://drug.uk/model/interactingDrug> <http://drug.uk/carbamazepine> .
+<http://drug.uk/interaction/carbamazepine-amlodipine> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/75f38877-12ec-4732-abdb-d890042ee3b9> .
+<http://drug.uk/interaction/carbamazepine-amlodipine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/carbamazepine-apixaban> <http://drug.uk/model/interactingDrug> <http://drug.uk/apixaban> .
+<http://drug.uk/interaction/carbamazepine-apixaban> <http://drug.uk/model/interactingDrug> <http://drug.uk/carbamazepine> .
+<http://drug.uk/interaction/carbamazepine-apixaban> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/e0e008e7-6185-4f06-b5ec-674e23eacce9> .
+<http://drug.uk/interaction/carbamazepine-apixaban> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/carbamazepine-atorvastatin> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/carbamazepine-atorvastatin> <http://drug.uk/model/interactingDrug> <http://drug.uk/carbamazepine> .
+<http://drug.uk/interaction/carbamazepine-atorvastatin> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/641d6788-fecb-4f23-bf40-cd65f34e5a3e> .
+<http://drug.uk/interaction/carbamazepine-atorvastatin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/carbamazepine-ciclosporin> <http://drug.uk/model/interactingDrug> <http://drug.uk/carbamazepine> .
+<http://drug.uk/interaction/carbamazepine-ciclosporin> <http://drug.uk/model/interactingDrug> <http://drug.uk/ciclosporin> .
+<http://drug.uk/interaction/carbamazepine-ciclosporin> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/42816466-1f6e-4195-b1a0-0a12ff94dbd3> .
+<http://drug.uk/interaction/carbamazepine-ciclosporin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/carbamazepine-paracetamol> <http://drug.uk/model/interactingDrug> <http://drug.uk/carbamazepine> .
+<http://drug.uk/interaction/carbamazepine-paracetamol> <http://drug.uk/model/interactingDrug> <http://drug.uk/paracetamol> .
+<http://drug.uk/interaction/carbamazepine-paracetamol> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/62382c96-dde3-492d-a6bc-fc2723a2c84f> .
+<http://drug.uk/interaction/carbamazepine-paracetamol> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/detail/42816466-1f6e-4195-b1a0-0a12ff94dbd3> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/42816466-1f6e-4195-b1a0-0a12ff94dbd3> <http://drug.uk/model/severity> "Severe" .
+<http://drug.uk/interaction/detail/42816466-1f6e-4195-b1a0-0a12ff94dbd3> <http://purl.org/dc/terms/description> "Carbamazepine decreases the efficacy of ciclosporin." .
+<http://drug.uk/interaction/detail/42816466-1f6e-4195-b1a0-0a12ff94dbd3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/46e26873-47d7-40be-8dfa-f2a121c30f6a> <http://drug.uk/model/evidence> "Theoretical" .
+<http://drug.uk/interaction/detail/46e26873-47d7-40be-8dfa-f2a121c30f6a> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/46e26873-47d7-40be-8dfa-f2a121c30f6a> <http://purl.org/dc/terms/description> "Carbamazepine may reduce the effectiveness of abacavir by inducing metabolic enzymes. Monitor therapy closely. Manufacturer provides no specific recommendation." .
+<http://drug.uk/interaction/detail/46e26873-47d7-40be-8dfa-f2a121c30f6a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/62382c96-dde3-492d-a6bc-fc2723a2c84f> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/62382c96-dde3-492d-a6bc-fc2723a2c84f> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/62382c96-dde3-492d-a6bc-fc2723a2c84f> <http://purl.org/dc/terms/description> "Carbamazepine decreases the efficacy of paracetamol." .
+<http://drug.uk/interaction/detail/62382c96-dde3-492d-a6bc-fc2723a2c84f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/641d6788-fecb-4f23-bf40-cd65f34e5a3e> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/641d6788-fecb-4f23-bf40-cd65f34e5a3e> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/641d6788-fecb-4f23-bf40-cd65f34e5a3e> <http://purl.org/dc/terms/description> "Carbamazepine decreases the efficacy of atorvastatin." .
+<http://drug.uk/interaction/detail/641d6788-fecb-4f23-bf40-cd65f34e5a3e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/75f38877-12ec-4732-abdb-d890042ee3b9> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/75f38877-12ec-4732-abdb-d890042ee3b9> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/75f38877-12ec-4732-abdb-d890042ee3b9> <http://purl.org/dc/terms/description> "Carbamazepine decreases the efficacy of amlodipine." .
+<http://drug.uk/interaction/detail/75f38877-12ec-4732-abdb-d890042ee3b9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/e0e008e7-6185-4f06-b5ec-674e23eacce9> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/e0e008e7-6185-4f06-b5ec-674e23eacce9> <http://drug.uk/model/severity> "Severe" .
+<http://drug.uk/interaction/detail/e0e008e7-6185-4f06-b5ec-674e23eacce9> <http://purl.org/dc/terms/description> "Carbamazepine decreases the efficacy of apixaban." .
+<http://drug.uk/interaction/detail/e0e008e7-6185-4f06-b5ec-674e23eacce9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/paracetamol> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+
+
+<http://drug.uk/aciclovir> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/cefadroxil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/ciclosporin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/interaction/cefadroxil-aciclovir> <http://drug.uk/model/interactingDrug> <http://drug.uk/aciclovir> .
+<http://drug.uk/interaction/cefadroxil-aciclovir> <http://drug.uk/model/interactingDrug> <http://drug.uk/cefadroxil> .
+<http://drug.uk/interaction/cefadroxil-aciclovir> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/739c227f-d1f3-40ae-9a1a-2ca4288d82a2> .
+<http://drug.uk/interaction/cefadroxil-aciclovir> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/cefadroxil-ciclosporin> <http://drug.uk/model/interactingDrug> <http://drug.uk/cefadroxil> .
+<http://drug.uk/interaction/cefadroxil-ciclosporin> <http://drug.uk/model/interactingDrug> <http://drug.uk/ciclosporin> .
+<http://drug.uk/interaction/cefadroxil-ciclosporin> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/b88b8389-cb8a-4f3d-8906-d14c88d54adb> .
+<http://drug.uk/interaction/cefadroxil-ciclosporin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/detail/739c227f-d1f3-40ae-9a1a-2ca4288d82a2> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/739c227f-d1f3-40ae-9a1a-2ca4288d82a2> <http://purl.org/dc/terms/description> "Concurrent use of aciclovir and cefadroxil may increase risk of nephrotoxicity due to additive renal elimination burden, and cefadroxil may decrease aciclovir excretion, possibly increasing exposure." .
+<http://drug.uk/interaction/detail/739c227f-d1f3-40ae-9a1a-2ca4288d82a2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/b88b8389-cb8a-4f3d-8906-d14c88d54adb> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/b88b8389-cb8a-4f3d-8906-d14c88d54adb> <http://purl.org/dc/terms/description> "Both cefadroxil and ciclosporin can have nephrotoxic effects, especially in patients with impaired renal function. Combined use may increase the risk of kidney damage." .
+<http://drug.uk/interaction/detail/b88b8389-cb8a-4f3d-8906-d14c88d54adb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+
+
+<http://drug.uk/aciclovir> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/apixaban> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/atorvastatin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/carbamazepine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/cefadroxil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/ciclosporin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/interaction/ciclosporin-aciclovir> <http://drug.uk/model/interactingDrug> <http://drug.uk/aciclovir> .
+<http://drug.uk/interaction/ciclosporin-aciclovir> <http://drug.uk/model/interactingDrug> <http://drug.uk/ciclosporin> .
+<http://drug.uk/interaction/ciclosporin-aciclovir> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/3e2d6a74-fe64-4b10-b474-1458be71f0d3> .
+<http://drug.uk/interaction/ciclosporin-aciclovir> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/ciclosporin-apixaban> <http://drug.uk/model/interactingDrug> <http://drug.uk/apixaban> .
+<http://drug.uk/interaction/ciclosporin-apixaban> <http://drug.uk/model/interactingDrug> <http://drug.uk/ciclosporin> .
+<http://drug.uk/interaction/ciclosporin-apixaban> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/384fdd9a-c567-44f7-ba94-268de2b6a574> .
+<http://drug.uk/interaction/ciclosporin-apixaban> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/ciclosporin-atorvastatin> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/ciclosporin-atorvastatin> <http://drug.uk/model/interactingDrug> <http://drug.uk/ciclosporin> .
+<http://drug.uk/interaction/ciclosporin-atorvastatin> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/1ca9c776-f570-4d1b-b73a-9854110d4120> .
+<http://drug.uk/interaction/ciclosporin-atorvastatin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/ciclosporin-carbamazepine> <http://drug.uk/model/interactingDrug> <http://drug.uk/carbamazepine> .
+<http://drug.uk/interaction/ciclosporin-carbamazepine> <http://drug.uk/model/interactingDrug> <http://drug.uk/ciclosporin> .
+<http://drug.uk/interaction/ciclosporin-carbamazepine> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/e245553f-680b-4dc2-949e-8507324a1a36> .
+<http://drug.uk/interaction/ciclosporin-carbamazepine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/ciclosporin-cefadroxil> <http://drug.uk/model/interactingDrug> <http://drug.uk/cefadroxil> .
+<http://drug.uk/interaction/ciclosporin-cefadroxil> <http://drug.uk/model/interactingDrug> <http://drug.uk/ciclosporin> .
+<http://drug.uk/interaction/ciclosporin-cefadroxil> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/c433e4b2-6fab-4a98-98a2-95b5bf921789> .
+<http://drug.uk/interaction/ciclosporin-cefadroxil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/detail/1ca9c776-f570-4d1b-b73a-9854110d4120> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/1ca9c776-f570-4d1b-b73a-9854110d4120> <http://drug.uk/model/severity> "Severe" .
+<http://drug.uk/interaction/detail/1ca9c776-f570-4d1b-b73a-9854110d4120> <http://purl.org/dc/terms/description> "Ciclosporin increases atorvastatin plasma level and raises the risk of myopathy and rhabdomyolysis." .
+<http://drug.uk/interaction/detail/1ca9c776-f570-4d1b-b73a-9854110d4120> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/384fdd9a-c567-44f7-ba94-268de2b6a574> <http://drug.uk/model/evidence> "Theoretical" .
+<http://drug.uk/interaction/detail/384fdd9a-c567-44f7-ba94-268de2b6a574> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/384fdd9a-c567-44f7-ba94-268de2b6a574> <http://purl.org/dc/terms/description> "Ciclosporin can increased plasma concentrations of apixaban and elevate bleeding risk." .
+<http://drug.uk/interaction/detail/384fdd9a-c567-44f7-ba94-268de2b6a574> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/3e2d6a74-fe64-4b10-b474-1458be71f0d3> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/3e2d6a74-fe64-4b10-b474-1458be71f0d3> <http://purl.org/dc/terms/description> "Concurrent use of aciclovir and ciclosporin increases risk of nephrotoxicity due to additive renal burden. Aciclovir may also increase ciclosporin levels by reducing its renal clearance." .
+<http://drug.uk/interaction/detail/3e2d6a74-fe64-4b10-b474-1458be71f0d3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/c433e4b2-6fab-4a98-98a2-95b5bf921789> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/c433e4b2-6fab-4a98-98a2-95b5bf921789> <http://purl.org/dc/terms/description> "Both cefadroxil and ciclosporin can have nephrotoxic effects, especially in patients with impaired renal function. Combined use may increase the risk of kidney damage." .
+<http://drug.uk/interaction/detail/c433e4b2-6fab-4a98-98a2-95b5bf921789> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/e245553f-680b-4dc2-949e-8507324a1a36> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/e245553f-680b-4dc2-949e-8507324a1a36> <http://drug.uk/model/severity> "Severe" .
+<http://drug.uk/interaction/detail/e245553f-680b-4dc2-949e-8507324a1a36> <http://purl.org/dc/terms/description> "Carbamazepine decreases the efficacy of ciclosporin." .
+<http://drug.uk/interaction/detail/e245553f-680b-4dc2-949e-8507324a1a36> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+
+
+<http://drug.uk/flucloxacillin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/interaction/detail/0a81d215-af82-4892-b9fc-414a479b19a9> <http://drug.uk/model/evidence> "Anecdotal" .
+<http://drug.uk/interaction/detail/0a81d215-af82-4892-b9fc-414a479b19a9> <http://drug.uk/model/severity> "Severe" .
+<http://drug.uk/interaction/detail/0a81d215-af82-4892-b9fc-414a479b19a9> <http://purl.org/dc/terms/description> "Co-administration of paracetamol and flucloxacillin can rarely cause high anion gap metabolic acidosis due to accumulation of 5-oxoproline (pyroglutamic acid)" .
+<http://drug.uk/interaction/detail/0a81d215-af82-4892-b9fc-414a479b19a9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/flucloxacillin-paracetamol> <http://drug.uk/model/interactingDrug> <http://drug.uk/flucloxacillin> .
+<http://drug.uk/interaction/flucloxacillin-paracetamol> <http://drug.uk/model/interactingDrug> <http://drug.uk/paracetamol> .
+<http://drug.uk/interaction/flucloxacillin-paracetamol> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/0a81d215-af82-4892-b9fc-414a479b19a9> .
+<http://drug.uk/interaction/flucloxacillin-paracetamol> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/paracetamol> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+
+
+<http://drug.uk/atorvastatin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/carbamazepine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/flucloxacillin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+<http://drug.uk/interaction/detail/0691f447-d64a-48dd-87a5-f637a4402d13> <http://drug.uk/model/severity> "Normal" .
+<http://drug.uk/interaction/detail/0691f447-d64a-48dd-87a5-f637a4402d13> <http://purl.org/dc/terms/description> "Both atorvastatin and paracetamol can independently increase the hepatotoxicity risk." .
+<http://drug.uk/interaction/detail/0691f447-d64a-48dd-87a5-f637a4402d13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/85550ade-d84d-492f-b416-6bbb3943ee39> <http://drug.uk/model/evidence> "Anecdotal" .
+<http://drug.uk/interaction/detail/85550ade-d84d-492f-b416-6bbb3943ee39> <http://drug.uk/model/severity> "Severe" .
+<http://drug.uk/interaction/detail/85550ade-d84d-492f-b416-6bbb3943ee39> <http://purl.org/dc/terms/description> "Co-administration of paracetamol and flucloxacillin can rarely cause high anion gap metabolic acidosis due to accumulation of 5-oxoproline (pyroglutamic acid)" .
+<http://drug.uk/interaction/detail/85550ade-d84d-492f-b416-6bbb3943ee39> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/detail/f5b21e4d-28a1-4695-84ec-b38523d73d5d> <http://drug.uk/model/evidence> "Study" .
+<http://drug.uk/interaction/detail/f5b21e4d-28a1-4695-84ec-b38523d73d5d> <http://drug.uk/model/severity> "Moderate" .
+<http://drug.uk/interaction/detail/f5b21e4d-28a1-4695-84ec-b38523d73d5d> <http://purl.org/dc/terms/description> "Carbamazepine decreases the efficacy of paracetamol." .
+<http://drug.uk/interaction/detail/f5b21e4d-28a1-4695-84ec-b38523d73d5d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/InteractionDetail> .
+<http://drug.uk/interaction/paracetamol-atorvastatin> <http://drug.uk/model/interactingDrug> <http://drug.uk/atorvastatin> .
+<http://drug.uk/interaction/paracetamol-atorvastatin> <http://drug.uk/model/interactingDrug> <http://drug.uk/paracetamol> .
+<http://drug.uk/interaction/paracetamol-atorvastatin> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/0691f447-d64a-48dd-87a5-f637a4402d13> .
+<http://drug.uk/interaction/paracetamol-atorvastatin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/paracetamol-carbamazepine> <http://drug.uk/model/interactingDrug> <http://drug.uk/carbamazepine> .
+<http://drug.uk/interaction/paracetamol-carbamazepine> <http://drug.uk/model/interactingDrug> <http://drug.uk/paracetamol> .
+<http://drug.uk/interaction/paracetamol-carbamazepine> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/f5b21e4d-28a1-4695-84ec-b38523d73d5d> .
+<http://drug.uk/interaction/paracetamol-carbamazepine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/interaction/paracetamol-flucloxacillin> <http://drug.uk/model/interactingDrug> <http://drug.uk/flucloxacillin> .
+<http://drug.uk/interaction/paracetamol-flucloxacillin> <http://drug.uk/model/interactingDrug> <http://drug.uk/paracetamol> .
+<http://drug.uk/interaction/paracetamol-flucloxacillin> <http://drug.uk/model/interactionDetail> <http://drug.uk/interaction/detail/85550ade-d84d-492f-b416-6bbb3943ee39> .
+<http://drug.uk/interaction/paracetamol-flucloxacillin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/DrugInteraction> .
+<http://drug.uk/paracetamol> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://drug.uk/model/Drug> .
+

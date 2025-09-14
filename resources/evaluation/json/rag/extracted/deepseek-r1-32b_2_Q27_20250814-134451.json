@@ -1,0 +1,18 @@
+<think>
+Okay, so I need to figure out the dosage of pregabalin for an adult with Generalised anxiety disorder based on the provided JSON input. Let me start by understanding what's given.
+
+Looking at the JSON structure, there's a section called "therapeuticPlan" which includes indications and dosages. The indication for Generalised anxiety disorder is listed under the "indications" array along with Neuropathic pain. 
+
+Within the therapeutic plan, there's an entry for adult patients. The dosage information says "up to 600 mg daily in 3 divided doses." So that means the maximum recommended dose is 600 milligrams per day, taken three times a day.
+
+I should extract just the numerical value and the unit from this. The amount is 600 mg, so the dosage amount is 600 and the unit is mg. 
+
+I need to make sure I don't include any extra information or explanations, just the structured JSON with those two keys.
+</think>
+
+```json
+{
+    "dosage amount": 600,
+    "dosage unit": "mg"
+}
+```

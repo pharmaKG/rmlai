@@ -1,0 +1,22 @@
+<think>
+Okay, so I need to figure out the dosage amount and unit for Hyoscine butylbromide when treating gastrointestinal smooth muscle spasm in adults based on the provided JSON input. Let me start by looking through the JSON data carefully.
+
+First, I see that there's a section called "therapeuticPlan" which contains information about how the drug is used therapeutically. Within this, there's an entry for "Gastrointestinal smooth muscle spasm" with a dosage specified as "20 mg up to four times daily." The patient group here is adult.
+
+So, from this, it seems that the dosage amount is 20 mg per dose, and it can be taken up to four times a day. That means the maximum daily dosage would be 80 mg (20 mg multiplied by 4 doses). However, since the JSON specifies "20 mg up to four times," I think each dose is 20 mg, not that the total is capped at 80 mg.
+
+Next, I need to determine the unit of measurement. The term "mg" stands for milligrams, which is a common unit for dosages in pharmaceuticals. So, it's safe to assume that the unit here is milligrams.
+
+I should also check if there are any other relevant sections in the JSON that might provide more context or different dosage information. Looking through the rest of the JSON, I see sections about breast feeding, hepatic impairment, pregnancy, renal impairment, side effects, and general info for therapeutic plan. None of these seem to mention Hyoscine butylbromide's dosages differently, so it's likely that the only dosage provided is 20 mg per dose.
+
+I don't see any conflicting information elsewhere in the JSON that would suggest a different dosage amount or unit. The route of administration is by mouth, which is standard for many oral medications, but since the question specifically asks for dosage amount and unit, I can focus on the numerical values provided.
+
+So, putting it all together, the dosage amount is 20 mg per dose, and the unit is milligrams.
+</think>
+
+```json
+{
+    "dosageAmount": "20",
+    "dosageUnit": "mg"
+}
+```

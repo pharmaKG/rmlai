@@ -1,0 +1,20 @@
+<think>
+Okay, so I need to figure out the correct dosage of apixaban for an adult treating deep-vein thrombosis (DVT). Let me start by recalling what I know about apixaban.
+
+Apixaban is an anticoagulant, which means it helps prevent blood clots. It's often used to treat conditions like DVT and pulmonary embolism. From what I remember, the typical dosage for adults in such cases is around 10 mg twice daily. But wait, I should double-check that because sometimes dosages can vary based on factors like kidney function or other health conditions.
+
+I think apixaban is taken orally, so the unit would be tablets. Each tablet is usually 5 mg, but when treating DVT, the dose might need to be higher. So maybe two tablets of 5 mg each, totaling 10 mg per day, split into two doses. That makes sense because taking it twice a day helps maintain consistent levels in the blood.
+
+I should also consider if there are any special instructions, like whether food affects its absorption or if it's taken with or without food. But since the question only asks for dosage amount and unit, I don't need to include that here.
+
+Wait, another thought: sometimes initial doses might be higher or adjusted based on bleeding risk or other medications. However, the standard maintenance dose is typically 10 mg twice daily. So unless there's a specific reason to adjust it, 10 mg twice daily should be correct.
+
+I think I've covered the main points. The dosage amount is 10 mg per day split into two doses, each of 5 mg tablets.
+</think>
+
+```json
+{
+  "dosage amount": "10 mg",
+  "dosage unit": "tablet"
+}
+```

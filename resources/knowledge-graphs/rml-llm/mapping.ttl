@@ -1,0 +1,795 @@
+@prefix rr: <http://www.w3.org/ns/r2rml#> .
+@prefix rml: <http://semweb.mmlab.be/ns/rml#> .
+@prefix ql: <http://semweb.mmlab.be/ns/ql#> .
+@prefix fnml: <http://semweb.mmlab.be/ns/fnml#> .
+@prefix fno: <https://w3id.org/function/ontology#> .
+@prefix grel:    <http://users.ugent.be/~bjdmeest/function/grel.ttl#> .
+@prefix drug: <http://drug.uk/model/> .
+@prefix drug-instance: <http://drug.uk/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix ex: <http://www.example.org/functions#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix : <http://example/> .
+
+##all rml:source will be replaced for each drug
+
+:DrugMapping
+    a rr:TriplesMap ;
+    rml:logicalSource [
+        rml:source "abacavir.json" ;
+        rml:referenceFormulation ql:JSONPath ;
+        rml:iterator "$"
+    ] ;
+    rr:subjectMap [
+        rr:template "http://drug.uk/{identifier}" ;
+        rr:class drug:Drug ;
+    ] ;
+    rr:predicateObjectMap [
+        rr:predicate skos:prefLabel ;
+        rr:objectMap [ rml:reference "title" ]
+    ] ;
+    rr:predicateObjectMap [
+        rr:predicate drug:usage ;
+        rr:objectMap [
+            rr:parentTriplesMap :BreastFeedingUsageMapping ;
+        ] ;
+    ] ;
+    rr:predicateObjectMap [
+        rr:predicate drug:usage ;
+        rr:objectMap [
+            rr:parentTriplesMap :HepaticImpairmentUsageMapping ;
+        ] ;
+    ] ;
+    rr:predicateObjectMap [
+        rr:predicate drug:usage ;
+        rr:objectMap [
+            rr:parentTriplesMap :RenalImpairmentUsageMapping ;
+        ] ;
+    ] ;
+    rr:predicateObjectMap [
+        rr:predicate drug:usage ;
+        rr:objectMap [
+            rr:parentTriplesMap :PregnancyUsageMapping ;
+        ] ;
+    ] ;
+    rr:predicateObjectMap [
+        rr:predicate drug:usage ;
+        rr:objectMap [
+            rr:parentTriplesMap :NormalUsageMapping ;
+        ] ;
+    ] ;
+    rr:predicateObjectMap [
+        rr:predicate drug:sideEffectDescription ;
+        rr:objectMap [
+            fnml:functionValue [
+                rr:predicateObjectMap [
+                    rr:predicate fno:executes ;
+                    rr:objectMap [ rr:constant grel:concatMany] ;
+                ] ;
+                rr:predicateObjectMap [
+                    rr:predicate grel:list ;
+                    rr:objectMap [ rml:reference "sideEffects.generalInfo"] ;
+                ] ;
+                rr:predicateObjectMap [
+                    rr:predicate grel:valueParameter ;
+                    rr:objectMap [ rml:reference "sideEffects.specificInfo" ] ;
+                ] ;
+            ]
+        ]
+    ] ;
+    rr:predicateObjectMap [
+        rr:predicate drug:sideEffect ;
+        rr:objectMap [
+            fnml:functionValue [
+                rr:predicateObjectMap [
+                    rr:predicate fno:executes ;
+                    rr:objectMap [ rr:constant grel:getListFromLLM ]
+                ] ;
+                rr:predicateObjectMap [
+                    rr:predicate ex:str-prompt ;
+                    rr:objectMap [
+                        fnml:functionValue [
+                            rr:predicateObjectMap [
+                                rr:predicate fno:executes ;
+                                rr:objectMap [ rr:constant grel:concat]
+                            ] ;
+                            rr:predicateObjectMap [
+                                rr:predicate ex:str-prompt ;
+                                rr:objectMap [ rr:constant '''task: Extract a list of all side-effects from the provided text.
+                                                              output: Return just a plain string list using this template; [\"effect1\", \"effect2\", ..]. If there's no relevant information, return an empty list, i.e. []. Do not return extra text or explanation. Do not return markdown formatting.
+                                                              rules: Do not miss any mentioned side-effects or symptoms related to adverse reactions, even if mentioned narratively (e.g., further information). Treat all such mentions as side-effects including any symptoms or manifestations described as part of those conditions. Do not return duplicates.
+                                                              text: \n '''];
+                            ] ;
+                            rr:predicateObjectMap [
+                                rr:predicate grel:valueParameter ;
+                                rr:objectMap [
+                                    fnml:functionValue [
+                                        rr:predicateObjectMap [
+                                            rr:predicate fno:executes ;
+                                            rr:objectMap [ rr:constant grel:concatMany] ;
+                                        ] ;
+                                        rr:predicateObjectMap [
+                                            rr:predicate grel:list ;
+                                            rr:objectMap [ rml:reference "sideEffects.generalInfo"] ;
+                                        ] ;
+                                        rr:predicateObjectMap [
+                                            rr:predicate grel:valueParameter ;
+                                            rr:objectMap [ rml:reference "sideEffects.specificInfo" ] ;
+                                        ] ;
+                                    ]
+                                ]
+                            ] ;
+                        ]
+                    ] ;
+                ] ;
+                rr:predicateObjectMap [
+                    rr:predicate ex:str-model ;
+                    rr:objectMap [ rr:constant "LLM-MODEL-TEMPLATE"]
+                ] ;
+            ]
+        ] ;
+    ] ;
+.
+
+:BreastFeedingUsageMapping
+    a rr:TriplesMap ;
+    rml:logicalSource [
+        rml:source "abacavir.json" ;
+        rml:referenceFormulation ql:JSONPath ;
+        rml:iterator "$.breastFeeding"
+    ] ;
+    rr:subjectMap [
+        rr:template "http://drug.uk/usage/breast-feeding/{id}" ;
+        rr:class drug:Usage ;
+    ] ;
+    rr:predicateObjectMap [
+        rr:predicate drug:patientCondition ;
+        rr:objectMap [
+            rr:datatype xsd:string ;
+            rr:constant "BreastFeeding" ;
+        ] ;
+    ] ;
+    rr:predicateObjectMap :usageDescriptionMap ;
+    rr:predicateObjectMap :safetyLevelMap ;
+
+.
+
+:HepaticImpairmentUsageMapping
+    a rr:TriplesMap ;
+    rml:logicalSource [
+        rml:source "abacavir.json" ;
+        rml:referenceFormulation ql:JSONPath ;
+        rml:iterator "$.hepaticImpairment"
+    ] ;
+    rr:subjectMap [
+        rr:template "http://drug.uk/usage/hepatic-impairment/{id}" ;
+        rr:class drug:Usage ;
+    ] ;
+    rr:predicateObjectMap [
+        rr:predicate drug:patientCondition ;
+        rr:objectMap [
+            rr:datatype xsd:string ;
+            rr:constant "HepaticImpairment" ;
+        ] ;
+    ] ;
+    rr:predicateObjectMap :usageDescriptionMap ;
+    rr:predicateObjectMap :safetyLevelMap ;
+.
+
+:RenalImpairmentUsageMapping
+    a rr:TriplesMap ;
+    rml:logicalSource [
+        rml:source "abacavir.json" ;
+        rml:referenceFormulation ql:JSONPath ;
+        rml:iterator "$.renalImpairment"
+    ] ;
+    rr:subjectMap [
+        rr:template "http://drug.uk/usage/renal-impairment/{id}" ;
+        rr:class drug:Usage ;
+    ] ;
+    rr:predicateObjectMap [
+        rr:predicate drug:patientCondition ;
+        rr:objectMap [
+            rr:datatype xsd:string ;
+            rr:constant "RenalImpairment" ;
+        ] ;
+    ] ;
+    rr:predicateObjectMap :usageDescriptionMap ;
+    rr:predicateObjectMap :safetyLevelMap ;
+.
+
+:PregnancyUsageMapping
+    a rr:TriplesMap ;
+    rml:logicalSource [
+        rml:source "abacavir.json" ;
+        rml:referenceFormulation ql:JSONPath ;
+        rml:iterator "$.pregnancy"
+    ] ;
+    rr:subjectMap [
+        rr:template "http://drug.uk/usage/pregnancy/{id}" ;
+        rr:class drug:Usage ;
+    ] ;
+    rr:predicateObjectMap [
+        rr:predicate drug:patientCondition ;
+        rr:objectMap [
+            rr:datatype xsd:string ;
+            rr:constant "Pregnancy" ;
+        ] ;
+    ] ;
+    rr:predicateObjectMap :usageDescriptionMap ;
+    rr:predicateObjectMap :safetyLevelMap ;
+.
+
+:NormalUsageMapping
+    a rr:TriplesMap ;
+    rml:logicalSource [
+        rml:source "abacavir.json" ;
+        rml:referenceFormulation ql:JSONPath ;
+        rml:iterator "$.therapeuticPlan[*]"
+    ] ;
+    rr:subjectMap [
+        rr:template "http://drug.uk/usage/normal/{id}" ;
+        rr:class drug:Usage ;
+    ] ;
+    rr:predicateObjectMap [
+        rr:predicate drug:patientCondition ;
+        rr:objectMap [
+            rr:datatype xsd:string ;
+            rr:constant "Normal" ;
+        ] ;
+    ] ;
+    rr:predicateObjectMap [
+        rr:predicate drug:safetyLevel ;
+        rr:objectMap [
+            rr:datatype xsd:string ;
+            rr:constant "safe" ;
+        ] ;
+    ] ;
+    ## rr:predicateObjectMap :usageDescriptionMap ;
+    rr:predicateObjectMap [
+        rr:predicate drug:dosage ;
+        rr:objectMap [
+            rr:parentTriplesMap :DosageMapping ;
+            rr:joinCondition [
+                rr:child "id" ;
+                rr:parent "parentId" ;
+            ]
+        ] ;
+    ];
+    rr:predicateObjectMap [
+        rr:predicate drug:indication ;
+        rr:objectMap [ rml:reference "indications" ] ;
+    ] ;
+.
+
+:DosageMapping
+    a rr:TriplesMap ;
+    rml:logicalSource [
+        rml:source "abacavir.json" ;
+        rml:referenceFormulation ql:JSONPath ;
+        rml:iterator "$.therapeuticPlan[*].dosages[*]"
+    ] ;
+    rr:subjectMap [
+        rr:template "http://drug.uk/dosage/{id}" ;
+        rr:class drug:Dosage ;
+    ] ;
+    rr:predicateObjectMap [
+        rr:predicate drug:route ;
+        rr:objectMap [ rml:reference "routeOfAdministration" ] ;
+    ] ;
+    rr:predicateObjectMap [
+        rr:predicate dct:description ;
+        rr:objectMap [ rml:reference "doseInfo" ] ;
+    ] ;
+    rr:predicateObjectMap [
+        rr:predicate drug:patientGroupDescription ;
+        rr:objectMap [ rml:reference "detailedPatientGroup" ] ;
+    ] ;
+    rr:predicateObjectMap [
+        rr:predicate drug:amount ;
+        rr:objectMap [
+            rr:datatype xsd:decimal ;
+            fnml:functionValue [
+                rr:predicateObjectMap [
+                    rr:predicate fno:executes ;
+                    rr:objectMap [ rr:constant grel:getFloatFromLLM ]
+                ] ;
+                rr:predicateObjectMap [
+                    rr:predicate ex:str-prompt ;
+                    rr:objectMap [
+                        fnml:functionValue [
+                            rr:predicateObjectMap [
+                                rr:predicate fno:executes ;
+                                rr:objectMap [ rr:constant grel:concat]
+                            ] ;
+                            rr:predicateObjectMap [
+                                rr:predicate ex:str-prompt ;
+                                rr:objectMap [ rr:constant '''task: Extract dosage amount from the provided text.
+                                                              output: a json string of format: {\"response\": DOSAGE_AMOUNT}. DO NOT RETURN ADDITIONAL EXPLANATIONS OR TEXT OR MARKDOWN FORMATTING. Only JSON as string.
+                                                              rule: DOSAGE_AMOUNT is a float value. And it should be a valid xsd:decimal. If no relevant information is found in the text, DOSAGE_AMOUNT is null. Do not put null within double quotes.
+                                                              example: if the text says 50mg daily, DOSAGE_AMOUNT is 50. if text says apply 1 millimeter, DOSAGE_AMOUNT is 1.0.
+                                                              text: \n '''] ;
+                            ] ;
+                            rr:predicateObjectMap [
+                                rr:predicate grel:valueParameter ;
+                                rr:objectMap [ rml:reference "doseInfo" ] ;
+                            ] ;
+                        ]
+                    ] ;
+                ] ;
+                rr:predicateObjectMap [
+                    rr:predicate ex:str-model ;
+                    rr:objectMap [ rr:constant "LLM-MODEL-TEMPLATE"]
+                ] ;
+            ]
+        ] ;
+    ] ;
+    rr:predicateObjectMap [
+        rr:predicate drug:unit ;
+        rr:objectMap [
+            fnml:functionValue [
+                rr:predicateObjectMap [
+                    rr:predicate fno:executes ;
+                    rr:objectMap [ rr:constant grel:getStrFromLLM ]
+                ] ;
+                rr:predicateObjectMap [
+                    rr:predicate ex:str-prompt ;
+                    rr:objectMap [
+                        fnml:functionValue [
+                            rr:predicateObjectMap [
+                                rr:predicate fno:executes ;
+                                rr:objectMap [ rr:constant grel:concat]
+                            ] ;
+                            rr:predicateObjectMap [
+                                rr:predicate ex:str-prompt ;
+                                rr:objectMap [ rr:constant '''task: Extract the unit of dosage amount from the provided text.
+                                                              output: a json string of format: {\"response\": \"UNIT\"}. DO NOT RETURN ADDITIONAL EXPLANATIONS OR TEXT OR MARKDOWN FORMATTING. Only JSON as string.
+                                                              rule: UNIT is a string. It can be either short form like mg or long form like micrograms. If no relevant information is found in the text, UNIT is null. Do not put null within double quotes.
+                                                              example: if the text says 50mg daily, 50 is the dose amount and it's unit is mg. So UNIT is "mg". if text says 50 milligrams instead of 50mg, UNIT is "milligrams". if text says apply 1 millimeter, UNIT is millimeter.
+                                                              text: \n ''' ] ;
+                            ] ;
+                            rr:predicateObjectMap [
+                                rr:predicate grel:valueParameter ;
+                                rr:objectMap [ rml:reference "doseInfo" ] ;
+                            ] ;
+                        ]
+                    ] ;
+                ] ;
+                rr:predicateObjectMap [
+                    rr:predicate ex:str-model ;
+                    rr:objectMap [ rr:constant "LLM-MODEL-TEMPLATE"]
+                ] ;
+            ]
+        ] ;
+    ] ;
+    rr:predicateObjectMap [
+        rr:predicate drug:frequency ;
+        rr:objectMap [
+            rr:datatype xsd:decimal ;
+            fnml:functionValue [
+                rr:predicateObjectMap [
+                    rr:predicate fno:executes ;
+                    rr:objectMap [ rr:constant grel:getFloatFromLLM ]
+                ] ;
+                rr:predicateObjectMap [
+                    rr:predicate ex:str-prompt ;
+                    rr:objectMap [
+                        fnml:functionValue [
+                            rr:predicateObjectMap [
+                                rr:predicate fno:executes ;
+                                rr:objectMap [ rr:constant grel:concat]
+                            ] ;
+                            rr:predicateObjectMap [
+                                rr:predicate ex:str-prompt ;
+                                rr:objectMap [ rr:constant '''task: Extract the frequency count of dosage amount from the provided text. Frequency count represents how frequently the dosage should be administered.
+                                                              output: a json string of format: {\"response\": FREQUENCY_COUNT}. DO NOT RETURN ADDITIONAL EXPLANATIONS OR TEXT OR MARKDOWN FORMATTING. Only JSON as string.
+                                                              rule: FREQUENCY_COUNT is a numerical float value, which should be a valid xsd:decimal. If no relevant information is found in the text, FREQUENCY_COUNT should be null. Do not put null within double quotes.
+                                                              example: if the text says 50mg daily, the frequency is 1 for 50mg dose. FREQUENCY_COUNT is 1. if the text says 100 mg 5 times a day usually for 7 days, the frequency is 5 for 100mg dose. so FREQUENCY_COUNT is 5. if the text says apply 8 times daily, frequency is 8 and frequency duration is daily, so FREQUENCY_COUNT is 8.
+                                                              text: \n ''' ] ;
+                            ] ;
+                            rr:predicateObjectMap [
+                                rr:predicate grel:valueParameter ;
+                                rr:objectMap [ rml:reference "doseInfo" ] ;
+                            ] ;
+                        ]
+                    ] ;
+                ] ;
+                rr:predicateObjectMap [
+                    rr:predicate ex:str-model ;
+                    rr:objectMap [ rr:constant "LLM-MODEL-TEMPLATE"]
+                ] ;
+            ]
+        ] ;
+    ] ;
+    rr:predicateObjectMap [
+        rr:predicate drug:duration ;
+        rr:objectMap [
+            rr:datatype xsd:duration ;
+            fnml:functionValue [
+                rr:predicateObjectMap [
+                    rr:predicate fno:executes ;
+                    rr:objectMap [ rr:constant grel:getStrFromLLM ]
+                ] ;
+                rr:predicateObjectMap [
+                    rr:predicate ex:str-prompt ;
+                    rr:objectMap [
+                        fnml:functionValue [
+                            rr:predicateObjectMap [
+                                rr:predicate fno:executes ;
+                                rr:objectMap [ rr:constant grel:concat]
+                            ] ;
+                            rr:predicateObjectMap [
+                                rr:predicate ex:str-prompt ;
+                                rr:objectMap [ rr:constant '''task: From the provided text, extract the frequency duration at which the dose of the drug must be administered.
+                                                              output: a json string of format: {\"response\": \"FREQUENCY_DURATION\"}. DO NOT RETURN ADDITIONAL EXPLANATIONS OR TEXT OR MARKDOWN FORMATTING. Only JSON as string.
+                                                              rule: FREQUENCY_DURATION should be a valid xsd:duration. If no relevant information is found in the text, FREQUENCY_DURATION should be null. Do not put null within double quotes.
+                                                              examples: if the text says 50mg daily or 50mg per day, the frequency duration is daily/per day. so FREQUENCY_DURATION is P1D. if the text says 20mg twice every 8 hour, frequency count is 2 and frequency duration is 8 hour, so FREQUENCY_DURATION is PT8H. if the text says apply 8 times daily for 10 days, frequency count is 8 and frequency duration is daily, so FREQUENCY_DURATION P1D.
+                                                              text: \n ''' ] ;
+                            ] ;
+                            rr:predicateObjectMap [
+                                rr:predicate grel:valueParameter ;
+                                rr:objectMap [ rml:reference "doseInfo" ] ;
+                            ] ;
+                        ]
+                    ] ;
+                ] ;
+                rr:predicateObjectMap [
+                    rr:predicate ex:str-model ;
+                    rr:objectMap [ rr:constant "LLM-MODEL-TEMPLATE"]
+                ] ;
+            ]
+        ] ;
+    ] ;
+    rr:predicateObjectMap [
+        rr:predicate drug:group ;
+        rr:objectMap [ rml:reference "patientGroup" ]
+    ] ;
+    rr:predicateObjectMap [
+        rr:predicate drug:gender ;
+        rr:objectMap [
+            fnml:functionValue [
+                rr:predicateObjectMap [
+                    rr:predicate fno:executes ;
+                    rr:objectMap [ rr:constant grel:getStrFromLLM ]
+                ] ;
+                rr:predicateObjectMap [
+                    rr:predicate ex:str-prompt ;
+                    rr:objectMap [
+                        fnml:functionValue [
+                            rr:predicateObjectMap [
+                                rr:predicate fno:executes ;
+                                rr:objectMap [ rr:constant grel:concat]
+                            ] ;
+                            rr:predicateObjectMap [
+                                rr:predicate ex:str-prompt ;
+                                rr:objectMap [ rr:constant '''task: Extract gender of the patient group from the provided text.
+                                                              output: a json string of format: {\"response\": \"GENDER\"}. DO NOT RETURN ADDITIONAL EXPLANATIONS OR TEXT OR MARKDOWN FORMATTING. Only JSON as string.
+                                                              rule: GENDER should be a valid xsd:string. If no relevant information is found in the text, GENDER should be null. Do not put null within double quotes.
+                                                              example: if the text says Adult (Male), the gender is male. So GENDER male.
+                                                              text: \n '''] ;
+                            ] ;
+                            rr:predicateObjectMap [
+                                rr:predicate grel:valueParameter ;
+                                rr:objectMap [ rml:reference "detailedPatientGroup" ] ;
+                            ] ;
+                        ]
+                    ] ;
+                ] ;
+                rr:predicateObjectMap [
+                    rr:predicate ex:str-model ;
+                    rr:objectMap [ rr:constant "LLM-MODEL-TEMPLATE"]
+                ] ;
+            ]
+        ] ;
+    ] ;
+    rr:predicateObjectMap [
+        rr:predicate drug:minWeight ;
+        rr:objectMap [
+            rr:datatype xsd:decimal ;
+            fnml:functionValue [
+                rr:predicateObjectMap [
+                    rr:predicate fno:executes ;
+                    rr:objectMap [ rr:constant grel:getFloatFromLLM ]
+                ] ;
+                rr:predicateObjectMap [
+                    rr:predicate ex:str-prompt ;
+                    rr:objectMap [
+                        fnml:functionValue [
+                            rr:predicateObjectMap [
+                                rr:predicate fno:executes ;
+                                rr:objectMap [ rr:constant grel:concat]
+                            ] ;
+                            rr:predicateObjectMap [
+                                rr:predicate ex:str-prompt ;
+                                rr:objectMap [ rr:constant '''task: Extract minimum weight of the patient group from the provided text.
+                                                              output: a json string of format: {\"response\": MINIMUM_WEIGHT}. DO NOT RETURN ADDITIONAL EXPLANATIONS OR TEXT OR MARKDOWN FORMATTING. Only JSON as string.
+                                                              rule: MINIMUM_WEIGHT should be a valid xsd:decimal. If no explicit minimum weight is mentioned in the text, MINIMUM_WEIGHT should be null. Do not put null within double quotes.
+                                                              example: if the text says Adult (40-80 kg) or Adult (40kg and above), the minimum weight is 40. So MINIMUM_WEIGHT is 40. if the text says Adult (up to 40), the maximum weight is 40 and minimum weight is not mentioned, so MINIMUM_WEIGHT is null.
+                                                              text: \n ''' ] ;
+                            ] ;
+                            rr:predicateObjectMap [
+                                rr:predicate grel:valueParameter ;
+                                rr:objectMap [ rml:reference "detailedPatientGroup" ] ;
+                            ] ;
+                        ]
+                    ] ;
+                ] ;
+                rr:predicateObjectMap [
+                    rr:predicate ex:str-model ;
+                    rr:objectMap [ rr:constant "LLM-MODEL-TEMPLATE"]
+                ] ;
+            ]
+        ] ;
+    ] ;
+    rr:predicateObjectMap [
+        rr:predicate drug:maxWeight ;
+        rr:objectMap [
+            rr:datatype xsd:decimal ;
+            fnml:functionValue [
+                rr:predicateObjectMap [
+                    rr:predicate fno:executes ;
+                    rr:objectMap [ rr:constant grel:getFloatFromLLM ]
+                ] ;
+                rr:predicateObjectMap [
+                    rr:predicate ex:str-prompt ;
+                    rr:objectMap [
+                        fnml:functionValue [
+                            rr:predicateObjectMap [
+                                rr:predicate fno:executes ;
+                                rr:objectMap [ rr:constant grel:concat]
+                            ] ;
+                            rr:predicateObjectMap [
+                                rr:predicate ex:str-prompt ;
+                                rr:objectMap [ rr:constant '''task: Extract maximum weight of the patient group from the provided text.
+                                                              output: a json string of format: {\"response\": MAXIMUM_WEIGHT}. DO NOT RETURN ADDITIONAL EXPLANATIONS OR TEXT OR MARKDOWN FORMATTING. Only JSON as string.
+                                                              rule: MAXIMUM_WEIGHT should be a valid xsd:decimal. If no explicit maximum weight is mentioned in the text, MAXIMUM_WEIGHT should be null. Do not put null within double quotes.
+                                                              example: if the text says Adult (40-80 kg) or Adult (up to 80 kg), the maximum weight is 80. So MAXIMUM_WEIGHT is 80. if the text says Adult (80 kg and above), the minimum weight is 40 and maximum weight is not mentioned, so MAXIMUM_WEIGHT null.
+                                                              text: \n ''' ] ;
+                            ] ;
+                            rr:predicateObjectMap [
+                                rr:predicate grel:valueParameter ;
+                                rr:objectMap [ rml:reference "detailedPatientGroup" ] ;
+                            ] ;
+                        ]
+                    ] ;
+                ] ;
+                rr:predicateObjectMap [
+                    rr:predicate ex:str-model ;
+                    rr:objectMap [ rr:constant "LLM-MODEL-TEMPLATE"]
+                ] ;
+            ]
+        ] ;
+    ] ;
+    rr:predicateObjectMap [
+        rr:predicate drug:weightUnit ;
+        rr:objectMap [
+            fnml:functionValue [
+                rr:predicateObjectMap [
+                    rr:predicate fno:executes ;
+                    rr:objectMap [ rr:constant grel:getStrFromLLM ]
+                ] ;
+                rr:predicateObjectMap [
+                    rr:predicate ex:str-prompt ;
+                    rr:objectMap [
+                        fnml:functionValue [
+                            rr:predicateObjectMap [
+                                rr:predicate fno:executes ;
+                                rr:objectMap [ rr:constant grel:concat]
+                            ] ;
+                            rr:predicateObjectMap [
+                                rr:predicate ex:str-prompt ;
+                                rr:objectMap [ rr:constant '''task: Extract the unit of weights of the patient group from the provided text.
+                                                              output: a json string of format: {\"response\": \"WEIGHT_UNIT\"}. DO NOT RETURN ADDITIONAL EXPLANATIONS OR TEXT OR MARKDOWN FORMATTING. Only JSON as string.
+                                                              rule: WEIGHT_UNIT value should be a valid xsd:string. If no explicit unit of age is mentioned in the text, WEIGHT_UNIT should be null. Do not put null within double quotes.
+                                                              example: if the text says Adult (40-80 kg), kg is the unit of weight. So WEIGHT_UNIT is kg.
+                                                              text: \n ''' ] ;
+                            ] ;
+                            rr:predicateObjectMap [
+                                rr:predicate grel:valueParameter ;
+                                rr:objectMap [ rml:reference "detailedPatientGroup" ] ;
+                            ] ;
+                        ]
+                    ] ;
+                ] ;
+                rr:predicateObjectMap [
+                    rr:predicate ex:str-model ;
+                    rr:objectMap [ rr:constant "LLM-MODEL-TEMPLATE"]
+                ] ;
+            ]
+        ] ;
+    ] ;
+    rr:predicateObjectMap [
+        rr:predicate drug:minAge ;
+        rr:objectMap [
+            rr:datatype xsd:decimal ;
+            fnml:functionValue [
+                rr:predicateObjectMap [
+                    rr:predicate fno:executes ;
+                    rr:objectMap [ rr:constant grel:getFloatFromLLM ]
+                ] ;
+                rr:predicateObjectMap [
+                    rr:predicate ex:str-prompt ;
+                    rr:objectMap [
+                        fnml:functionValue [
+                            rr:predicateObjectMap [
+                                rr:predicate fno:executes ;
+                                rr:objectMap [ rr:constant grel:concat]
+                            ] ;
+                            rr:predicateObjectMap [
+                                rr:predicate ex:str-prompt ;
+                                rr:objectMap [ rr:constant '''task: Extract minimum age of the patient group from the provided text.
+                                                              output: a json string of format: {\"response\": MINIMUM_AGE}. DO NOT RETURN ADDITIONAL EXPLANATIONS OR TEXT OR MARKDOWN FORMATTING. Only JSON as string.
+                                                              rule: MINIMUM_AGE should be a valid xsd:decimal. If no explicit minimum age is mentioned in the text, MINIMUM_AGE should be null. Do not put null within double quotes.
+                                                              ADDITIONALal rule: If there is a minimum age with a different unit and maximum age with different unit, convert it to maximum age's unit before returning the value. For this conversion, use 30 days = 1 month, 4 weeks = 1 month, 365 days = 1 year, 52 weeks = 1 year, 12 months = 1 year, and do the divide operation accordingly. For decimal values, round off to 3 decimal places.
+                                                              example: If the text says Adult (18-20 years), 18 is the minimum age. So MINIMUM_AGE is 18.0. If the text says Child(5months-2years), the minimum age is 5 months. But as we have different unit for minimum and maximum age, i.e. months and years, convert months to years. In this case: 5/12 = 0.42 years. So MINIMUM_AGE is 0.42. if the text says Adult (up to 50 years), 50 is maximum age while there is no minimum age mentioned. So MINIMUM_AGE is null.
+                                                              text: \n ''' ] ;
+                            ] ;
+                            rr:predicateObjectMap [
+                                rr:predicate grel:valueParameter ;
+                                rr:objectMap [ rml:reference "detailedPatientGroup" ] ;
+                            ] ;
+                        ]
+                    ] ;
+                ] ;
+                rr:predicateObjectMap [
+                    rr:predicate ex:str-model ;
+                    rr:objectMap [ rr:constant "LLM-MODEL-TEMPLATE"]
+                ] ;
+            ]
+        ] ;
+    ] ;
+    rr:predicateObjectMap [
+        rr:predicate drug:maxAge ;
+        rr:objectMap [
+            rr:datatype xsd:decimal ;
+            fnml:functionValue [
+                rr:predicateObjectMap [
+                    rr:predicate fno:executes ;
+                    rr:objectMap [ rr:constant grel:getFloatFromLLM ]
+                ] ;
+                rr:predicateObjectMap [
+                    rr:predicate ex:str-prompt ;
+                    rr:objectMap [
+                        fnml:functionValue [
+                            rr:predicateObjectMap [
+                                rr:predicate fno:executes ;
+                                rr:objectMap [ rr:constant grel:concat]
+                            ] ;
+                            rr:predicateObjectMap [
+                                rr:predicate ex:str-prompt ;
+                                rr:objectMap [ rr:constant '''task: Extract maximum age of the patient group from the provided text.
+                                                              output: a json string of format: {\"response\": MAXIMUM_AGE}. DO NOT RETURN ADDITIONAL EXPLANATIONS OR TEXT OR MARKDOWN FORMATTING. Only JSON as string.
+                                                              rule: MAXIMUM_AGE should be as a valid xsd:decimal. If no explicit maximum age is mentioned in the text, MAXIMUM_AGE should be null. Do not put null within double quotes.
+                                                              example: If the text says Adult (18-20 years), 20 is the maximum age. So MAXIMUM_AGE is 20.0. If the text says Child(5weeks-8months), the maximum age is 8 months. So MAXIMUM_AGE is 8.0. If the text says Adult (50 years and above), 50 is minimum age while there is no maximum age mentioned. So MAXIMUM_AGE null.
+                                                              text: \n ''' ] ;
+                            ] ;
+                            rr:predicateObjectMap [
+                                rr:predicate grel:valueParameter ;
+                                rr:objectMap [ rml:reference "detailedPatientGroup" ] ;
+                            ] ;
+                        ]
+                    ] ;
+                ] ;
+                rr:predicateObjectMap [
+                    rr:predicate ex:str-model ;
+                    rr:objectMap [ rr:constant "LLM-MODEL-TEMPLATE"]
+                ] ;
+            ]
+        ] ;
+    ] ;
+    rr:predicateObjectMap [
+        rr:predicate drug:ageUnit ;
+        rr:objectMap [
+            fnml:functionValue [
+                rr:predicateObjectMap [
+                    rr:predicate fno:executes ;
+                    rr:objectMap [ rr:constant grel:getStrFromLLM ]
+                ] ;
+                rr:predicateObjectMap [
+                    rr:predicate ex:str-prompt ;
+                    rr:objectMap [
+                        fnml:functionValue [
+                            rr:predicateObjectMap [
+                                rr:predicate fno:executes ;
+                                rr:objectMap [ rr:constant grel:concat]
+                            ] ;
+                            rr:predicateObjectMap [
+                                rr:predicate ex:str-prompt ;
+                                rr:objectMap [ rr:constant '''task: Extract unit of age of the patient group from the provided text.
+                                                              output: a json string of format: {\"response\": \"AGE_UNIT\"}. DO NOT RETURN ADDITIONAL EXPLANATIONS OR TEXT OR MARKDOWN FORMATTING. Only JSON as string.
+                                                              rule: AGE_UNIT should be a valid xsd:string. If no explicit unit of age is mentioned in the text, AGE_UNIT should be null. Do not put null within double quotes.
+                                                              ADDITIONALal rule: If there is a minimum age with a different unit and maximum age with different unit, returning the maximum age's unit.
+                                                              example: if the text says Adult(50 years and above), AGE_UNIT is years. if the text says Child (5weeks-2months), since maximum age is 2 months, AGE_UNIT is months.
+                                                              text: \n ''' ] ;
+                            ] ;
+                            rr:predicateObjectMap [
+                                rr:predicate grel:valueParameter ;
+                                rr:objectMap [ rml:reference "detailedPatientGroup" ] ;
+                            ] ;
+                        ]
+                    ] ;
+                ] ;
+                rr:predicateObjectMap [
+                    rr:predicate ex:str-model ;
+                    rr:objectMap [ rr:constant "LLM-MODEL-TEMPLATE"]
+                ] ;
+            ]
+        ] ;
+    ] ;
+.
+
+### COMMON MAPS
+:usageDescriptionMap
+    rr:predicate dct:description ;
+    rr:objectMap [
+        fnml:functionValue [
+            rr:predicateObjectMap [
+                rr:predicate fno:executes ;
+                rr:objectMap [ rr:constant grel:concatMany]
+            ] ;
+            rr:predicateObjectMap [
+                rr:predicate grel:list ;
+                rr:objectMap [ rml:reference "generalInfo"]
+            ] ;
+            rr:predicateObjectMap [
+                rr:predicate grel:valueParameter ;
+                rr:objectMap [ rml:reference "specificInfo" ]
+            ] ;
+        ]
+    ] ;
+.
+
+:safetyLevelMap
+    rr:predicate drug:safetyLevel ;
+    rr:objectMap [
+        fnml:functionValue [
+            rr:predicateObjectMap [
+                rr:predicate fno:executes ;
+                rr:objectMap [ rr:constant grel:getStrFromLLM ]
+            ] ;
+            rr:predicateObjectMap [
+                rr:predicate ex:str-prompt ;
+                rr:objectMap [
+                    fnml:functionValue [
+                        rr:predicateObjectMap [
+                            rr:predicate fno:executes ;
+                            rr:objectMap [ rr:constant grel:concat]
+                        ] ;
+                        rr:predicateObjectMap [
+                            rr:predicate ex:str-prompt ;
+                            rr:objectMap [ rr:constant '''task: Extract safety level from the provided text.
+                                                          output: a json string of format: {\"response\": \"SAFETY_LEVEL\"}. DO NOT RETURN ADDITIONAL EXPLANATIONS OR TEXT OR or MARKDOWN FORMATTING. Only JSON as string.
+                                                          rule: SAFETY_LEVEL should be a valid xsd:string. The SAFETY_LEVEL should be \"safe\", \"caution\" or \"unsafe\". Infer the value from the text.
+                                                          additional note: conditions for safe: if there is no need to monitor or avoid. condition for caution: if there is need for dose adjustment, monitoring or avoid in particular sub-cases. condition for unsafe: if it is should be avoided in general. if no information is available, SAFETY_LEVEL should be null. Do not put null within double quotes.
+                                                          text: \n ''' ] ;
+                        ] ;
+                        rr:predicateObjectMap [
+                            rr:predicate grel:valueParameter ;
+                            rr:objectMap [
+                                fnml:functionValue [
+                                    rr:predicateObjectMap [
+                                        rr:predicate fno:executes ;
+                                        rr:objectMap [ rr:constant grel:concatMany] ;
+                                    ] ;
+                                    rr:predicateObjectMap [
+                                        rr:predicate grel:list ;
+                                        rr:objectMap [ rml:reference "generalInfo"] ;
+                                    ] ;
+                                    rr:predicateObjectMap [
+                                        rr:predicate grel:valueParameter ;
+                                        rr:objectMap [ rml:reference "specificInfo" ] ;
+                                    ] ;
+                                ]
+                            ]
+                        ] ;
+                    ]
+                ] ;
+            ] ;
+            rr:predicateObjectMap [
+                rr:predicate ex:str-model ;
+                rr:objectMap [ rr:constant "LLM-MODEL-TEMPLATE"]
+            ] ;
+        ]
+    ] ;
+.

@@ -1,0 +1,55 @@
+{
+    "identifier": "pregabalin",
+    "title": "Pregabalin",
+    "breastFeeding": {
+        "generalInfo": [],
+        "id": "3b2f9ce1-fb74-446a-b430-8fabf49badf1",
+        "parentId": "6b416192-b1c2-4154-aa11-3b32e14c369c"
+    },
+    "hepaticImpairment": {
+        "generalInfo": [],
+        "id": "ac6c8ee8-b274-4beb-b11a-3c6f224f459a",
+        "parentId": "6b416192-b1c2-4154-aa11-3b32e14c369c"
+    },
+    "pregnancy": {
+        "generalInfo": [
+            "Avoid use during pregnancy unless clearly necessary."
+        ],
+        "id": "7f221110-c6a1-4737-a1e1-e472b468b71c",
+        "parentId": "6b416192-b1c2-4154-aa11-3b32e14c369c"
+    },
+    "renalImpairment": {
+        "generalInfo": [],
+        "specificInfo": "Dose adjustment is required in renal impairment based on creatinine clearance.",
+        "id": "b4420d23-456c-4d1e-8f48-353d8c8d1074",
+        "parentId": "6b416192-b1c2-4154-aa11-3b32e14c369c"
+    },
+    "sideEffects": {
+        "generalInfo": [],
+        "specificInfo": "Common: Dizziness; Drowsiness (somnolence); Increased appetite; Weight gain; Feeling different; Confusion; Memory impairment (amnesia); Tremor; Dry mouth; Constipation; Nausea; Asthenia (general weakness); vision disorder; Lethargy; Arthralgia; headache; insomnia. Uncommon: Peripheral edema (swelling of hands and feet); Depression; Agitation; Anorgasmia; Myoclonus (muscle jerks); hyperaesthesia; Tachycardia; Hypoglycaemia; Flushing; Rash; myalgia; ; Urinary incontinence; Dysuria; Neutropenia; Hypotension; Hypertension; anxiety. Rare: Pancreatitis; Dysphagia; Oliguria; Rhabdomyolysis; Suicidal behavior; Stevens-Johnson syndrome; Vision loss.",
+        "id": "8d8db708-e662-48ae-bece-2aeb4c8fd11f",
+        "parentId": "6b416192-b1c2-4154-aa11-3b32e14c369c"
+    },
+    "therapeuticPlan": [
+        {
+            "indications": [
+                "Neuropathic pain",
+                "Generalised anxiety disorder"
+            ],
+            "dosages": [
+                {
+                    "patientGroup": "adult",
+                    "detailedPatientGroup": "Adult",
+                    "doseInfo": "up to 600 mg daily in 3 divided doses",
+                    "routeOfAdministration": "By mouth",
+                    "id": "06c9f4e9-f655-4063-8d39-5c5aa55edabf",
+                    "parentId": "de14920a-eb04-4c7c-a81b-e6f7ae845c62"
+                }
+            ],
+            "id": "de14920a-eb04-4c7c-a81b-e6f7ae845c62",
+            "parentId": "6b416192-b1c2-4154-aa11-3b32e14c369c"
+        }
+    ],
+    "id": "6b416192-b1c2-4154-aa11-3b32e14c369c",
+    "parentId": null
+}

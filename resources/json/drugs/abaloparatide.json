@@ -1,0 +1,57 @@
+{
+    "identifier": "abaloparatide",
+    "title": "Abaloparatide",
+    "breastFeeding": {
+        "generalInfo": [
+            "Not recommended during breastfeeding due to lack of data on excretion in human milk."
+        ],
+        "id": "a81c3250-9979-48dd-aa9c-72519d56f3a4",
+        "parentId": "9600dc01-3192-4536-9c48-4305768ad97b"
+    },
+    "hepaticImpairment": {
+        "generalInfo": [],
+        "id": "c7aec1b7-e74a-42c5-b9a0-7a6399a986be",
+        "parentId": "9600dc01-3192-4536-9c48-4305768ad97b"
+    },
+    "pregnancy": {
+        "generalInfo": [
+            "Use is contraindicated during pregnancy due to potential risk to the fetus."
+        ],
+        "id": "a43d16b8-30b1-46e3-9613-c3fda8b03ed0",
+        "parentId": "9600dc01-3192-4536-9c48-4305768ad97b"
+    },
+    "renalImpairment": {
+        "generalInfo": [
+            "Limited data in renal impairment; caution advised."
+        ],
+        "id": "4248c897-2383-45ac-800f-23d2f31faff5",
+        "parentId": "9600dc01-3192-4536-9c48-4305768ad97b"
+    },
+    "sideEffects": {
+        "generalInfo": [],
+        "specificInfo": "Common: Dizziness; skin reactions; headache; nausea; palpitations; Hypercalciuria; Diarrhoea; hypertension; muscle spasms; arthralgia; constipation; gastrointestinal discomfort; hyperuricaemia; vomiting; insomnia; malaise;  arrhythmias; nephrolithiasis; hypercalcaemia; pain; asthenia. Uncommon: Orthostatic hypotension",
+        "id": "c0b804f5-f195-4304-833c-645f29efcb9d",
+        "parentId": "9600dc01-3192-4536-9c48-4305768ad97b"
+    },
+    "therapeuticPlan": [
+        {
+            "indications": [
+                "Postmenopausal osteoporosis at high risk of fracture"
+            ],
+            "dosages": [
+                {
+                    "patientGroup": "adult",
+                    "detailedPatientGroup": "Adult (female)",
+                    "doseInfo": "80 micrograms once daily",
+                    "routeOfAdministration": "subcutaneous injection",
+                    "id": "7e5860dc-27bf-4d90-aa93-6a9e27e19ae9",
+                    "parentId": "a5f30c66-a2e8-4b0f-95ea-1ba8165e4d3a"
+                }
+            ],
+            "id": "a5f30c66-a2e8-4b0f-95ea-1ba8165e4d3a",
+            "parentId": "9600dc01-3192-4536-9c48-4305768ad97b"
+        }
+    ],
+    "id": "9600dc01-3192-4536-9c48-4305768ad97b",
+    "parentId": null
+}

@@ -1,0 +1,24 @@
+<think>
+Okay, so I need to figure out the dosage of apixaban for an adult with deep-vein thrombosis based on the provided JSON data. Let me start by understanding what's given.
+
+Looking at the INPUT JSON, there's a section called "therapeuticPlan" which includes indications and dosages. The indication we're interested in is "Treatment of deep-vein thrombosis." Under that, there are dosages specified for different patient groups. 
+
+In this case, the patient group is "adult," so I'll focus on that. The dosage information says "10 mg taken orally twice daily for 7 days." So, the key details here are the amount (10 mg) and how often it's taken (twice a day). 
+
+I need to extract just the dosage amount and unit from this. The amount is clearly 10 mg, so that should be straightforward. The unit here is "mg," which stands for milligrams.
+
+Wait, but sometimes dosages can have different units or might specify something else like mcg (micrograms) or other measures. In this case, it's definitely mg. So I don't need to convert anything; just take the numbers as they are.
+
+I should make sure that I'm not including any extra information beyond what's asked. The user wants only the dosage amount and unit in a JSON format without any additional explanations or markdown. 
+
+So putting this together, the structured plain text JSON should have two keys: "dosage amount" with the value 10 and "dosage unit" with the value "mg." That's all that's needed based on the provided data.
+
+I think I've covered everything. The dosage is clearly stated for adults with deep-vein thrombosis, so there shouldn't be any ambiguity here.
+</think>
+
+```json
+{
+  "dosage amount": 10,
+  "dosage unit": "mg"
+}
+```

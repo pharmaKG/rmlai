@@ -1,0 +1,20 @@
+<think>
+Okay, so I need to figure out whether co-trimoxazole can be given while breastfeeding. Let me start by looking at the provided JSON input.
+
+First, I see that the identifier is "co-trimoxazole" and it's linked under the title "Co-trimoxazole". The relevant section here is under "breastFeeding", which has a generalInfo array with one point: "May cause complications in jaundiced neonates and infants." That suggests that giving co-trimoxazole while breastfeeding might be risky for very young babies.
+
+Looking further, there's also information about hepatichronic impairment. The specific info says it's better to avoid in severe hepatic impairment. I'm not sure how relevant that is to breastfeeding, but it's something to note if the mother has liver issues.
+
+In the pregnancy section, it mentions avoiding use in the first trimester due to teratogenicity and using only later if clearly needed. That doesn't directly address breastfeeding, but it does highlight the risks associated with the drug during pregnancy, which could indirectly affect a breastfeeding baby.
+
+The side effects include common ones like nausea, diarrhea, rash, and less common ones like photosensitivity or systemic symptoms. Jaundice is mentioned as a possible complication for neonates, so if a baby is exposed to co-trimoxazole while breastfeeding, it could lead to jaundice, which isn't good.
+
+Putting this all together, the main concern is the risk of complications in infants who are already jaundiced. Since breastfeeding involves direct contact with the mother's bloodstream and the drug might pass through breast milk, it's probably not advisable. Therefore, the answer should be no.
+</think>
+
+```json
+{
+    "answer": "no",
+    "explanation": "Co-trimoxazole may cause complications in jaundiced neonates and infants when given while breastfeeding."
+}
+```

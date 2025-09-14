@@ -1,0 +1,16 @@
+<think>
+Okay, so I need to figure out if ciclosporin is safe during pregnancy based on the provided JSON input. Let me go through the information step by step.
+
+First, looking at the "pregnancy" section in the JSON. There's a "generalInfo" array with two points: one about crossing the placenta and causing fetal harm, and another about using only if the benefit justifies the risk to the fetus. That suggests that ciclosporin is not recommended for pregnancy because it can harm the fetus.
+
+Additionally, there are other sections like "hepaticImpairment" and "renalImpairment," but those don't directly relate to pregnancy safety. The side effects include hypertension and renal dysfunction, which could be concerning in a pregnant setting, further supporting that use is not advised.
+
+The therapeutic plan mentions its use for severe psoriasis, which doesn't pertain to pregnancy. So putting it all together, the information clearly states that ciclosporin should not be used during pregnancy due to potential fetal harm.
+</think>
+
+```json
+{
+    "answer": "no",
+    "explanation": "Ciclosporin crosses the placenta and may cause fetal harm, making it contraindicated during pregnancy."
+}
+```

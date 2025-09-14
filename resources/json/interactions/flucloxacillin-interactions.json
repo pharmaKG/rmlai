@@ -1,0 +1,21 @@
+{
+    "interactions": [
+        {
+            "interactingDrugId": "flucloxacillin",
+            "interactantDrugId": "paracetamol",
+            "details": [
+                {
+                    "evidence": "Anecdotal",
+                    "description": "Co-administration of paracetamol and flucloxacillin can rarely cause high anion gap metabolic acidosis due to accumulation of 5-oxoproline (pyroglutamic acid)",
+                    "severity": "Severe",
+                    "id": "0a81d215-af82-4892-b9fc-414a479b19a9",
+                    "parentId": "1ace3891-ccd6-4bcb-b1c3-33282960e832"
+                }
+            ],
+            "id": "1ace3891-ccd6-4bcb-b1c3-33282960e832",
+            "parentId": "bad3ec27-a599-4fc5-9303-32874e140b57"
+        }
+    ],
+    "id": "bad3ec27-a599-4fc5-9303-32874e140b57",
+    "parentId": null
+}

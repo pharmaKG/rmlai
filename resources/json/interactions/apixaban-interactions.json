@@ -1,0 +1,36 @@
+{
+    "interactions": [
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "carbamazepine",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Carbamazepine decreases the efficacy of apixaban.",
+                    "severity": "Severe",
+                    "id": "78279df1-8efb-420b-a9fa-174fd31b9c3c",
+                    "parentId": "ad92eb95-197e-4a05-a76f-88c1fd70d2b5"
+                }
+            ],
+            "id": "ad92eb95-197e-4a05-a76f-88c1fd70d2b5",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        },
+        {
+            "interactingDrugId": "apixaban",
+            "interactantDrugId": "ciclosporin",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Ciclosporin can increased plasma concentrations of apixaban and elevate bleeding risk.",
+                    "severity": "Moderate",
+                    "id": "f1f736f1-8428-4e63-83c8-047d80ffa5f9",
+                    "parentId": "a7c7e1aa-1afc-40a3-a463-1365b66133e9"
+                }
+            ],
+            "id": "a7c7e1aa-1afc-40a3-a463-1365b66133e9",
+            "parentId": "d6b0e661-6608-4ec5-b2a4-0dbc01057630"
+        }
+    ],
+    "id": "d6b0e661-6608-4ec5-b2a4-0dbc01057630",
+    "parentId": null
+}

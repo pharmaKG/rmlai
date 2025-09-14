@@ -1,0 +1,18 @@
+<think>
+Okay, so I need to figure out the dosage for paracetamol when someone is having a fever as an adult. Hmm, where do I start? I remember that paracetamol is used for pain relief and reducing fever, but I'm not exactly sure about the correct dosage.
+
+I think it's important to check reliable sources or guidelines because taking too much can be dangerous. Maybe I should look up the standard adult dose for paracetamol. From what I recall, it's usually around 500 to 1000 mg every 4-6 hours, but that might vary based on the person's weight and health condition.
+
+Wait, no, actually, I think the maximum daily dose is often capped at 4000 mg for adults to prevent overdose. So maybe the dosage amount should be between 500 mg and 1000 mg per dose, taken every 4 to 6 hours. But since it's a range, perhaps specifying that it shouldn't exceed 4000 mg in a day is better.
+
+So, putting this together, the dosage unit would be milligrams (mg), and the amount should be between 500 mg and 1000 mg per dose. Also, advising to take it every 4-6 hours but not exceeding 4000 mg daily seems important to include implicitly.
+
+I think that's about right. I'll structure this into a JSON format with the keys "dosage amount" as an array of two values and "dosage unit" as milligrams.
+</think>
+
+```json
+{
+  "dosage amount": ["500 mg", "1000 mg"],
+  "dosage unit": "mg"
+}
+```

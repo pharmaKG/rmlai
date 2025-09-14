@@ -1,0 +1,16 @@
+<think>
+Okay, so I need to figure out the dosage of abaloparatide for an adult with constipation. Let me start by looking at the provided JSON data.
+
+First, I see that the drug is abaloparatide, and it's used for postmenopausal osteoporosis at high risk of fracture. The therapeutic plan section has dosages listed under "adult" patient group. It says 80 micrograms once daily via subcutaneous injection.
+
+Now, constipation is listed as a side effect in the sideEffects section. But I don't see any specific dosage adjustments mentioned for patients experiencing constipation. The JSON doesn't provide information on how to adjust the dose if someone has constipation; it just lists it as a common side effect.
+
+So, based on the data given, the standard adult dosage is 80 micrograms once daily subcutaneously. There's no indication that this should be changed for constipation unless there are other factors involved, but those aren't mentioned here.
+</think>
+
+```json
+{
+    "dosage amount": "80",
+    "dosage unit": "micrograms"
+}
+```

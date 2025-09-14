@@ -1,0 +1,24 @@
+<think>
+Okay, so I need to figure out the correct dosage of hyoscine butylbromide for an adult with gastrointestinal smooth muscle spasm. Hmm, where do I start? I remember that hyoscine is used to treat spasms in the gut, like in cases of irritable bowel syndrome or other related conditions.
+
+First, I should check what the typical dosage is. From what I recall, it's usually given as an injection, but maybe there are oral forms too. Wait, no, I think it's primarily administered via intramuscular injection because that provides a more reliable effect.
+
+I think the standard dose for adults is around 20 mg. But wait, hyoscine can have side effects like dizziness or dry mouth, so it's important not to exceed the recommended dosage. Also, considering the condition being treated, the dosage might vary slightly depending on severity and patient response.
+
+Let me verify this information. I remember reading that for adults, 20 mg is a common starting point, given every 4-6 hours as needed. But I should make sure about the exact unit—since it's hyoscine butylbromide, the dosage amount would be in milligrams (mg), and the unit would be per injection.
+
+Wait, could there be different forms or routes? For example, is there an oral version? I think intramuscular is more standard because of better absorption. Oral might have variable bioavailability, so it's less commonly used for this indication.
+
+Also, considering patient factors like age, weight, and other medical conditions, the dosage might need adjustment, but without specific information, 20 mg IM every 4-6 hours seems to be the general recommendation.
+
+I should also note that this is a single dose per administration, so each time it's given, it's 20 mg. There's no once-daily or twice-daily; it's as needed based on symptoms.
+
+So putting it all together, the dosage amount is 20 mg, and the unit is intramuscular injection.
+</think>
+
+```json
+{
+  "dosage_amount": "20 mg",
+  "dosage_unit": "intramuscular injection"
+}
+```

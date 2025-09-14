@@ -1,0 +1,18 @@
+<think>
+Okay, so I need to figure out the dosage for co-trimoxazole when treating a leg ulcer infection in adults. Hmm, where do I start? First, I remember that co-trimoxazole is an antifungal medication, often used for infections like athlete's foot or, in this case, leg ulcers which might be fungal infections.
+
+I think the dosage information usually comes with a specific amount per kilogram of body weight. So maybe it's something like X mg/kg? I'm not exactly sure what that number is. I recall seeing somewhere that for topical applications, medications are often given at a certain concentration, but since co-trimoxazole can be taken orally or applied topically, the dosage might differ.
+
+Wait, if it's an oral solution, maybe it's measured in mg per kilogram. For example, 10 mg/kg is a common starting point for antifungal medications. That seems familiar from some textbooks I've read before. So applying that to an adult who weighs, say, 70 kg, the dosage would be 700 mg.
+
+But wait, does co-trimoxazole need to be taken in a specific form? Sometimes it's given as a solution or suspension, so maybe it's 10 mg per kilogram of body weight. That makes sense because it's a standard dose for antifungal treatments. So the dosage unit would be milligrams (mg), and the amount is calculated based on the patient's weight.
+
+I should also consider that this might vary depending on the source or the specific guidelines, but 10 mg/kg seems to be a commonly referenced figure in medical literature. Therefore, I'll go with that as the standard dosage.
+</think>
+
+```json
+{
+  "dosage_amount": "10 mg",
+  "dosage_unit": "per kilogram of body weight"
+}
+```

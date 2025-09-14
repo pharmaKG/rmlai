@@ -1,0 +1,16 @@
+<think>
+Okay, so I need to figure out the dosage of carbamazepine for an adult with epilepsy based on the provided JSON. Let me start by looking through the JSON structure.
+
+First, I see that the JSON has various sections like breastFeeding, hepaticImpairment, pregnancy, renalImpairment, sideEffects, and therapeuticPlan. The key part here is the therapeuticPlan section because it contains information about dosages for different conditions, including epilepsy.
+
+Looking at the therapeuticPlan array, there's one entry with an indication of "Epilepsy". Under that, there are dosages specified for a child (1 month–11 years) with a dosage up to 20 mg/kg daily. However, the question is about adults, so I need to check if there's any information provided for adult dosages.
+
+I don't see any dosage information specifically mentioned for adults in the JSON. The only dosage details are under the child category. Since the data doesn't provide an adult-specific dosage, I can't extract that information from this input. Therefore, based on the given JSON, there's no adult dosage available.
+</think>
+
+```json
+{
+  "dosage amount": null,
+  "dosage unit": null
+}
+```

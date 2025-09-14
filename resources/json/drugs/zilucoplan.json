@@ -1,0 +1,55 @@
+{
+    "identifier": "zilucoplan",
+    "title": "Zilucoplan",
+    "breastFeeding": {
+        "generalInfo": [
+            "It is unknown whether zilucoplan is excreted in human milk. A risk to the breastfed child cannot be excluded."
+        ],
+        "id": "a7c8b080-d028-4928-a92e-66d2f53c09f5",
+        "parentId": "414669fd-1c0e-4c72-9b33-aa0332f0e83d"
+    },
+    "hepaticImpairment": {
+        "generalInfo": [],
+        "id": "c6e62735-3acd-4ba7-94a5-5698f162ed56",
+        "parentId": "414669fd-1c0e-4c72-9b33-aa0332f0e83d"
+    },
+    "pregnancy": {
+        "generalInfo": [
+            "There are no adequate data from the use of zilucoplan in pregnant women. Use only if clearly needed."
+        ],
+        "id": "6c4af8cc-5040-455e-9146-f209d282a2e8",
+        "parentId": "414669fd-1c0e-4c72-9b33-aa0332f0e83d"
+    },
+    "renalImpairment": {
+        "generalInfo": [],
+        "id": "ccbbea17-bdfc-413a-bd6f-7a8f5fc307c5",
+        "parentId": "414669fd-1c0e-4c72-9b33-aa0332f0e83d"
+    },
+    "sideEffects": {
+        "generalInfo": [],
+        "specificInfo": "Common: Injection site reactions; upper respiratory tract infection; diarrhoea",
+        "id": "427b72d3-8953-4062-97a3-928117052ab6",
+        "parentId": "414669fd-1c0e-4c72-9b33-aa0332f0e83d"
+    },
+    "therapeuticPlan": [
+        {
+            "indications": [
+                "Myasthenia gravis"
+            ],
+            "dosages": [
+                {
+                    "patientGroup": "adult",
+                    "detailedPatientGroup": "Adult (body-weight 77 kg and above)",
+                    "doseInfo": "32.4 mg once daily",
+                    "routeOfAdministration": "By subcutaneous injection",
+                    "id": "9cfde002-c17f-4176-8a73-00ca6318227b",
+                    "parentId": "73681dcc-4203-469a-8588-41fa626eac56"
+                }
+            ],
+            "id": "73681dcc-4203-469a-8588-41fa626eac56",
+            "parentId": "414669fd-1c0e-4c72-9b33-aa0332f0e83d"
+        }
+    ],
+    "id": "414669fd-1c0e-4c72-9b33-aa0332f0e83d",
+    "parentId": null
+}

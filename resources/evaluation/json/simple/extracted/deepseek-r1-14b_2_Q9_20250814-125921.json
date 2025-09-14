@@ -1,0 +1,20 @@
+<think>
+Okay, so I need to figure out the correct dosage of abacavir for an adult with HIV infection. Let me start by recalling what I know about abacavir. It's an antiretroviral medication, specifically a nucleoside analog reverse transcriptase inhibitor (NRTI). These types of drugs are commonly used in combination therapies to treat HIV.
+
+From what I remember, abacavir is often taken once daily. The usual dose for adults is around 600 mg per day. But wait, sometimes it's combined with other medications like lamivudine, which might affect the dosage. Oh right, when used together, they're sometimes given as a single tablet containing both drugs. So in that case, the dosage would still be based on the abacavir component.
+
+I should also consider if there are any special cases or adjustments needed. For example, patients with certain medical conditions or those who have had a hypersensitivity reaction to abacavir might require different dosing. But since the question is about an adult generally, I can stick to the standard dosage unless specified otherwise.
+
+Another thing to think about is whether there are any drug interactions that could influence the dosage. Abacavir is metabolized through the liver, so in cases of hepatic impairment, the dose might need to be adjusted. However, without specific information on the patient's liver function, I'll assume it's normal.
+
+I should also remember that abacavir can cause a hypersensitivity reaction, which includes symptoms like fever, rash, and sometimes more severe reactions. If such a reaction occurs, the medication must be stopped immediately. But again, this doesn't change the standard dosage unless the patient has already experienced this.
+
+Putting it all together, the typical adult dose is 600 mg once daily. This can either be as a standalone tablet or combined with lamivudine in a fixed-dose combination. I should make sure to present this information clearly without any extra details, just the dosage amount and unit as specified.
+</think>
+
+```json
+{
+  "dosage amount": "600 mg",
+  "dosage unit": "tablet taken once daily"
+}
+```

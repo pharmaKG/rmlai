@@ -1,0 +1,21 @@
+{
+    "interactions": [
+        {
+            "interactingDrugId": "abacavir",
+            "interactantDrugId": "carbamazepine",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Carbamazepine may reduce the effectiveness of abacavir by inducing metabolic enzymes. Monitor therapy closely. Manufacturer provides no specific recommendation.",
+                    "severity": "Moderate",
+                    "id": "1a2b3c4d-5e6f-7a8b-9c0d-123456789abc",
+                    "parentId": "9f8e7d6c-5b4a-3210-fedc-ba9876543210"
+                }
+            ],
+            "id": "9f8e7d6c-5b4a-3210-fedc-ba9876543210",
+            "parentId": "510aec3d-6c40-4a55-811b-0fd7218ad55c"
+        }
+    ],
+    "id": "510aec3d-6c40-4a55-811b-0fd7218ad55c",
+    "parentId": null
+}

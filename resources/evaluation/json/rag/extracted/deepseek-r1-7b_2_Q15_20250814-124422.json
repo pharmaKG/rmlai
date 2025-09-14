@@ -1,0 +1,24 @@
+<think>
+Okay, so I need to figure out the dosage information for apixaban when treating deep-vein thrombosis in adults based on the provided JSON input. Let me start by looking through the JSON data carefully.
+
+First, I see that there's a section called "therapeuticPlan" which contains information about the treatment indications and dosages. Within this, there's an entry for "deep-vein thrombosis". The dosage details are specified under "dosages", where each dosage has several components like patient group, route of administration, etc.
+
+Looking at the specific dosage entry:
+- Patient Group: adult
+- Detailed Patient Group: Adult (same as above)
+- Dose Info: 10 mg taken orally twice daily for 7 days.
+- Route Of Administration: By mouth
+
+So from this, it's clear that for adults, apixaban is prescribed at a dose of 10 mg. The route is oral, and the duration is seven days.
+
+I should make sure there are no other entries in the therapeutic plan that might override or provide additional information about the dosage. Scanning through, I don't see any other entries related to deep-vein thrombosis for adults, so this seems to be the only relevant information.
+
+Therefore, the dosage amount is 10 mg per dose, taken twice daily (so two doses a day) for seven days.
+</think>
+
+```json
+{
+  "dosageAmount": "10 mg",
+  "dosageUnit": "per dose"
+}
+```

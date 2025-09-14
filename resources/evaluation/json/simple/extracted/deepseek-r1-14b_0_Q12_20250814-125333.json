@@ -1,0 +1,22 @@
+<think>
+Okay, so I need to figure out the correct dosage of alendronic acid for an adult treating or preventing postmenopausal osteoporosis. Let me start by recalling what I know about this medication.
+
+Alendronic acid is a bisphosphonate, which is commonly used to treat and prevent osteoporosis in postmenopausal women. It works by inhibiting bone resorption, thereby increasing bone mineral density. 
+
+I remember that the typical dosage for alendronate (like Fosamax) is usually taken once weekly. The standard dose I think is 70 mg once a week. But wait, sometimes it's also available in a daily formulation, but the weekly one is more common and convenient.
+
+Wait, no, actually, there are different dosages depending on whether it's for treatment or prevention. Or maybe not? Let me check my memory. I think both uses might have the same dosage. So 70 mg once weekly is standard. 
+
+I should also consider how it's taken—on an empty stomach with water, and then avoiding food and drinks for a certain period afterward to prevent GI issues.
+
+But the question specifically asks about dosage amount and unit, so I don't need to include administration details unless they're part of the keys. The JSON should just have "dosage amount" and "dosage unit".
+
+So putting it together, the dosage is 70 mg once a week. Therefore, the amount is 70 mg, and the unit is milligrams.
+</think>
+
+```json
+{
+  "dosage amount": "70 mg",
+  "dosage unit": "milligram"
+}
+```

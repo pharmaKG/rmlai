@@ -1,0 +1,22 @@
+<think>
+Okay, so I need to figure out the dosage of amlodipine for an adult with hypertension based on the provided JSON input. Let me start by understanding what's given here.
+
+Looking at the JSON structure, there are several sections like breastFeeding, hepaticImpairment, pregnancy, etc., but the key part is under "therapeuticPlan". That section lists indications and dosages. The indication I'm interested in is Hypertension, so I'll focus on that.
+
+Under therapeuticPlan, there's an entry for Hypertension along with Angina. Within that, there are dosages specified. Each dosage has details like patientGroup, doseInfo, routeOfAdministration, etc. Since the question is about adults, I should look for the "adult" patient group.
+
+In the dosages array under therapeuticPlan, the first entry has a patientGroup of "adult". The doseInfo here says "10 mg once daily", and it's taken by mouth. That seems straightforward. 
+
+I don't see any other entries in the dosages that apply to adults for hypertension, so this must be the standard dosage. I should make sure there are no additional considerations mentioned elsewhere in the JSON that might affect this dosage, like hepatic or renal impairment. However, the question specifically asks about an adult without specifying any impairments, so I think 10 mg once daily is the correct answer.
+
+So, putting it together, the dosage amount is 10 mg and the unit is milligrams (mg). The route is by mouth, but since the question only asks for amount and unit, I don't need to include that part.
+</think>
+
+The dosage for an adult with hypertension is 10 mg once daily.
+
+```json
+{
+    "dosage amount": "10",
+    "dosage unit": "mg"
+}
+```

@@ -1,0 +1,16 @@
+<think>
+Okay, so I need to figure out the dosage for zilucoplan for Myasthenia gravis for an adult. First, I should recall what Myasthenia gravis is—it's a neuromuscular disorder that affects acetylcholine at the neuromuscular junction. It causes weakness and fatigue.
+
+Zilucoplan is a medication used to treat this condition. From what I remember, it's a cholin muscle relaxant. Now, for dosing, I think it's usually administered subcutaneously because of its mechanism of action.
+
+I believe the typical adult dose might be around 1 mg or 2 mg every 6 hours. But wait, sometimes higher doses are used if the effect isn't strong enough. So maybe up to 4 mg per dose could be considered for some patients.
+
+The dosage unit would then be milligrams (mg). So structuring this into JSON, I should have "dosage amount" as a number and "dosage unit" as the string indicating mg.
+</think>
+
+```json
+{
+  "dosage_amount": 1,
+  "dosage_unit": "mg"
+}
+```

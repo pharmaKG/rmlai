@@ -1,0 +1,22 @@
+<think>
+Okay, so I need to figure out the dosage of carbamazepine for an adult with epilepsy based on the provided JSON input. Let me start by looking through the JSON structure.
+
+First, I see that the main identifier is "carbamazepine" and the title is the same. The JSON has several sections like breastFeeding, hepaticImpairment, pregnancy, renalImpairment, sideEffects, and therapeuticPlan. Since the question is about dosage for epilepsy in adults, I should focus on the therapeuticPlan section.
+
+Looking at therapeuticPlan, there's an indication for Epilepsy. Under that, there are dosages listed. The first entry under dosages has a patientGroup of "child" with detailedPatientGroup as "Child (1 month–11 years)" and doseInfo as "up to 20 mg/kg daily." But the user is asking about adults, so this isn't directly applicable.
+
+Wait, I don't see any dosage information for adults in the provided JSON. The only dosages mentioned are for children. That's a bit confusing because usually, adult dosages would be included as well. Maybe the JSON doesn't have that information, or perhaps it's implied elsewhere.
+
+Since there's no explicit adult dosage provided, I might need to infer based on standard practices. Typically, carbamazepine for adults with epilepsy starts around 100-200 mg daily and is gradually increased, but without specific data here, it's hard to be precise. However, the user specifically asked based on the given JSON, which doesn't include adult dosages.
+
+Therefore, I should note that the provided information only specifies dosages for children up to 11 years old, and there's no dosage listed for adults in the input. So, the answer would indicate that the dosage amount and unit aren't specified for adults in this data.
+</think>
+
+The provided JSON does not specify the dosage of carbamazepine for adult epilepsy patients. It only includes information for children up to 11 years old.
+
+```json
+{
+    "dosage amount": "Not specified",
+    "dosage unit": "Not specified"
+}
+```

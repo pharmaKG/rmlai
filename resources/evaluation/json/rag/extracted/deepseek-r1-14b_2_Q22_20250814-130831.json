@@ -1,0 +1,20 @@
+<think>
+Alright, so I need to figure out the dosage of co-trimoxazole for an adult with a leg ulcer infection based on the provided JSON. Let me start by understanding what's given.
+
+Looking at the JSON structure, there's a section called "therapeuticPlan" which contains different treatment plans. Each plan has indications and dosages. I'm interested in the indication that matches "Leg ulcer infection."
+
+Under "therapeuticPlan," there's an object with "indications" set to ["Leg ulcer infection"]. That's exactly what I need. Now, within this object, there's a "dosages" array.
+
+In the dosages array, each entry has details about the patient group, dose info, route of administration, etc. Since we're focusing on adults, I'll look for the dosage where "patientGroup" is "adult."
+
+The dosage for an adult is specified as "960 mg every 12 hours." The unit here is milligrams (mg), and the frequency is every 12 hours.
+
+So, putting it together, the dosage amount is 960 mg, taken twice a day. Therefore, the JSON should reflect this with "dosage amount" as 960 and "dosage unit" as "mg."
+</think>
+
+```json
+{
+    "dosage amount": 960,
+    "dosage unit": "mg"
+}
+```

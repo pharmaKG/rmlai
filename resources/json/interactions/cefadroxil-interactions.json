@@ -1,0 +1,36 @@
+{
+    "interactions": [
+        {
+            "interactingDrugId": "cefadroxil",
+            "interactantDrugId": "aciclovir",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Concurrent use of aciclovir and cefadroxil may increase risk of nephrotoxicity due to additive renal elimination burden, and cefadroxil may decrease aciclovir excretion, possibly increasing exposure.",
+                    "severity": "Normal",
+                    "id": "739c227f-d1f3-40ae-9a1a-2ca4288d82a2",
+                    "parentId": "64603501-690e-4c18-b4f9-62eba7ca81ff"
+                }
+            ],
+            "id": "64603501-690e-4c18-b4f9-62eba7ca81ff",
+            "parentId": "e24cc24d-1eac-421e-88fe-de06d59d6bd4"
+        },
+        {
+            "interactingDrugId": "cefadroxil",
+            "interactantDrugId": "ciclosporin",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both cefadroxil and ciclosporin can have nephrotoxic effects, especially in patients with impaired renal function. Combined use may increase the risk of kidney damage.",
+                    "severity": "Normal",
+                    "id": "b88b8389-cb8a-4f3d-8906-d14c88d54adb",
+                    "parentId": "74bb9577-82db-4826-a7b9-575bfcd6cc41"
+                }
+            ],
+            "id": "74bb9577-82db-4826-a7b9-575bfcd6cc41",
+            "parentId": "e24cc24d-1eac-421e-88fe-de06d59d6bd4"
+        }
+    ],
+    "id": "e24cc24d-1eac-421e-88fe-de06d59d6bd4",
+    "parentId": null
+}

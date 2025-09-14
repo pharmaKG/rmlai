@@ -1,0 +1,55 @@
+{
+    "identifier": "flucloxacillin",
+    "title": "Flucloxacillin",
+    "breastFeeding": {
+        "generalInfo": [
+            "Flucloxacillin is excreted in breast milk in small amounts; unlikely to be harmful"
+        ],
+        "id": "5ba18b0d-c087-4842-b7d3-b144e1366786",
+        "parentId": "f23c953c-95f1-445e-9a55-190566ae220e"
+    },
+    "hepaticImpairment": {
+        "specificInfo": "Use with caution in hepatic impairment; dose adjustment may be needed in severe hepatic impairment.",
+        "id": "5370889f-1e15-425d-80c0-7344dee59d5b",
+        "parentId": "f23c953c-95f1-445e-9a55-190566ae220e"
+    },
+    "pregnancy": {
+        "generalInfo": [
+            "Generally considered safe during pregnancy when used appropriately."
+        ],
+        "id": "1b5a73e2-569e-47fc-9c07-0b9b9a402c8d",
+        "parentId": "f23c953c-95f1-445e-9a55-190566ae220e"
+    },
+    "renalImpairment": {
+        "specificInfo": "Monitor renal function and adjust dose in severe impairment.",
+        "id": "614db87c-8687-466f-92b9-da0d66f9372b",
+        "parentId": "f23c953c-95f1-445e-9a55-190566ae220e"
+    },
+    "sideEffects": {
+        "generalInfo": [],
+        "specificInfo": "Common: Nausea; Vomiting; Diarrhoea; Thrombocytopenia. Uncommon: Rash; Urticaria (hives); Purpura; Arthralgia. Rare: Fever; Cholestatic jaundice; Hepatitis; Neutropenia; Agranulocytosis; Haemolytic anaemia; Anaphylactic shock; Angioedema; Erythema multiforme; Stevens-Johnson syndrome; Toxic epidermal necrolysis; Interstitial nephritis; Convulsions; Myalgia; Pseudomembranous colitis. Frequency not known: Acute generalized exanthematous pustulosis (AGEP); Oesophageal pain; Hypokalaemia.",
+        "id": "f884f8c7-eecb-4fcd-8b29-28b456cf10f5",
+        "parentId": "f23c953c-95f1-445e-9a55-190566ae220e"
+    },
+    "therapeuticPlan": [
+        {
+            "indications": [
+                "Pneumonia"
+            ],
+            "dosages": [
+                {
+                    "patientGroup": "child",
+                    "detailedPatientGroup": "Child (10-17 years)",
+                    "doseInfo": "500 mg every 6 hours orally",
+                    "routeOfAdministration": "By mouth",
+                    "id": "7a59626d-aa17-48d4-a038-2bc314f307b3",
+                    "parentId": "adb3690e-8e7d-44d0-afda-e4bce2d36f90"
+                }
+            ],
+            "id": "adb3690e-8e7d-44d0-afda-e4bce2d36f90",
+            "parentId": "f23c953c-95f1-445e-9a55-190566ae220e"
+        }
+    ],
+    "id": "f23c953c-95f1-445e-9a55-190566ae220e",
+    "parentId": null
+}

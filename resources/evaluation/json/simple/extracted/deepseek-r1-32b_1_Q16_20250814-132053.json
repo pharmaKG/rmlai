@@ -1,0 +1,16 @@
+<think>
+Okay, so I need to figure out the dosage of atorvastatin for an adult with hypercholesterolaemia. Let me start by recalling what I know about atorvastatin. It's a statin medication used to lower cholesterol levels. The typical dosages vary depending on the patient's condition and response.
+
+I remember that the usual starting dose is 10 mg or 20 mg once daily. But sometimes, higher doses are prescribed if needed. I think the maximum dosage is around 80 mg per day. So for an adult with hypercholesterolaemia, the initial dose might be in that range.
+
+Wait, but does it vary based on other factors? Like liver function or other health conditions? Oh right, patients with certain conditions might need lower doses. But since the question is general, I'll stick to the standard dosages.
+
+So putting it together, the dosage amount would typically start between 10 mg and 20 mg, but can go up to 80 mg. The unit here is milligrams (mg). Therefore, the JSON should reflect that range.
+</think>
+
+```json
+{
+  "dosage amount": "10-80 mg",
+  "dosage unit": "milligrams"
+}
+```

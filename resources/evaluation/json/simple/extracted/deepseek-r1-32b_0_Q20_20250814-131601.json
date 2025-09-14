@@ -1,0 +1,20 @@
+<think>
+Okay, so I need to figure out the dosage of cefadroxil for an adult with a skin infection. Hmm, I remember that antibiotics have specific dosages based on factors like weight and the type of infection. Cefadroxil is an antibiotic, right? It's used for treating various infections.
+
+I think it's usually prescribed in milligrams (mg) per day. For adults, common doses might be around 500 mg or 1 gram. Wait, but how often is it taken? Is it once daily or split into two doses?
+
+Let me recall. I believe cefadroxil can be taken either as a single dose or divided into two. So for a skin infection, maybe the standard dose is 500 mg twice a day. That would add up to 1000 mg per day.
+
+But wait, sometimes it's prescribed as 1 gram once daily. I'm not entirely sure which is more common. Maybe it depends on the severity of the infection or the patient's condition.
+
+I should also consider if there are any weight-based dosing guidelines. For adults, unless they're significantly underweight or overweight, the standard dose might suffice. But without specific information about the patient's weight, I'll stick with the typical adult dosage.
+
+So putting it together, the dosage amount is 500 mg and the unit is milligrams (mg). It's taken twice a day, but since the question only asks for the amount and unit, I don't need to specify the frequency here.
+</think>
+
+```json
+{
+  "dosage amount": 500,
+  "dosage unit": "mg"
+}
+```

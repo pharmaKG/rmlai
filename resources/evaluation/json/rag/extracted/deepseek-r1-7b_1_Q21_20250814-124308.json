@@ -1,0 +1,16 @@
+<think>
+Alright, so I need to figure out the dosage for Ciclosporin for an adult with severe psoriasis based on the provided JSON input. Let me start by looking through the JSON data carefully.
+
+First, I see that there's a section called "therapeuticPlan" which contains dosages for different patient groups. Within this, there's an entry specifically for adults under the condition "Severe psoriasis." The dosage information here says up to 2.5 mg/kg, taken twice daily, and it mentions adjusting based on clinical response and blood levels.
+
+I should make sure that this is indeed the correct dosage for severe psoriasis. I don't see any other entries in the therapeutic plan that specify a different dose for adults with severe psoriasis, so it seems like 2.5 mg/kg twice daily is appropriate.
+
+Also, considering the patient group is adult, and there's no further adjustment mentioned beyond adjusting based on response and blood levels, this should cover the necessary information needed.
+</think>
+
+```json
+{
+    "dosage amount": "2.5 mg/kg",
+    "dosage unit": "upto twice daily"
+}
+```

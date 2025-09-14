@@ -1,0 +1,18 @@
+<think>
+Alright, so I need to figure out the dosage information for atorvastatin when treating hypercholesterolaemia in adults. Let me start by looking through the provided JSON data.
+
+First, I see that the main entry is for "atorvastatin" with various categories like breastFeeding, hepaticImpairment, etc. The key piece of information I'm interested in is under "therapeuticPlan". There's a list called "dosages" which contains details about how to use the medication.
+
+Looking at the dosages array, there's one entry that specifies the indication as Hypercholesterolaemia and targets adults. The doseInfo says it's 10 mg once daily, adjusted according to response. That seems pretty straightforward.
+
+I should make sure this is accurate by cross-referencing with standard medical information. From what I recall, atorvastatin is commonly prescribed for high cholesterol, and the typical starting dose is around 10 mg or 20 mg taken once a day. The idea of adjusting based on response makes sense because it allows the patient's condition to dictate further dosing.
+
+I don't see any conflicting information in the provided JSON that would suggest a different dosage. All other categories like renalImpairment and hepaticImpairment mention that dose adjustments might be necessary, but since we're focusing on adults without specific impairments mentioned here, 10 mg once daily should be appropriate.
+</think>
+
+```json
+{
+    "dosage amount": "10 mg",
+    "dosage unit": "Once daily"
+}
+```

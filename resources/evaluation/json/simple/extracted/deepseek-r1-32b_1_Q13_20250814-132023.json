@@ -1,0 +1,21 @@
+<think>
+Okay, so I need to figure out the dosage of amitriptyline hydrochloride for an adult with neuropathic pain. Let me start by recalling what I know about this medication.
+
+Amitriptyline is a tricyclic antidepressant, but it's also used off-label for treating neuropathic pain. The typical starting dose is usually low to minimize side effects. From what I remember, the initial dosage might be around 10 mg or 25 mg per day. But wait, sometimes it starts even lower, like 10 mg at night.
+
+As for the maximum dosage, I think it can go up to about 75 mg to 150 mg daily. However, this varies depending on the patient's tolerance and response. It's important to titrate the dose slowly to avoid issues like drowsiness or anticholinergic effects.
+
+I should also consider that amitriptyline is often taken once daily, usually at bedtime because it can cause drowsiness. The dosage unit here would be milligrams (mg).
+
+Putting this together, the structured JSON should include both the starting and maximum dosages with their respective units.
+</think>
+
+```json
+{
+  "dosage amount": {
+    "starting dose": "10-25 mg",
+    "maximum dose": "75-150 mg"
+  },
+  "dosage unit": "mg"
+}
+```

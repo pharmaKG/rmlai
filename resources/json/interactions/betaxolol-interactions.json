@@ -1,0 +1,21 @@
+{
+    "interactions": [
+        {
+            "interactingDrugId": "betaxolol",
+            "interactantDrugId": "amlodipine",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Combined use may cause additive blood pressure lowering effects increasing risk of hypotension and dizziness.",
+                    "severity": "Normal",
+                    "id": "e4d1f5d1-8a4b-490c-9754-97cf700a93a8",
+                    "parentId": "e4b5c41e-7741-4d13-b261-b7bb989771b1"
+                }
+            ],
+            "id": "e4b5c41e-7741-4d13-b261-b7bb989771b1",
+            "parentId": "b0115b28-8d38-49ea-a091-a7b2c76c6733"
+        }
+    ],
+    "id": "b0115b28-8d38-49ea-a091-a7b2c76c6733",
+    "parentId": null
+}

@@ -1,0 +1,51 @@
+{
+    "interactions": [
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "carbamazepine",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Carbamazepine decreases the efficacy of atorvastatin.",
+                    "severity": "Moderate",
+                    "id": "149e8e01-07ce-4275-83bc-969b26602fba",
+                    "parentId": "affb0076-e521-42e0-81ed-a20721434a5a"
+                }
+            ],
+            "id": "affb0076-e521-42e0-81ed-a20721434a5a",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "ciclosporin",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Ciclosporin increases atorvastatin plasma level and raises the risk of myopathy and rhabdomyolysis.",
+                    "severity": "Severe",
+                    "id": "e94490ce-d0c9-4949-8da2-091d9f032b8c",
+                    "parentId": "3ccd1879-8745-416a-bfdf-16e1957bf2fb"
+                }
+            ],
+            "id": "3ccd1879-8745-416a-bfdf-16e1957bf2fb",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        },
+        {
+            "interactingDrugId": "atorvastatin",
+            "interactantDrugId": "paracetamol",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both atorvastatin and paracetamol can independently increase the hepatotoxicity risk.",
+                    "severity": "Normal",
+                    "id": "3a517098-7f88-441a-8296-b01094fc22fb",
+                    "parentId": "fea98b99-d9d8-468f-ab3d-7d3244db8796"
+                }
+            ],
+            "id": "fea98b99-d9d8-468f-ab3d-7d3244db8796",
+            "parentId": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f"
+        }
+    ],
+    "id": "19db27c1-e895-48d7-b0bb-af11ba5d1e7f",
+    "parentId": null
+}

@@ -1,0 +1,57 @@
+{
+    "identifier": "abacavir",
+    "title": "Abacavir",
+    "breastFeeding": {
+        "generalInfo": [
+            "Abacavir is present in breast milk. Breastfeeding is generally not recommended for HIV-positive mothers due to the risk of transmission."
+        ],
+        "id": "00bc3da4-4d6b-402e-b4e7-0e9d83b6ebc5",
+        "parentId": "7c4383d4-8026-4a3a-b2fa-d86935743ebc"
+    },
+    "hepaticImpairment": {
+        "generalInfo": [],
+        "specificInfo": "Avoid in moderate to severe hepatic impairment. In mild cases, dose adjustment may be considered.",
+        "id": "3ec13278-6e69-4b48-9ec8-dc67e1211b0a",
+        "parentId": "7c4383d4-8026-4a3a-b2fa-d86935743ebc"
+    },
+    "pregnancy": {
+        "generalInfo": [
+            "Abacavir should only be used in pregnancy if the expected benefit justifies the potential risk. Mitochondrial dysfunction has been reported in infants exposed in utero."
+        ],
+        "id": "af72aad3-572e-4715-91da-6cb9bf609d99",
+        "parentId": "7c4383d4-8026-4a3a-b2fa-d86935743ebc"
+    },
+    "renalImpairment": {
+        "generalInfo": [],
+        "specificInfo": "No dose adjustment is needed in renal impairment, but use in patient with end-stage renal disease is not recommended.",
+        "id": "b2c4218b-d973-4840-81af-ce4cd876c75c",
+        "parentId": "7c4383d4-8026-4a3a-b2fa-d86935743ebc"
+    },
+    "sideEffects": {
+        "generalInfo": [],
+        "specificInfo": "Common: Nausea, vomiting, diarrhoea, fatigue, headache, fever, rash (minor), insomnia, dizziness, abdominal pain. Rare: Lactic acidosis, pancreatitis. Frequency not known: Hypersensitivity reaction",
+        "id": "da3ae97d-d557-47bf-bb5d-debc0cafb6e6",
+        "parentId": "7c4383d4-8026-4a3a-b2fa-d86935743ebc"
+    },
+    "therapeuticPlan": [
+        {
+            "indications": [
+                "HIV infection"
+            ],
+            "dosages": [
+                {
+                    "patientGroup": "adult",
+                    "detailedPatientGroup": "Adult",
+                    "doseInfo": "600 mg daily",
+                    "routeOfAdministration": "By mouth",
+                    "id": "7aa33cd8-ef37-4702-bf4f-7bf7412c9886",
+                    "parentId": "53ce5d72-af38-4503-9f7e-4b0e096fded8"
+                }
+            ],
+            "id": "53ce5d72-af38-4503-9f7e-4b0e096fded8",
+            "parentId": "7c4383d4-8026-4a3a-b2fa-d86935743ebc"
+        }
+    ],
+    "id": "7c4383d4-8026-4a3a-b2fa-d86935743ebc",
+    "parentId": null
+}

@@ -1,0 +1,24 @@
+<think>
+Okay, so I need to figure out the correct dosage of bilastine for an adult seeking symptomatic relief from allergic rhinoconjunctivitis and urticaria. Let me start by recalling what I know about bilastine.
+
+Bilastine is a medication that's used to treat allergy symptoms. It's an antihistamine, which means it helps with things like sneezing, runny nose, itchy eyes, and hives. Since the user is asking for an adult dosage, I should focus on the typical recommendations for adults.
+
+I remember that bilastine comes in different forms, but most commonly as a tablet or oral solution. The usual dose I think is around 20 mg per day. But wait, does it need to be taken once daily? Or can it be split into multiple doses?
+
+From what I've read before, bilastine is often given once daily because it has a long half-life, meaning it stays effective in the body for an extended period. So taking it once a day should suffice for symptom relief.
+
+Now, checking if there are any variations based on the condition. For allergic rhinoconjunctivitis and urticaria, the dosage remains the same as these conditions typically respond well to the standard dose. There's no need for higher doses unless the symptoms are particularly severe, but that's usually managed by a healthcare provider.
+
+I should also consider if there are any special instructions, like taking it with food or avoiding certain medications. However, since the user only asked about dosage amount and unit, I don't need to include those details here.
+
+Putting it all together, the dosage is 20 mg taken once daily. So in JSON format, that would be "dosage amount": "20 mg" and "dosage unit": "tablet or oral solution". Wait, but sometimes dosages are given without specifying the form unless necessary. Since the user didn't specify the form, maybe just stating it as 20 mg is sufficient.
+
+I think I've covered all bases here. The key points are the amount (20 mg) and the unit, which in this case is typically a tablet or oral solution. But since the form isn't specified by the user, perhaps just stating "mg" as the unit is enough.
+</think>
+
+```json
+{
+  "dosage amount": "20 mg",
+  "dosage unit": "tablet or oral solution"
+}
+```

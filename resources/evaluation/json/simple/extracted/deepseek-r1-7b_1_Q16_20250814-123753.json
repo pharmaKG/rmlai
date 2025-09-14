@@ -1,0 +1,20 @@
+<think>
+Okay, so I need to figure out the dosage for atorvastatin for someone with hypercholesterolaemia. First, I should recall what hypercholesterolaemia is—it's when cholesterol levels are too high, which can lead to heart disease and stroke. Atorvastatin is a statin, right? Statins are used to lower cholesterol.
+
+I remember that statins have different dosages based on the patient's condition and other factors like age or kidney function. The question specifically mentions adults, so I don't need to worry about children's dosages. 
+
+Looking up atorvastatin's typical dosage, it usually ranges from 80 mg to 160 mg per day. But wait, sometimes higher doses are used for more severe cases. So maybe the maximum could be 240 mg or even 320 mg if needed. I should check if these are standard.
+
+Also, statins often come in multiple tablets of different strengths. For example, there's 80 mg, 160 mg, and sometimes higher like 37.5 mg for lower doses but that might be for children or specific conditions. But since the question is about adults with hypercholesterolaemia, I think the main dosages are around 80 to 240 mg.
+
+I should also consider how the dosage is administered—usually once daily in the morning on an empty stomach. But the question doesn't ask about frequency or timing, just the amount and unit. So focusing on that, the key values would be the minimum effective dose (80 mg) up to the maximum (320 mg).
+
+Putting it all together, I'll structure the JSON with "dosage amount" as an array containing 80, 160, 240, and 320 mg. The "dosage unit" will be "mg" for milligrams since that's the standard unit used.
+</think>
+
+```json
+{
+  "dosage_amount": [80, 160, 240, 320],
+  "dosage_unit": "mg"
+}
+```

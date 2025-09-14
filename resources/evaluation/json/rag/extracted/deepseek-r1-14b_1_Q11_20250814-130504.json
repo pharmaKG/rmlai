@@ -1,0 +1,20 @@
+<think>
+Alright, so I need to figure out the dosage of aciclovir for an adult with Herpes simplex keratitis based on the provided JSON. Let me start by understanding what's given.
+
+Looking at the JSON structure, there's a section called "therapeuticPlan" which contains information about different uses and their respective dosages. Under that, I see an indication for "Herpes simplex keratitis". That's exactly what we're looking for.
+
+Now, within this indication, there's a dosage array with one entry. The patient group is specified as "adult", so that's perfect because the question is about adults. The doseInfo field says to apply a 1 cm ribbon of ointment five times daily into the lower conjunctival sac. 
+
+Wait, but the question asks for the dosage amount and unit. In this case, it's an ointment application. So, the amount is 1 cm and the unit would be "cm" or perhaps "ribbon". But usually, dosages are given in more standard units like grams or milliliters. However, since it's a ribbon of ointment, specifying the length makes sense.
+
+I should make sure that I'm extracting the correct values without adding any extra information. The JSON structure requires only "dosage amount" and "dosage unit". So from the doseInfo, it's 1 cm ribbon applied five times daily. Therefore, the dosage amount is 1 cm, and the unit is cm.
+
+I don't see any other dosages for adults in this context, so that should be the answer.
+</think>
+
+```json
+{
+    "dosage amount": "1 cm",
+    "dosage unit": "cm"
+}
+```

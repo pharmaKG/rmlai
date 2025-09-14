@@ -1,0 +1,51 @@
+{
+    "interactions": [
+        {
+            "interactingDrugId": "paracetamol",
+            "interactantDrugId": "atorvastatin",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both atorvastatin and paracetamol can independently increase the hepatotoxicity risk.",
+                    "severity": "Normal",
+                    "id": "0691f447-d64a-48dd-87a5-f637a4402d13",
+                    "parentId": "32d26a8a-cc47-41e1-9f94-c91da7f27651"
+                }
+            ],
+            "id": "32d26a8a-cc47-41e1-9f94-c91da7f27651",
+            "parentId": "7aabeaab-bce3-47d0-bcb9-1a4f7ffc7436"
+        },
+        {
+            "interactingDrugId": "paracetamol",
+            "interactantDrugId": "carbamazepine",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Carbamazepine decreases the efficacy of paracetamol.",
+                    "severity": "Moderate",
+                    "id": "f5b21e4d-28a1-4695-84ec-b38523d73d5d",
+                    "parentId": "1f1c8656-a3bf-43d9-91ca-25d9da83ae51"
+                }
+            ],
+            "id": "1f1c8656-a3bf-43d9-91ca-25d9da83ae51",
+            "parentId": "7aabeaab-bce3-47d0-bcb9-1a4f7ffc7436"
+        },
+        {
+            "interactingDrugId": "paracetamol",
+            "interactantDrugId": "flucloxacillin",
+            "details": [
+                {
+                    "evidence": "Anecdotal",
+                    "description": "Co-administration of paracetamol and flucloxacillin can rarely cause high anion gap metabolic acidosis due to accumulation of 5-oxoproline (pyroglutamic acid)",
+                    "severity": "Severe",
+                    "id": "85550ade-d84d-492f-b416-6bbb3943ee39",
+                    "parentId": "1025c7f8-06d8-4a5b-87cc-677cb5006c4f"
+                }
+            ],
+            "id": "1025c7f8-06d8-4a5b-87cc-677cb5006c4f",
+            "parentId": "7aabeaab-bce3-47d0-bcb9-1a4f7ffc7436"
+        }
+    ],
+    "id": "7aabeaab-bce3-47d0-bcb9-1a4f7ffc7436",
+    "parentId": null
+}

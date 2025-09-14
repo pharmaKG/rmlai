@@ -1,0 +1,20 @@
+<think>
+Alright, so I need to figure out the dosage of abaloparatide for an adult specifically for constipation. Let me start by looking at the provided JSON data.
+
+First, I see that the JSON includes information about abaloparatide under various categories like breastfeeding, hepatic impairment, pregnancy, renal impairment, side effects, and therapeutic plans. The key section here is "therapeuticPlan" because it contains dosages for different patient groups.
+
+Looking into the "therapeuticPlan", there's an indication for postmenopausal osteoporosis at high risk of fracture. Under this, there's a dosage detail for adults (specifically adult females). The doseInfo says "80 micrograms once daily" administered subcutaneously.
+
+Now, I need to connect constipation to abaloparatide. In the side effects section, under specificInfo, it lists constipation as one of the common side effects. This means that while abaloparatide is primarily used for osteoporosis, it can cause constipation as a side effect.
+
+However, the question is about using abaloparatide to treat constipation, not just its side effect. But since the JSON doesn't provide any specific dosage information for treating constipation directly, I have to rely on the existing therapeutic use dosage.
+
+Therefore, the dosage amount and unit would be based on the indication provided in the JSON, which is 80 micrograms once daily.
+</think>
+
+```json
+{
+    "dosage amount": "80",
+    "dosage unit": "microgram"
+}
+```

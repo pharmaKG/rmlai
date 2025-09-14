@@ -1,0 +1,18 @@
+<think>
+Okay, so I need to figure out the dosage of flucloxacillin for an adult with pneumonia. Hmm, I remember that antibiotics dosages can vary based on factors like the patient's weight and the severity of the infection. Flucloxacillin is a penicillin antibiotic, right? It's often used for infections caused by staphylococci or streptococci.
+
+I think the typical adult dose might be around 2 grams per day, but I'm not entirely sure. Wait, maybe it's split into multiple doses throughout the day. Let me think... Oh yeah, I believe it's usually given four times a day. So that would make each dose about 500 mg. But wait, is that correct? Or is it higher?
+
+I should double-check. Flucloxacillin is often prescribed at a dosage of 2 grams every six hours, which totals 8 grams per day. No, that seems too high. Maybe I'm confusing it with another antibiotic. Let me think again. For adults, the usual dose for flucloxacillin is typically 500 mg to 1 gram every 6 hours. So that would be four times a day.
+
+Wait, but in some cases, especially if the infection is more severe or if the patient has reduced kidney function, the dosage might need adjustment. However, since the question doesn't specify any special conditions, I'll stick with the standard dose.
+
+So putting it all together, for an adult with pneumonia, flucloxacillin is usually prescribed at a dosage of 500 mg every 6 hours. That makes four doses per day totaling 2 grams daily. Therefore, each dose is 500 mg.
+</think>
+
+```json
+{
+  "dosage amount": 500,
+  "dosage unit": "mg"
+}
+```

@@ -1,0 +1,175 @@
+@prefix drug: <http://drug.uk/model/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#>.
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+
+drug:DrugShape
+    a sh:NodeShape ;
+    sh:targetClass drug:Drug ;
+    sh:property [
+        sh:path skos:prefLabel ;
+        sh:name "Preferred Label"@en ;
+        sh:description "Thea preferred label of the drug."@en ;
+        sh:datatype xsd:string ;
+        sh:minCount 1 ;
+        sh:maxCount 1 ;
+    ] ;
+    sh:property [
+        sh:path drug:usage ;
+        sh:name "Usage"@en ;
+        sh:description "Encompasses usage details of a drug based on patient's condition like Normal, Pregnancy, BreastFeeding, HepaticImpairment and RenalImpairment."@en ;
+        sh:class drug:Usage ;
+        sh:minCount 1 ;
+    ] ;
+    sh:property [
+        sh:path drug:sideEffect ;
+        sh:name "Side Effect"@en ;
+        sh:description "Side effects of the drug."@en ;
+        sh:datatype xsd:string ;
+    ] ;
+.
+
+drug:UsageShape
+    a sh:NodeShape ;
+    sh:targetClass drug:Usage ;
+    sh:property [
+        sh:path drug:safetyLevel ;
+        sh:name "Safety Level"@en ;
+        sh:description "Safety level of the drug usage."@en ;
+        sh:in ("safe" "caution" "unsafe") ;
+        sh:maxCount 1 ;
+    ] ;
+    sh:property [
+        sh:path dct:description ;
+        sh:name "Description"@en ;
+        sh:description "A textual description of the drug usage."@en ;
+        sh:datatype xsd:string ;
+        sh:maxCount 1 ;
+    ] ;
+    sh:property [
+        sh:path drug:patientCondition ;
+        sh:name "Patient Condition"@en ;
+        sh:description "Condition of the patient."@en ;
+        sh:in ("Normal" "Pregnancy" "BreastFeeding" "RenalImpairment" "HepaticImpairment") ;
+        sh:minCount 1 ;
+        sh:maxCount 1 ;
+    ] ;
+    sh:property [
+        sh:path drug:indication ;
+        sh:name "Indication"@en ;
+        sh:description "Therapeutic indication of the drug."@en ;
+        sh:datatype xsd:string ;
+    ] ;
+    sh:property [
+        sh:path drug:dosage ;
+        sh:name "Dosage"@en ;
+        sh:description "The therapeutic dosage details of the drug."@en ;
+        sh:class drug:Dosage ;
+    ] ;
+.
+
+drug:DosageShape
+    a sh:NodeShape ;
+    sh:targetClass drug:Dosage ;
+    sh:property [
+        sh:path drug:route ;
+        sh:name "Route"@en ;
+        sh:description "Route of drug administration."@en ;
+        sh:datatype xsd:string ;
+    ] ;
+    sh:property [
+        sh:path dct:description ;
+        sh:name "Description"@en ;
+        sh:description "A textual description regarding dosage."@en ;
+        sh:datatype xsd:string ;
+        sh:maxCount 1 ;
+    ] ;
+    sh:property [
+        sh:path drug:amount ;
+        sh:name "Amount"@en ;
+        sh:description "Dose amount of the drug."@en ;
+        sh:datatype xsd:decimal ;
+        sh:maxCount 1 ;
+    ] ;
+    sh:property [
+        sh:path drug:unit ;
+        sh:name "Unit"@en ;
+        sh:description "Unit of dose amount."@en ;
+        sh:datatype xsd:string ;
+        sh:maxCount 1 ;
+    ] ;
+    sh:property [
+        sh:path drug:frequency ;
+        sh:name "Frequency"@en ;
+        sh:description "Numerical frequency value of the dosage. It indicates how often the dosage should be administered"@en ;
+        sh:datatype xsd:decimal ;
+        sh:maxCount 1 ;
+    ] ;
+    sh:property [
+        sh:path drug:duration ;
+        sh:name "Duration"@en ;
+        sh:description "Frequency duration at which the dose of the drug must be used."@en ;
+        sh:datatype xsd:duration ;
+        sh:maxCount 1 ;
+    ] ;
+    sh:property [
+        sh:path drug:group ;
+        sh:name "Group"@en ;
+        sh:description "Generic group the patient belong to like neonate, child, adult, etc."@en ;
+        sh:in ("child" "adult" "neonate") ;
+        sh:minCount 1 ;
+        sh:maxCount 1 ;
+    ] ;
+    sh:property [
+        sh:path drug:gender ;
+        sh:name "Gender"@en ;
+        sh:description "Gender of the patient group like male or female."@en ;
+        sh:datatype xsd:string ;
+        sh:maxCount 1 ;
+    ] ;
+    sh:property [
+        sh:path drug:minAge ;
+        sh:name "Minimum Age"@en ;
+        sh:description "The minimum age of the patient group eligible for the dosage."@en ;
+        sh:datatype xsd:decimal ;
+        sh:maxCount 1 ;
+    ] ;
+    sh:property [
+        sh:path drug:maxAge ;
+        sh:name "Maximum Age"@en ;
+        sh:description "The maximum age of the patient group eligible for the dosage."@en ;
+        sh:datatype xsd:decimal ;
+        sh:maxCount 1 ;
+    ] ;
+    sh:property [
+        sh:path drug:ageUnit ;
+        sh:name "Unit"@en ;
+        sh:description "Unit of age of the patient group eligible for the dosage."@en ;
+        sh:maxCount 1 ;
+    ] ;
+    sh:property [
+        sh:path drug:minWeight ;
+        sh:name "Minimum Weight"@en ;
+        sh:description "The minimum weight of the patient group eligible for the dosage."@en ;
+        sh:datatype xsd:decimal ;
+        sh:maxCount 1 ;
+    ] ;
+    sh:property [
+        sh:path drug:maxWeight ;
+        sh:name "Maximum Weight"@en ;
+        sh:description "The maximum weight of the patient group eligible for the dosage."@en ;
+        sh:datatype xsd:decimal ;
+        sh:maxCount 1 ;
+    ] ;
+    sh:property [
+        sh:path drug:weightUnit ;
+        sh:name "Unit"@en ;
+        sh:description "Unit of weight of the patient group eligible for the dosage."@en ;
+        sh:maxCount 1 ;
+    ] ;
+.
+

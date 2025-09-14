@@ -1,0 +1,22 @@
+<think>
+Okay, so I need to figure out if Bilastine can be given to a 15-year-old child based on the provided JSON input. Let me go through the information step by step.
+
+First, looking at the 'breastFeeding' section: it says that Bilastine is excreted in breast milk in animals and suggests avoiding it during breastfeeding. That's probably not directly relevant to a child, but good to note.
+
+Next, the 'pregnancy' section mentions that there's limited data on using Bilastine during pregnancy and advises against use. So, if someone is pregnant, they shouldn't give it. But since we're talking about a 15-year-old, this might not apply unless she's expecting, which isn't indicated here.
+
+Then, the 'sideEffects' section lists common effects like headache, drowsiness, fatigue, and allergic reactions. It also mentions that in rare cases, there are more severe effects like anxiety or insomnia. I don't see any specific warnings about using Bilastine on children, but it's always good to be cautious.
+
+Looking at the 'therapeuticPlan', it specifies that Bilastine is used for conditions like allergic rhinitis and urticaria with a dosage of 20 mg once daily, taken after food or juice. The patient group mentioned here is "Child (12–17 years)", which directly includes a 15-year-old. So this seems to indicate that it's safe for children in that age range.
+
+Putting it all together: the therapeutic plan explicitly says it's for children aged 12-17, including 15. There are no red flags from the other sections about using it on a child unless there's an underlying condition like pregnancy or breastfeeding, which aren't factors here. The side effects don't specifically warn against use in children either.
+
+So, based on this information, Bilastine can be given to a 15-year-old as per the therapeutic plan provided.
+</think>
+
+```json
+{
+    "answer": "yes",
+    "explanation": "Based on the therapeutic plan, Bilastine is indicated for children aged 12–17 years. A 15-year-old falls within this age range and can be given the medication."
+}
+```

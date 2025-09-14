@@ -1,0 +1,22 @@
+<think>
+Okay, so I need to figure out the dosage for abacavir for HIV treatment in adults. Let me start by recalling what I know about antiretroviral therapy (ART). ART typically includes multiple medications to suppress the virus effectively.
+
+Abacavir is one of these medications. From what I remember, it's a nucleoside reverse transcriptase inhibitor, which means it stops the replication of the HIV virus in the host cells. Now, dosages for antiretroviral drugs can vary based on several factors like the patient's weight, other medications they're taking, and their CD4 count.
+
+I think abacavir is usually taken once daily because it has a narrow therapeutic window—meaning there's a specific range where it's effective without causing toxicity. So, I should look for information about its typical dosage regimen.
+
+Looking up some sources in my mind, I recall that the standard dose of abacavir is around 300 to 600 milligrams per day. But wait, isn't there a difference between the actual drug and the equivalent in terms of active ingredient? Sometimes medications have an equivalent (E.E.) which accounts for the bioavailability or potency.
+
+So, if I remember correctly, abacavir is often dosed at 300 mg once daily, but when converted to its equivalent, it's about 250-300 E.E. per day. This makes sense because the equivalent helps in comparing different formulations of the same drug based on their active content.
+
+I should also consider that this can vary depending on the patient's condition and other medications they're taking. For example, patients with lower CD4 counts might receive a higher dose to ensure effective viral suppression. However, since the question is about adult dosages without specific conditions, I'll stick to the standard adult dose.
+
+Putting it all together, the dosage amount for abacavir in adults is typically 300 mg once daily, and when converted to its equivalent, it's approximately 250-300 E.E. per day.
+</think>
+
+```json
+{
+  "dosage_amount": "300 mg",
+  "dosage_unit": "per day"
+}
+```

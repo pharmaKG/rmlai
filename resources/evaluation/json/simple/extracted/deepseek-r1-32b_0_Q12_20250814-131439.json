@@ -1,0 +1,18 @@
+<think>
+Okay, so I need to figure out the dosage of alendronic acid for treating and preventing postmenopausal osteoporosis in adults. Let me start by recalling what I know about alendronic acid. It's a bisphosphonate used to strengthen bones, right? Commonly prescribed for osteoporosis.
+
+I think the typical dose is once weekly because taking it daily can be less convenient and might have more side effects. But wait, sometimes people take it monthly as well. Hmm, I'm not entirely sure about that. Let me focus on the standard recommendation first.
+
+The dosage amount, if I remember correctly, is 70 mg. That's for once weekly. So, the unit would be milligrams (mg). But I should double-check to make sure there isn't a different dose for prevention versus treatment. Wait, no, I think both are treated similarly in terms of dosage.
+
+I also recall that it's important to take alendronic acid with water on an empty stomach, and not eat or lie down for about 30 minutes after taking it to prevent esophageal issues. But the user didn't ask about administration instructions, just the dosage amount and unit.
+
+So putting it together: dosage amount is 70 mg, taken once weekly. That should be the standard recommendation for postmenopausal osteoporosis treatment and prevention.
+</think>
+
+```json
+{
+  "dosage amount": 70,
+  "dosage unit": "mg"
+}
+```

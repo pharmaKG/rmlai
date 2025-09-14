@@ -1,0 +1,18 @@
+<think>
+Okay, so I need to figure out the dosage of alendronic acid for an adult, specifically for treating and preventing postmenopausal osteoporosis. Let me look at the provided JSON data.
+
+First, I'll search through the JSON structure. There's a section called "therapeuticPlan" which contains indications and dosages. The indication here is "Treatment and prevention of postmenopausal osteoporosis," so that's exactly what we're looking for.
+
+Under "dosages," there's an entry with "patientGroup": "adult." That matches the user's request. The "doseInfo" field says "70 mg once weekly." So, the dosage amount is 70 mg and the unit is milligrams (mg). 
+
+I should make sure to extract just these two pieces of information without adding anything else. The JSON response needs to have keys for "dosage amount" and "dosage unit," with their respective values.
+
+So putting it together, the answer should be a plain text JSON object with those two keys.
+</think>
+
+```json
+{
+    "dosage amount": 70,
+    "dosage unit": "mg"
+}
+```

@@ -1,0 +1,18 @@
+<think>
+Alright, so I need to figure out the dosage of apixaban for an adult treating deep-vein thrombosis based on the provided JSON. Let me start by understanding what's given.
+
+Looking at the JSON structure, there's a key called "therapeuticPlan" which contains information about indications and dosages. Under therapeuticPlan, there's an object with "indications" that include both deep-vein thrombosis (DVT) and pulmonary embolism. The relevant dosage is within this object.
+
+The dosage array has one entry where the patient group is specified as "adult". The doseInfo field says "10 mg taken orally twice daily for 7 days." So, I need to extract the numerical part of the dosage, which is 10 mg, and the unit, which is milligrams (mg).
+
+I should structure this into a JSON format with keys "dosage amount" and "dosage unit". The values will be 10 and mg respectively. Since the user specified not to include any additional information or explanations, I'll keep it straightforward.
+
+Double-checking the JSON to ensure there are no other dosages for adults treating DVT elsewhere, but it seems this is the only one provided. So, the answer should be a simple JSON with those two keys and their respective values.
+</think>
+
+```json
+{
+  "dosage amount": 10,
+  "dosage unit": "mg"
+}
+```

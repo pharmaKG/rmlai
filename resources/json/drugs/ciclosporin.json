@@ -1,0 +1,55 @@
+{
+    "identifier": "ciclosporin",
+    "title": "Ciclosporin",
+    "breastFeeding": {
+        "generalInfo": [
+            "Ciclosporin is excreted in breast milk. Breastfeeding is generally not recommended during treatment."
+        ],
+        "id": "ddc82580-687a-44d4-86f1-70efd5e5f5b7",
+        "parentId": "39d876f3-2088-480c-bdaf-26bc11061225"
+    },
+    "hepaticImpairment": {
+        "specificInfo": "Dose adjustment and close monitoring of ciclosporin levels are recommended in moderate to severe hepatic impairment.",
+        "id": "cbf07a1a-d289-488d-ab90-9006d0d7f1b5",
+        "parentId": "39d876f3-2088-480c-bdaf-26bc11061225"
+    },
+    "pregnancy": {
+        "generalInfo": [
+            "Use only if the potential benefit justifies the potential risk to the fetus. Ciclosporin crosses the placenta and may cause fetal harm."
+        ],
+        "id": "a1fa1883-fcd5-4550-8ded-ec2cb3d3bbbd",
+        "parentId": "39d876f3-2088-480c-bdaf-26bc11061225"
+    },
+    "renalImpairment": {
+        "specificInfo": "Avoid overdose, adjust dose and monitor serum ciclosporin concentrations regularly.",
+        "id": "16b4e4bf-4266-4ac2-9384-3df3dc02498d",
+        "parentId": "39d876f3-2088-480c-bdaf-26bc11061225"
+    },
+    "sideEffects": {
+        "generalInfo": [],
+        "specificInfo": "Common: Tremor; headache; hypertension; hirsutism; gingival hyperplasia; hyperlipidaemia; nausea; vomiting; diarrhoea; abdominal pain; renal dysfunction; Paraesthesia; muscle cramps; anorexia; hyperglycaemia; acne; fatigue. Uncommon: confusion; weight gain; posterior reversible encephalopathy syndrome (PRES). Rare: pancreatitis; motor neuropathy; myopathy; menstrual disturbances. Frequency Not Known: hearing loss; hepatitis.",
+        "id": "6652d222-3e83-4b39-9209-ba2de837ae83",
+        "parentId": "39d876f3-2088-480c-bdaf-26bc11061225"
+    },
+    "therapeuticPlan": [
+        {
+            "indications": [
+                "Severe psoriasis"
+            ],
+            "dosages": [
+                {
+                    "patientGroup": "adult",
+                    "detailedPatientGroup": "Adult",
+                    "doseInfo": "up to 2.5 mg/kg 2 times daily; adjust dose based on clinical response and blood levels",
+                    "routeOfAdministration": "By mouth",
+                    "id": "df1724cf-b63c-4375-898e-32c635623cf7",
+                    "parentId": "7c9ef523-61d4-486e-ad83-59ece8f2a93b"
+                }
+            ],
+            "id": "7c9ef523-61d4-486e-ad83-59ece8f2a93b",
+            "parentId": "39d876f3-2088-480c-bdaf-26bc11061225"
+        }
+    ],
+    "id": "39d876f3-2088-480c-bdaf-26bc11061225",
+    "parentId": null
+}

@@ -1,0 +1,22 @@
+<think>
+Okay, so I need to figure out if ciclosporin is safe during pregnancy based on the provided JSON data. Let me start by looking through the information given.
+
+First, I see that under the "pregnancy" section, it says: "Use only if the potential benefit justifies the potential risk to the fetus. Ciclosporin crosses the placenta and may cause fetal harm." That sounds like there's a risk involved, but it also mentions weighing benefits against risks.
+
+I should check other sections too. The "breastFeeding" part says that breastfeeding isn't recommended during treatment because it's excreted in breast milk. That doesn't directly relate to pregnancy safety but shows the drug has effects beyond just the mother.
+
+Looking at "hepaticImpairment," there's a note about dose adjustment, which is more about managing the drug rather than safety in pregnancy. Similarly, "renalImpairment" talks about avoiding overdose and monitoring levels, again not directly related to pregnancy.
+
+The "sideEffects" section lists various effects but doesn't specify anything about pregnancy risks beyond what was already mentioned. The therapeutic plan under indications includes severe psoriasis as a use case, which might be why someone would take it during pregnancy if the benefits outweigh the risks.
+
+Putting this together, the key point is that while ciclosporin can cross the placenta and may cause harm to the fetus, its use isn't outright prohibited. Instead, it's advised only when necessary. So, in terms of safety, it's not entirely safe but also not completely unsafe—it depends on individual circumstances.
+
+Therefore, the answer should reflect that it's not definitively safe or unsafe; rather, it's conditional based on medical judgment.
+</think>
+
+```json
+{
+    "answer": "unknown",
+    "explanation": "Ciclosporin crosses the placenta and may cause fetal harm. Use is recommended only if the potential benefit justifies the potential risk to the fetus."
+}
+```

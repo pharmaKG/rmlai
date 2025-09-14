@@ -1,0 +1,16 @@
+<think>
+Okay, so I need to figure out if aciclovir can be used more than twice a day based on the provided JSON data. Let me start by looking through the information given.
+
+First, I'll check the therapeutic plan section because that usually contains dosage instructions. Under therapeuticPlan, there's an indication for herpes simplex keratitis with dosages specified. The detailedPatientGroup is "Adult," and the doseInfo says to apply a 1 cm ribbon of ointment five times daily into the lower conjunctival sac. So, in this specific case, it's recommended five times a day.
+
+Looking elsewhere, I don't see any other dosage information that limits aciclovir use to twice a day. The other sections like breastFeeding, hepaticImpairment, pregnancy, and renalImpairment discuss precautions but not the frequency of administration. Side effects are listed, but they don't mention anything about using it more than twice.
+
+Since the therapeutic plan explicitly states five times daily for adults with herpes simplex keratitis, that suggests it's appropriate to use it more than twice a day in this context. There's no information restricting its use beyond that, so I think the answer is yes.
+</think>
+
+```json
+{
+    "answer": "yes",
+    "explanation": "The therapeutic plan specifies applying aciclovir five times daily for herpes simplex keratitis."
+}
+```

@@ -1,0 +1,158 @@
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix doap:    <http://usefulinc.com/ns/doap#> .
+@prefix fno:     <https://w3id.org/function/ontology#> .
+@prefix fnoi:    <https://w3id.org/function/vocabulary/implementation#> .
+@prefix fnom:    <https://w3id.org/function/vocabulary/mapping#> .
+@prefix grel:    <http://users.ugent.be/~bjdmeest/function/grel.ttl#> .
+@prefix grelm:   <http://fno.io/grel/rmlmapping#> .
+@prefix rdfs:    <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix ex:      <http://www.example.org/functions#> .
+@prefix lib:        <http://example.com/library#> .
+@prefix idlab-fn:   <https://w3id.org/imec/idlab/function#> .
+@prefix rdf:        <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+grel:generateUUID a fno:Function ;
+    fno:name "generateUUID" ;
+    rdfs:label "generateUUID" ;
+    dct:description "generateUUID" ;
+    fno:expects ( ) ;
+    fno:returns ( grel:stringOut ) ;
+.
+
+grel:concat a fno:Function ;
+    fno:name "concat" ;
+    rdfs:label "concat" ;
+    dct:description "Returns the concatenation of two strings." ;
+    fno:expects ( ex:str-prompt grel:valueParam ) ;
+    fno:returns ( grel:stringOut ) ;
+.
+
+grel:concatMany a fno:Function ;
+    fno:name "concat" ;
+    rdfs:label "concat" ;
+    dct:description "Returns the concatenation of a list of strings and a string." ;
+    fno:expects ( grel:list grel:valueParam ) ;
+    fno:returns ( grel:stringOut ) ;
+.
+
+grel:getStrFromLLM a fno:Function ;
+    fno:name "getStrFromLLM" ;
+    rdfs:label "getStrFromLLM" ;
+    dct:description "Ask the LLM by providing python file name and prompt. Returns a string." ;
+    fno:expects ( ex:str-prompt ex:str-model) ;
+    fno:returns ( grel:stringOut ) ;
+.
+
+grel:getListFromLLM a fno:Function ;
+    fno:name "getListFromLLM" ;
+    rdfs:label "getListFromLLM" ;
+    dct:description "Ask the LLM by providing python file name and prompt. Returns a list of string." ;
+    fno:expects ( ex:str-prompt ex:str-model ) ;
+    fno:returns ( grel:list ) ;
+.
+
+grel:getFloatFromLLM a fno:Function ;
+    fno:name "getFloatFromLLM" ;
+    rdfs:label "getFloatFromLLM" ;
+    dct:description "Ask the LLM by providing python file name and prompt. Returns a float." ;
+    fno:expects ( ex:str-prompt ex:str-model) ;
+    fno:returns ( grel:output_decimal ) ;
+.
+
+grel:getRoute a fno:Function ;
+    fno:name "getRoute" ;
+    rdfs:label "getRoute" ;
+    dct:description "Get route from a string. Returns a list." ;
+    fno:expects ( ex:str-prompt ) ;
+    fno:returns ( grel:list ) ;
+.
+
+grel:list
+    a fno:Parameter ;
+    fno:name "list" ;
+    rdfs:label "list" ;
+    fno:type rdf:List ;
+    fno:predicate grel:list .
+
+grel:output_decimal
+    a             fno:Output ;
+    fno:name      "decimal" ;
+    rdfs:label    "decimal" ;
+    fno:predicate grel:o_decimal ;
+    fno:type      xsd:decimal .
+
+ex:str-pyFileName
+    a             fno:Parameter ;
+    fno:name      "str-pyFileName" ;
+    rdfs:label    "String Python File Name" ;
+    fno:type      xsd:string ;
+    fno:predicate ex:str-pyFileName.
+
+ex:str-prompt
+    a             fno:Parameter ;
+    fno:name      "str-prompt" ;
+    rdfs:label    "String LLM Prompt" ;
+    fno:type      xsd:string ;
+    fno:predicate ex:str-prompt.
+
+ex:str-model
+    a             fno:Parameter ;
+    fno:name      "str-model" ;
+    rdfs:label    "String LLM Model" ;
+    fno:type      xsd:string ;
+    fno:predicate ex:str-model.
+
+grelm:JavaImpl
+    a                  fnoi:JavaClass ;
+    doap:download-page "RmlCustomFunctions.jar" ;
+    fnoi:class-name    "RmlCustomFunctions" .
+
+grelm:generateUUID
+    a                    fno:Mapping ;
+    fno:function         grel:generateUUID ;
+    fno:implementation   grelm:JavaImpl ;
+    fno:methodMapping    [ a                fnom:Function ;
+                           fnom:method-name "generateUUID" ] .
+
+grelm:getStrFromLLM
+    a                    fno:Mapping ;
+    fno:function         grel:getStrFromLLM ;
+    fno:implementation   grelm:JavaImpl ;
+    fno:methodMapping    [ a                fnom:Function ;
+                           fnom:method-name "getStrFromLLM" ] .
+
+grelm:concat
+    a                    fno:Mapping ;
+    fno:function         grel:concat ;
+    fno:implementation   grelm:JavaImpl ;
+    fno:methodMapping    [ a                fnom:Function ;
+                           fnom:method-name "concat" ] .
+
+grelm:concatMany
+    a                    fno:Mapping ;
+    fno:function         grel:concatMany ;
+    fno:implementation   grelm:JavaImpl ;
+    fno:methodMapping    [ a                fnom:Function ;
+                           fnom:method-name "concat" ] .
+
+grelm:getListFromLLM
+    a                    fno:Mapping ;
+    fno:function         grel:getListFromLLM ;
+    fno:implementation   grelm:JavaImpl ;
+    fno:methodMapping    [ a                fnom:Function ;
+                           fnom:method-name "getListFromLLM" ] .
+
+grelm:getFloatFromLLM
+    a                    fno:Mapping ;
+    fno:function         grel:getFloatFromLLM ;
+    fno:implementation   grelm:JavaImpl ;
+    fno:methodMapping    [ a                fnom:Function ;
+                           fnom:method-name "getFloatFromLLM" ] .
+
+grelm:getRoute
+    a                    fno:Mapping ;
+    fno:function         grel:getRoute ;
+    fno:implementation   grelm:JavaImpl ;
+    fno:methodMapping    [ a                fnom:Function ;
+                           fnom:method-name "getRoute" ] .

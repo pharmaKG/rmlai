@@ -1,0 +1,55 @@
+{
+    "identifier": "co-trimoxazole",
+    "title": "Co-trimoxazole",
+    "breastFeeding": {
+        "generalInfo": [
+            "May cause complications in jaundiced neonates and infants."
+        ],
+        "id": "15d179ca-795a-47c8-b0a8-041f6a308851",
+        "parentId": "d628eba3-0ce1-499f-a796-9cdbb8462b8c"
+    },
+    "hepaticImpairment": {
+        "specificInfo": "Better to avoid in severe hepatic impairment.",
+        "id": "eaa0fe85-3966-41c9-a18e-065d89973c47",
+        "parentId": "d628eba3-0ce1-499f-a796-9cdbb8462b8c"
+    },
+    "pregnancy": {
+        "generalInfo": [
+            "Avoid in the first trimester due to potential teratogenicity; use only if clearly needed later in pregnancy."
+        ],
+        "id": "ab1e720e-2bff-47dd-be25-e737c27d8d85",
+        "parentId": "d628eba3-0ce1-499f-a796-9cdbb8462b8c"
+    },
+    "renalImpairment": {
+        "specificInfo": "Reduce dose in moderate to severe renal impairment.",
+        "id": "9d137d78-a9b3-4671-9e1e-09c36218f32a",
+        "parentId": "d628eba3-0ce1-499f-a796-9cdbb8462b8c"
+    },
+    "sideEffects": {
+        "generalInfo": [],
+        "specificInfo": "Common: Nausea; diarrhoea; rash; hyperkalaemia; Headache; dizziness; Uncommon: vomiting; pruritus. Rare: loss of appetite; photosensitivity;  agranulocytosis, thrombocytopenia, haemolytic anaemia, aplastic anaemia; aseptic meningitis; pancreatitis; interstitial nephritis; Stevens–Johnson syndrome (SJS); toxic epidermal necrolysis (TEN); erythema multiforme; serum sickness. Frequency Not Known: drug reaction with eosinophilia and systemic symptoms (DRESS).",
+        "id": "e56d7604-58f5-43e4-b8b2-b9039c0210d7",
+        "parentId": "d628eba3-0ce1-499f-a796-9cdbb8462b8c"
+    },
+    "therapeuticPlan": [
+        {
+            "indications": [
+                "Leg ulcer infection"
+            ],
+            "dosages": [
+                {
+                    "patientGroup": "adult",
+                    "detailedPatientGroup": "Adult",
+                    "doseInfo": "960 mg every 12 hours",
+                    "routeOfAdministration": "By mouth",
+                    "id": "0ca0c8a9-f3b2-451d-9de7-ebd59e6099d5",
+                    "parentId": "a8c8afa9-846d-489e-98c7-7eb197b11aa0"
+                }
+            ],
+            "id": "a8c8afa9-846d-489e-98c7-7eb197b11aa0",
+            "parentId": "d628eba3-0ce1-499f-a796-9cdbb8462b8c"
+        }
+    ],
+    "id": "d628eba3-0ce1-499f-a796-9cdbb8462b8c",
+    "parentId": null
+}

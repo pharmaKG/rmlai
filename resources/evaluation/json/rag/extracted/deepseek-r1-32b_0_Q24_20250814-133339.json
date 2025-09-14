@@ -1,0 +1,20 @@
+<think>
+Okay, so I need to figure out the dosage amount and unit of gelatin used as a stabilizer in vaccines for adults based on the provided JSON input. Let me start by carefully reading through the JSON data.
+
+Looking at the structure, there's an array called "therapeuticPlan" which contains different indications and their corresponding dosages. One of the indications is "Stabiliser in vaccines". Under this indication, I should find the dosage information for adults.
+
+In the "dosages" section under that therapeutic plan, there's a patient group specified as "adult". The doseInfo here says "up to 1L intravenously depending on clinical need", and the route is by intravenous infusion. 
+
+Wait, but gelatin is typically used in vaccines not as a volume-based dosage but more as a concentration or amount per vaccine dose. However, based strictly on the JSON provided, it mentions up to 1L for adults via IV. Since the question specifically asks about gelatin as a stabilizer in vaccines, I might need to consider if this is referring to the volume used in the vaccine preparation or administration.
+
+But according to the data given, under "Stabiliser in vaccines", the dosage for adults is up to 1L intravenously. So even though in reality, gelatin in vaccines isn't administered as a liter, perhaps in this context, it's referring to the volume used in the solution or preparation. 
+
+Therefore, I'll extract the dosage amount as "up to 1" and the unit as "L". The JSON should only include these two keys without any additional information.
+</think>
+
+```json
+{
+    "dosage amount": "up to 1",
+    "dosage unit": "L"
+}
+```

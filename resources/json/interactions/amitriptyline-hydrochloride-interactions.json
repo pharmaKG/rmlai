@@ -1,0 +1,67 @@
+{
+    "interactions": [
+        {
+            "interactingDrugId": "amitriptyline-hydrochloride",
+            "interactantDrugId": "amlodipine",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Concomitant use may cause additive blood pressure lowering effects, increasing risk of hypotension and dizziness.",
+                    "severity": "Normal",
+                    "id": "c2bf9a1f-c600-41b2-beba-e5ae159012c4",
+                    "parentId": "f64221ac-c7b2-4a7f-b9b8-b709b794f421"
+                }
+            ],
+            "id": "f64221ac-c7b2-4a7f-b9b8-b709b794f421",
+            "parentId": "c8e5f249-af8d-483d-947d-7f7634c9d3c2"
+        },
+
+        {
+            "interactingDrugId": "amitriptyline-hydrochloride",
+            "interactantDrugId": "betaxolol",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Concomitant use may cause additive blood pressure lowering effects, increasing risk of hypotension, dizziness, and fainting.",
+                    "severity": "Normal",
+                    "id": "304d82e2-52e8-4123-946e-3f8cd764ff86",
+                    "parentId": "a7ff5efa-2c73-439c-a302-2947b5d26bce"
+                }
+            ],
+            "id": "a7ff5efa-2c73-439c-a302-2947b5d26bce",
+            "parentId": "c8e5f249-af8d-483d-947d-7f7634c9d3c2"
+        },
+        {
+            "interactingDrugId": "amitriptyline-hydrochloride",
+            "interactantDrugId": "carbamazepine",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Carbamazepine decreases the therapeutic efficacy of Amitriptyline.",
+                    "severity": "Moderate",
+                    "id": "653ea9c2-3668-4b24-9db7-3692fa097255",
+                    "parentId": "c8c145fd-87f5-4810-8d09-5f28afbd9b73"
+                }
+            ],
+            "id": "c8c145fd-87f5-4810-8d09-5f28afbd9b73",
+            "parentId": "c8e5f249-af8d-483d-947d-7f7634c9d3c2"
+        },
+        {
+            "interactingDrugId": "amitriptyline-hydrochloride",
+            "interactantDrugId": "pregabalin",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Concomitant use may cause additive central nervous system depression leading to increased sedation, dizziness, confusion, and risk of falls.",
+                    "severity": "Normal",
+                    "id": "88ff9c53-9573-4e6a-8348-96f593060f2f",
+                    "parentId": "f001a319-80d0-4d8e-a663-fb6cb507baab"
+                }
+            ],
+            "id": "f001a319-80d0-4d8e-a663-fb6cb507baab",
+            "parentId": "c8e5f249-af8d-483d-947d-7f7634c9d3c2"
+        }
+    ],
+    "id": "c8e5f249-af8d-483d-947d-7f7634c9d3c2",
+    "parentId": null
+}

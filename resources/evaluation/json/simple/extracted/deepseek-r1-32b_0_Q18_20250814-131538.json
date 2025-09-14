@@ -1,0 +1,26 @@
+<think>
+Okay, so I need to figure out the dosage of bilastine for an adult who's experiencing symptoms from allergic rhinoconjunctivitis and urticaria. Hmm, I remember that bilastine is a medication used for allergies, but I'm not exactly sure about the specifics.
+
+First, I should think about what bilastine does. It's an antihistamine, right? Antihistamines help with symptoms like sneezing, runny nose, and itchy eyes from allergies. Urticaria is hives, so that makes sense too.
+
+Now, dosage can vary based on the medication. I think for most adults, the standard dose might be around 20 mg once a day. But wait, sometimes medications have different dosages depending on the condition they're treating. Does bilastine's dosage change if someone is taking it for both allergic rhinoconjunctivitis and urticaria?
+
+I should check if there are any differences in recommended doses for these two conditions. Maybe I can recall from medical guidelines or package inserts. From what I remember, bilastine is usually prescribed at 20 mg once daily for allergic rhinitis. But does it also work the same way for urticaria? Or is there a different dosage?
+
+Wait, maybe both conditions are treated with the same dose because they're both histamine-mediated. So perhaps the dosage remains consistent regardless of whether it's used for rhinoconjunctivitis or urticaria.
+
+I should also consider if there are any special cases, like liver or kidney issues, but since the question is about a general adult dosage, I don't need to factor that in right now.
+
+So putting it all together, I think the standard adult dose of bilastine for both allergic rhinoconjunctivitis and urticaria is 20 mg taken once daily. The unit here would be milligrams (mg).
+
+I should make sure there's no variation based on time of day or food intake, but unless specified otherwise, it's usually taken as a single dose each day.
+
+Alright, I think that's the correct dosage.
+</think>
+
+```json
+{
+  "dosage amount": 20,
+  "dosage unit": "mg"
+}
+```

@@ -1,0 +1,16 @@
+<think>
+Alright, so the user is asking about the dosage of amlodipine for an adult with hypertension. Let me look through the provided JSON data to find the relevant information.
+
+First, I'll check the structure of the JSON. It has various sections like breastFeeding, hepaticImpairment, etc., but the key part here is the therapeuticPlan section. 
+
+In the therapeuticPlan array, there's an object with indications including Hypertension and Angina. Under dosages, there's a patientGroup specified as "adult". The doseInfo field says "10 mg once daily".
+
+So, for an adult with hypertension, the dosage amount is 10 mg, and it's taken once daily by mouth. I don't see any additional information that would change this standard dosage, so I can confidently provide these values.
+</think>
+
+```json
+{
+    "dosage amount": "10",
+    "dosage unit": "mg"
+}
+```

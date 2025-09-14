@@ -1,0 +1,7 @@
+{question}
+
+Rule:
+- Provide the answer in a structured plain text JSON format
+- JSON should contain "dosage amount" and "dosage unit" as keys and their respective values.
+- Do not include any additional information or explanation.
+- Do not provide JSON in markdown formatting. Only provide plain text JSON.

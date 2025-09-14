@@ -1,0 +1,20 @@
+<think>
+Okay, so I need to figure out the dosage of atorvastatin for an adult with hypercholesterolaemia based on the provided JSON input. Let me start by understanding what's given.
+
+Looking at the JSON structure, there are several sections like breastFeeding, hepaticImpairment, pregnancy, etc., but I'm specifically interested in the therapeuticPlan section because that's where dosages and indications are listed.
+
+In the therapeuticPlan array, there's an entry with "indications" as ["Hypercholesterolaemia"]. That's exactly what we're looking for. Under this indication, there's a "dosages" array containing one object. This dosage is specified for the "adult" patient group, which matches our query.
+
+The doseInfo field in that dosage object says "10 mg once daily, adjusted according to response." So the initial dosage amount is 10 mg, and the unit is milligrams (mg). The route of administration is by mouth, but since the question only asks for the dosage amount and unit, I don't need to include that part.
+
+I should make sure not to add any extra information or explanations. Just extract the required keys and their values from the JSON. Also, the output needs to be in plain text JSON format without markdown.
+
+So putting it all together, the structured JSON response will have "dosage amount" as 10 and "dosage unit" as mg.
+</think>
+
+```json
+{
+    "dosage amount": 10,
+    "dosage unit": "mg"
+}
+```

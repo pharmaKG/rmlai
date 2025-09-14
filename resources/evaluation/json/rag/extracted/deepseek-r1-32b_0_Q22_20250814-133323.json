@@ -1,0 +1,20 @@
+<think>
+Okay, so I need to figure out the dosage of co-trimoxazole for an adult with a leg ulcer infection based on the provided JSON data. Let me start by understanding what's given.
+
+Looking at the INPUT JSON, there's a section called "therapeuticPlan" which includes indications and dosages. The indication here is "Leg ulcer infection," so that's exactly what we're looking for.
+
+Under "dosages," there's an entry with "patientGroup": "adult." That matches our query since we're dealing with an adult patient. The "doseInfo" field says "960 mg every 12 hours." So, the dosage amount is 960 mg, and it's taken every 12 hours.
+
+I should make sure that this information is correctly extracted without adding any extra details or explanations, as per the user's instructions. The JSON response needs to have keys "dosage amount" and "dosage unit," with their respective values.
+
+Wait, in the provided example, the dosage unit was "mg." Since the doseInfo mentions 960 mg, that fits perfectly. So, I can structure the answer accordingly without any issues.
+
+I don't see any conflicting information or additional considerations like renal impairment or pregnancy since the question is specific to an adult with a leg ulcer infection. Therefore, the dosage provided in the therapeutic plan should be sufficient and correct for this scenario.
+</think>
+
+```json
+{
+    "dosage amount": 960,
+    "dosage unit": "mg"
+}
+```

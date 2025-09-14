@@ -1,0 +1,20 @@
+<think>
+Okay, so I need to figure out the dosage amount and unit for aciclovir when treating Herpes simplex keratitis in adults. Let me start by looking at the provided JSON data.
+
+First, I'll search through the JSON structure to find where the dosages are mentioned. There's a section called "therapeuticPlan" which contains an array of objects. Each object has "indications" and "dosages". The indication here is "Herpes simplex keratitis", so that's the right place.
+
+Looking at the "dosages" array, there's one entry with "patientGroup": "adult". That's exactly what I need. Now, under "doseInfo", it says: "Apply a 1 cm ribbon of ointment five times daily into the lower conjunctival sac." 
+
+So, the dosage amount is 1 cm and the unit is centimeters (cm). The route is eye application, but since the question only asks for amount and unit, I don't need to include that.
+
+I should make sure there's no other information in the JSON that might affect this. Checking other sections like "renalImpairment" mentions reducing doses, but since it's about adults without specifying impairment, I think 1 cm five times daily is correct as per the given data.
+</think>
+
+The dosage for aciclovir in adult patients with Herpes simplex keratitis is specified as a 1 cm ribbon applied five times daily.
+
+```json
+{
+    "dosage amount": "1",
+    "dosage unit": "cm"
+}
+```

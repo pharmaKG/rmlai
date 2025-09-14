@@ -1,0 +1,55 @@
+{
+    "identifier": "carbamazepine",
+    "title": "Carbamazepine",
+    "breastFeeding": {
+        "generalInfo": [
+            "Present in breast milk in low concentrations. Breastfeeding is generally considered compatible, but monitor the infant."
+        ],
+        "id": "0fc6170e-a719-44b1-b3dd-f8bc64c30d4b",
+        "parentId": "7aad032b-649d-4135-a548-be13c01c6150"
+    },
+    "hepaticImpairment": {
+        "specificInfo": "Use with caution. Monitor liver function regularly, especially during the first few months of therapy.",
+        "id": "7867ea39-4bd0-4f73-8560-8dbe14ebea2a",
+        "parentId": "7aad032b-649d-4135-a548-be13c01c6150"
+    },
+    "pregnancy": {
+        "generalInfo": [
+            "Carbamazepine is associated with teratogenicity, including neural tube defects. Consider specialist advice and monitoring."
+        ],
+        "id": "4ae90fec-b291-4245-9b9a-a730b90324fd",
+        "parentId": "7aad032b-649d-4135-a548-be13c01c6150"
+    },
+    "renalImpairment": {
+        "specificInfo": "Use with caution in renal impairment. Therapeutic drug monitoring is recommended.",
+        "id": "f6e855f4-01af-4e2c-ac62-32717c502b1b",
+        "parentId": "7aad032b-649d-4135-a548-be13c01c6150"
+    },
+    "sideEffects": {
+        "generalInfo": [],
+        "specificInfo": "Common: Dizziness; drowsiness; nausea; vomiting; ataxia; blurred vision; dry mouth; fatigue; Hyponatraemia; oedema; headache; thrombocytopenia; leucopenia. Uncommon: tremor; constipation; diarrhoea. Rare: confusion; anaemia; agranulocytosis; lupus-like syndrome; pancreatitis; arrhythmias; hallucinations; rash; interstitial nephritis; Stevens-Johnson syndrome (SJS); toxic epidermal necrolysis (TEN). Frequency Not Known: DRESS syndrome; anaphylaxis; suicidal ideation.",
+        "id": "64aafcb2-374f-4ed2-8005-4de4b9e24cf2",
+        "parentId": "7aad032b-649d-4135-a548-be13c01c6150"
+    },
+    "therapeuticPlan": [
+        {
+            "indications": [
+                "Epilepsy"
+            ],
+            "dosages": [
+                {
+                    "patientGroup": "child",
+                    "detailedPatientGroup": "Child (1 month–11 years)",
+                    "doseInfo": "up to 20 mg/kg daily.",
+                    "routeOfAdministration": "By mouth",
+                    "id": "a7fcf218-a393-46cf-8c44-0681b686bc0d",
+                    "parentId": "998806c6-82f6-406f-9d1c-98884e6bde7e"
+                }
+            ],
+            "id": "998806c6-82f6-406f-9d1c-98884e6bde7e",
+            "parentId": "7aad032b-649d-4135-a548-be13c01c6150"
+        }
+    ],
+    "id": "7aad032b-649d-4135-a548-be13c01c6150",
+    "parentId": null
+}

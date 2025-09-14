@@ -1,0 +1,55 @@
+{
+    "identifier": "hyoscine-butylbromide",
+    "title": "Hyoscine butylbromide",
+    "breastFeeding": {
+        "generalInfo": [
+            "likely to be safe due to minimal transfer into breast milk."
+        ],
+        "id": "16596876-1ee2-4afe-9257-377d0f16bf28",
+        "parentId": "6b04d503-cb49-4c42-868f-525cdb188568"
+    },
+    "hepaticImpairment": {
+        "generalInfo": [],
+        "id": "87633b73-ef38-4ba7-9a84-e77552ac0b3f",
+        "parentId": "6b04d503-cb49-4c42-868f-525cdb188568"
+    },
+    "pregnancy": {
+        "generalInfo": [
+            "Limited human data; should be avoided."
+        ],
+        "id": "42b14e7f-cdeb-4606-8cab-d8a56015c04d",
+        "parentId": "6b04d503-cb49-4c42-868f-525cdb188568"
+    },
+    "renalImpairment": {
+        "generalInfo": [],
+        "id": "7ff05ce0-65df-496d-8dcb-c2bd8420f992",
+        "parentId": "6b04d503-cb49-4c42-868f-525cdb188568"
+    },
+    "sideEffects": {
+        "generalInfo": [],
+        "specificInfo": "Common: Dry mouth; Constipation; Blurred vision; Tachycardia (fast heart rate); Skin reactions; Drowsiness; Dizziness. Uncommon: Abnormal sweating. Rare: Urinary retention; Angioedema. Frequency not known: hypersensitivity.",
+        "id": "d4318ea4-f7cd-433f-bea5-8e33adf4525a",
+        "parentId": "6b04d503-cb49-4c42-868f-525cdb188568"
+    },
+    "therapeuticPlan": [
+        {
+            "indications": [
+                "Gastrointestinal smooth muscle spasm"
+            ],
+            "dosages": [
+                {
+                    "patientGroup": "adult",
+                    "detailedPatientGroup": "Adult",
+                    "doseInfo": "20 mg up to four times daily",
+                    "routeOfAdministration": "By mouth",
+                    "id": "cc2f4dd0-2c93-46f3-9997-ef823f267e6b",
+                    "parentId": "a49aa859-44e0-4c01-969c-22b9a144baf0"
+                }
+            ],
+            "id": "a49aa859-44e0-4c01-969c-22b9a144baf0",
+            "parentId": "6b04d503-cb49-4c42-868f-525cdb188568"
+        }
+    ],
+    "id": "6b04d503-cb49-4c42-868f-525cdb188568",
+    "parentId": null
+}

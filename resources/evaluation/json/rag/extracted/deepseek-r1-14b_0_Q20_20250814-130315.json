@@ -1,0 +1,18 @@
+<think>
+Alright, so I need to figure out the dosage of cefadroxil for an adult with a skin infection based on the provided JSON. Let me start by understanding what's given.
+
+Looking at the JSON structure, there's a section called "therapeuticPlan" which contains different indications and their corresponding dosages. Under therapeuticPlan, I see that one of the indications is "Skin infections". The dosages array within this has an entry for "child", specifying a dose of 0.5g every 12 hours.
+
+But wait, the question is about adults. The JSON doesn't explicitly mention adult dosages. Hmm, maybe I need to infer or recall standard dosing guidelines. Cefadroxil is typically used in adults at higher doses than children. For skin infections, a common adult dose might be around 1g every 12 hours.
+
+I should check if there's any information about adult dosages elsewhere in the JSON. The other sections like hepaticImpairment and renalImpairment mention dosage adjustments but not specific amounts for adults. The therapeuticPlan only lists child dosages, so I have to go with standard practice.
+
+Therefore, the dosage amount is likely 1 gram (g) taken every 12 hours by mouth.
+</think>
+
+```json
+{
+    "dosage amount": "1 g",
+    "dosage unit": "every 12 hours"
+}
+```

@@ -1,0 +1,22 @@
+<think>
+Okay, so I need to figure out the dosage of hyoscine butylbromide for an adult with gastrointestinal smooth muscle spasm based on the provided JSON input. Let me start by looking through the JSON structure.
+
+First, I see that the main identifier is "hyoscine-butylbromide" and the title confirms it's Hyoscine butylbromide. The user is asking specifically about adults, so I should focus on the sections related to adult dosages.
+
+Looking at the structure, there's a section called "therapeuticPlan" which contains an array of objects. Each object has "indications" and "dosages". The indication here is "Gastrointestinal smooth muscle spasm", which matches what the user is asking about.
+
+Within the "dosages" array, there's an entry with "patientGroup": "adult". That's exactly what we need. The "doseInfo" field says "20 mg up to four times daily". So the dosage amount is 20 mg each time, and it can be taken up to four times a day.
+
+I should extract just the numerical value for the dosage amount and specify the unit as milligrams (mg). Since the question doesn't ask for how many times per day, I'll focus on the single dose amount. 
+
+So putting that together, the dosage amount is 20 mg. The route of administration is by mouth, but since the user didn't ask about that, it's not necessary to include.
+
+I need to make sure my answer only includes "dosage amount" and "dosage unit" in a plain text JSON format without any extra information or markdown.
+</think>
+
+```json
+{
+    "dosage amount": 20,
+    "dosage unit": "mg"
+}
+```

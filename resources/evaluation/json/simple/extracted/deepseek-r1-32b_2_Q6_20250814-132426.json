@@ -1,0 +1,16 @@
+<think>
+Okay, so the user is asking if aciclovir can be used more than twice a day. I need to figure this out based on what I know about the medication.
+
+First, I remember that aciclovir is an antiviral drug commonly used for herpes infections. It's available in different forms like oral tablets and topical creams. The dosing usually depends on the type of infection being treated.
+
+For example, when treating shingles (herpes zoster), the typical dose is five times a day. That means it can be taken more than twice daily in certain cases. On the other hand, for cold sores or herpes simplex, the oral dosage might be less frequent, maybe four times a day. Topical application is usually three to five times.
+
+So, the answer isn't a straightforward yes or no because it depends on the specific condition being treated and the form of aciclovir prescribed. The healthcare provider would determine the appropriate frequency based on guidelines and the patient's needs.
+</think>
+
+```json
+{
+  "answer": "unknown",
+  "explanation": "The appropriate dosing frequency for aciclovir depends on the specific indication and formulation being used, as well as individual patient factors."
+}
+```

@@ -1,0 +1,60 @@
+{
+  "identifier": "apixaban",
+  "title": "Apixaban",
+  "breastFeeding": {
+    "generalInfo": [
+      "A risk cannot be excluded: animal studies shows presence in milk."
+    ],
+    "id": "795b697e-36ec-4a2a-be79-f9591db8d443",
+    "parentId": "ce7fe2d0-f644-43a4-8e13-3ffdb9e66c3a"
+  },
+  "hepaticImpairment": {
+    "generalInfo": [
+      "Use with caution in mild to moderate hepatic impairment; contraindicated in hepatic disease with coagulopathy."
+    ],
+    "id": "a7d2d220-b641-4291-b910-e23d5764fb09",
+    "parentId": "ce7fe2d0-f644-43a4-8e13-3ffdb9e66c3a"
+  },
+  "pregnancy": {
+    "generalInfo": [
+      "Not recommended during pregnancy due to lack of sufficient human data."
+    ],
+    "id": "7f04b09e-bd84-47a2-866c-ad56b736717b",
+    "parentId": "ce7fe2d0-f644-43a4-8e13-3ffdb9e66c3a"
+  },
+  "renalImpairment": {
+    "generalInfo": [
+      "Dose adjustment may be required in moderate to severe renal impairment."
+    ],
+    "id": "d9451900-e2f4-4187-b78d-8eaedf64f4f2",
+    "parentId": "ce7fe2d0-f644-43a4-8e13-3ffdb9e66c3a"
+  },
+  "sideEffects": {
+    "generalInfo": [],
+    "specificInfo": "Common: haemorrhage, contusion, epistaxis, haematoma. Uncommon: thrombocytopenia, hypotension, post procedural haematoma.",
+    "id": "c392fb53-23a1-483e-bf63-40eb20db03b5",
+    "parentId": "ce7fe2d0-f644-43a4-8e13-3ffdb9e66c3a"
+  },
+  "therapeuticPlan": [
+    {
+      "indications": [
+        "Treatment of deep-vein thrombosis",
+        "Treatment of pulmonary embolism"
+      ],
+      "dosages": [
+        {
+          "patientGroup": "adult",
+          "detailedPatientGroup": "Adult",
+          "doseInfo": "10 mg taken orally twice daily for 7 days.",
+          "routeOfAdministration": "By mouth",
+          "id": "4b59244d-c27d-4be2-a954-6a793f1c7cb0",
+          "parentId": "20bcdc37-efc7-4b7a-bc8b-afba7842a7da"
+        }
+      ],
+      "id": "20bcdc37-efc7-4b7a-bc8b-afba7842a7da",
+      "parentId": "ce7fe2d0-f644-43a4-8e13-3ffdb9e66c3a"
+    }
+  ],
+  "id": "ce7fe2d0-f644-43a4-8e13-3ffdb9e66c3a",
+  "parentId": null
+}

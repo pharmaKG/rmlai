@@ -1,0 +1,56 @@
+{
+    "identifier": "cefadroxil",
+    "title": "Cefadroxil",
+    "breastFeeding": {
+        "generalInfo": [
+            "Cefadroxil is excreted in breast milk in small amounts; can be used."
+        ],
+        "id": "c3d3f1ed-45e6-4890-a847-5fe033f9524f",
+        "parentId": "3d9fe382-29a4-4f97-9a35-76674cded9cb"
+    },
+    "hepaticImpairment": {
+        "generalInfo": [],
+        "id": "88ae7305-cd41-490d-8fa1-d05b35b100ab",
+        "parentId": "3d9fe382-29a4-4f97-9a35-76674cded9cb"
+    },
+    "pregnancy": {
+        "generalInfo": [],
+        "specificInfo": "Generally considered safe in pregnancy when prescribed appropriately.",
+        "id": "4ba09b33-5609-49e0-87fe-7096e71f5e08",
+        "parentId": "3d9fe382-29a4-4f97-9a35-76674cded9cb"
+    },
+    "renalImpairment": {
+        "specificInfo": "Dose adjustment required in renal impairment; reduce dose according to creatinine clearance.",
+        "id": "8e69836c-5152-43f4-856f-3cae8c877217",
+        "parentId": "3d9fe382-29a4-4f97-9a35-76674cded9cb"
+    },
+    "sideEffects": {
+        "generalInfo": [],
+        "specificInfo": "Common: Diarrhoea; nausea; vomiting; abdominal pain; dyspepsia; rash; urticaria; Headache; dizziness; pruritus; pseudomembranous colitis. Uncommon: angioedema. Rare: fatigue; Haemolytic anaemia; thrombocytopenia; leucopenia; interstitial nephritis; serum sickness-like reaction; Stevens–Johnson syndrome (SJS); erythema multiforme.",
+        "id": "1b0c7dbc-f462-4d68-b635-ec3b9278c674",
+        "parentId": "3d9fe382-29a4-4f97-9a35-76674cded9cb"
+    },
+    "therapeuticPlan": [
+        {
+            "indications": [
+                "Skin infections",
+                "Urinary tract infections",
+                "Soft tissue infections"
+            ],
+            "dosages": [
+                {
+                    "patientGroup": "child",
+                    "detailedPatientGroup": "Child (6–17 years, body-weight 40 kg and above)",
+                    "doseInfo": "0.5g every 12 hours",
+                    "routeOfAdministration": "By mouth",
+                    "id": "2d531574-ee91-46eb-856d-ae4cbf8abcd5",
+                    "parentId": "9eba01ec-a367-4a4f-b763-7274db41356a"
+                }
+            ],
+            "id": "9eba01ec-a367-4a4f-b763-7274db41356a",
+            "parentId": "3d9fe382-29a4-4f97-9a35-76674cded9cb"
+        }
+    ],
+    "id": "3d9fe382-29a4-4f97-9a35-76674cded9cb",
+    "parentId": null
+}

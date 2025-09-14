@@ -1,0 +1,30 @@
+<think>
+Okay, so I need to figure out the dosage for apixaban when treating deep-vein thrombosis (DVT) for adults. Let me start by recalling what I know about apixaban and DVT treatment.
+
+First, apixaban is an anticoagulant used to prevent blood clots. It's often prescribed for conditions like DVT, which can lead to serious complications if left untreated because they increase the risk of blood clots forming in the legs or other parts of the body.
+
+I remember that dosages for anticoagulants are usually based on weight and the specific condition being treated. For adults, the typical starting dose might be a low dose, which is often 60 mg once daily. This initial dose helps establish a therapeutic level without causing significant side effects.
+
+As the patient's body adjusts to the medication or as their clotting risk increases, the dosage may need to be increased. The next higher dose I think is around 120 mg twice daily. This means taking two doses of 120 mg each day, which doubles the total daily dose compared to the initial.
+
+It's also important to note that these dosages are specific to adults and might differ for children or other age groups. Additionally, apixaban has a half-life of about 36 hours, meaning it takes several days before the full effect is seen, so multiple doses per day are necessary to maintain therapeutic levels.
+
+I should make sure I'm not mixing up any information with other medications or conditions. For example, sometimes dosages can vary between different sources like official guidelines from agencies such as NICE (National Institute for Health and Care Excellence) in the UK or similar organizations elsewhere.
+
+Also, it's crucial to mention that these are starting doses and that titration may be needed based on the patient's response and clinical trial results. Monitoring is important to adjust dosages safely and effectively.
+
+So putting this all together, the initial dose is 60 mg once daily, and if increased, it becomes 120 mg twice daily for adults treating DVT.
+</think>
+
+```json
+{
+  "dosage_amount": {
+    "initial": 60,
+    "increased": 120
+  },
+  "dosage_unit": {
+    "once_daily": "mg",
+    "twice_daily": "mg"
+  }
+}
+```

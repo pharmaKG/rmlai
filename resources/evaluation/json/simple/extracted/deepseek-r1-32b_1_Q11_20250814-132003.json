@@ -1,0 +1,22 @@
+<think>
+Okay, so I need to figure out the dosage of aciclovir for an adult with Herpes simplex keratitis. Hmm, I remember that aciclovir is used for herpes infections, but I'm not exactly sure about the specifics for eye infections.
+
+First, I should think about how aciclovir is administered in this context. Since it's keratitis, which affects the cornea of the eye, the medication would likely be topical. So maybe it's an ophthalmic solution or drops.
+
+I recall that common dosages for eye drops are usually lower than oral medications because they're applied directly to the affected area. But I'm not certain about the exact amount. Let me try to remember if there are standard concentrations for aciclovir eye drops. I think it's often 3% as an ophthalmic solution.
+
+Now, regarding how often it should be administered. For viral infections like herpes, frequent application is important to keep the virus under control. So maybe every two hours? That seems pretty common for such cases to ensure consistent levels of the drug in the eye.
+
+Wait, but I'm not entirely sure if it's 3% or another concentration. Let me think again. Yes, I believe 3% aciclovir ophthalmic solution is a standard treatment for Herpes simplex keratitis. As for the dosage unit, since it's an eye drop, it would be in drops per application.
+
+So putting it together, the dosage amount would be 1 drop each time, applied every two hours. That makes sense because applying it frequently helps manage the infection effectively without needing a higher concentration that could cause more side effects.
+
+I should also consider if there are any other factors, like how many times a day or specific instructions about application. But based on what I know, 1 drop every two hours is the typical recommendation for this condition.
+</think>
+
+```json
+{
+  "dosage amount": "1",
+  "dosage unit": "drop"
+}
+```

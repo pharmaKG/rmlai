@@ -1,0 +1,18 @@
+<think>
+Okay, so I need to figure out the correct dosage of atorvastatin for an adult with hypercholesterolaemia. Let me start by recalling what I know about this medication.
+
+Atorvastatin is a statin used primarily to lower cholesterol levels. It's commonly prescribed for conditions like high LDL (bad cholesterol) and can help reduce the risk of heart disease. The typical starting dose, as far as I remember, is 10 mg or 20 mg once daily. But wait, sometimes doctors might start with a lower dose and then adjust based on how the patient responds.
+
+I think the standard maintenance dose ranges from 10 to 80 mg per day. That seems right because higher doses are used for more severe cases or when the patient hasn't responded adequately to lower doses. Also, it's important that this medication is taken consistently, usually in the evening, because the liver produces cholesterol at night.
+
+I should also consider if there are any factors that might influence the dosage, like other medications the patient is taking or any health conditions they have. For example, if a patient has liver disease, the dose might need to be adjusted. But since the question doesn't specify any additional information, I'll stick with the standard recommendations.
+
+So putting it all together, the usual starting point is 10 mg or 20 mg once daily, and this can be increased as needed up to 80 mg. The dosage unit would be milligrams (mg) taken orally once a day.
+</think>
+
+```json
+{
+  "dosage amount": "10-80 mg",
+  "dosage unit": "once daily"
+}
+```

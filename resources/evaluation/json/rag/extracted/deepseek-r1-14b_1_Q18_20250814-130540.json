@@ -1,0 +1,16 @@
+<think>
+Alright, so I need to figure out the dosage for bilastine for an adult. The user is asking specifically about the amount and unit for symptomatic relief of allergic rhinoconjunctivitis and urticaria.
+
+Looking at the provided JSON data, under the "therapeuticPlan" section, there's a dosage listed for children aged 12–17 years: 20 mg once daily. But I'm supposed to find the adult dosage.
+
+Hmm, since the JSON doesn't provide explicit information about adults, I might need to infer or recall typical dosages for bilastine. From what I know, bilastine is an antihistamine that's often used in adults at a standard dose of 20 mg once daily. It's usually taken orally, either with food or fruit juice to help absorption.
+
+I should check if there are any contraindications or special considerations for adults, but the JSON doesn't mention anything specific. So, it's safe to go with the commonly recommended adult dosage.
+</think>
+
+```json
+{
+    "dosage amount": 20,
+    "dosage unit": "mg"
+}
+```

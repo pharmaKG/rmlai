@@ -1,0 +1,20 @@
+<think>
+Okay, so I need to figure out the dosage of co-trimoxazole for an adult with a leg ulcer infection. Hmm, I remember that co-trimoxazole is often used for infections, but I'm not exactly sure about the specifics here.
+
+First, I should think about what co-trimoxazole is. It's a combination antibiotic, right? Trimethoprim and sulfamethoxazole. They work together to fight bacteria. So, it's commonly prescribed for urinary tract infections, respiratory infections, and skin infections. Leg ulcers can get infected, so this makes sense.
+
+Now, the dosage. I think it varies based on the infection type and severity. For adults, a common dose is 800 mg of co-trimoxazole twice daily. Wait, but sometimes it's once or three times? No, more likely twice because that's standard for many antibiotics to maintain levels.
+
+Wait, let me double-check. I think for skin infections, the usual dose is 800 mg every 12 hours. So that would be two doses a day. The unit here is milligrams (mg). 
+
+I should make sure there are no special considerations for leg ulcers. Leg ulcers can sometimes have more resistant bacteria or deeper infections, but unless it's specified as severe, the standard dose should suffice.
+
+So putting it together: dosage amount is 800 mg, and the unit is milligrams. The JSON structure needs to reflect that without any extra info.
+</think>
+
+```json
+{
+  "dosage amount": 800,
+  "dosage unit": "mg"
+}
+```

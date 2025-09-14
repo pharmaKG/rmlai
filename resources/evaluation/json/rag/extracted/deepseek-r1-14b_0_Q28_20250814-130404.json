@@ -1,0 +1,20 @@
+<think>
+Alright, so I need to figure out the dosage amount and unit for zilucoplan when used for an adult with Myasthenia gravis. Let me start by looking at the provided JSON data.
+
+First, I'll scan through the JSON structure to find where the dosages are mentioned. The key "therapeuticPlan" seems relevant here. Under that, there's an array containing objects related to specific indications.
+
+Looking deeper into the first object in the therapeuticPlan array, I see it has an "indications" field which includes Myasthenia gravis. That's exactly what we're looking for. Now, within this object, there's a "dosages" array with one entry.
+
+In the dosage entry, the key "patientGroup" is set to "adult," which matches our requirement. The "doseInfo" field provides the specific dosage details: "32.4 mg once daily." This tells me that the dosage amount is 32.4 milligrams (mg), and it's administered once each day.
+
+I should also check if there are any other dosages mentioned, but since this is the only entry under therapeuticPlan for Myasthenia gravis in adults, I can be confident that this is the correct information.
+
+So, putting it all together, the dosage amount is 32.4 mg, and the unit is milligrams.
+</think>
+
+```json
+{
+    "dosage amount": "32.4",
+    "dosage unit": "mg"
+}
+```

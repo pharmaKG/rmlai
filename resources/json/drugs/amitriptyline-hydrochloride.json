@@ -1,0 +1,55 @@
+{
+    "identifier": "amitriptyline-hydrochloride",
+    "title": "Amitriptyline Hydrochloride",
+    "breastFeeding": {
+        "generalInfo": [
+            "Excreted in small amounts into breast milk; can be used."
+        ],
+        "id": "1cdfef2e-67b3-46a8-bcb5-7e3ec91e98db",
+        "parentId": "92abdff4-cb03-4103-b14f-0e00648f257b"
+    },
+    "hepaticImpairment": {
+        "specificInfo": "Use with caution in hepatic impairment; metabolised extensively by the liver.",
+        "id": "900926fc-00e0-407b-a447-c779fd96d0e5",
+        "parentId": "92abdff4-cb03-4103-b14f-0e00648f257b"
+    },
+    "pregnancy": {
+        "generalInfo": [
+            "Use only if potential benefits outweigh risks; limited data available on safety during pregnancy."
+        ],
+        "id": "db95a657-9005-4f6e-b9ec-9c3824312d17",
+        "parentId": "92abdff4-cb03-4103-b14f-0e00648f257b"
+    },
+    "renalImpairment": {
+        "generalInfo": [],
+        "id": "57946bfb-952e-4a90-8b19-24fcb5623154",
+        "parentId": "92abdff4-cb03-4103-b14f-0e00648f257b"
+    },
+    "sideEffects": {
+        "generalInfo": [],
+        "specificInfo": "Common: Drowsiness; Frequency not known: Dry mouth, constipation; blurred vision; dizziness; Weight gain; urinary retention; Cardiac arrhythmias; Suicidal behaviour; Increased appetite; Bone marrow suppression; Confusion",
+        "id": "ccbea133-432a-4e31-9282-f139d017e9ee",
+        "parentId": "92abdff4-cb03-4103-b14f-0e00648f257b"
+    },
+    "therapeuticPlan": [
+        {
+            "indications": [
+                "Neuropathic pain"
+            ],
+            "dosages": [
+                {
+                    "patientGroup": "adult",
+                    "detailedPatientGroup": "Adult",
+                    "doseInfo": "25 mg daily",
+                    "routeOfAdministration": "By mouth",
+                    "id": "5ee06876-e6d3-4a4e-9e04-feed8da7992a",
+                    "parentId": "31e915f1-2420-4d33-a0df-849d19964589"
+                }
+            ],
+            "id": "31e915f1-2420-4d33-a0df-849d19964589",
+            "parentId": "92abdff4-cb03-4103-b14f-0e00648f257b"
+        }
+    ],
+    "id": "92abdff4-cb03-4103-b14f-0e00648f257b",
+    "parentId": null
+}

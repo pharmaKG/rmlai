@@ -1,0 +1,22 @@
+<think>
+Okay, so I need to figure out the dosage for cefadroxil when treating skin infections for an adult. Let me start by recalling what I know about this antibiotic.
+
+Cefadroxil is a cephalosporin, right? It's commonly used for infections like endocarditis or skin and eye infections because it has broad spectrum activity. Now, dosages can vary based on the type of infection and the patient's condition, but generally, there are specific guidelines.
+
+I remember that for adults, the typical oral dose is around 250 mg to 625 mg every 8 hours or as directed by a doctor. But I'm not entirely sure about the exact range. Maybe it's between 250 and 1000 mg? Wait, no, 1000 mg seems high for one dose. Let me think again.
+
+I think the usual adult dose is usually 400 to 625 mg every 8 hours or as needed. That sounds more accurate because higher doses might be too much and could cause side effects like stomach issues. So, I should go with that range.
+
+Now, regarding the dosage unit, it's measured in milligrams (mg). So, the unit would be mg. 
+
+Putting it all together, the JSON structure should have "dosage amount" as a number between 400 and 625, and "dosage unit" as "mg". I need to make sure not to include any extra information or explanations just the plain text JSON.
+
+I think that's it. Let me double-check if there are any exceptions or specific conditions where different dosages might be used, but since the question is about a general adult dosage without specifying individual cases, sticking with 400-625 mg every 8 hours should be fine.
+</think>
+
+```json
+{
+  "dosage amount": "400 to 625 mg",
+  "dosage unit": "mg"
+}
+```

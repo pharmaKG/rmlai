@@ -1,0 +1,22 @@
+<think>
+Okay, so I need to figure out the dosage of bilastine for an adult who's looking for symptomatic relief from allergic rhinoconjunctivitis and urticaria. Let me start by carefully reading through the provided JSON data.
+
+Looking at the structure, there's a section called "therapeuticPlan" which contains indications and dosages. The indications listed are "Allergic rhinitis" and "Urticaria", which matches what the user is asking about. 
+
+Now, under "dosages", I see an entry for a child group aged 12–17 years with a dose of 20 mg once daily. But the question is about adults, so this isn't directly applicable. However, sometimes adult dosages might be similar or scaled up from pediatric doses, but without explicit information here, it's tricky.
+
+Wait, maybe I missed something. Let me check again. The "therapeuticPlan" only has one dosage entry for children. There's no separate entry for adults in this JSON. That means the data provided doesn't specify the adult dosage directly. 
+
+Since the question is about an adult, and the provided data doesn't include adult dosages, I might need to infer or look elsewhere. But according to the rules, I should only use the given JSON. So without explicit adult dosage info, it's not possible to provide a structured answer as per the user's request.
+
+Alternatively, perhaps bilastine's adult dosage is standard and commonly known, but since the user wants information based solely on the provided JSON, I can't rely on external knowledge. Therefore, the correct approach is to state that the dosage for adults isn't specified in the given data.
+</think>
+
+The provided JSON does not specify the dosage for adults. The only dosage mentioned is for children aged 12–17 years.
+
+```json
+{
+    "dosage amount": null,
+    "dosage unit": null
+}
+```

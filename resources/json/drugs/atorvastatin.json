@@ -1,0 +1,60 @@
+{
+    "identifier": "atorvastatin",
+    "title": "Atorvastatin",
+    "breastFeeding": {
+        "generalInfo": [
+            "Not recommended during pregnancy due to lack of sufficient data."
+        ],
+        "id": "708c0e14-2d7d-4337-bbc1-9d817004dfb0",
+        "parentId": "5968d3ae-2f4e-4282-8761-45659af50600"
+    },
+    "hepaticImpairment": {
+        "generalInfo": [
+            "Contraindicated in active liver disease or unexplained persistent elevations of serum transaminases."
+        ],
+        "specificInfo": "Avoid use in patients with active hepatic disease or unexplained persistent liver enzyme elevations.",
+        "id": "8eacc1e4-00a3-4b3e-8a53-2e8db85121d0",
+        "parentId": "5968d3ae-2f4e-4282-8761-45659af50600"
+    },
+    "pregnancy": {
+        "generalInfo": [
+            "Contraindicated in pregnancy; may harm the foetus. Discontinue immediately if pregnancy is detected."
+        ],
+        "id": "7a62de41-0e97-413b-bf3d-a079fe20614a",
+        "parentId": "5968d3ae-2f4e-4282-8761-45659af50600"
+    },
+    "renalImpairment": {
+        "generalInfo": [
+            "Dose adjustment may be required in moderate to severe renal impairment."
+        ],
+        "id": "a427cd7b-c1aa-457c-8f70-6d8f98cbf940",
+        "parentId": "5968d3ae-2f4e-4282-8761-45659af50600"
+    },
+    "sideEffects": {
+        "generalInfo": [],
+        "specificInfo": "Common: Headache; nausea; diarrhoea; muscle pain; joint pain; Flatulence; constipation; Sleep disturbances; dizziness. Uncommon: Memory loss; pancreatitis; hepatitis. Rare: Myopathy; hearing loss. Frequency not known: depression; Rhabdomyolysis; Interstitial lung disease",
+        "id": "6221ad94-ab8e-4c89-957c-16c09054f5e5",
+        "parentId": "5968d3ae-2f4e-4282-8761-45659af50600"
+    },
+    "therapeuticPlan": [
+        {
+            "indications": [
+                "Hypercholesterolaemia"
+            ],
+            "dosages": [
+                {
+                    "patientGroup": "adult",
+                    "detailedPatientGroup": "Adult",
+                    "doseInfo": "10 mg once daily, adjusted according to response",
+                    "routeOfAdministration": "By mouth",
+                    "id": "2c463e78-9d5a-4808-a4e0-625becf383d1",
+                    "parentId": "52d4a243-0b54-4e0b-848e-655ff708fd65"
+                }
+            ],
+            "id": "52d4a243-0b54-4e0b-848e-655ff708fd65",
+            "parentId": "5968d3ae-2f4e-4282-8761-45659af50600"
+        }
+    ],
+    "id": "5968d3ae-2f4e-4282-8761-45659af50600",
+    "parentId": null
+}

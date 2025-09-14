@@ -1,0 +1,81 @@
+{
+    "interactions": [
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "aciclovir",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Concurrent use of aciclovir and ciclosporin increases risk of nephrotoxicity due to additive renal burden. Aciclovir may also increase ciclosporin levels by reducing its renal clearance.",
+                    "severity": "Normal",
+                    "id": "3e2d6a74-fe64-4b10-b474-1458be71f0d3",
+                    "parentId": "604bdf65-093d-4105-9c93-6f54b15438b4"
+                }
+            ],
+            "id": "604bdf65-093d-4105-9c93-6f54b15438b4",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "apixaban",
+            "details": [
+                {
+                    "evidence": "Theoretical",
+                    "description": "Ciclosporin can increased plasma concentrations of apixaban and elevate bleeding risk.",
+                    "severity": "Moderate",
+                    "id": "384fdd9a-c567-44f7-ba94-268de2b6a574",
+                    "parentId": "ac9bf322-bd5e-4ff1-832e-661e76eec4e3"
+                }
+            ],
+            "id": "ac9bf322-bd5e-4ff1-832e-661e76eec4e3",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "atorvastatin",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Ciclosporin increases atorvastatin plasma level and raises the risk of myopathy and rhabdomyolysis.",
+                    "severity": "Severe",
+                    "id": "1ca9c776-f570-4d1b-b73a-9854110d4120",
+                    "parentId": "041d1cdf-bcc0-4d6e-af1d-440c0f4731b1"
+                }
+            ],
+            "id": "041d1cdf-bcc0-4d6e-af1d-440c0f4731b1",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "carbamazepine",
+            "details": [
+                {
+                    "evidence": "Study",
+                    "description": "Carbamazepine decreases the efficacy of ciclosporin.",
+                    "severity": "Severe",
+                    "id": "e245553f-680b-4dc2-949e-8507324a1a36",
+                    "parentId": "5e97fddf-772d-4148-879e-f99e0b8b748d"
+                }
+            ],
+            "id": "5e97fddf-772d-4148-879e-f99e0b8b748d",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        },
+        {
+            "interactingDrugId": "ciclosporin",
+            "interactantDrugId": "cefadroxil",
+            "details": [
+                {
+                    "evidence": null,
+                    "description": "Both cefadroxil and ciclosporin can have nephrotoxic effects, especially in patients with impaired renal function. Combined use may increase the risk of kidney damage.",
+                    "severity": "Normal",
+                    "id": "c433e4b2-6fab-4a98-98a2-95b5bf921789",
+                    "parentId": "3ff58c64-11cf-4d44-aec0-f83e168cb945"
+                }
+            ],
+            "id": "3ff58c64-11cf-4d44-aec0-f83e168cb945",
+            "parentId": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a"
+        }
+    ],
+    "id": "e9ace908-1f8d-4dea-9b02-a5f30c420a8a",
+    "parentId": null
+}

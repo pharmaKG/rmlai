@@ -1,0 +1,38 @@
+<think>
+Okay, so I need to figure out the dosage of cefadroxil for an adult with a skin infection based on the provided JSON data. Let me start by looking through the JSON structure.
+
+First, I see that under "therapeuticPlan", there's an entry for "Skin infections" as one of the indications. That's good because it means cefadroxil is used for this condition. Now, within the dosages array, there's a dosage specified for children aged 6–17 years with a body weight of at least 40 kg. The dose given is 0.5g every 12 hours, taken by mouth.
+
+But wait, the question is about an adult, not a child. I don't see any dosage information specifically for adults in this JSON. That's a bit confusing because usually, dosages vary between children and adults. Since there's no explicit adult dosage provided here, maybe I need to infer it based on standard practices or perhaps assume that the same dosage applies if no other information is given.
+
+However, without specific data, it's risky to just assume. Maybe in some cases, the same dosage is used for adults as well, especially if they're within a similar weight range. But typically, adult dosages are higher than those for children. For example, cefadroxil for adults might be 1g every 12 hours or something like that.
+
+But since the JSON only provides information for children in this context, I can't be certain about the adult dosage. The user is asking specifically for an adult, so perhaps there's a default assumption here that the same dosage applies unless stated otherwise. Alternatively, maybe the absence of adult-specific data means it's not recommended or requires further consultation.
+
+Wait, looking again at the JSON, under "renalImpairment", it mentions dose adjustment required in renal impairment, but nothing about standard adult dosages. So I think the best approach is to state that there's no specific dosage provided for adults in this data set. However, since the user is asking for an answer based on the given JSON, and the only available dosage is for children, perhaps we should note that or maybe provide a default if possible.
+
+But according to the rules, I need to extract from the provided JSON. Since there's no adult dosage listed under "Skin infections", I might have to conclude that the information isn't available here. Alternatively, perhaps the child dosage can be used as a starting point for adults, but that's not ideal without explicit data.
+
+Wait, maybe I missed something. Let me check again. Under "therapeuticPlan", the only dosages listed are for children. There's no entry under adult groups. So, based on this JSON alone, there's no specific dosage provided for adults with skin infections. Therefore, the answer should reflect that the information isn't available in the given data.
+
+But the user is asking specifically for an adult, so perhaps I need to state that the dosage amount and unit aren't specified here. Alternatively, maybe the same child dosage applies if the adult's weight is similar, but without explicit instructions, it's safer not to assume.
+
+Hmm, this is a bit tricky. The JSON doesn't provide adult dosages for skin infections, so perhaps the answer should indicate that no specific information is available. But the user expects a structured JSON with dosage amount and unit. Maybe I can set them as null or state "Not specified" if allowed.
+
+Wait, looking back at the rules: the user wants the answer in plain text JSON format with only "dosage amount" and "dosage unit". No additional info. So perhaps I should just provide what's available, even if it's for children, but that might not be accurate for adults.
+
+Alternatively, maybe there's another part of the JSON where adult dosages are mentioned elsewhere, but looking through it again, I don't see any other dosage information except under "child". Therefore, based on this data, I can't provide an adult dosage. But since the user is asking specifically, perhaps I should note that no adult dosage is provided.
+
+Wait, maybe I'm overcomplicating. The JSON only provides a child dosage for skin infections, so if there's nothing else, perhaps the answer is that the dosage isn't specified here. However, the user expects a structured response with those keys, so maybe setting them to null or indicating "Not available".
+
+But according to the rules, I shouldn't include any additional info, just the keys and their values. So perhaps in this case, since there's no adult dosage provided, the answer would be that the dosage amount is not specified and unit as well.
+
+Alternatively, maybe the same child dosage applies if the adult is within a certain weight range, but without explicit data, it's better to state that it's unspecified.
+</think>
+
+```json
+{
+    "dosage amount": "Not specified",
+    "dosage unit": "Not specified"
+}
+```

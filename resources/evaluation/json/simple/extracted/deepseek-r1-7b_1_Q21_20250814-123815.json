@@ -1,0 +1,18 @@
+<think>
+Okay, so I need to figure out the dosage for ciclosporin when treating severe psoriasis in adults. Hmm, I remember that ciclosporin is a immunosuppressive drug used for various autoimmune conditions, including psoriasis.
+
+First, I should recall how dosages are typically structured. Usually, it's based on body weight and sometimes adjusted by the patient's condition or response to treatment. For ciclosporin, I think the base dose might be around 20-30 mg per kilogram of body weight. But wait, is that correct? Or maybe it's a different range.
+
+I also remember that the dosage can vary depending on whether the patient has other conditions like diabetes or renal impairment. Since the question specifies an adult without mentioning specific comorbidities, I'll assume standard dosing based on body weight alone.
+
+So, if the base dose is 20-30 mg/kg, then for a typical adult's body weight, say 70 kg, that would be between 1400 mg and 2100 mg per day. But wait, I think sometimes it might be given in divided doses to manage side effects or absorption better. Maybe it's split into two doses of around 800-1050 mg each.
+
+Also, the dosage unit would be milligrams (mg), so I should include that as well. So putting it all together, the structured JSON would have "dosage amount" with a range and "dosage unit" as mg.
+</think>
+
+```json
+{
+  "dosage_amount": "20-30 mg/kg",
+  "dosage_unit": "mg"
+}
+```

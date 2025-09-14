@@ -1,0 +1,51 @@
+{
+    "identifier": "betaxolol",
+    "title": "Betaxolol",
+    "breastFeeding": {
+        "generalInfo": [],
+        "id": "08bb83ff-0525-45d1-9941-29534504882f",
+        "parentId": "0275378a-006b-481c-884d-bf00e78a6399"
+    },
+    "hepaticImpairment": {
+        "generalInfo": [],
+        "id": "b949fdc4-b67e-4b81-97a6-84a41e826c2a",
+        "parentId": "0275378a-006b-481c-884d-bf00e78a6399"
+    },
+    "pregnancy": {
+        "generalInfo": [],
+        "id": "a32b245e-8144-48bd-ac10-492c3883abf9",
+        "parentId": "0275378a-006b-481c-884d-bf00e78a6399"
+    },
+    "renalImpairment": {
+        "generalInfo": [],
+        "id": "ba5a9a7c-d3a9-4a66-8d2a-966b4284a18f",
+        "parentId": "0275378a-006b-481c-884d-bf00e78a6399"
+    },
+    "sideEffects": {
+        "generalInfo": [],
+        "specificInfo": "Common: ocular discomfort; blurred vision. Uncommon: nausea; bradycardia(slow heartbeat) ; punctate keratitis; keratitis; conjunctivitis; blepharitis; visual impairment; photophobia; dry eye; eye pain; eye strain (asthenopia); eye pruritus; eye discharge; eyelid inflammation; ocular hyperaemia. Rare: cataract; decreased corneal sensitivity; eyelid erythema; insomnia. Frequency Not Known: Hypersensitivity reactions (e.g. rash, urticaria, pruritus, anaphylaxis, angioedema); arrhythmia; asthenia; dizziness (as post-marketing report); Raynaud’s phenomenon; vomiting; diarrhoea; palpitations; Chest pain; dizziness.",
+        "id": "d7296a58-3198-473a-84ec-6c1ea5457fb2",
+        "parentId": "0275378a-006b-481c-884d-bf00e78a6399"
+    },
+    "therapeuticPlan": [
+        {
+            "indications": [
+                "Ocular hypertension"
+            ],
+            "dosages": [
+                {
+                    "patientGroup": "adult",
+                    "detailedPatientGroup": "Adult",
+                    "doseInfo": "1 drop of 0.5% solution in the affected eye(s) twice daily",
+                    "routeOfAdministration": "To eye",
+                    "id": "3ec6dc11-c57a-4449-ae33-c0e10f9e810f",
+                    "parentId": "9c6137c9-71ab-4c47-8d4b-80efd4eb4486"
+                }
+            ],
+            "id": "9c6137c9-71ab-4c47-8d4b-80efd4eb4486",
+            "parentId": "0275378a-006b-481c-884d-bf00e78a6399"
+        }
+    ],
+    "id": "0275378a-006b-481c-884d-bf00e78a6399",
+    "parentId": null
+}

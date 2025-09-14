@@ -1,0 +1,22 @@
+<think>
+Okay, so I need to figure out the dosage information for Bilastine regarding allergic rhinoconjunctivitis and urticaria. Let me start by looking at the provided JSON input.
+
+First, I see that the drug is called "Bilastine" with an identifier of "bilastine". The title is just "Bilastine", so that's straightforward.
+
+Looking under "pregnancy", there's a note saying limited data and it should be avoided. That doesn't directly help me with dosages, but it's good to know.
+
+Next, the "sideEffects" section mentions urticaria as an uncommon effect, which is relevant since the user is asking about urticaria.
+
+The main part I need to focus on is under "therapeuticPlan". There's a list of indications where "Urticaria" is included. The dosage information provided there specifies that for children aged 12-17 years, the dose is 20 mg once daily, taken after food or fruit juice.
+
+Since the question is about an adult, I need to determine if this dosage applies to adults as well. The therapeutic plan only provides dosages for a child's group, so it might not directly apply to adults. However, in many cases, adult dosages are similar unless specified otherwise.
+
+I should also consider whether Bilastine typically has different dosages for adults versus children. Without explicit information, I'll assume that the dosage provided is suitable for adults as well, but with a note of caution if they have specific conditions or concerns.
+</think>
+
+```json
+{
+    "dosage amount": "20 mg",
+    "dosage unit": "once daily"
+}
+```

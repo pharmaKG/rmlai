@@ -1,0 +1,24 @@
+<think>
+Okay, so I need to figure out the correct dosage of amlodipine for an adult with hypertension. I'm not very familiar with medications, but I'll try to break it down.
+
+First, I know that amlodipine is a type of calcium channel blocker used to treat high blood pressure and sometimes heart conditions. It's important because managing hypertension can prevent serious health issues like heart disease or stroke.
+
+I remember hearing that dosages can vary based on the patient's condition and how they respond to the medication. So, it's probably not a one-size-fits-all situation. I think the typical starting dose is around 5 mg once daily. But I'm not entirely sure if that's correct for all adults or if it varies.
+
+I should consider whether this dosage can be adjusted. Maybe if someone doesn't tolerate the initial dose well, the doctor might reduce it. Also, sometimes the dose might need to be increased if the blood pressure isn't controlled on the lower dose. I think maximum doses are usually set to avoid side effects, so perhaps up to 10 mg per day.
+
+I also wonder about the timing—should it be taken with food or on an empty stomach? I recall that some medications are better taken with food to reduce stomach upset, but amlodipine might be different. Maybe it doesn't matter, but I'm not certain.
+
+Another thing is whether this dosage applies to all adults regardless of other health conditions. For example, someone with liver disease or kidney issues might need a lower dose. But since the question specifies an adult without any additional details, I'll stick to the standard recommendations.
+
+I should also think about how often the medication is taken. Is it once daily? That seems likely because most blood pressure medications are designed for sustained release over 24 hours.
+
+Putting this all together, the typical starting dose is probably 5 mg once daily, which can be adjusted based on effectiveness and tolerance, up to a maximum of 10 mg per day. The unit would be milligrams (mg) since that's how the medication is usually measured.
+</think>
+
+```json
+{
+  "dosage amount": "5 mg to 10 mg",
+  "dosage unit": "milligrams (mg)"
+}
+```

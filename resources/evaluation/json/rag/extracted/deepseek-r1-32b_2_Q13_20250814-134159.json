@@ -1,0 +1,22 @@
+<think>
+Okay, so I need to figure out the dosage of amitriptyline hydrochloride for an adult with neuropathic pain based on the provided JSON input. Let me start by looking through the JSON structure.
+
+First, I see that the main identifier is "amitriptyline-hydrochloride" and the title confirms it's Amitriptyline Hydrochloride. The user is asking specifically about the dosage for an adult with neuropathic pain.
+
+Looking at the structure, there's a section called "therapeuticPlan". Inside that, there are indications listed as ["Neuropathic pain"]. Under each indication, there are dosages specified. Each dosage has details like patient group, dose info, route of administration, etc.
+
+I need to find the entry where the indication is neuropathic pain and the patient group is adult. Scanning through, I see that under "therapeuticPlan", the first item has indications as ["Neuropathic pain"]. Then, within dosages, there's an entry with "patientGroup": "adult" and "doseInfo": "25 mg daily".
+
+So, the dosage amount is 25 mg and the unit is mg. The route is by mouth, but since the user only asked for amount and unit, I don't need to include that.
+
+I should make sure there are no other dosages listed for adults with neuropathic pain in case there's a range or alternative doses. But from what I see, it's just 25 mg daily specified here.
+
+Therefore, the answer should be structured as a JSON object with "dosage amount" and "dosage unit" keys.
+</think>
+
+```json
+{
+    "dosage amount": "25",
+    "dosage unit": "mg"
+}
+```

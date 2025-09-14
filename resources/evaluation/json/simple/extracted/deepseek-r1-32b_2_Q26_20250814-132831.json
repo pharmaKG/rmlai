@@ -1,0 +1,22 @@
+<think>
+Okay, so I need to figure out the correct dosage of paracetamol for an adult with a fever. Let me start by recalling what I know about paracetamol. It's commonly used as a pain reliever and to reduce fever. The usual recommended dose is something like 500 mg every 4-6 hours, but I'm not entirely sure.
+
+Wait, maybe it's 1 gram? No, that seems high for an adult. Let me think again. I remember reading somewhere that the standard dose is 500 mg to 1000 mg every 4-6 hours as needed. But what's the maximum daily dose? Oh right, it shouldn't exceed 4 grams in a day because of potential liver damage.
+
+So for an adult with fever, the typical dosage would be 500 mg taken every 4-6 hours. That means up to four doses in 24 hours. I should make sure not to go over that limit. Also, it's important to take it with food or water to avoid stomach issues.
+
+Wait, does the form of paracetamol matter? Like, if it's liquid versus tablet? Probably not, as long as the dosage is accurate. But sometimes liquid forms have different concentrations, so one should check the label. However, since the question is about adults, I think tablets are more common.
+
+I also need to consider any contraindications or interactions. For example, people with liver disease should be cautious and maybe take a lower dose. But that's beyond the scope of this question which just asks for the dosage amount and unit.
+
+So putting it all together, the standard adult dose is 500 mg every 4-6 hours as needed for fever or pain. The maximum daily dose shouldn't exceed 4 grams. Therefore, in JSON format, I should provide "dosage amount" as 500 mg and "dosage unit" as milligrams (mg). But wait, sometimes it's written as 1 gram, which is 1000 mg. Hmm, maybe the standard single dose is 500-1000 mg every 4-6 hours.
+
+I think I should stick with the commonly recommended starting point of 500 mg per dose. So the JSON would have "dosage amount": "500" and "dosage unit": "mg". That seems accurate based on what I know.
+</think>
+
+```json
+{
+  "dosage amount": "500",
+  "dosage unit": "mg"
+}
+```

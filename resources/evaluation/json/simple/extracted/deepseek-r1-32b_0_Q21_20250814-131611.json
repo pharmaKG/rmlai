@@ -1,0 +1,30 @@
+<think>
+Okay, so I need to figure out the dosage of ciclosporin for an adult with severe psoriasis. I'm a bit new to this, but I'll try my best.
+
+First, I remember that ciclosporin is used for treating conditions like psoriasis and rheumatoid arthritis when other treatments don't work. It's an immunosuppressive drug, so the dosage must be precise to avoid side effects.
+
+I think the typical starting dose is around 2.5 mg per kilogram of body weight. But I'm not entirely sure if it's higher or lower. Maybe it starts at a lower amount and then increases? Or perhaps it's adjusted based on how the patient responds.
+
+Wait, I recall that sometimes doctors start with a lower dose to minimize side effects and then gradually increase it. So maybe 2.5 mg/kg is the starting point, but they might go up to 3-4 mg/kg if needed. But for severe psoriasis, perhaps the initial dose is higher?
+
+I should also consider how often it's taken. Is it once daily or split into two doses? I think it's usually taken twice a day because of its half-life. So maybe the total daily dose is calculated and then divided into two parts.
+
+Another thing to remember is that the dosage can vary based on factors like weight, kidney function, and other medications the patient might be taking. But since the question is about an adult with severe psoriasis, I'll focus on the standard starting dose for that condition.
+
+I think the initial dose is around 2.5 mg/kg per day, which is split into two doses. So if someone weighs 70 kg, their daily dose would be 175 mg (2.5 x 70), taken as 87.5 mg twice a day. But I'm not sure if it's always split or sometimes given once a day.
+
+Wait, maybe the starting dose is lower to assess tolerance before increasing. So perhaps 2.5 mg/kg is correct, but some sources might suggest up to 4 mg/kg for more severe cases. However, since this is about severe psoriasis, maybe they start higher?
+
+I'm also thinking about the maximum dosage. I believe it's usually not recommended to exceed 5 mg/kg per day because of increased risk of side effects like kidney issues or high blood pressure.
+
+So putting it all together, for an adult with severe psoriasis, the starting dose is typically 2.5 mg/kg per day, which can be adjusted based on response and tolerance. The dosage unit would be milligrams per kilogram (mg/kg) since it's weight-based.
+
+I should make sure I'm not including any extra information beyond what's asked. Just the dosage amount and unit in a JSON format without markdown.
+</think>
+
+```json
+{
+  "dosage amount": "2.5 mg/kg",
+  "dosage unit": "milligrams per kilogram"
+}
+```

@@ -1,0 +1,26 @@
+<think>
+Okay, so I need to figure out the dosage of paracetamol for an adult with fever based on the provided JSON data. Let me start by looking through the JSON structure.
+
+First, I see that the main identifier is "paracetamol" and the title is "Paracetamol". That's good; it confirms we're dealing with the right medication.
+
+Next, there are several sections like breastFeeding, hepaticImpairment, pregnancy, renalImpairment, sideEffects, and therapeuticPlan. The part I'm interested in is the therapeuticPlan because that should contain information about dosages for different conditions.
+
+Looking into therapeuticPlan, it's an array with one object. This object has indications which include "Fever" among others like Pain relief, Headache, etc. So this is definitely relevant.
+
+Within the same object, there's a dosages array. The first element in this array has patientGroup as "adult", which matches what we're looking for. The detailedPatientGroup is also "Adult", so that's consistent.
+
+The doseInfo says "up to 1 g every 6 hours". That seems like the key information. So, the dosage amount is 1 gram, and the unit is grams (g). 
+
+I should make sure there are no other dosages listed for adults in this section. Scanning through, it looks like this is the only entry under adult in the therapeuticPlan.
+
+Also, I need to ensure that there's nothing else in the JSON that might affect the dosage, such as hepatic or renal impairment. But since the question is about an adult without specifying any impairments, I think the standard dosage applies here.
+
+So putting it all together, for an adult with fever, the recommended paracetamol dosage is 1 gram every 6 hours.
+</think>
+
+```json
+{
+    "dosage amount": "1 g",
+    "dosage unit": "gram"
+}
+```

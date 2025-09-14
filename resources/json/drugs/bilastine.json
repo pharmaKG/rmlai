@@ -1,0 +1,56 @@
+{
+    "identifier": "bilastine",
+    "title": "Bilastine",
+    "breastFeeding": {
+        "generalInfo": [
+            "Limited data available. Bilastine is excreted in breast milk in animals; better to avoid."
+        ],
+        "id": "dc81a32a-2664-4f0d-b24d-85ece062cf0a",
+        "parentId": "331e4969-3834-4a99-b7bd-7f17d5c2591f"
+    },
+    "hepaticImpairment": {
+        "generalInfo": [],
+        "id": "c0b63124-6cee-43a1-a168-04beae1780e9",
+        "parentId": "331e4969-3834-4a99-b7bd-7f17d5c2591f"
+    },
+    "pregnancy": {
+        "generalInfo": [
+            "Limited data in pregnancy; should be avoided."
+        ],
+        "id": "6a3fe1a9-fbee-42eb-b26f-14e67f67ddc5",
+        "parentId": "331e4969-3834-4a99-b7bd-7f17d5c2591f"
+    },
+    "renalImpairment": {
+        "generalInfo": [],
+        "id": "ebd73cc2-3e1e-45bd-b44b-ea96a6773c68",
+        "parentId": "331e4969-3834-4a99-b7bd-7f17d5c2591f"
+    },
+    "sideEffects": {
+        "generalInfo": [],
+        "specificInfo": "Common: headache; drowsiness; fatigue; allergic conjunctivitis; rhinitis. Uncommon: dizziness; abdominal pain; nausea; diarrhea; lip swelling; eczema; urticaria; fatigue; ECG changes; appetite increase; weight gain; anxiety; insomnia; dry mouth; pruritus (itching); acneiform eruption; dyspnoea; urticaria. Frequency Not Known: hypersensitivity reactions; palpitations.",
+        "id": "25d697e7-df8c-45aa-aa9f-4d7450256c2d",
+        "parentId": "331e4969-3834-4a99-b7bd-7f17d5c2591f"
+    },
+    "therapeuticPlan": [
+        {
+            "indications": [
+                "Allergic rhinitis",
+                "Urticaria"
+            ],
+            "dosages": [
+                {
+                    "patientGroup": "child",
+                    "detailedPatientGroup": "Child (12–17 years)",
+                    "doseInfo": "20 mg once daily, taken after food or fruit juice",
+                    "routeOfAdministration": "By mouth",
+                    "id": "3c89a84d-43c1-410f-88ab-cfadfdb95a8b",
+                    "parentId": "1238064a-246c-40a0-ba02-4d71e48a04f4"
+                }
+            ],
+            "id": "1238064a-246c-40a0-ba02-4d71e48a04f4",
+            "parentId": "331e4969-3834-4a99-b7bd-7f17d5c2591f"
+        }
+    ],
+    "id": "331e4969-3834-4a99-b7bd-7f17d5c2591f",
+    "parentId": null
+}

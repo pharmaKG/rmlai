@@ -1,0 +1,22 @@
+<think>
+Okay, so I need to figure out the dosage for amlodipine for hypertension in adults. Hmm, where do I start? I remember that amlodipine is an ACE inhibitor, right? It's used to treat high blood pressure and heart failure.
+
+I think the starting dose might be lower because it's a calcium channel blocker as well. Wait, no, actually, amlodipine is mainly an ACE inhibitor but also has some effects on the heart. So for hypertension, the initial dose should be something like 5 mg or maybe 10 mg once daily.
+
+But I'm not entirely sure about that. Maybe it's higher? Let me think... Oh right, sometimes people start with a lower dose and then increase it if needed. So perhaps 5 mg is standard starting point. But wait, some sources say 10 mg might be the initial dose for adults. Hmm.
+
+I should also consider the dosage unit. It would probably be in milligrams per day (mg/d). So either 5 or 10 mg once daily. I think it's more common to start with 5 mg and adjust based on response, so maybe that's the answer.
+
+Wait, but some guidelines might recommend a higher starting dose for better efficacy. Maybe 10 mg is also acceptable? Or perhaps 20 mg? No, that seems too high. I'm getting confused now.
+
+Let me try to recall any specific information. I think the initial dose for adults is typically 5 mg once daily and then up to 40 mg if needed. So maybe the dosage amount is 10 mg once daily as a standard starting point? Or perhaps it's 5 mg, which can be increased.
+
+I'm not entirely certain, but based on what I remember, the initial dose for adults is often around 5-10 mg per day, taken once or twice. So maybe the answer should reflect that with 10 mg as a common dosage unit.
+</think>
+
+```json
+{
+  "dosage_amount": 10,
+  "dosage_unit": "mg/d"
+}
+```

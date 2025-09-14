@@ -1,0 +1,24 @@
+<think>
+Alright, so I need to figure out the dosage of pregabalin for an adult with Generalised Anxiety Disorder based on the provided JSON. Let me start by understanding what's given.
+
+Looking at the JSON structure, there's a key called "therapeuticPlan" which contains an array. Each element in this array represents different treatment plans. I'll focus on the first one since it's the only one listed here.
+
+Within that therapeutic plan, there's an "indications" array which lists conditions treated by pregabalin. One of them is "Generalised anxiety disorder," so that's exactly what we're looking for.
+
+Next, under "dosages," there are specific dosing details. Each dosage entry has a "patientGroup" field. I'm interested in the one where "patientGroup" is "adult." 
+
+The "doseInfo" field here says "up to 600 mg daily in 3 divided doses." So, this means the total daily dose for an adult can go up to 600 mg, split into three parts throughout the day.
+
+I need to extract just the numerical dosage amount and its unit. From the doseInfo, it's clear that the maximum is 600 mg per day. Since the question asks for the dosage amount without specifying whether it's total or per dose, but given the context of divided doses, I think providing the total daily amount makes sense.
+
+So, putting this together, the dosage amount is 600 mg and the unit is milligrams (mg). 
+
+I should make sure not to include any extra information, just the required keys as specified in the JSON structure. That means my final answer will be a plain text JSON with "dosage amount" and "dosage unit."
+</think>
+
+```json
+{
+    "dosage amount": 600,
+    "dosage unit": "mg"
+}
+```
